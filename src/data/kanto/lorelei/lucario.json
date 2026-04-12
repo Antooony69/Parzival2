@@ -6,13 +6,13 @@
   "tricks": [
     {
       "detail": "Vidaesfera → Cambia a Chansey, sale Lapras. Usa trampa rocas → Sale Lucario → Cambia a Slowbro, Bostezo",
-      "variant" [
+      "variant": [
         {
-        "detail": "Si se queda → Teletransporte a Volcarona, +1. Derrotalo, sale Dragonite, usa 1 X SpAtk. Derrotalos (Mantener HP +35%).",
-        "variant": []
+          "detail": "Si se queda → Teletransporte a Volcarona, +1. Derrotalo, sale Dragonite, usa 1 X SpAtk. Derrotalos (Mantener HP +35%).",
+          "variant": []
         },
         {
-          "detail": "Sale Lapras → Volcarona, +2. (Mantener HP +46%) ",
+          "detail": "Sale Lapras → Volcarona, +2. (Mantener HP +46%)",
           "variant": []
         }
       ]

@@ -5,14 +5,14 @@
   "initialMove": "💡Cambia a Gengar otra vez💡",
   "tricks": [
     {
-      "detail": "A bocajarro + Llamasfera --> Gengar Otra vez  +4 y bola sombra🔔ver a quién🔔:",
+      "detail": "A bocajarro + Llamasfera ➜ Gengar Otra vez +4 y bola sombra🔔ver a quién🔔:",
       "variant": [
         {
-          "detail": "Skarmory --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Haxorus; Gengar +4 🔔Bola Sombra a todo🔔",
+          "detail": "Skarmory ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Haxorus; Gengar +4 🔔Bola Sombra a todo🔔",
           "variant": []
         },
         {
-          "detail": "Sawk --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Krookodile; Gengar +4 +2 🔔Bola Sombra a todo🔔",
+          "detail": "Sawk ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Krookodile; Gengar +4 +2 🔔Bola Sombra a todo🔔",
           "variant": []
         }
       ]
@@ -22,44 +22,81 @@
       "variant": []
     },
     {
-      "detail": "Puño Drenaje + Llamasfera --> Cambiar a Chansey y luego a Seismitoad; usar Encanto",
+      "detail": "Puño Drenaje + Llamasfera ➜ Cambiar a Chansey y luego a Seismitoad; usar Encanto",
       "variant": []
     },
     {
-      "detail": "Puño Drenaje + Sin Llamasfera --> Bola Sombra y revisar Restos",
+      "detail": " Conkeldurr ➜ Usar Encanto otra vez hasta que salga Aggron poner Trampas ",
       "variant": [
         {
-          "detail": "Tiene Restos --> Gengar Otra vez +6",
+          "detail": "Conkeldurr ➜ Gengar usa otra vez y cambia a Volcarona frente a Seismitoad Volcarona danza eleteo + Especial X",
           "variant": []
         },
         {
-          "detail": "Sin Restos --> Maquinación, Otra Vez, cambiar a Slowbro y revisar Vidasfera",
+          "detail": "Dusknoir ➜ Sacrifica a Politoed ➜ entrar con Poliwrath +6 ",
           "variant": [
             {
-              "detail": "Tiene Vidasfera --> Usar Bostezo",
+              "detail": " Aggron ➜ Poner Trampas hasta que salga Conkeldurr ➜ Gengar Otra vez y cambia a Volcarona frente a Seismitoad ➜ Volcarona danza eleteo + Especial X ",
               "variant": []
             },
             {
-              "detail": "Sin Vidasfera --> Usar Bostezo",
+              "detail": "Puño Drenaje + Sin Llamasfera ➜ Bola Sombra 🔔observar si tiene Restos🔔",
               "variant": [
                 {
-                  "detail": "Magnezone --> Cambiar a Chansey y usar Encanto ante Breloom; Gengar +4 y precisión",
+                  "detail": "Si tiene Restos ➜ Gengar otra vez +6 ",
                   "variant": []
                 },
                 {
-                  "detail": "Huir a Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+                  "detail": " Sin Restos ➜ Maquinación, Otra Vez ➜ cambiar a Slowbro 🔔observar si tiene Vidasfera 🔔 ",
                   "variant": []
                 },
                 {
-                  "detail": "Breloom --> Protección y Bostezo al enfrentar a Magnezone; cambiar a Chansey y usar Amortiguador esperando a Conkeldurr; Gengar +4 y precisión",
+                  "detail": " Tiene Vidasfera ➜ Bostezo ",
                   "variant": []
                 },
                 {
-                  "detail": "Huir a Gyarados --> Ver Intimidación",
+                  "detail": "Se queda/ Rotom w ➜ Sacrificar a Politoed, entrar con Poliwrath +6 ",
                   "variant": []
                 },
                 {
-                  "detail": "Huir a Machamp --> Cambiar a Slowbro y usar Bostezo al enfrentar a Emolga; sacrificar a Politoed y entrar con Poliwrath +6",
+                  "detail": "Magnezone ➜ Protección y Bostezo, sacrifica a Politoed ➜ entrar con Poliwrath +6.",
+                  "variant": []
+                },
+                {
+                  "detail": "Crawdaunt ➜ Sacrificar a Politoed, entrar con Poliwrath +6.",
+                  "variant": []
+                },
+                {
+                  "detail": "Sin Vidasfera ➜ Bostezo.",
+                  "variant": []
+                },
+                {
+                  "detail": "Magnezone ➜ Cambiar a Chansey y usar Encanto ➜ si sale Breloom cambia a Gengar +4 Precisión x",
+                  "variant": []
+                },
+                {
+                  "detail": "Si sale Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo, sacrificar a Politoed ➜ entra con Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Breloom ➜ Protección y Bostezo frente a Magnezone, cambiar a Chansey y usar Amortiguador esperando a Conkeldurr ➜ Gengar +4 en Precisión",
+                  "variant": []
+                },
+                {
+                  "detail": "Si sale Gyarados --> Verificar Intimidación",
+                  "variant": [
+                    {
+                      "detail": "Con Intimidación ➜ Cambiar a Chansey y poner Trampas frente a Breloom ➜ Gengar +4 Precisión X",
+                      "variant": []
+                    },
+                    {
+                      "detail": "Sin Intimidación ➜ Cambiar a Chansey y usar Amortiguador frente a Breloom ➜ Slowbro usa Bostezo, sacrificar a Politoed ➜ entrar con Poliwrath +6",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "Si sale Machamp ➜ Cambiar a Slowbro y usar Bostezo frente a Rotom-W ➜ sacrificar a Politoed ➜ entrar con Poliwrath +6",
                   "variant": []
                 }
               ]
@@ -69,4 +106,4 @@
       ]
     }
   ]
-}
+}                  

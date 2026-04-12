@@ -2,9 +2,24 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Gengar, Otra Vez → Cambia a Slowbro (Mira el item)",
   "tricks": [
-    {"detail": "Si cambia a Nidoking utiliza Truco con Chandelure para encerrar en movimiento tipo tierra, cambia a Cloyster +6 (Utiliza Carámbano contra Lucario) (Hay una pequeña posibilidad de que no mates a Lapras)", "variant": []},
-    {"detail": "Si se queda en Lucario, utiliza Truco para que encierres en Triturar / Roca Afilada, cambia a Scrafty +3 (Si Chandelure muere, utiliza 1 Danza Dragón extra)", "variant": []}
+    {
+      "detail": "Vidaesfera → Cambia a Chansey, sale Lapras. Usa trampa rocas → Sale Lucario → Cambia a Slowbro, Bostezo",
+      "variant" [
+        {
+        "detail": "Si se queda → Teletransporte a Volcarona, +1. Derrotalo, sale Dragonite, usa 1 X SpAtk. Derrotalos (Mantener HP +35%).",
+        "variant": []
+        },
+        {
+          "detail": "Sale Lapras → Volcarona, +2. (Mantener HP +46%) ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Vidaesfera → Cambia a Chansey, trampa rocas. Luego cambia a Slowbro, Bostezo. Sale lapras → Politoed (sacrificar), Poliwrah +6",
+      "variant": []
+    }
   ]
 }

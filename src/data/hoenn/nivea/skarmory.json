@@ -5,27 +5,27 @@
   "initialMove": "🪨 Trampa Rocas 🪨 si no cambia usa Amortiguador",
   "tricks": [
     {
-      "detail": "Mienshao --> Cambiar a Gengar y atacar hasta debilitar",
+      "detail": "Mienshao ➜ Cambiar a Gengar y atacar hasta debilitar",
       "variant": []
     },
     {
-      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6🔔Cascada a Skarmory🔔",
+      "detail": "Skarmory ➜ Cambiar a Slowbro usar Bostezo hasta que entre Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊🔔Cascada a Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+      "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Cascada a Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Hariyama --> Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔Puño Hielo a Froslass🔔",
+      "detail": "Hariyama ➜ Slowbro , Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Puño Hielo a Froslass🔔",
       "variant": []
     },
     {
-      "detail": "Gallade/Roserade --> Gengar +2 + Precisión (No usar Otra Vez); 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
+      "detail": "Gallade ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Froslass --> Gengar +2 + Precisión; 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
+      "detail": "Beartic ➜ Gengar Otra Vez +2 + Precisión X 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
       "variant": []
     }
   ]

@@ -5,11 +5,24 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "(Terremoto) → Cloyster con +4 + Defensa X. / Cloyster mata a Lucario con Carámbano.",
+      "detail": "Terremoto → Cambia a Slowbro y usa Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda → Quedate y sigue lanzando Bostezo, esperar que cambie",
+          "variant": []
+        },
+        {  
+          "detail": "Dragonite → Sacrifica a Politoed, entra a Poliwrath +6",
+          "variant": []
+        } 
+      ]  
+    },
+    {   
+      "detail": "Metagross → Cambia a Volcarona frente a Aerodactyl, sacrifica a Politoed, 💊entra Poliwrath + Ataque X💊 🔔(Puño drenaje contra Aerodactyl y Cascada contra Steelix)🔔",
       "variant": []
     },
     {
-      "detail": "(Colmillo Ígneo) → poner Trampa Rocas, cambiar a Chandelure y usar Truco, bloquear a Lapras, Poliwrath entra con 6 + 2.. /// Si el rival no cambia, usar Truco varias veces hasta que caiga, luego Chandelure con 2 + 2. / Luego barrer con Lanzallamas.",
+      "detail": "Arcanine → Cambia a Slowbro y usa Bostezo frente a Ampharos, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Steelix/Ampharos)🔔",
       "variant": []
     }
   ]

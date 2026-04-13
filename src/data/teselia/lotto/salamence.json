@@ -5,49 +5,39 @@
   "initialMove": "🔔Ver habilidad🔔",
   "tricks": [
     {
-      "detail": "Intimidación --> Usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Gengar +4 🔔Bola Sombra a todo🔔",
+      "detail": "Intimidación --> Usar Trampa Rocas al enfrentar a Conkeldurr; Gengar +4 🔔Bola Sombra a todo🔔",
       "variant": []
     },
     {
-      "detail": "Sin Intimidación --> Usar 🪨Trampa Rocas🪨",
+      "detail": "Sin Intimidación --> Usar Trampa Rocas",
       "variant": [
         {
           "detail": "Colmillo Ígneo --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Machamp --> Gengar +2",
+          "detail": "Machamp --> Cambiar a Gengar luego a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Quedarse --> Gengar +4 +2 🔔Bola Sombra a todo🔔",
+          "detail": "Conkeldurr --> Cambia a Gengar y usa Otra Vez, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 ",
           "variant": []
         },
         {
-          "detail": "Salamence/ Metagross --> Cambiar a Slowbro y usar Bostezo al enfrentar a Electivire; sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Conkeldurr --> Cambiar a Chansey y luego a Slowbro; usar Bostezo al enfrentar a Emolga; sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Conkeldurr --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Medicham --> Slowbro usa Bostezo",
-          "variant": []
-        },
-        {
-          "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
+          "detail": "Medicham --> Cambia a Slowbro y usa Bostezo",
+          "variant": [
+            {
+              "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+              "variant": []
+           }
+          ]
         }
       ]
     }
   ]
-}
+}  
+    

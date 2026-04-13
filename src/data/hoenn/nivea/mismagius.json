@@ -2,14 +2,14 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 TRAMPA ROCAS 🪨 frente a Mienshao; cambiar a Gengar bola sombra",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨 frente a Mienshao cambia a Gengar bola sombra",
   "tricks": [
     {
-      "detail": "Skarmory --> Cambiar a Slowbro; Slowbro frente a Mismagius; sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Skarmory🔔",
+      "detail": "Skarmory ➜ Cambiar a Slowbro usar Bostezo hasta que entre Mismagius ➜ sacrificar a Politoed ➜ Poliwrath +6 🐸🥊🔔Cascada a Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6; Cascada a 🔔Skarmory🔔",
+      "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊🔔Cascada a Skarmory🔔",
       "variant": []
     }
   ]

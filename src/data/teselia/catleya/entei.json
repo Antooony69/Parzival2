@@ -5,22 +5,22 @@
   "initialMove": "❤️Encanto❤️",
   "tricks": [
     {
-      "detail": "VidasFera --> Cambiar a Slowbro frente a Mienshao, usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje contra Mienshao y Cascada contra Musharna/Metagross)🔔",
+      "detail": "Vidasfera --> Cambiar a Slowbro frente a Mienshao, usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje contra Mienshao y Cascada contra Musharna/Metagross)🔔",
       "variant": []
     },
     {
       "detail": "No Vidasfera --> Usa Trampa rocas, 🔔(Si se que cambiar a Slowbro y usar Bostezo)🔔",
       "variant": [
         {
-          "detail": "alakazam --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Alakazam --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "metagross --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "leafeon --> Usar Amortiguador y Encanto para forzar el cambio del rival",
+          "detail": "Leafeon --> Usar Amortiguador y Encanto para forzar el cambio del rival",
           "variant": []
         }
       ]

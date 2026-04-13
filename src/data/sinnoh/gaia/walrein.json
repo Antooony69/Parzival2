@@ -5,15 +5,15 @@
   "initialMove": "🔔Cambiar a Slowbro🔔",
   "tricks": [
     {
-      "detail": "Superdiente --> Cambiar a Chansey y usar Trampa Rocas al enfrentar a Absol; cambiar a Slowbro  al enfrentar a Gengar  o Nidoking ; entrar con Volcarona  🔔 Usar Psíquico al enfrentar a Gengar 🔔",
+      "detail": "Superdiente --> Cambiar a Chansey y usar Trampa Rocas al enfrentar a Absol, cambiar a Slowbro  al enfrentar a Gengar/Nidoking, entrar con Volcarona +1 🔔(Usar Psíquico al enfrentar a Gengar)🔔",
       "variant": []
     },
     {
-      "detail": "Absol --> Cambiar a Chansey y usar Trampa Rocas ; cambiar a Slowbro y usar Bostezo ; entrar con Volcarona  +1 🔔 Usar Psíquico al enfrentar a Gengar 🔔",
+      "detail": "Absol --> Cambiar a Chansey y usar Trampa Rocas, cambiar a Slowbro y usar Bostezo, entrar con Volcarona +1 🔔(Usar Psíquico al enfrentar a Gengar)🔔",
       "variant": []
     },
     {
-      "detail": "Durant --> Usar Bostezo ; usar Teletransporte  entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar",
+      "detail": "🚨Durant (TESTEO)🚨--> Usar Bostezo luego Proteccion y Bostezo frente a Rhyperior, Teletransporte, entra Poliwrath +6",
       "variant": []
     }
   ]

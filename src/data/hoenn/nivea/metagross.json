@@ -5,23 +5,23 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Machada --> Cambiar a Slowbro, luego de Volcarona a Serperior; Volcarona +2",
+      "detail": "Machada ➜ Cambiar a Slowbro, luego de Volcarona a Serperior ➜ Volcarona +2",
       "variant": []
     },
     {
-      "detail": "Puño Meteoro --> Teletransporte; Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔Puño Hielo a Froslass🔔",
+      "detail": "Puño Meteoro ➜ Teletransporte; Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔Puño Hielo a Froslass🔔",
       "variant": []
     },
     {
-      "detail": "Mamoswine --> Encanto; cambiar a Slowbro y usar Bostezo frente a Mismagius; revisar salud de Slowbro",
+      "detail": "Mamoswine ➜ Encanto cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ revisar salud de Slowbro",
       "variant": []
     },
     {
-      "detail": "PS de Slowbro < 79% --> Sacrificar a Politoed; Poliwrath +6; 🔔Cascada a Metagross🔔",
+      "detail": " Slowbro tiene menos del 79% de vida ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔Cascada a Metagross🔔",
       "variant": []
     },
     {
-      "detail": "PS de Slowbro > 79% --> Volcarona +1",
+      "detail": "Slowbro tiene mas del 79% de vida ➜ Volcarona +1",
       "variant": []
     }
   ]

@@ -5,10 +5,10 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Blaziken --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne ",
+      "detail": "Blaziken --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne",
       "variant": [
         {
-          "detail": "Rápido --> Sacrificar a Politoed entrar con Poliwrath +6 ",
+          "detail": "Rápido --> Sacrificar a Politoed entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
           "variant": []
         },
         {
@@ -19,19 +19,21 @@
     },
     {
       "detail": "Bouffalant --> Gengar usa Maquinación  al enfrentar a Dragonite; atacar hasta debilitar",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar --> Sacrificar a Politoed  entrar con Poliwrath +6 ",
-      "variant": []
-    },
-    {
-      "detail": "Steelix --> Entrar con Slowbro  y usar Bostezo  sacrificar a Politoed entrar con Poliwrath  +6 ",
-      "variant": []
-    },
-    {
-      "detail": "Arriesgado --> Sacrificar directamente a Politoed  entrar con Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Magmortar --> Sacrificar a Politoed entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Steelix --> Cambiar a Slowbro  y usar Bostezo  sacrificar a Politoed  entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "variant": [
+            {
+              "detail": "🚨Arriesgado🚨 --> Sacrificar directamente a Politoed  entrar con Poliwrath +6",
+              "variant": []
+            c
+          ]
+        }
+      ]   
     }
-  ]
-}
+  ]   
+}  

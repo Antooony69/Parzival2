@@ -174,7 +174,7 @@ export default function PokemonGuide() {
             <span className="mx-2">|</span>
 
             <a
-              href="https://discord.gg/SDCx66c5AM"
+              href="https://discord.gg/pKPxjAFNmA"
               target="_blank"
               rel="noreferrer"
             >
@@ -190,10 +190,10 @@ export default function PokemonGuide() {
           </p>
 
           <p className="text-gray-400 mb-4">
-            Ruta 4 Ligas:
+            RUTA RECOMENDADA:
             <span className="pl-2 text-blue-400">
-              Teselia → Sinnoh(casa) → Kanto(casa) →
-              Hoenn(casa) → Johto(opcional)
+              Teselia → Sinnoh (casa) → Hoenn (casa) →
+              Kanto (casa) → Johto (opcional)
             </span>
           </p>
         </div>
@@ -232,8 +232,9 @@ export default function PokemonGuide() {
               <li>Completa cada Liga 5 veces antes.</li>
               <li>Equipo correctamente configurado.</li>
               <li>Equipos económicos pueden fallar.</li>
-              <li>Reporta errores en Discord.</li>
               <li>Desactivar EXP Share/Reamplificador.</li>
+              <li>PUEDES SEGUIR LA RUTA A TU MANERA, SOLO DAMOS UNA OPCIÓN</li>
+              <li>Reporta errores en Discord.</li>
             </ul>
           )}
         </div>
@@ -292,23 +293,23 @@ export default function PokemonGuide() {
 
     <img
       src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
-      className="w-16 h-16"
-      alt="Munchlax"
+      className="w-12 h-12"
+      alt="Lehosif"
     />
 
     <div className="flex items-center gap-2">
       <img
-        className="w-6 h-6 hover:scale-110 transition-transform"
+        className="w-8 h-8 hover:scale-110 transition-transform"
         src={`${import.meta.env.BASE_URL}images/IrviingHC.png`}
         alt="Irving"
       />
       <img
-        className="w-6 h-6 hover:scale-110 transition-transform"
+        className="w-8 h-8 hover:scale-110 transition-transform"
         src={`${import.meta.env.BASE_URL}images/ParziivalTwitch.png`}
         alt="Parzival"
       />
       <img
-        className="w-6 h-6 hover:scale-110 transition-transform"
+        className="w-8 h-8 hover:scale-110 transition-transform"
         src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`}
         alt="Itachi"
       />

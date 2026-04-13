@@ -5,19 +5,19 @@
   "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+      "detail": "Absol ➜ Gengar +4 + Precisión (absol pañuelo elegido)",
       "variant": []
     },
     {
-      "detail": "Flareon --> Gengar +2",
+      "detail": "Flareon ➜ 👻 Gengar Otra Vez +2 👻",
       "variant": []
     },
     {
-      "detail": "Si se queda --> Usar bola sombra frente a Absol; sacrificar a Politoed; Poliwrath +6",
+      "detail": "Si se queda ➜ Usar bola sombra frente a Absol ➜ sacrifica a Politoed ➜ Poliwrath +6 (absol pañuelo elegido)",
       "variant": []
     },
     {
-      "detail": "Cambia a Bronzong --> Sacrificar a Politoed; Poliwrath +6; usar 🔔 Cascada contra Bronzong🔔 ",
+      "detail": "Cambia a Bronzong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊  🔔 Cascada contra Bronzong🔔 ",
       "variant": []
     }
   ]

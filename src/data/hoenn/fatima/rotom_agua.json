@@ -2,7 +2,7 @@
   "id": "rotom_agua",
   "name": "Rotom Agua",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨; si no cambia, usa Amortiguador",
+  "initialMove": "🪨 Trampa Rocas 🪨 si no cambia, usa Amortiguador",
   "tricks": [
     {
       "detail": "Mawile ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔 Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total 🔔",

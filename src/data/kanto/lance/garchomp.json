@@ -2,11 +2,6 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure y usa Truco",
-  "tricks": [
-    {
-      "detail": "Bloquea Terremoto, luego Cloyster usa Carámbano para rematar, entra Lapras, entra Excadrill con + 2 + 0 usa trampa rocas y usa Terremoto para matar a Lapras.",
-      "variant": []
-    }
-  ]
+  "initialMove": "Cambia a Slowbro frente a Scizor, Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+  "tricks": []
 }

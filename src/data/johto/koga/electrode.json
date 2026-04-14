@@ -5,17 +5,17 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Usa un ataque tipo fuego/siniestro (Zoroark) → Teletransporte → Volcarona, +1 → Gigadrenado a Lanturn/Tentacruel, Danza Aleteo una vez más.",
+      "detail": "Lanzallamas/Pulso umbrio es (Zoroark) → Teletransporte → Volcarona x1 danza aleteo usa gigadrenado para matar a zoruark ➜ frente a electrode /Tentacruel usa Danza Aleteo una vez más.",
       "variant": [
         {
-          "detail": "Si Volcarona recibe retrocesos, cambia a Chansey → Max pocion a Volcarona y repite el proceso.",
+          "detail": "Si Volcarona recibe retrocesos, cambia a Chansey → Max pocion a Volcarona y repite el proceso",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Usa Rayo → Teletransporte → Volcarona +2. (Manten HP encima del 50%).",
+      "detail": "Usa Rayo → Teletransporte → Volcarona x2 danza aleteo 🔔 Mantener los PS por encima del 50% de lo contrario, Electrode usará Autodestrucción 🔔",
       "variant": []
     }
   ]
- }
+}

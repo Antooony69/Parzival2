@@ -11,33 +11,33 @@
           "detail": "Superdiente → Cambia a Slowbro",
           "variant": [
             {
-              "detail": "Se queda → Bostezo, sale Magmortar → Politoed (sacrificar)",
+              "detail": "Se queda → Slowbro Bostezo → sale Magmortar → Sacrifica Politoed → Poliwrath Ataque X Puño Drenaje a Magmortar 🔔Si sale Ditto, cambia a Gengar y lo derrotas🔔 ",
               "variant": [
                 {
-                  "detail": "Opcion Rápida → Poliwrath, +2 Ataque X → Puño Drenaje a Magmortar. (Si sale Ditto, cambia a Gengar y lo derrotas).",
+                  "detail": "Rhyperior ➜ Slowbro recibe Megacuerno ➜ usar Protección y Bostezo ➜ frente a Gengar o Lapras ➜ sacrifica a Palpitoad ➜ Poliwrath +6🐸🥊 🔔Puño Hielo contra Gengar🔔",
                   "variant": []
                 },
                 {
-                  "detail": "Opcion Ahorro → Poliwrath +6, Puño Drenaje a Magmortar, Presiona hasta Mienshao, usa Tambor y luego derrótalo. (Si sale Ditto, cambias a Gengar y lo derrotas).",
+                  "detail": " Puya Nociva / Pájaro Osado ➜ Cambiar a Slowbro y usar Bostezo ",
                   "variant": []
                 }
               ]
             },
             {
-              "detail": "Rhyperior → Bostezo, toma una max poción, Protección → Bostezo, sale Gengar/Lapras → Politoed (sacrificar), Poliwrath +6. (Puño Hielo Gengar).",
+              "detail": " Si el rival no cambia ➜ Volcarona x1 danza aleteo usa Psíquico hasta que salga Electrode ➜ luego usa Danza Aleteo una vez más y barre",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Veneno X/Pajaro Osado → Slowbro, Bostezo",
+          "detail": "Slowbro bostezo hasta que se revele Zoroark ➜ Volcarona +1 usa Gigadrenado para derrotarlo ➜ Electrode o Tentacruel ➜ luego usa Danza Aleteo una vez más y barre",
           "variant": [
             {
-              "detail": "Se queda → Volcarona +1. Psiquico contra Lanturn, usa Danza Aleteo una vez más.",
+              "detail": "Pulso Umbrío / lanza llamas de Zoroark ➜ Usar Teletransporte para sacar a Volcarona +1 y ataca ➜ frente a Electrode o Tentacruel, usar Danza Aleteo una vez y barrer.",
               "variant": []
             },
             {
-              "detail": "A quien le haya tocado bostezo → Volcarona +1. Gigadrenado a Lanturn/Tentacruel, usa Danza Aleteo una vez más.",
+              "detail": " Samurott ➜ Slowbro, Bostezo ➜ sacrifica a Palpitoad ➜ Poliwrath +6 🐸🥊 ",
               "variant": []
             }
           ]
@@ -45,35 +45,31 @@
       ]
     },
     {
-      "detail": "Samurott → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "detail": "Lucario ➜ Gengar, Otra Vez, +4 +2 (Bola sombra a todos)",
       "variant": []
     },
     {
-      "detail": "Lucario → Gengar, Otra Vez, +4 +2. (Bola sombra a todos).",
+      "detail": " Ariados ➜ Encanto y Amortiguador para forzar el cambio. ",
       "variant": []
     },
     {
-      "detail": "Ariados → Encanto, Amortiguador hasta que cambie",
+      "detail": " Rhyperior → Slowbro, Bostezo → Teletransporte → Poliwrath +6, usa puño drenaje a Sharpedo tiene banda focus , +2 Velocidad X",
       "variant": [
         {
-          "detail": "Rhyperior → Slowbro, Bostezo → Teletransporte → Poliwrath +6, Puño Drenaje contra Sharpedo, +2 Velocidad X",
+          "detail": "Tangrowth → mira abajo ↓",
           "variant": []
         },
         {
-          "detail": "Tangrowth → mira abajo ↓",
+          "detail": "Tangrowth → Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Tangrowth → Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth)",
+      "detail": "Golpea → Teletransporte → Volcarona +2",
       "variant": [
         {
-          "detail": "Golpea → Teletransporte → Volcarona +2",
-          "variant": []
-        },
-        {
-          "detail": "Falla → Volcarona +2.",
+          "detail": " Falla → Volcarona +2",
           "variant": []
         }
       ]

@@ -5,16 +5,16 @@
   "initialMove": "💡Varias Opciones💡",
   "tricks": [
     {
-      "detail": "Opción rápida → Gengar, Otra vez, +6 +2. (usa Otra Vez cada que puedas, Bola Sombra a todos)",
+      "detail": "Opción rápida ➜ Gengar, Otra vez, +6 +2 💡Bola Sombra a todos💡",
       "variant": [
         {
-          "detail": "Crítico de Crobat → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "detail": "Crítico de Crobat ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Opción estable → Gengar, Otra Vez → Slowbro → Chansey, trampa rocas. sale Lucario → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "detail": "Opción estable ➜ Gengar, Otra Vez ➜ Slowbro ➜ Chansey, trampa rocas ➜ sale Lucario ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
       "variant": []
     }
   ]

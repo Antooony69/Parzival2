@@ -5,14 +5,10 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Sale Crobat → Slowbro, Bostezo. Sale Magmortar → Politoed (sacrificar)",
+      "detail": "frente a Crobat ➜ Cambiar a Slowbro usar Bostezo hasta tener en frente a Magmortar ➜ sacrifica a Palpitoad ➜ Poliwrath ➜ usar Ataque X y atacar",
       "variant": [
         {
-          "detail": "Opción rápida → Poliwrath, +2 Ataque X → Puño Drenaje a Magmortar. (Si sale Ditto, cambia a Gengar. Derrótalo).",
-          "variant": []
-        },
-        {
-          "detail": "Opción ahorro → Poliwrath, +6 → Puño Drenaje a Magmortar, presiona hasta que salga Mienshao, usa Tambor → Derrótalo. (Si sale Ditto, cambia a Gengar. Derrótalo).",
+          "detail": "🔔Puño drenaje a magmortar Frente a  ditto cambia a gengar y matalo 🔔",
           "variant": []
         }
       ]

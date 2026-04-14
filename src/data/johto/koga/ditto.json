@@ -8,27 +8,18 @@
       "detail": "Se queda → Teletransporte",
       "variant": [
         {
-          "detail": "Se queda → Poliwrath, +6 +2. (Puño Drenaje a Magmortar).",
+          "detail": "Se queda → Poliwrath, +6 +2 🥊Puño Drenaje a Magmortar🥊",
           "variant": []
         },
         {
-          "detail": "Sale Crobat → Mira abajo ↓.",
+          "detail": "Sale Crobat → Mira abajo ↓",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Crobat → Saca a Slowbro, Bostezo. Sale Magmortar → Politoed (sacrificar).",
-      "variant": [
-        {
-          "detail": "Opción rápida → Poliwrath, +2 Ataque X. Puño Drenaje a Magmortar. (Si sale Ditto cambia a Gengar, Derrotalo).",
-          "variant": []
-        },
-        {
-          "detail": "Opción ahorro → Poliwrath +6, Puño Drenaje a Magmortar → Presiona hasta que salga Mienshao, usa Tambor → Derrótalo. (Si sale Ditto cambia a Gengar, Derrótalo).",
-          "variant": []
-        }
-      ]
+      "detail": "Crobat ➜ Saca a Slowbro y usa Bostezo hasta que salga Magmortar ➜ sacrifica a Palpitoad ➜ Poliwrath usa Ataque X 🔔Puño drenaje en magmortar ,sale ditoo cambia a gengar y matalo🔔",
+      "variant": []
     }
   ]
 }

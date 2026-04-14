@@ -2,28 +2,6 @@
   "id": "scrafty",
   "name": "Scrafty",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "(Scrafty no cambia) → lanza un Puño Trueno para ver la situación",
-      "variant": [
-        {
-          "detail": "Si golpea a Dragonite → Chandelure usa Truco para bloquear Cola Agua, Cloyster +Defensa X + 4 / mata a Lucario con Carámbano",
-          "variant": []
-        },
-        {
-          "detail": "Si golpea a Lucario → cambia a Chandelure, usa Truco para bloquear Puño Hielo, Cloyster +4",
-          "variant": []
-        },
-        {
-          "detail": "Scrafty no cambia → cambia a Chandelure frente a Magmortar, Excadrill entra 4 + 2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "(Dragonite) → cambia a Chandelure, usa Truco para bloquear a Scrafty o Feraligatr, Cloyster + Defensa X + 4 // mata a Lucario con Carámbano // Si Scrafty te deja la vida en Rojo por un crítico o te baja la defensa usar Raiz Energia",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa Rocas🪨 frente a Lucario, cambia a Slowbro y usa Bostezo frente Electivire, sacrifica a Politoed y entra Poliwrath +6",
+  "tricks": []
 }

@@ -5,14 +5,14 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Sale Tangrowth ➜ Teletransporte → Slowbro, Bostezo. (Mira la precisión de Tangrowth) ",
+      "detail": "Sale Tangrowth ➜ Teletransporte ➜ Slowbro usa Bostezo 🔔Observar si Latigazo acierta 🔔 ",
       "variant": [
         {
-          "detail": "Golpea → Teletransporte → Volcarona +2.",
+          "detail": "Golpea ➜ Teletransporte ➜ Volcarona x2 danza aleteo 🦋🔥",
           "variant": []
         },
         {
-          "detail": "Falla → Volcarona +2.",
+          "detail": "Falla ➜ Volcarona x2 danza aleteo 🦋🔥",
           "variant": []
         }
       ]

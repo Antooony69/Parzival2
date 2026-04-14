@@ -2,17 +2,22 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Gengar otra vez y maquinación, luego mata a Absol, frente a Hydreigon cambia a Chansey y usa Trampa rocas, frente a Luxray, Gengar usa Otra Vez +2",
+  "initialMove": "👻Gengar otra vez y maquinación, luego mata a Absol 🔔 Mira abajo 🔔 ",
   "tricks": [
     {
-      "detail": "Absol no cambia ➡ Termina de Bostear a Gengar +4 +2 🔔(Barre con Bola Sombra)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Sale Bronzong ➡ Sacrificar a Politoed, Entra Poliwrath +6",
+      "detail": "Entra Hydreigon cambia a Chansey y usa Trampa rocas ➜ frente a Luxray ➜ Gengar usa Otra Vez +2",
       "variant": [
         {
-          "detail": "Ahorra Recursos ➡ Chansey atrae a hydreigon ➡ Gengar +4",
+          "detail": "Luxray Se queda ➜ +4 +2 🔔(Barre con Bola Sombra)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sale Bronzong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": [
+        {
+          "detail": "Ahorra Recursos ➜ Chansey atrae a hydreigon ➡ Gengar +4",
           "variant": []
         }
       ]

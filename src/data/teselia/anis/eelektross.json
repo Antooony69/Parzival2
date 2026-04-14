@@ -5,17 +5,17 @@
   "initialMove": "👻Gengar usa Otra Vez👻 , cambiar a Slowbro y luego cambiar a Chansey ↓",
   "tricks": [
     {
-      "detail": "Gengar --> 🪨Trampa Rocas🪨 frente a Eelektross, Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo ",
+      "detail": "Gengar ➜  🪨Trampa Rocas🪨 frente a Eelektross, Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo ",
       "variant": [
         {
-          "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar ; Volcarona con 2 Danza Aleteo.",
+          "detail": "Chandelure ➜ Usar Protección y Bostezo hasta que salga Gengar ➜ entrar con Volcarona x2 danza aleteo 🔔Psíquico contra Gengar y Lanzallamas contra Chandelure🔔",
           "variant": []
         },
         {
-          "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure; Volcarona con 2 Danza Aleteo.",
+          "detail": "Gengar ➜ usar Protección ➜ cambia de Poliwrath ➜ Frente a Chandelure ➜ Volcarona x2 Danza Aleteo",
           "variant": [
             {
-              "detail": "🪨Trampa Rocas🪨 , ante un Onda Certera inesperado mantenerse Gengar +2 +2 +1 precisión（gengar pañuelo）.",
+              "detail": "🪨Trampa Rocas🪨 , ante un Onda Certera inesperado mantenerse Gengar +2 +2 + precisión X（gengar pañuelo）.",
               "variant": []
             }
           ]
@@ -23,32 +23,32 @@
       ]
     },
     {
-      "detail": "Chandelure --> 🪨Trampa Rocas🪨.",
+      "detail": "Chandelure ➜ 🪨Trampa Rocas🪨.",
       "variant": [
         {
-          "detail": "Eelektross --> Gengar usa Otra Vez, cambiar a Slowbro .",
+          "detail": "Eelektross ➜ Gengar usa Otra Vez, cambiar a Slowbro .",
           "variant": [
             {
-              "detail": "Se queda --> usar Bostezo .",
+              "detail": "Se queda ➜ usar Bostezo .",
               "variant": [
                 {
-                  "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure; Volcarona con 2 Danza Aleteo.",
+                  "detail": "Gengar ➜ usar Protección ➜ cambiar de Poliwrath a Chandelure ➜ Volcarona con 2 Danza Aleteo.",
                   "variant": []
                 },
                 {
-                  "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar, Teletransporte; Volcarona  con 2 Danza Aleteo.",
+                  "detail": "Chandelure ➜ usar Protección y Bostezo frente a Gengar ➜ Teletransporte ➜ Volcarona con 2 Danza Aleteo.",
                   "variant": []
                 }
               ]
             },
             {
-              "detail": "Dragonite --> Slowbro usa Bostezo, sacrificar a Politoed , entrar con Poliwrath +6 (Puño h froslass,dragonite cascada)",
+              "detail": "Dragonite ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊(Puño h froslass,dragonite cascada)",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Dragonite --> Slowbro usa Bostezo, sacrificar a Politoed , entrar con Poliwrath +6 (Puño h froslass,dragonite cascada)",
+          "detail": "Dragonite ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊(Puño h froslass,dragonite cascada)",
           "variant": []
         }
       ]

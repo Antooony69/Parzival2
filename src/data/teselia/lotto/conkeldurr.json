@@ -1,109 +1,97 @@
 {
-  "id": "conkeldurr",
-  "name": "Conkeldurr",
+  "id": "lapras",
+  "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Gengar otra vez💡",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "A bocajarro + Llamasfera ➜ Gengar Otra vez +4 y bola sombra🔔ver a quién🔔:",
+      "detail": "Si se queda --> Ver movimiento",
+      "variant": []
+    },
+    {
+      "detail": "Rayo Hielo --> Sacrificar a Politoed; Poliwrath +6 Cascada a Banette 【 Si Rayo Hielo crítico mata a Poliwrath, se sugiere cambiar de estrategia 】",
+      "variant": []
+    },
+    {
+      "detail": "Acua Cola --> Cambiar a Politoed; cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X y usar Psíquico contra Mantine",
+      "variant": []
+    },
+    {
+      "detail": "Golduck --> Cambiar a Gengar",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda --> Cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X y usar Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña; continuar",
+      "variant": []
+    },
+    {
+      "detail": "Lapras --> Cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +2 + Especial X y usar Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña; continuar",
+      "variant": []
+    },
+    {
+      "detail": "Hariyama --> Cambiar a Slowbro y usar Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "Nidoking --> Sacrificar a Politoed; Poliwrath +6 para absorber a Jynx",
+      "variant": []
+    },
+    {
+      "detail": "Jynx --> Volcarona +2",
+      "variant": []
+    },
+    {
+      "detail": "Lucario --> Opción para resolver",
+      "variant": []
+    },
+    {
+      "detail": "Rápido --> Teletransporte para ver objeto",
       "variant": [
         {
-          "detail": "Skarmory ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Haxorus; Gengar +4 🔔Bola Sombra a todo🔔",
+          "detail": "Vidasfera --> Gengar +4 +2",
           "variant": []
         },
         {
-          "detail": "Sawk ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Krookodile; Gengar +4 +2 🔔Bola Sombra a todo🔔",
+          "detail": "Sin Vidasfera --> Enviar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
           "variant": []
         }
       ]
     },
     {
-      "detail": "A bocajarro + Vidasfera --> Gengar +4 🔔Bola Sombra a todo🔔",
+      "detail": "¿Ahorrar dinero? --> Gengar +2",
       "variant": []
     },
     {
-      "detail": "Puño Drenaje + Llamasfera ➜ Cambiar a Chansey y luego a Seismitoad; usar Encanto",
+      "detail": "Si se queda --> Gengar +4 +2; barrer con Bola Sombra",
       "variant": []
     },
     {
-      "detail": " Conkeldurr ➜ Usar Encanto otra vez hasta que salga Aggron poner Trampas ",
-      "variant": [
-        {
-          "detail": "Conkeldurr ➜ Gengar usa otra vez y cambia a Volcarona frente a Seismitoad Volcarona danza eleteo + Especial X",
-          "variant": []
-        },
-        {
-          "detail": "Dusknoir ➜ Sacrifica a Politoed ➜ entrar con Poliwrath +6 ",
-          "variant": [
-            {
-              "detail": " Aggron ➜ Poner Trampas hasta que salga Conkeldurr ➜ Gengar Otra vez y cambia a Volcarona frente a Seismitoad ➜ Volcarona danza eleteo + Especial X ",
-              "variant": []
-            },
-            {
-              "detail": "Puño Drenaje + Sin Llamasfera ➜ Bola Sombra 🔔observar si tiene Restos🔔",
-              "variant": [
-                {
-                  "detail": "Si tiene Restos ➜ Gengar otra vez +6 ",
-                  "variant": []
-                },
-                {
-                  "detail": " Sin Restos ➜ Maquinación, Otra Vez ➜ cambiar a Slowbro 🔔observar si tiene Vidasfera 🔔 ",
-                  "variant": []
-                },
-                {
-                  "detail": " Tiene Vidasfera ➜ Bostezo ",
-                  "variant": []
-                },
-                {
-                  "detail": "Se queda/ Rotom w ➜ Sacrificar a Politoed, entrar con Poliwrath +6 ",
-                  "variant": []
-                },
-                {
-                  "detail": "Magnezone ➜ Protección y Bostezo, sacrifica a Politoed ➜ entrar con Poliwrath +6.",
-                  "variant": []
-                },
-                {
-                  "detail": "Crawdaunt ➜ Sacrificar a Politoed, entrar con Poliwrath +6.",
-                  "variant": []
-                },
-                {
-                  "detail": "Sin Vidasfera ➜ Bostezo.",
-                  "variant": []
-                },
-                {
-                  "detail": "Magnezone ➜ Cambiar a Chansey y usar Encanto ➜ si sale Breloom cambia a Gengar +4 Precisión x",
-                  "variant": []
-                },
-                {
-                  "detail": "Si sale Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo, sacrificar a Politoed ➜ entra con Poliwrath +6",
-                  "variant": []
-                },
-                {
-                  "detail": "Breloom ➜ Protección y Bostezo frente a Magnezone, cambiar a Chansey y usar Amortiguador esperando a Conkeldurr ➜ Gengar +4 en Precisión",
-                  "variant": []
-                },
-                {
-                  "detail": "Si sale Gyarados --> Verificar Intimidación",
-                  "variant": [
-                    {
-                      "detail": "Con Intimidación ➜ Cambiar a Chansey y poner Trampas frente a Breloom ➜ Gengar +4 Precisión X",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Sin Intimidación ➜ Cambiar a Chansey y usar Amortiguador frente a Breloom ➜ Slowbro usa Bostezo, sacrificar a Politoed ➜ entrar con Poliwrath +6",
-                      "variant": []
-                    }
-                  ]
-                },
-                {
-                  "detail": "Si sale Machamp ➜ Cambiar a Slowbro y usar Bostezo frente a Rotom-W ➜ sacrificar a Politoed ➜ entrar con Poliwrath +6",
-                  "variant": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "detail": "Mantine --> Cambiar a Chansey y usar Amortiguador frente a Lucario; Gengar +4 +2; barrer con Bola Sombra",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong --> Chansey usa Encanto",
+      "variant": []
+    },
+    {
+      "detail": "Psíquico / Tierra --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Autodestrucción frente a Chansey --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Autodestrucción frente a Nidoking --> Chansey usa Amortiguador para curar al máximo",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
     }
   ]
-}                  
+}

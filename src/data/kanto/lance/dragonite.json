@@ -2,114 +2,52 @@
   "id": "dragonite_8",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Llamarada → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr, luego Poliwrath entra con +6 +2 + 6 (El último +6 es otro Tambor). (Si Dragonite no se retira, usar Truco nuevamente para forzar el cambio.)",
+      "detail": "Si se queda → No sucede esto",
       "variant": []
     },
     {
-      "detail": "Puño Fuego → Revisar el objeto:",
-      "variant": [
-        {
-          "detail": "Cinta Fuerte → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco. Si no se pueden colocar rocas, cambiar directamente a Excadrill para colocarlas",
-          "variant": [
-            {
-              "detail": "Ampharos → Excadrill entra con +4 ataque y +2 velocidad",
-              "variant": []
-            },
-            {
-              "detail": "Dragonite no se retira → Poliwrath entra con +6+2",
-              "variant": []
-            },
-            {
-              "detail": "Gyarados → Cloyster entra, consume medicina de defensa y boostea +4",
-              "variant": []
-            },
-            {
-              "detail": "Scrafty → Cambia a tu propio Scrafty +2 (No te asustes si Saca a Dragonite tu sigue boosteando)",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Restos → Evaluar según daño real en combate (no calcular mentalmente):",
-          "variant": [
-            {
-              "detail": "37% o más (probabilidad de crítico superior al 55%) → Intenta colocar Trampa Rocas, luego cambia a Chandelure y usa Truco",
-              "variant": [
-                {
-                  "detail": "Tyranitar → Enviar a Scrafty +2. Si Metagross muere o está quemado, curarlo o quitarle la quemadura",
-                  "variant": []
-                },
-                {
-                  "detail": "Lapras → Enviar a Poliwrath con 6+2",
-                  "variant": []
-                },
-                {
-                  "detail": "Aerodactyl → Enviar a Excadrill con +4 +2",
-                  "variant": []
-                },
-                {
-                  "detail": "Si Metagross falla al colocar rocas → Cambiar a Chandelure y usar Truco:",
-                  "variant": [
-                    {
-                      "detail": "Si entra Tyranitar, enviar a Scrafty +3",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Si entra Lapras, enviar a Poliwrath con +6 +2 / Prohibido usar A Bocajarro en este escenario",
-                      "variant": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "detail": "Menos del 37% → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr o Lapras, luego Ludicolo entra con +6 +2 +6 (aprovecha Absorbe Agua para curarse).Si se bloquea a Feraligatr, se puede usar A Bocajarro contra Lapras",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Cinta Xperto → Cambiar a Chandelure y usar Truco, bloquear a Scrafty o Feraligatr, luego entra Cloyster con +1 defensa X y +4. / Carámbano contra Lucario",
-          "variant": [
-            {
-              "detail": "Si Dragonite no se retira, usar Truco nuevamente",
-              "variant": []
-            },
-            {
-              "detail": "Si se bloquea a Scrafty, usar medicina de defensa antes de enviar a Ferrothorn",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "Trueno → Excadrill entra con +2 +2 // Si Aparece inesperadamente Steelix, cambiar a Chandelure, usar Truco, bloquear Terremoto, y entra Cloyster con +4",
+      "detail": "Tyranitar → Cambia a Gengar y usa Maquinacion luego Barre (No Otra Vez) 🔔(Onda Certera contra Tyranitar y Bolsa sombra contra los demas)🔔",
       "variant": []
     },
     {
-      "detail": "Garchomp → Trampa Rocas, Cambiar a Chandelure y Truco, luego Cloyster usa Carámbano para Garchomp. (SITUACIONAL) → Si encierras a Lapras antes de matar a Garchomp, Poliwrath 6+2",
+      "detail": "Lucario → Cambia a Slowbro y usa Bostezo frente a Electivire, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Scizor → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Metagross → Cambia a Volcarona frente a Aerodactyl, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Aerodactyl y Cascada contra Steelix)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Infernape → Cambia a Slowbro (Mantenerlo), Bostezo frente a Dragonite, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    }, 
+    {
+      "detail": "Arcanine → Cambia a Slowbro, Bostezo frente a Ampharos/Hydreigon, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Steelix/Ampharos)🔔"
+      "variant": []
+    }, 
+    {
+      "detail": "Haxorus → Cambia a Slowbro, Bostezo frente a Ampharos, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔"
+      "variant": []
+    }, 
+    {
+      "detail": "Feraligatr → ⬇️Opciones Para Resolver⬇️"
       "variant": [
         {
-          "detail": "LAPRAS → Excadrill +2 + 0, Terremoto para acabar con Lapras",
+          "detail": "✅Segura✅ → Cambia a Volcarona luego a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔"
           "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Hydreigon → Scrafty entra con +4 o +2 + más medicina de ataque",
-      "variant": []
-    },
-    {
-      "detail": "Metagross → Excadrill +4+2, luego colocar rocas",
-      "variant": []
-    },
-    {
-      "detail": "Steelix → Colocar rocas (aguantando Colmillo Ígneo), luego cambiar a Chandelure, usar Truco, bloquear a Lapras, Poliwrath entra con +6 +2. // Si Truco no lo hace cambiar, usarlo varias veces; si sigue sin moverse, Chandelure +2+2. / Atacar con Lanzallamas",
-      "variant": []
+        },  
+        {
+          "detail": "🍀Suerte🍀 → sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔"
+          "variant": [] 
+        }  
+      ]   
     }
   ]
 }

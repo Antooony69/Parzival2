@@ -5,27 +5,27 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Ver qué habilidad/movimiento usa",
+      "detail": "Si se queda ➜ Ver qué habilidad/movimiento usa",
       "variant": [
         {
-          "detail": "Escaldar --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔usar Cascada contra Skarmory / Tentacruel🔔",
+          "detail": "Escaldar ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔usar Cascada contra Skarmory / Tentacruel🔔",
           "variant": []
         },
         {
-          "detail": "Usa movimiento de fuego / Pulso Umbrío (zoroark) --> Teletransporte; enviar a Volcarona; Volcarona +1 usa gigadrenado electrode/ Tentacruel; luego usar Danza Aleteo una vez para barrer; si Volcarona retrocede, cambiar a Chansey, recuperar vida al máximo y repetir",
+          "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜ Teletransporte; enviar a Volcarona Danza aleteo usa gigadrenado y frente a electrode/ Tentacruel ➜ Danza Aleteo una vez para barrer 🔔 si Volcarona retrocede cambiar a Chansey, recuperar vida al máximo y repetir🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Crobat --> Teletransporte para ver movimiento",
+      "detail": "Crobat ➜ Teletransporte para ver movimiento",
       "variant": [
         {
-          "detail": "Veneno X / Puya Nociva --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6; usar Cascada contra Skarmory / Tentacruel",
+          "detail": "Veneno X / Puya Nociva ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔 Cascada contra Skarmory / Tentacruel🔔",
           "variant": []
         },
         {
-          "detail": "Usa movimiento de fuego / Pulso Umbrío (zoroark) --> Teletransporte; enviar a Volcarona; Volcarona +1; usa gigadrenado electrode / Tentacruel; luego usar Danza Aleteo una vez para barrer; si Volcarona retrocede , cambiar a Chansey, recuperar vida al máximo y repetir",
+          "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜ Teletransporte ➜ enviar a Volcarona Danza aleteo usa gigadrenado y frente a electrode/ Tentacruel ➜ Danza Aleteo una vez para barrer 🔔 si Volcarona retrocede cambiar a Chansey, recuperar vida al máximo y repetir🔔",
           "variant": []
         }
       ]

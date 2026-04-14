@@ -5,10 +5,10 @@
   "initialMove": "🦋Cambia a Volcarona🦋",
   "tricks": [
     {
-      "detail": "Danza Aleteo, +2 Ataque Especial X.",
+      "detail": "Danza Aleteo + Especial X",
       "variant": [
         {
-          "detail": "Crítico derrota a Volcarona → Poliwrath → Politoed (sacrificar), Poliwrath +6",
+          "detail": "Crítico derrota a Volcarona ➜ Poliwrath ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
           "variant": []
         }
       ]

@@ -2,10 +2,10 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Gengar +6 💡 Bola Sombra a todos",
+  "initialMove": "💡Gengar Otra vez +6 💡 Bola Sombra a todos (haxorus no tiene banda focus)",
   "tricks": [
     {
-      "detail": "Cambiar a Bronzong --> Sacrificar a Politoed  entrar con Poliwrath  +6 ",
+      "detail": "Si Cambia a Bronzong ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 ",
       "variant": []
     }
   ]

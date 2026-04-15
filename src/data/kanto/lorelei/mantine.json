@@ -2,28 +2,54 @@
   "id": "mantine",
   "name": "Mantine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "UTILIZA PUÑO TRUENO (Si MANTINE NO CAMBIA SIGUE ATACANDO)",
+  "initialMove": "Trampa Rocas",
   "tricks": [
-    {"detail": "Si cambia a Magnezone, saca a Excadrill y matalo con Terremoto, observa:", "variant": [
-      {"detail": "Si sale Mantine, saca a Chandelure y utiliza Truco para encerrar en Escaldar, saca a Scrafty + 1 Defensa Especial X + 2 Danza Dragón (Mantine necesita ser golpeado 2 veces)"},
-      {"detail": "Si sale Lapras, coloca Trampa Rocas, cambia a Poliwrath 6+2"}
-    ]},
-    {"detail": "Si cambia a Chansey, saca a Scrafty +1 luego utiliza Raíz Energía para recuperar PS y vuelva a usar Danza Dragón +1 (Utiliza Paliza para eliminar a Vileplume o Bronzong) // Mantine y Vileplume necesitan 2 Golpes // Curas con Lapras al final", "variant": [
-      {"detail": "Si mientras estás preparando el Scrafty sale Nidoking, cambia a Excadrill luego cambia a Chandelure y utiliza Truco para encerrar en Terremoto, vuelve con Excadrill, Trampa Rocas y +6"}
-    ]},
-    {"detail": "Si cambia a Nidoking, saca a Excadrill luego a Chandelure y observa el movimiento:", "variant": [
-      {"detail": "Roca Afilada, usa Truco y observa:", "variant": [
-        {"detail": "Si usa Tierra Viva, observa la vida de Mantine:", "variant": [
-          {"detail": "Si tiene Vida Completa, entra Excadrill + Trampa Rocas, luego cambia a Cloyster +6"},
-          {"detail": "No está Full Vida, entra Excadrill +6 +0"}
-        ]},
-        {"detail": "Si usa Rayo, saca a Excadrill, Trampa Rocas +6 +0 (Si Mantine no tiene full vida, puedes omitir las Trampa Rocas)"}
-      ]},
-      {"detail": "Rayo Hielo, usa Truco y bloquea el Tierra Viva, entra Excadrill, Trampa Rocas y cambias a Cloyster +6"},
-      {"detail": "Llamarada, usa Truco y bloquea el Tierra Viva, luego revisa la vida de Mantine:", "variant": [
-        {"detail": "Si tiene Vida Completa, entra Excadrill + Trampa Rocas + 6 + 0"},
-        {"detail": "Si No está Full Vida, entra Excadrill +4 +0"}
-      ]}
-    ]}
+    {
+      "detail": "Lapras → Cambia a Poliwrath, Cambia a Slowbro, sale Mantine → bostezo, sale Magnezone → Sacrificar a POLIWRATH → Volcarona +1 + SpAtk X",
+      "variant": []
+    },
+    {
+      "detail": "Lucario → Cambia a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong → Encanto",
+      "variant": [
+        {
+          "detail": "Ataque tipo Psiquico / Tierra → Cambia a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Explosión, sale su Chansey → Saca Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Explosión, sale Nidoking → Amortiguador, HP FULL",
+          "variant": [
+            {
+              "detail": "Se queda → Teletransporte → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Su Chansey → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Golduck → Cambia a Gengar",
+      "variant": [
+        {
+          "detail": "se queda → cambia a Slowbro, sale Mantine → Bostezo, frente a Magnezone → Sacrificar a POLIWRATH → Volcarona +1 + SpAtk X",
+          "variant": []
+        },
+        {
+          "detail": "Lapras → Cambia a Slowbro, Bostezo frente a Magnezone → Sacrificar a POLIWRATH → Volcarona +2 + SpAtk X",
+          "variant": []
+        }
+      ]
+    }
   ]
 }

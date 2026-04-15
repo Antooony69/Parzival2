@@ -6,11 +6,12 @@
   "tricks": [
     {
       "detail": "Staraptor --> Gengar +4 y precisión 🔔Tiene Pañuelo elegido🔔",
-      "variant": []
-    },
-    {
-      "detail": "Huir de Milotic --> Cambiar a Chansey y usar Amortiguador para atraer al pájaro; Volcarona +3 🔔Gigadrenado y lanzallmas Umbreon🔔",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Huir de Milotic --> Cambiar a Chansey y usar Amortiguador para atraer al pájaro; Volcarona +3 🔔Gigadrenado y lanzallmas Umbreon🔔",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Milotic / Houndoom --> Sacrificar a Politoed y entrar con Poliwrath +6",

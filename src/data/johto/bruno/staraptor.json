@@ -12,14 +12,14 @@
           "variant": []
         },
         {
-          "detail": "Heracross → Protección, cambia a Chansey, sale Steelix. Pon trampa rocas y manten Amortiguador hasta el cambio.",
+          "detail": "Heracross ➜ Protección, cambia a Chansey, sale Steelix. Pon trampa rocas y manten Amortiguador hasta el cambio.",
           "variant": [
             {
-              "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 + precisión X.",
+              "detail": "Heracross ➜ Continua usando amortiguador",
               "variant": []
             },
             {
-              "detail": "Staraptor ➜ Gengar, Otra Vez, +2 + precisión X.",
+              "detail": "Staraptor/Machamp ➜ Gengar, Otra Vez, +4 + precisión X.",
               "variant": []
             }
           ]

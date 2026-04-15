@@ -5,19 +5,20 @@
   "initialMove": "👻Gengar Otra Vez si usa patada salto mira abajo👻",
   "tricks": [
     {
-      "detail": "Gengar primer Otra Vez --> Maquinación y esperar a que se debilite solo; ver quién entra:",
+      "detail": "Si gengar ataca primero con Otra Vez --> Maquinación y esperar a que se debilite solo; ver quién entra:",
       "variant": [
         {
           "detail": "Raichu --> Cambiar a Chansey y usar Trampa Rocas ",
-          "variant": []
-        },
-        {
-          "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo para forzar el cambio; sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Excadrill--> Encanto, Amortiguador (si la salud baja del 30% usa una max pocion ); pon las trampa rocas y frente a metagros sacas a slowbro bostezo sacrificas a politoed entra  Poliwrath +6 ",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo para forzar el cambio; sacrificar a Politoed y entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Excadrill--> Encanto, Amortiguador (si la salud baja del 30% usa una max pocion ); pon las trampa rocas y frente a metagros sacas a slowbro bostezo sacrificas a politoed entra  Poliwrath +6 ",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "Umbreon --> Cambiar a Chansey, luego cambiar a Slowbro; usar Bostezo al enfrentar a Musharna, sacrificar a Politoed y entrar con Poliwrath +6; Volcarona con Absorbefuego ante Umbreon y Poliwrath con Cascada ante Musharna / Metagross🔔",
@@ -30,7 +31,7 @@
       ]
     },
     {
-      "detail": "Mienshao usa Patada salto  --> Cambiar a Slowbro  y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔Cascada a Reuniclus🔔",
+      "detail": "Si Mienshao ataca primero con Patada salto  --> Cambiar a Slowbro  y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔Cascada a Reuniclus🔔",
       "variant": []
     }
   ]

@@ -2,21 +2,25 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Poder Oculto --> Cambiar a Gengar",
+      "detail": "Esfera Aural --> Cambiar a Gengar",
       "variant": [
         {
-          "detail": "Si se queda --> Gengar otra vez +6 🔔Tiene banda focus  Barrido con Bola Sombra 🔔",
+          "detail": "Si se queda --> Gengar otra vez +6 🔔(Tiene banda focus y Barre con Bola Sombra)🔔",
           "variant": []
         },
         {
-          "detail": "Salamence --> Cambiar a Slowbro usar Bostezo x2 ; ver abajo",
+          "detail": "Salamence --> Cambiar a Slowbro, usar Bostezo (Ver abajo)",
           "variant": []
         },
         {
           "detail": "Rapidash --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {  
+          "detail": "👾Spiritomb (TESTEO)👾 --> Usa Proteccion, Bostezo luego Proteccion y Bostezo frente a Rapidash, sacrificar a Politoed; Poliwrath +6 🔔(Si Slowbro muere por critico trata de solucionar la situacion)🔔",
           "variant": []
         }
       ]

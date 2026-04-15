@@ -2,10 +2,10 @@
     "id": "golurk",
     "name": "Golurk",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "-",
+    "initialMove": "👀",
     "tricks": [
         {
-            "detail": "-",
+            "detail": "U cant see me",
             "variant": []
         }
     ]

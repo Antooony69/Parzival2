@@ -2,21 +2,21 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Volcarona +3; 🔔antes de barrer mantener PS por encima del 70%🔔",
+      "detail": "Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Volcarona +3 🔔(Antes de barrer mantener PS por encima del 70%)🔔",
       "variant": []
     },
     {
-      "detail": "Cascada --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +1; presionar hasta Milotic, luego usar Danza Aleteo una vez y presionar dos veces a Milotic;🔔 Milotic Crítico o primero curar al máximo🔔",
+      "detail": "Cascada --> Cambiar a Slowbro y usar Bostezo frente a Roserade; Teletransporte; Volcarona +1; presionar hasta Milotic, luego usar Danza Aleteo una vez y presionar dos veces a Milotic 🔔(Milotic Crítico o primero curar al máximo)🔔",
       "variant": []
     },
     {
       "detail": "Escaldar --> Cambiar a Slowbro",
       "variant": [
         {
-          "detail": "Si se queda --> Bostezo frente a Roserade; Volcarona +4 ",
+          "detail": "Si se queda --> Bostezo frente a Roserade; Volcarona +4 🔔(Puedes tomar un Atk. Especial X)🔔",
           "variant": []
         },
         {
@@ -24,7 +24,7 @@
           "variant": []
         },
         {
-          "detail": "Roserade --> Volcarona +4 ",
+          "detail": "Roserade --> Volcarona +4 🔔(Puedes tomar un Atk. Especial X)🔔",
           "variant": []
         }
       ]
@@ -37,7 +37,7 @@
       "detail": "Roserade --> Teletransporte",
       "variant": [
         {
-          "detail": "Movimiento Planta --> Volcarona +4",
+          "detail": "Movimiento Planta --> Volcarona +4 🔔(Puedes tomar un Atk. Especial X)🔔",
           "variant": []
         },
         {

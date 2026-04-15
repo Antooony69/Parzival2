@@ -2,8 +2,11 @@
   "id": "raichu",
   "name": "Raichu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Trampa Rocas, Sale Lucario → Cambia a Gengar, Otra Vez, +4 +2",
   "tricks": [
-    {"detail": "Utiliza Truco para encerrar Escaldar de Slowbro, entra Poliwrath 6+2", "variant": []}
+    {
+      "detail": "Mantener Otra Vez cada que puedas, a todos los barres con Bola Sombra",
+      "variant": []
+    }
   ]
 }

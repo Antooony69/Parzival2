@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Quedarse --> Psíquico al enfrentar a Blissey; luego Danza Aleteo dos veces y presionar hasta completar",
-      "variant": [
-        {
-          "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
+      "variant": []
     }
   ]
 }

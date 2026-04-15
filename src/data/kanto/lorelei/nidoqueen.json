@@ -2,8 +2,15 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Cambia a Slowbro, sale Hariyama → Bostezo",
   "tricks": [
-    {"detail": "Cambia a Excadrill 6+2 (Terremoto para matar a Lapras) (Si Lapras aparece mientras te estas preparando, cambia a Poliwrath 6+2)", "variant": []}
+    {
+      "detail": "Nidoking → Politoed (sacrificar). Poliwrath +6. (Piel Seca Jynx)",
+      "variant": []
+    },
+    {
+      "detail": "Jynx → Volcarona +3",
+      "variant": []
+    }
   ]
 }

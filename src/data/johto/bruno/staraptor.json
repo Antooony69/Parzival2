@@ -8,18 +8,18 @@
       "detail": "Tiene Vidaesfera → Bostezo.",
       "variant": [
         {
-          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 +2 precisión X.",
+          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 + precisión X.",
           "variant": []
         },
         {
           "detail": "Heracross → Protección, cambia a Chansey, sale Steelix. Pon trampa rocas y manten Amortiguador hasta el cambio.",
           "variant": [
             {
-              "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 +2 precisión X.",
+              "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 + precisión X.",
               "variant": []
             },
             {
-              "detail": "Staraptor → Gengar, Otra Vez, +2 +2 precisión X.",
+              "detail": "Staraptor → Gengar, Otra Vez, +2 + precisión X.",
               "variant": []
             }
           ]

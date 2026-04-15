@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "Eelektross --> Gengar usa Otra Vez , cambiar a Slowbro y usar Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Gengar --> usar Protección , cambiar de Poliwrath a Chandelure ; Volcarona con 2 Danza Aleteo (Psíquico a Gengar)",
-      "variant": []
-    },
-    {
-      "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar, Teletransporte , Volcarona con 2 Danza Aleteo (Psíquico Gengar lanzallamas Chandelure)",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Gengar --> usar Protección , cambiar de Poliwrath a Chandelure ; Volcarona con 2 Danza Aleteo (Psíquico a Gengar)",
+          "variant": []
+        },
+        {
+          "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar, Teletransporte , Volcarona con 2 Danza Aleteo (Psíquico Gengar lanzallamas Chandelure)",
+          "variant": []
+        }
+      ]
     }
   ]
 }

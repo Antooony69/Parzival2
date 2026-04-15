@@ -5,37 +5,38 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Absol --> Cambiar a Gengar y usar Otra Vez 🔔ver objeto🔔",
+      "detail": "Absol ➜ Cambiar a Gengar y usar Otra Vez 🔔ver objeto🔔",
       "variant": []
     },
     {
-      "detail": "Gengar primer Otra Vez --> Opciones para resolver",
+      "detail": "Gengar usa primero otra vez 🔔 mira abajo 🔔",
       "variant": [
         {
-          "detail": "Rápido --> Gengar +2 +2 + Precisión",
+          "detail": "Rápido ➜ Gengar +2 +2 + Precisión X",
           "variant": []
         },
         {
-          "detail": "Ahorrar dinero --> Gengar +6 +2; Bola Sombra a todo",
+          "detail": "Ahorrar dinero ➜ Gengar +6 +2 Bola Sombra a todo",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Gengar primer Otra Vez --> Gengar +4 (No usar Otra Vez)",
+      "detail": "Absol Usa primero A bocajarro ➜ Gengar +4 (No usar Otra Vez - absol pañuelo elegido)",
       "variant": []
     },
     {
-      "detail": "Aggron --> Sacrificar a Politoed; Poliwrath absorbe y debilita",
-      "variant": []
-    },
-    {
-      "detail": "Shiftry --> Volcarona +2; usar lanzallama contra Shiftry y el resto de plantas usar Psíquico",
-      "variant": []
-    },
-    {
-      "detail": "Hariyama --> Recibir Ataque X; completar con Cascada contra Hariyama",
-      "variant": []
+      "detail": "Aggron ➜ Sacrifica a Politoed ➜ Poliwrath Puño drenaje",
+      "variant": [
+        {
+          "detail": "Shiftry ➜ Volcarona x2 danza aleteo ➜ lanzallamas a Shiftry y el resto de plantas usar Psíquico",
+          "variant": []
+        },
+        {
+          "detail": "Hariyama ➜ Poliwrath  Ataque X  completar con Cascada contra Hariyama",
+          "variant": []
+        }
+      ]
     }
   ]
 }

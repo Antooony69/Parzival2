@@ -6,11 +6,12 @@
   "tricks": [
     {
       "detail": "Hydreigon --> Gengar +6 +2 🔔Onda Certera Purugly🔔",
-      "variant": []
-    },
-    {
-      "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matar a purugly 🐈",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matar a purugly 🐈",
+          "variant": []
+        }
+      ]
     }
   ]
 }

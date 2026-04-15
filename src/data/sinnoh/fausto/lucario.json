@@ -2,6 +2,6 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Usar Amortiguador  al enfrentar a Haxorus; usar Amortiguador  o Teletransporte  entrar con Gengar +6🔔",
+  "initialMove": "🔔Usar Amortiguador ➜ Frente a Haxorus usar Amortiguador o Teletransporte ➜ Gengar  otra vez +6🔔",
   "tricks": []
 }

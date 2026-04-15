@@ -41,14 +41,14 @@
           "detail": "Se queda → Derrótalo → Steelix → Slowbro, bostezo",
           "variant": [
             {
-              "detail": "Se queda → Protección → Bostezo → Heracross → Chansey → Gengar +4 +2 precisión X",
+              "detail": "Se queda → Protección → Bostezo → Heracross → Chansey → Gengar +4 + precisión X",
               "variant": []
             },
             {
               "detail": "Heracross → Chansey → Steelix → Trampa rocas",
               "variant": [
                 {
-                  "detail": "Machamp → Gengar → Chansey → Staraptor → Gengar +2 +2 precisión X",
+                  "detail": "Machamp → Gengar → Chansey → Staraptor → Gengar +2 + precisión X",
                   "variant": []
                 },
                 {

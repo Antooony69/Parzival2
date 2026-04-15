@@ -10,27 +10,29 @@
     },
     {
       "detail": "Sin Vidasfera + Psicocarga --> Teletransporte; Gengar usa un movimiento para caer debilitado",
-      "variant": []
-    },
-    {
-      "detail": "Whiscash --> Opción para resolver",
-      "variant": []
-    },
-    {
-      "detail": "Seguro --> Slowbro usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Arriesgar --> Sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Milotic --> Slowbro usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Togekiss --> Onda Certera y sacrificar; Slowbro aguanta el +x defensa especial y usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Whiscash --> Opción para resolver",
+          "variant": [
+            {
+              "detail": "✅Seguro✅ --> Slowbro usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "🚨Arriesgar🚨 --> Sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            } 
+          ]  
+       },
+       {
+         "detail": "Milotic --> Slowbro usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
+         "variant": []
+       },
+       {
+         "detail": "Togekiss --> Onda Certera y sacrificar; 💊Slowbro toma defensa especial X💊 y usa Bostezo frente a Roserade; sacrificar a Politoed; Poliwrath +6",
+         "variant": []
+       }  
+      ]   
     },
     {
       "detail": "Eelektross --> Gengar usa Otra Vez; cambiar a Slowbro; usar Bostezo; sacrificar a Politoed; Poliwrath +6",

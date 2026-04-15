@@ -5,18 +5,18 @@
   "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Lucario --> Gengar +4 +2 +1 precisión",
+      "detail": "Lucario ➜ Gengar usa Otra Vez ➜ Slowbro usa Bostezo ➜ sacrifica a Palpitoad ➜ Poliwrath +6 🐸🥊",
       "variant": []
     },
     {
-      "detail": "Eelektross --> Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo",
+      "detail": "Eelektross ➜ Gengar usa Otra Vez ➜ cambiar a Slowbro y usar Bostezo",
       "variant": [
         {
-          "detail": "Gengar --> usar Protección, cambiar de Poliwrath a Chandelure; Volcarona con 2 Danza Aleteo (🔔Psíquico a Gengar🔔)",
+          "detail": "Gengar ➜ usar Protección, cambiar de Poliwrath a Chandelure ➜ Volcarona con 2 Danza Aleteo (🔔Psíquico a Gengar🔔)",
           "variant": []
         },
         {
-          "detail": "Chandelure --> usar Protección y Bostezo frente a Gengar, Teletransporte; Volcarona con 2 Danza Aleteo (🔔Psíquico a Gengar,lanzallamas Chandelure🔔)",
+          "detail": "Chandelure ➜ usar Protección y Bostezo frente a Gengar ➜ Teletransporte ➜ Volcarona con 2 Danza Aleteo (🔔Psíquico a Gengar,lanzallamas Chandelure🔔)",
           "variant": []
         }
       ]

@@ -6,31 +6,33 @@
   "tricks": [
     {
       "detail": "Si se queda --> Ver movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Giro Bola --> Cambiar a Volcarona; usar Especial X y barrer; 🔔si está quemado bronzong puedes usar Danza Aleteo x2 y 🔔usar ataques súper efectivos🔔",
-      "variant": []
-    },
-    {
-      "detail": "Autodestrucción frente a Chansey --> Sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Cabezazo Zen / Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Giro Bola --> Cambiar a Volcarona; usar Especial X y barrer; 🔔si está quemado bronzong puedes usar Danza Aleteo x2 y 🔔usar ataques súper efectivos🔔",
+          "variant": []
+        },
+        {
+          "detail": "Autodestrucción frente a Chansey --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Cabezazo Zen / Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Si usa Autodestrucción y sale Nidoking --> Chansey usa Amortiguador para curar al máximo",
-      "variant": []
-    },
-    {
-      "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Hariyama --> Ver objeto",
@@ -47,15 +49,16 @@
     },
     {
       "detail": "Walrein o Dewgong --> Gengar +2",
-      "variant": []
-    },
-    {
-      "detail": "Si se queda --> Gengar +6",
-      "variant": []
-    },
-    {
-      "detail": "Cambia a Lapras --> Presionar hasta Bronzong; Volcarona +1",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si se queda --> Gengar +6",
+          "variant": []
+        },
+        {
+          "detail": "Cambia a Lapras --> Presionar hasta Bronzong; Volcarona +1",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Lucario --> Gengar +4 +2; 🔔barrer con Bola Sombra🔔",

@@ -2,18 +2,18 @@
   "id": "conkeldurr",
   "name": "Conkeldurr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 entrar con Gengar +2",
+  "initialMove": "🪨 Trampa Rocas 🪨  Gengar Otra vez +2",
   "tricks": [
     {
-      "detail": "Si se queda --> Gengar  +4 + Precisión ",
+      "detail": "Conkeldur ➜ Gengar +4 + Precisión X ",
       "variant": []
     },
     {
-      "detail": "Salamence --> Atacar hasta debilitar al enfrentar a Steelix; sacrificar a Politoed  entrar con Poliwrath usar Ataque X y presionar con Cascada  a Steelix / Conkeldurr restante con Puño Drenaje ",
+      "detail": "Salamence ➜ Bola sombra a Salamance ➜Frente a Steelix ➜ sacrifica a Politoed ➜ Poliwrath usar Ataque X y presionar 🔔 Cascada  a Steelix / Conkeldurr Puño Drenaje🔔 ",
       "variant": []
     },
     {
-      "detail": "Ludicolo --> Cambiar a Slowbro  y usar Bostezo ; sacrificar a Politoed ; entrar con Poliwrath +6",
+      "detail": "Ludicolo ➜  Slowbro , Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
       "variant": []
     }
   ]

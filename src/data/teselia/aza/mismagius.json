@@ -5,33 +5,33 @@
   "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Onda Certera de (Zoroark) --> Gengar usa Otra Vez cambiar a Slowbro y usar Bostezo hasta que salga Mismagius ; cambiar a Volcarona y usar Danza Aleteo x2",
+      "detail": "Onda Certera de (Zoroark) ➜ Gengar usa Otra Vez cambiar a Slowbro y usar Bostezo hasta que salga Mismagius ➜  Volcarona x2 danza aleteo",
       "variant": []
     },
     {
-      "detail": "Frente a Samurot --> Cambiar a Slowbro y luego cambiar a Chansey",
+      "detail": "Frente a Samurot ➜ Cambiar a Slowbro y luego cambiar a Chansey",
       "variant": [
         {
-          "detail": "Poder Oculto Eléctrico --> Cambiar a Slowbro y usar Bostezo sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Poder Oculto Eléctrico ➜ Cambiar a Slowbro y usar Bostezo sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
           "variant": []
         },
         {
-          "detail": "Serperior --> Usar Amortiguador",
+          "detail": "Serperior ➜ Usar Amortiguador",
           "variant": [
             {
-              "detail": "Frente a Samurot --> Gengar +2 +2 +1 precision",
+              "detail": "Frente a Samurot ➜ Gengar +2 +2 + precision X",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Tyranitar --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Tyranitar ➜ Sacrifica a Politoed ➜ Poliwrath +6",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Absol --> Gengar +2 +1 precision otra vez 🔔absol banda focus 🔔",
+      "detail": "Absol ➜ Gengar Otra vez +2 + precision X  🔔absol banda focus 🔔",
       "variant": []
     }
   ]

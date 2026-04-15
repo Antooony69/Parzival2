@@ -5,30 +5,30 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Blaziken --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne",
+      "detail": "Blaziken ➜ Slowbro , Bostezo ➜ Frente a Maractus 🔔Mira Abajo 🔔 ",
       "variant": [
         {
-          "detail": "Rápido --> Sacrificar a Politoed entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "detail": "Rápido ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje Magmortar)🔔",
           "variant": []
         },
         {
-          "detail": "Ahorrar dinero --> Entrar con Volcarona +3",
+          "detail": "Ahorrar dinero ➜ Entrar con Volcarona x3 Danza aleteo",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Bouffalant --> Gengar usa Maquinación  al enfrentar a Dragonite; atacar hasta debilitar",
+      "detail": "Bouffalant ➜ Gengar usa Maquinación ➜ Si entra Dragonite eliminalo con bola sombra",
       "variant": [
         {
-          "detail": "Magmortar --> Sacrificar a Politoed entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "detail": "Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje contra Magmortar)🔔",
           "variant": []
         },
         {
-          "detail": "Steelix --> Cambiar a Slowbro  y usar Bostezo  sacrificar a Politoed  entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "detail": "Steelix ➜  Slowbro , Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje contra Magmortar)🔔",
           "variant": [
             {
-              "detail": "🚨Arriesgado🚨 --> Sacrificar directamente a Politoed  entrar con Poliwrath +6",
+              "detail": "🚨Arriesgado🚨 ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
               "variant": []
             }
           ]

@@ -19,27 +19,29 @@
     },
     {
       "detail": "Haxorus --> Gengar +4 🔔Bola Sombra a todo🔔",
-      "variant": []
-    },
-    {
-      "detail": "Conkeldurr --> Gengar --> Cambiar a Politoed y luego a Gengar +4",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Conkeldurr --> Gengar --> Cambiar a Politoed y luego a Gengar +4",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Aggron --> Cambiar a Poliwrath y matalo",
-      "variant": []
-    },
-    {
-      "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar Amortiguador al enfrentar a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial",
-      "variant": []
-    },
-    {
-      "detail": "Conkeldurr --> Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial",
-      "variant": []
-    },
-    {
-      "detail": "Dusknoir --> Sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar Amortiguador al enfrentar a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial",
+          "variant": []
+        },
+        {
+          "detail": "Conkeldurr --> Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial",
+          "variant": []
+        },
+        {
+          "detail": "Dusknoir --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }

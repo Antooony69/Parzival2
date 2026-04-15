@@ -17,11 +17,12 @@
         },
         {
           "detail": "Serperior --> Usar Amortiguador",
-          "variant": []
-        },
-        {
-          "detail": "Frente a Samurot --> Gengar +2 +2 +1 precision",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Frente a Samurot --> Gengar +2 +2 +1 precision",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "Tyranitar --> Sacrificar a Politoed y entrar con Poliwrath +6",

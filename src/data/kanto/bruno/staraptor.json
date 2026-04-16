@@ -2,19 +2,33 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Cambia a Gengar, Usa Otra Vez",
   "tricks": [
     {
-      "detail": "A Bocajarro → Colocar Trampa Rocas, Chandelure usa Lanzallamas, entra Slowbro, Poliwrath 6+0. / Slowbro necesita dos golpes. Si hace Tambor y sale Machamp, no importa, simplemente barre.",
-      "variant": []
+      "detail": "Si eres más rapido → Gengar +2 y golpea con Onda Certera, Si fallas usa Otra Vez y vuelve a Intentar → Sale Steelix",
+      "variant": [
+        {
+          "detail": "Steelix → Chansey, trampa rocas. Sale un tipo lucha → Gengar, Otra Vez, +2 + Precisión X",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Steelix con Chaleco→ Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "Steelix con Casco Dentado O rev. metálico → Cloyster +4 + Medicina de At. Esp.",
-      "variant": []
+      "detail": "Si eres más lento → Slowbro, bostezo. Sale Steelix → Cambia a Chansey, amortiguador",
+      "variant": [
+        {
+          "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Muk → Amortiguador hasta que salga Staraptor",
+          "variant": []
+        },
+        {
+          "detail": "Staraptor → Gengar, +4 + Precisión X (No es necesario Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "Pokemon Tipo Lucha → Gengar, Otra Vez, +4 +2 + Precisión (Mantener Otra Vez)",
+          "variant": []
+        }
+      ]
     }
   ]
 }

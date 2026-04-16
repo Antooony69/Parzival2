@@ -2,15 +2,24 @@
   "id": "hydreigon",
   "name": "Hydreigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
+  "initialMove": "Trampa Rocas",
   "tricks": [
     {
-      "detail": "Hydreigon no se retira → Scrafty +2 / Si queda bloqueado Paliza, usar A Bocajarro para matar a Arbok / Si rota a Rotom, Excadrill mete Rocas 4+2",
-      "variant": []
-    },
+      "detail": "Onda Certera → Cambia a Slowbro y usa Bostezo",
+      "variant": [
+        {
+          "detail": "Si entra Rotom --> Usa Proteccion y Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Otro --> Sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+          "variant": []
+        }  
+      ]  
+    }, 
     {
-      "detail": "Si entra Rotom → Cambiar a Metagross para colocar Rocas, luego Poliwrath +6+2 / puño hielo contra gengar",
-      "variant": []
+      "detail": "Alakazam --> Usa Teletransporte y saca a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+      "variant": [] 
     }
   ]
 }

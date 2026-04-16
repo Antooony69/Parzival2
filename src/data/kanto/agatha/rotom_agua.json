@@ -5,44 +5,32 @@
   "initialMove": "TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "Rotom-W (Ataca primero), HidroBomba → Politoed +6+2",
-      "variant": []
-    },
-    {
-      "detail": "Rotom-W (Ataca primero), Rayo / Trueno → Excadrill +6+2. / Terremoto mata a Gengar. Si falla colocar rocas (por parálisis), Excadrill vuelve a ponerlas +6+2",
-      "variant": []
-    },
-    {
-      "detail": "Metagross (Ataca primero), Rayo / Trueno → Excadrill +4+2 / Cabezahierro contra Gengar",
-      "variant": []
-    },
-    {
-      "detail": "Metagross (Ataca primero), HidroBomba → evalúa el daño:",
+      "detail": "Rayo → Varias Opciones",
       "variant": [
         {
-          "detail": "Si es 65% o más → Politoed +6+2"
+          "detail": "Estable → Toma X SpDef → Amortiguador hasta que salga Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
         },
         {
-          "detail": "Si es 40% (con crítico 60%) → Cambia a Poliwrath, luego a Metagross, espera que use Volt Switch. Si entra Krookodile, Cloyster +6. // Si sale Crobat usa Puño Trueno para forzar la salida de Krookodile // Surf para Gengar"
-        },
-        {
-          "detail": "Si falla Hidrobomba → Cambia a Politoed, luego a Metagross, evalúa situación:",
-          "variant": [
-            {
-              "detail": "Hydro Pump (sin más) → Politoed +6+2"
-            },
-            {
-              "detail": "Voltiocambio y entra Krookodile → Cloyster +6"
-            },
-            {
-              "detail": "Contra Crobat → Truco, encierra a Seismitoad/Krookodile, Cloyster +6"
-            }
-          ]
+          "detail": "RNG → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Entra KROOKODILE → Cloyster +6",
+      "detail": "Hidrobomba → Teletransporte a Slowbro, Bostezo. sale Gengar → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak → Cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile → Teletransporte a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     }
   ]

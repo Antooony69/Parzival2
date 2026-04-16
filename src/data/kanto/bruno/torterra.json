@@ -2,10 +2,10 @@
   "id": "torterra",
   "name": "Torterra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Cambia a Slowbro, Bostezo →",
   "tricks": [
     {
-      "detail": "TERREMOTO → Cloyster +4 + Medicina de At. Esp.",
+      "detail": "Sale Blastoise → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     }
   ]

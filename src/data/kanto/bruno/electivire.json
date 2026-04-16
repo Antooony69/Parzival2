@@ -2,44 +2,76 @@
   "id": "electivire",
   "name": "Electivire",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Cambia a Gengar, Otra Vez → Slowbro",
   "tricks": [
     {
-      "detail": "Si cambia por RHYPERIOR, saca a Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "Si cambia por STEELIX, saca a Cloyster +4 + Especial X",
-      "variant": []
-    },
-    {
-      "detail": "MACHAMP → cambia a Chandelure y analiza:",
+      "detail": "Se queda → Bostezo",
       "variant": [
         {
-          "detail": "Si MACHAMP NO CAMBIA, utiliza Poder Oculto para bajar vida, luego cambia a Metagross ya que saldrá Blastoise, utiliza Trampa Rocas para luego cambiar a Poliwrath Tambor + Vel x"
+          "detail": "Se queda → Politoed (sacrificar), recibe Voltio Cruel → Cambia a Chansey, trampa rocas",
+          "variant": [
+            {
+              "detail": "Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Machamp → Gengar, Otra Vez → Cambia a Chansey, sale Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "GLISCOR → Truco con Chandelure, cambia a Cloyster +4 + Especial X / Carámbano para Hitmonlee"
+          "detail": "Heracross → Protección, luego Bostezo, sale Salamence → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Blastoise → Cambia a Chansey, amortiguador → Sale Hitmonlee, cambia a Gengar → Saca Slowbro, teletransporte → Volcarona +1",
+          "variant": []
+        },
+        {
+          "detail": "Steelix → Cambia a Chansey, amortiguador. Sale Machamp → Gengar, Otra Vez, +2 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "Metagross → sigue su guía ↓↓↓",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Si cambia a Metagross, utiliza Trampa Rocas y analiza:",
+      "detail": "Metagross → Bostezo",
       "variant": [
         {
-          "detail": "Si Metagross no cambia, saca a Chandelure y utiliza 2 Especial X, luego usa lanzallamas para barrer."
+          "detail": "Hierba Lazo → Cambia a Chansey, amortiguador. Sale Hitmonlee, cambia a Gengar luego a Slowbro, bostezo",
+          "variant": [
+            {
+              "detail": "Electivire → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise → Volcarona +1",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Si entra Machamp, cambia a Chandelure y utiliza Truco para encerrar en Roca Afilada, luego entra Excadrill 4+2. (Si al cambiar a Chandelure sale Gliscor igual utiliza Truco para encerrar en Terremoto, luego saca a Cloyster +4"
-        },
-        {
-          "detail": "Si entra Gliscor directamente, sacrifica a Metagross, Chandelure utiliza Truco para encerrar en Terremoto, saca a Cloyster +4"
+          "detail": "Heracross → Protección, luego Bostezo, sale Salamence → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Si Electivire utiliza Llamarada / Lanzallamas, cambia a Chandelure para utilizar Truco, luego entra Excadrill 4+2",
-      "variant": []
+      "detail": "Blastoise → Cambia a Chansey, amortiguador. sale Hitmonlee → Gengar, luego a Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Electivire → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Blastoise → Volcarona +1",
+          "variant": []
+        }
+      ]
     }
   ]
 }

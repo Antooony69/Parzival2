@@ -2,22 +2,6 @@
   "id": "toxicroak",
   "name": "Toxicroak",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
-  "tricks": [
-    {
-      "detail": "No se va → Truco para bloquear en Roca Afilada, Scrafty +2",
-      "variant": [
-        {
-          "detail": "Puño Drenaje + Paliza mata a Toxicroak, Puño Drenaje + A Bocajarro mata a Mandibuzz"
-        },
-        {
-          "detail": "Si está envenenado, primero curar el veneno"
-        }
-      ]
-    },
-    {
-      "detail": "Krookodile → Truco para bloquear en Terremoto, Cloyster +4",
-      "variant": []
-    }
-  ]
+  "initialMove": "Cambia a Gengar y usa Otra Vez luego Bola Sombra, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Cascada contra Gengar y Puño Hielo contra Toxicroak)🔔",
+  "tricks": []
 }

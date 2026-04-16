@@ -2,8 +2,28 @@
   "id": "vileplume",
   "name": "Vileplume",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Trampa Rocas → sale Bronzong → Encanto",
   "tricks": [
-    {"detail": "Utiliza Lanzallamas para derrotar, saldrá Bronzong así que cambia a Excadrill 6+2 y Trampa Rocas", "variant": []}
+    {
+      "detail": "Ataque Psíquico / Terremoto → cambiar a Slowbro → Bostezo → sale Nidoking → Politoed (sacrificar) → Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Explosión → sale Chansey → Politoed (sacrificar) → Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Explosión → sale Nidoking → Amortiguador → HP full",
+      "variant": [
+        {
+          "detail": "Se queda → Teletransporte → Slowbro → Bostezo → Politoed (sacrificar) → Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Sale Chansey → Politoed (sacrificar) → Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
   ]
 }

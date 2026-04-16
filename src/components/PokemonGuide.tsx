@@ -233,8 +233,8 @@ export default function PokemonGuide() {
               <li>Equipo correctamente configurado.</li>
               <li>Equipos económicos pueden fallar.</li>
               <li>Desactivar EXP Share/Reamplificador.</li>
-              <li>PUEDES SEGUIR LA RUTA A TU MANERA, SOLO DAMOS UNA OPCIÓN</li>
-              <li>Reporta errores en Discord.</li>
+              <li>Utilizar "Otra Vez" con Gengar a menos que la guía indique lo contrario.</li>
+              <li>Reportar errores en Discord.</li>
             </ul>
           )}
         </div>

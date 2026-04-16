@@ -5,24 +5,26 @@
   "initialMove": "🪨Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Breloom --> Gengar +4 y Precisión",
-      "variant": []
-    },
-    {
-      "detail": "Huir de Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "Breloom --> Gengar, Otra Vez, +4 y Precisión (Mantener Otra Vez)",
+      "variant": [
+        {
+          "detail": "Huir de Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Medicham --> Cambiar a Slowbro y usar Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Toxicroak / Conkeldurr --> Cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",

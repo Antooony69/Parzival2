@@ -41,29 +41,29 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "detail": "Lopunny / Medicham → Slowbro → Bostezo (vs Maractus) → Volcarona +3 🔔 Puede usar Especial X y Gigadrenado a Steelix 🔔",
+      "variant": []
+    },
+    {
+      "detail": "Blaziken / Arcanine → Slowbro → Bostezo (vs Maractus)",
+      "variant": [
         {
-          "detail": "Lopunny / Medicham → Slowbro → Bostezo (vs Maractus) → Volcarona +3 🔔 Puede usar Especial X y Gigadrenado a Steelix 🔔",
+          "detail": "Rápido → Sacrificar a Politoed → Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Blaziken / Arcanine → Slowbro → Bostezo (vs Maractus)",
-          "variant": [
-            {
-              "detail": "Rápido → Sacrificar a Politoed → Poliwrath +6",
-              "variant": []
-            },
-            {
-              "detail": "Ahorrar dinero → Volcarona +3",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Camerupt → Slowbro → Bostezo → Sacrificar a Politoed → Poliwrath +6",
+          "detail": "Ahorrar dinero → Volcarona +3",
           "variant": []
         }
       ]
+    },
+    {
+      "detail": "Camerupt → Slowbro → Bostezo → Sacrificar a Politoed → Poliwrath +6",
+      "variant": []
     }
   ]
 }

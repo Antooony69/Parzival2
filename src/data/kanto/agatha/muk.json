@@ -2,21 +2,23 @@
   "id": "muk",
   "name": "Muk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Encanto → Teletransporte",
   "tricks": [
     {
-      "detail": "Puño Fuego → Chandelure usa Lanzallamas para debilitar, observa al siguiente:",
+      "detail": "Se queda → Slowbro, Bostezo",
       "variant": [
         {
-          "detail": "Si entra Gyarados → Poliwrath +6+2"
+          "detail": "Rotom → Protección, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
         },
         {
-          "detail": "Si entra Seismitoad → Cloyster +6"
+          "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Seismitoad → Cloyster +6",
+      "detail": "Gyarados → Volcarona → Slowbro, bostezo → Continúa arriba ↑",
       "variant": []
     }
   ]

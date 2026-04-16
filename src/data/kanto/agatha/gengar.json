@@ -2,60 +2,128 @@
   "id": "gengar",
   "name": "Gengar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Trampa Rocas",
   "tricks": [
     {
-      "detail": "Lanzallamas [Zoroark disfrazado] → Elección:",
+      "detail": "Onda Certera → Mira el Objeto",
       "variant": [
         {
-          "detail": "Estilo seguro → Chandelure usa Lanzallamas para debilitar, entra Golduck, cambia a Poliwrath, luego a Chandelure para hacer Truco, se bloquea en Hidrocañón, Poliwrath 6+2, Puño Hielo para vencer a Drapion, Si aún no has derrotado a Mismagius usa Terremoto contra Gengar"
+          "detail": "Tiene Vidaesfera → Gengar, Otra Vez → Slowbro, Bostezo",
+          "variant": [
+            {
+              "detail": "Rotom → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "No tiene Vidaesfera → Mira el daño ↓",
+          "variant": [
+            {
+              "detail": "24 - 28 % (Critico 35 - 42 %) → Toma un X SpDef, Amortiguador y forza al cambio (si te reduce la defsp, toma otro X SpDef)",
+              "variant": [
+                {
+                  "detail": "Si se queda luego de 3 Amortiguador → Gengar, Otra Vez → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Krookodile → Teletransporte (mira el ataque)",
+                  "variant": [
+                    {
+                      "detail": "Terremoto → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+                      "variant": []
+                    },
+                    {
+                      "detail": "Triturar → Poliwrath +6 + Max Poción + Vel X",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "Crobat → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Arbok → Slowbro, Bostezo",
+                  "variant": [
+                    {
+                      "detail": "Rotom → Protección, luego bostezo → Politoed (sacrificar), Poliwrath +6",
+                      "variant": []
+                    },
+                    {
+                      "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "34 - 40 % (Critico 50 - 60 %) (Zoroark) → Saca a Slowbro",
+              "variant": [
+                {
+                  "detail": "No huye → Bostezo → Volcarona +1",
+                  "variant": []
+                },
+                {
+                  "detail": "Marowak → Bostezo, Teletransporte a Volcarona, +1",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Bola Sombra → Scrafty +2 + Raíz Energía + 1",
+      "detail": "Muk → Teletransporte a Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Se queda → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Rotom → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gengar/Seismitoad → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Marowak → Encanto, Teletransporte → Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Puño Trueno / Arbok → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gengar/Mismagius → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Toxicroak → Cambia a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Rayo → Excadrill 4+2 // Usa cabeza de hierro contra Gengar",
+      "detail": "Lucario → Cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Seismitoad → Revisar el objeto:",
-      "variant": [
-        {
-          "detail": "Restos → Cloyster +4. / Carámbano para vencer a Lucario"
-        },
-        {
-          "detail": "Casco Dentado / Gafas Elegidas → Cloyster +6. / Carámbano para vencer a Lucario y Houndoom"
-        }
-      ]
-    },
-    {
-      "detail": "KROOKODILE → Ver si tiene Intimidación:",
-      "variant": [
-        {
-          "detail": "Con Intimidación → Cloyster +4 / Surf con Gengar / Carámbano con Houndoom"
-        },
-        {
-          "detail": "SIN INTIMIDACIÓN → Cloyster +6. / Carámbano para vencer a Houndoom"
-        }
-      ]
-    },
-    {
-      "detail": "Marowak → Cloyster +6. / Surf para matar a Gengar / Si queda bloqueado en Surf, Carámbano para vencer a Rotom",
+      "detail": "Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
       "variant": []
-    },
-    {
-      "detail": "Hydreigon → Poner Trampa Rocas, cambiar a Chandelure y usar Truco:",
-      "variant": [
-        {
-          "detail": "Hydreigon no se retira → Scrafty +2"
-        },
-        {
-          "detail": "Sale Rotom → Poliwrath 6+2 / A Bocajarro para vencer a Arbok"
-        }
-      ]
     }
   ]
 }

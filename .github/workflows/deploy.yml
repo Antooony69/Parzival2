@@ -1,5 +1,10 @@
 name: Deploy to GitHub Pages
 
+# Esto evita que se amontonen los despliegues y cancela los anteriores automáticamente
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 on:
   push:
     branches: [ master ]

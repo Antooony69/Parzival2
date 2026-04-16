@@ -5,62 +5,65 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Observar habilidad/movimiento",
+      "detail": "Si se queda → Observar habilidad/movimiento",
       "variant": [
         {
-          "detail": "Puño Drenaje --> Usar Teletransporte; entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+          "detail": "Puño Drenaje → Teletransporte → Slowbro → Bostezo → Sacrificar a Politoed → Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Esfuerzo --> Usar Amortiguador",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Lopunny / Medicham --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3, 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar --> Entrar con Gengar +2 y presionar hasta Steelix; entrar con Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
-      "variant": []
-    },
-    {
-      "detail": "Bouffalant --> Cambiar a Gengar y usar Maquinación al enfrentar a Dragonite; atacar hasta debilitar",
-      "variant": []
-    },
-    {
-      "detail": "Magmortar --> Sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Steelix --> Entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Arriesgado --> Sacrificar directamente a Politoed; entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Lopunny / Medicham --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne; entrar con Volcarona +3, 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
-      "variant": []
-    },
-    {
-      "detail": "Blaziken / Arcanine --> Cambiar a Slowbro y usar Bostezo al enfrentar a Cacturne",
-      "variant": [
+          "detail": "Esfuerzo → Amortiguador",
+          "variant": [
+            {
+              "detail": "Lopunny / Medicham → Slowbro → Bostezo (vs Maractus) → Volcarona +3 🔔 Puede usar Especial X y Gigadrenado a Steelix 🔔",
+              "variant": []
+            },
+            {
+              "detail": "Magmortar → Gengar +2 → Presionar hasta Steelix → Slowbro → Bostezo (vs Maractus) → Volcarona +3 🔔 Puede usar Especial X y Gigadrenado a Steelix 🔔",
+              "variant": []
+            }
+          ]
+        },
         {
-          "detail": "Rápido --> Sacrificar a Politoed; entrar con Poliwrath +6",
+          "detail": "Bouffalant → Gengar → Maquinación (vs Dragonite) → Atacar hasta debilitar",
+          "variant": [
+            {
+              "detail": "Magmortar → Sacrificar a Politoed → Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Steelix → Slowbro → Bostezo → Sacrificar a Politoed → Poliwrath +6",
+              "variant": [
+                {
+                  "detail": "Arriesgado → Sacrificar directamente a Politoed → Poliwrath +6",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "Lopunny / Medicham → Slowbro → Bostezo (vs Maractus) → Volcarona +3 🔔 Puede usar Especial X y Gigadrenado a Steelix 🔔",
           "variant": []
         },
         {
-          "detail": "Ahorrar dinero --> Entrar con Volcarona +3",
+          "detail": "Blaziken / Arcanine → Slowbro → Bostezo (vs Maractus)",
+          "variant": [
+            {
+              "detail": "Rápido → Sacrificar a Politoed → Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Ahorrar dinero → Volcarona +3",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Camerupt → Slowbro → Bostezo → Sacrificar a Politoed → Poliwrath +6",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "Camerupt --> Entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": []
     }
   ]
 }

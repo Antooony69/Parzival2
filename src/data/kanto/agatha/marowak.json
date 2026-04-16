@@ -2,15 +2,33 @@
   "id": "marowak",
   "name": "Marowak",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "ENCANTO",
   "tricks": [
     {
-      "detail": "Si utiliza Terremoto, cambia a Cloyster +4 (Utiliza Carámbano con Gengar)",
-      "variant": []
+      "detail": "Huesomerang → Teletransporte a Slowbro",
+      "variant": [
+        {
+          "detail": "Se queda → Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Arbok → Bostezo, Protección → Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Si utiliza Huesomerang, cambia a Cloyster +6 (Utiliza Surf con Gengar)(Si surf esta bloqueado usa Carambano contra Rotom)",
-      "variant": []
+      "detail": "Terremoto → Teletransporte a Slowbro, luego cambiar a Volcarona",
+      "variant": [
+        {
+          "detail": "Rotom → Danza Aleteo → Presionar hasta Houndoom, usar 2 danza aleteo y terminar",
+          "variant": []
+        },
+        {
+          "detail": "Gengar → Volcarona, +1 + AtkSp X",
+          "variant": []
+        }
+      ]
     }
   ]
 }

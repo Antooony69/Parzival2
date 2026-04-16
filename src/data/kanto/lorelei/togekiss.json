@@ -2,10 +2,11 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Cambia a Slowbro, sale Hariyama",
   "tricks": [
-    {"detail": "Nidoking / Nidoqueen, usa Truco para bloquear movimiento de tierra, entra Excadrill 6+2 (Usa terremoto para matar a Lapras)", "variant": []},
-    {"detail": "Hariyama, usa Truco para bloquear Roca Afilada, sale Scrafty +3 (Usa A Bocajarro para matar a Hariyama, Puño Drenaje para Lapras, Paliza para Nidoqueen)", "variant": []},
-    {"detail": "Si No Cambia usa Lanzallamas para bajar la vida a Togekiss, luego cambia a Scrafty y vuelve a cambiar Chandelure para usar Truco y encerrar el Roca Afilada, saca a Scrafty +3 (Usa A Bocajarro para matar a Conkeldurr, Puño Drenaje para Lapras, Paliza para Gliscor)", "variant": []}
+    {
+      "detail": "Bostezo → Politoed (sacrificar). Poliwrath +6. (Piel Seca Jynx)",
+      "variant": []
+    }
   ]
 }

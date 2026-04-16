@@ -2,11 +2,6 @@
   "id": "crobat",
   "name": "Crobat",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "Encerrar a Krookodile o Seismitoad → Cambiar a Cloyster +6 (Usa Carámbano contra Houndoom)",
-      "variant": []
-    }
-  ]
+  "initialMove": "Trampa Rocas, cambia a Slowbro luego usa Bostezo frente a Gengar, sacrifica a Politoed, entra Poliwrath +6 🔔(Cascada contra Gengar y Puño drenaje contra Seismitoad)🔔",
+  "tricks": []
 }

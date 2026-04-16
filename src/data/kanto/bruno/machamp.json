@@ -2,25 +2,88 @@
   "id": "machamp",
   "name": "Machamp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Cambiar a Gengar → Otra Vez",
   "tricks": [
     {
-      "detail": "Puño Dinámico → Utiliza Truco y observa:",
+      "detail": "Puño Dinámico → Cambiar a Slowbro",
       "variant": [
         {
-          "detail": "ROCA AFILADA, cambia a Scrafty +3 (Paliza para matar a Hitmonlee, A Bocajarro para matar a Metagross) (Si chandelure muere por el Roca Afilada usa +1 Danza Dragón Extra) (puedes usar 1 Puño Drenaje cuando estes a +2 para recuperar Salud)",
+          "detail": "Se queda → Bostezo",
           "variant": [
             {
-              "detail": "Si Scrafty llega a morir, saca a Metagross y utiliza Truco, si Steelix no se mueve, cambia a Chandelure y luego a Cloyster +6. (Si accidentalmente se encierra Muk, cambia a Chandelure para Revivir a Scrafty, usa Truco 2 veces y cambia a Scrafty +3",
+              "detail": "Eelektross → Sacrificar a Politoed → Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Electivire → Chansey → Amortiguador → Sale Hitmonlee → Gengar → Otra Vez → Slowbro → Volcarona +1",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise → Sacrificar a Politoed → Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Steelix → Chansey → Amortiguador",
+              "variant": [
+                {
+                  "detail": "Staraptor → Gengar +4 (Otra Vez no es necesario)",
+                  "variant": []
+                },
+                {
+                  "detail": "Ursaring / Pokémon tipo lucha → Gengar → Otra Vez → +4 +2 + Precisión X (mantener Otra Vez)",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "Torterra → Bostezo → Sacrificar a Politoed → Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Muk → Chansey → Trampa Rocas",
+          "variant": [
+            {
+              "detail": "Staraptor → Gengar +4 (Otra Vez no es necesario)",
+              "variant": []
+            },
+            {
+              "detail": "Ursaring / Pokémon tipo lucha → Gengar → Otra Vez → +4 +2 + Precisión X (mantener Otra Vez)",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Vendetta, Cambia a Scrafty +3 (A Bocajarro para matar a Machamp)",
+          "detail": "Seismitoad → Bostezo → Sale Eelektross → Sacrificar a Politoed → Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Staraptor → Bostezo → ⚠️ Guía inconclusa",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Drenaje + Llamaesfera → Gengar → Otra Vez → +2 → Bola Sombra",
+      "variant": [
+        {
+          "detail": "Steelix → Chansey → Trampa Rocas → Sale Staraptor → Gengar → Otra Vez → +2 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "Krookodile → Chansey → Trampa Rocas → Sale Metagross → Slowbro → Bostezo → Sale Salamence → Teletransporte → Volcarona +1",
+          "variant": []
+        },
+        {
+          "detail": "Cambia a Metagross mientras te boosteas → Volcarona → Sale Krookodile → Chansey → Trampa Rocas",
           "variant": [
             {
-              "detail": "Si cambia a Blastoise, saca a Poliwrath 6+4 (Puño Hielo para matar a Gliscor) (Si mueres frente a Hitmonlee, Chandelure utiliza Truco y lo encierra en avalancha, cambias a Scrafty +3)",
+              "detail": "Machamp → Slowbro → Bostezo → Sale Salamence → Teletransporte → Volcarona +1",
+              "variant": []
+            },
+            {
+              "detail": "Slowbro rival → Gengar +4 (Otra Vez no es necesario)",
               "variant": []
             }
           ]
@@ -28,41 +91,17 @@
       ]
     },
     {
-      "detail": "Puño Drenaje → Utiliza Truco:",
+      "detail": "Puño Drenaje SIN Llamaesfera → Gengar → Otra Vez → +2",
       "variant": [
         {
-          "detail": "Roca Afilada (Baya Atania) → Scrafty +3. / Si Chandelure muere, cambia a Excadrill para quedar 6+2",
+          "detail": "Se queda → Gengar +4 +2 (mantener Otra Vez)",
           "variant": []
         },
         {
-          "detail": "Roca Afilada (Llama Esfera) → Scrafty +1, luego usa Puño Drenaje para curarse y después queda +2 / Usa Paliza + Puño Drenaje para Steelix y A Bocajarro para Hitmontop",
-          "variant": []
-        },
-        {
-          "detail": "Vendetta → Scrafty usa medicina de Defensa Especial y queda en +3 / Con Puño Drenaje mata a Lucario y Krookodile. / Si Lucario mata a Scrafty, entra Metagross con Truco, revive a Chandelure y Chandelure queda en +2+2",
-          "variant": []
-        },
-        {
-          "detail": "RHYPERIOR → Cloyster +4. / Carámbano para Heracross",
+          "detail": "Rhyperior → Chansey → Amortiguador → Sale Heracross → Amortiguador → Recibes A Bocajarro → Gengar → Otra Vez → +4",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "Metagross → Truco y lo encierras en Avalancha, luego cambia a Metagross para usar Truco y encerrarlo en Krookodile, Cloyster +4. / Carámbano para matar a Lucario",
-      "variant": []
-    },
-    {
-      "detail": "Steelix → Truco y lo encierras en Terremoto, Cloyster + 4 + medicina de Ataque Especial",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile → Truco y lo encierras en Terremoto, Cloyster +4 . / Carámbano para matar a Lucario",
-      "variant": []
-    },
-    {
-      "detail": "Aggron → usa Truco para bloquear en Testarazo, luego Excadrill usa Defensa X +6+2.",
-      "variant": []
     }
   ]
 }

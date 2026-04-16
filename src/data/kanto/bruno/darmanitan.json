@@ -2,14 +2,18 @@
   "id": "darmanitan",
   "name": "Darmanitan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "VARIAS OPCIONES",
   "tricks": [
     {
-      "detail": "Si quieres hacerlo rápido → Chandelure 4+0, Lanzallamas para barrer el equipo.",
+      "detail": "Ahorro → Volcarona +3 ⚠️ Cuidado con Superpower crítico (~51% PS)",
       "variant": []
     },
     {
-      "detail": "Si quieres ahorrar → Truco, cambia a Scrafty +3 ( A Bocajarro para matar a Machamp o Metagross)",
+      "detail": "RNG → Cambiar a Politoed (sacrificar) → Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Estable → Cambiar a Slowbro → Bostezo → Politoed (sacrificar) → Poliwrath +6",
       "variant": []
     }
   ]

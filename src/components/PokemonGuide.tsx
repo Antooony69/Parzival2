@@ -162,7 +162,7 @@ export default function PokemonGuide() {
               <span className="inline-flex items-center hover:text-blue-600 transition-colors">
                 <img
                   className="w-6 h-6"
-                  src={`${import.meta.env.BASE_URL}images/youtube.png`}
+                  src={`${import.meta.env.BASE_URL}images/PaxpoYT.png`}
                   alt="Guía en Video"
                 />
                 <span className="pl-2">

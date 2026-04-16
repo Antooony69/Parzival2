@@ -2,14 +2,14 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro y usar Bostezo frente a Nidoking/queen;luego usar Teletransporte, entrar con Volcarona y usar un movimiento según la situación.",
+  "initialMove": "Cambiar a Slowbro y usar Bostezo frente a Nidoking/queen;luego usar Teletransporte, entrar con Volcarona +1. (Mira la situación)",
   "tricks": [
     {
-      "detail": "Si no se retira --> Usar Psíquico hasta caer debilitado frente a blissey r ; luego usar Danza Aleteo dos veces y atacar",
+      "detail": "Se queda --> Usar Psíquico hasta caer debilitado, frente a blissey usar Danza Aleteo dos veces y atacar",
       "variant": []
     },
     {
-      "detail": "Blissey --> Entonces usar Danza Aleteo dos veces",
+      "detail": "Blissey --> Usar Danza Aleteo dos veces y atacar",
       "variant": []
     }
   ]

@@ -5,12 +5,21 @@
   "initialMove": "OBSERVA SI TIENE INTIMIDACIÓN",
   "tricks": [
     {
-      "detail": "Si tiene, utiliza Truco para encerrar en Terremoto, saca a Cloyster +4",
+      "detail": "Si tiene, trampa rocas y sale Toxicroak → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6 (Tiene piel seca)",
       "variant": []
     },
     {
-      "detail": "No tiene, cambia directamente a Cloyster +6 (Usa Carámbano contra Houndoom) (Surf contra Gengar si aún no mataste a Houndoom)",
-      "variant": []
+      "detail": "No tiene, trampa rocas → mira el ataque",
+      "variant": [
+        {
+          "detail": "Terremoto → Cambia a Slowbro, bostezo. Sale Gengar → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Triturar → Poliwrath +6 + Max Poción + 2 Vel",
+          "variant": []
+        }
+      ]
     }
   ]
 }

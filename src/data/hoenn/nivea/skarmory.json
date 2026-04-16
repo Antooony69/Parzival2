@@ -5,16 +5,15 @@
   "initialMove": "🪨 Trampa Rocas 🪨 si no cambia usa Amortiguador",
   "tricks": [
     {
-      "detail": "Mienshao ➜ Cambiar a Gengar y atacar hasta debilitar",
-      "variant": []
-    },
-    {
-      "detail": "Skarmory ➜ Cambiar a Slowbro usar Bostezo hasta que entre Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊🔔Cascada a Skarmory🔔",
-      "variant": []
-    },
-    {
-      "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Cascada a Skarmory🔔",
-      "variant": []
+      "detail": "Mienshao ➜ Cambiar a Gengar y atacar con Bola sombra",
+      "variant": [
+        {
+          "detail": "Skarmory ➜ Cambiar a Slowbro usar Bostezo hasta que entre Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊🔔Cascada a Skarmory🔔"
+        },
+        {
+          "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Cascada a Skarmory🔔"
+        }
+      ]
     },
     {
       "detail": "Hariyama ➜ Slowbro , Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Puño Hielo a Froslass🔔",
@@ -25,7 +24,7 @@
       "variant": []
     },
     {
-      "detail": "Beartic ➜ Gengar Otra Vez +2 + Precisión X 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
+      "detail": "Beartic ➜ Gengar Otra Vez +2 + Precisión X 🔔Onda Certera a Beartic, Walrein, Dewgong o Skarmory🔔",
       "variant": []
     }
   ]

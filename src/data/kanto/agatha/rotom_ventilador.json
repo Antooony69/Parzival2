@@ -2,11 +2,6 @@
   "id": "rotom_ventilador",
   "name": "Rotom Ventilador",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "Bloquea a Seismitoad → Cloyster +4 / Carámbano para vencer a Lucario / Surf contra Gengar",
-      "variant": []
-    }
-  ]
+  "initialMove": "Trampa Rocas frente a Lucario, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Mandibuzz y Cascada contra Gengar)🔔",
+  "tricks": []
 }

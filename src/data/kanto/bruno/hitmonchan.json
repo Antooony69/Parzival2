@@ -2,15 +2,6 @@
   "id": "hitmonchan",
   "name": "Hitmonchan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "UTILIZA ROCA AFILADA",
-  "tricks": [
-    {
-      "detail": "Si utiliza Terremoto, cambia a Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "Si utiliza A Bocajarro, cambia a Chandelure, Truco, Cloyster +6",
-      "variant": []
-    }
-  ]
+  "initialMove": "Gengar +4 (No es necesario Otra Vez)",
+  "tricks": []
 }

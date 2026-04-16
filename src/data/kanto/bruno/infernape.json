@@ -2,14 +2,10 @@
   "id": "infernape",
   "name": "Infernape",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "AMORTIGUADOR, recibes a Bocajarro",
   "tricks": [
     {
-      "detail": "Si NO SE RETIRA, usa Truco. para encerrar Puño Trueno, cambia a Excadrill 4+2",
-      "variant": []
-    },
-    {
-      "detail": "Si cambia a SEISMITOAD, usa Truco para encerrarlo en Terremoto, cambia a Cloyster +4",
+      "detail": "Teletransporte → Gengar, Otra Vez, +4",
       "variant": []
     }
   ]

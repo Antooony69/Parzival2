@@ -5,45 +5,45 @@
   "initialMove": "🪨 TRAMPA ROCAS 🪨",
   "tricks": [
     {
-      "detail": "Superdiente ➜ Amortiguador frente a Hariyama ➜ Slowbro y usar Bostezo v sacrifica a Politoed ➜ Poliwrath +6 🔔Puño Hielo a Froslass🔔",
+      "detail": "Superdiente ➜ Amortiguador frente a Hariyama ➜ Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Puño Hielo a Froslass🔔",
       "variant": [
         {
-          "detail": "Mantiene Superdiente ➜ Cambiar a Gengar Otra vez  +4 +2 + Precisión X  🔔usar Onda Certera para barrer🔔",
+          "detail": "Mantiene Superdiente ➜ Cambiar a Gengar Otra vez +4 +2 + Precisión X  🔔usar Onda Certera para barrer🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "(ruta de prueba) Mienshao ➜ Cambiar a Gengar y atacar hasta debilitar 🔔Gengar +2 y atacar hasta debilitar🔔",
+      "detail": "Mienshao ➜ Cambiar a Gengar otra vez +2 Si entra Mismagius Matalo",
       "variant": [
         {
-          "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔Cascada a Skarmory🔔",
+          "detail": " Sale Skarmory ➜ Cambiar a Slowbro usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Cascada a Skarmory , tanquear si Lanturn usa Voltiocambio para ver quién entra🔔 ",
           "variant": []
         },
         {
-          "detail": " Sale Mismagius derrotalo ➜ Sale Skarmory ➜ Cambiar a Slowbro usar Bostezo hasta que entre lanturn (puedes usar voltio cambio) ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔Cascada a Skarmory🔔",
+          "detail": " Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔Cascada a Skarmory , tanquear si Lanturn usa Voltiocambio para ver quién entra🔔",
           "variant": []
         },
         {
-          "detail": "Glalie --> Barrer directamente",
+          "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
           "variant": []
         },
         {
-          "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6.",
+          "detail": "Glalie/altaria ➜ Barrer directamente",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Gallade ➜ Gengar +2 + Precisión (No usar Otra Vez); 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
+      "detail": "Gallade ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔Onda Certera a Walrein, Dewgong o Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Beactric ➜  Otra Vez Gengar +2 + Precisión X 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
+      "detail": "Beactric ➜ Gengar  otra vez +2 + Precisión X 🔔Onda Certera a Froslass, Walrein, Dewgong o Skarmory🔔",
       "variant": []
     },
     {
-      "detail": "Metagross (Variante) ➜ Cambiar a Slowbro ➜ entra Serperior cambia a  Volcarona +2",
+      "detail": "Metagross  ➜ Cambiar a Slowbro ➜ entra Serperior cambia a Volcarona x2 danza aleteo",
       "variant": []
     }
   ]

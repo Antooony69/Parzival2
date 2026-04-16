@@ -2,11 +2,6 @@
   "id": "seismitoad",
   "name": "Seismitoad",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "Terremoto → Cloyster +4",
-      "variant": []
-    }
-  ]
+  "initialMove": "Amortiguador, sale Infernape → Amortiguador (recibes A Bocajarro) → Gengar, Otra Vez, +4",
+  "tricks": []
 }

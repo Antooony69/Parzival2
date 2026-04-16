@@ -8,21 +8,21 @@
       "detail": "Terremoto → Encanto → Amortiguador",
       "variant": [
         {
-          "detail": "Staraptor → Gengar, +4 + Precisión X (Otra Vez, no es necesario)",
+          "detail": "Entra Staraptor → Gengar +4 + Precisión X (Otra Vez no es necesario)",
           "variant": []
         },
         {
-          "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor ↑↑↑"
+          "detail": "Entra Machamp → Gengar → Otra Vez → Cambiar a Chansey → Sale Staraptor ↑↑↑",
           "variant": []
         },
         {
-          "detail": "Pokemon Tipo Lucha → Gengar, Otra Vez, +4 +2 + Precisión X (Mantener Otra Vez)",
+          "detail": "Entra Pokémon tipo Lucha → Gengar → Otra Vez → +4 +2 + Precisión X (mantener Otra Vez)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+      "detail": "Entra Staraptor → Gengar → Otra Vez → +2 + Precisión X",
       "variant": []
     }
   ]

@@ -2,11 +2,6 @@
   "id": "heracross",
   "name": "Heracross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
-    {
-      "detail": "Cambia a Rhyperior, saca a Cloyster +4",
-      "variant": []
-    }
-  ]
+  "initialMove": "Amortiguador → Recibes A Bocajarro → Cambiar a Gengar → Otra Vez +4 → Otra Vez (Heracross tiene Banda Focus)",
+  "tricks": []
 }

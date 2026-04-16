@@ -2,22 +2,36 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Amortiguador",
   "tricks": [
     {
-      "detail": "Si Eelektross no se retira → Truco para ver qué movimiento usa",
-      "variant": [
-        {
-          "detail": "Si usa Voltio Cruel → Excadrill 6+2"
-        },
-        {
-          "detail": "Si usa Rayo → Excadrill 4+2"
-        }
-      ]
+      "detail": "Machamp → Cambia a Gengar luego a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
     },
     {
-      "detail": "Contra Torterra → Truco para encerrarlo en Terremoto, Cloyster +4 + Especial X",
+      "detail": "Infernape → Amortiguador (recibe el A Bocajarro), cambia a Gengar, Otra Vez, +4",
       "variant": []
+    },
+    {
+      "detail": "Hitmonchan → Gengar +4 (No es necesario Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "Darmanitan → VARIAS OPCIONES",
+      "variant": [
+        {
+          "detail": "Ahorro → Volcarona +3 ⚠️ Cuidado con Superpower crítico (~51% PS)",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Cambiar a Politoed (sacrificar) → Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Estable → Cambiar a Slowbro → Bostezo → Politoed (sacrificar) → Poliwrath +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }

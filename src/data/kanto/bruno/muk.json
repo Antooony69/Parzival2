@@ -2,24 +2,18 @@
   "id": "muk",
   "name": "Muk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "Trampa Rocas",
   "tricks": [
     {
-      "detail": "Puño Fuego → Coloca Rocas, luego revisa si Metagross sobrevive",
-      "variant": [
-        {
-          "detail": "Si no muere → Chandelure 2+2. / Lanzallamas para barrer al equipo. Slowbro necesita ser golpeado dos veces"
-        },
-        {
-          "detail": "Si muere → Cambia a Excadrill (Para tentar a la IA a seguir atacando), luego cambia de nuevo a Chandelure 2+2. / Lanzallamas para barrer. Slowbro necesita ser golpeado dos veces"
-        },
-        {
-          "detail": "Si Chandelure es derrotado por Slowbro con golpe crítico → Poliwrath 6+2 (a confirmar, enviar registro de combate)"
-        }
-      ]
+      "detail": "Staraptor → Gengar, +4 + Precisión X (Otra Vez no es necesario)",
+      "variant": []
     },
     {
-      "detail": "Steelix → Cloyster +6 / Carámbano contra Steelix",
+      "detail": "Ursaring/PokeTipoLucha → Gengar, Otra Vez, +4 +2 + Precisión X (Mantener Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "Machamp → Cambiar a Gengar, Otra Vez → Cambia a Chansey, sale Staraptor → Sigue ↑↑↑",
       "variant": []
     }
   ]

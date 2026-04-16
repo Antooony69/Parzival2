@@ -2,13 +2,13 @@
   "id": "crawdaunt",
   "name": "Crawdaunt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambia a Gengar💡",
+  "initialMove": "👻Cambia a Gengar👻",
   "tricks": [
     {
-      "detail": "A bocajarro --> Gengar Otra Vez +4 usa Bola Sombra 🔔(Crawdaunt puede tener Banda focus)🔔",
+      "detail": "A bocajarro --> Gengar +4 + Otra Vez, luego usa Bola sombra 🔔(Mira tu situacion)🔔",
       "variant": [
         {
-          "detail": "La banda se rompe --> 💊Toma un Velocidad X luego sigue Barriendo💊",
+          "detail": "La banda focus se rompe --> 💊Toma un Velocidad X luego sigue Barriendo💊",
           "variant": []
         },
         {

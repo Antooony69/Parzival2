@@ -9,42 +9,42 @@
       "variant": [
         {
           "detail": "Mawile ➜ Cambiar a Slowbro usar Bostezo ➜ sacrificar a 🐸 Politoed ➜ Poliwrath +6 🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lucario ➜ Cambiar a Gengar para ver movimiento",
+      "variant": [
+        {
+          "detail": "A Bocajarro ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔para ahorrar dinero: Gengar +6🔔",
           "variant": [
             {
-              "detail": "Lucario ➜ Cambiar a Gengar para ver movimiento",
-              "variant": [
-                {
-                  "detail": "A Bocajarro ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔para ahorrar dinero: Gengar +6🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "Patada Salto Alta ➜ 👻Gengar bola sombra ➜ frente a Houndoom ➜ sacrificar a Politoed ➜ 🐸 Poliwrath +6 🥊 (Si hay quemadura, usar Restaurar Todo)",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Honchkrow ➜ Sacrificar a Politoed ➜ Poliwrath hasta llegar a Hydreigon ➜ recibir Ataque X y completar",
+              "detail": "Patada Salto Alta ➜ 👻Gengar bola sombra ➜ frente a Houndoom ➜ sacrificar a Politoed ➜ 🐸 Poliwrath +6 🥊 (Si hay quemadura, usar Restaurar Todo)",
               "variant": []
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "detail": "Honchkrow ➜ Sacrificar a Politoed ➜ Poliwrath hasta llegar a Hydreigon ➜ recibir Ataque X y completar",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ Cambiar a Slowbro y usar Bostezo frente a Raichu ➜ sacrificar a Politoed ➜ 🐸 Poliwrath +6 🥊",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon ➜ Teletransporte",
+      "variant": [
         {
-          "detail": "Arcanine ➜ Cambiar a Slowbro y usar Bostezo frente a Raichu ➜ sacrificar a Politoed ➜ 🐸 Poliwrath +6 🥊",
+          "detail": "Si permanece ➜ Enviar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 🔔Puño Hielo a Froslass🔔",
           "variant": []
         },
         {
-          "detail": "Hydreigon ➜ Teletransporte",
-          "variant": [
-            {
-              "detail": "Si permanece ➜ Enviar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 🔔Puño Hielo a Froslass🔔",
-              "variant": []
-            },
-            {
-              "detail": "Mawile ➜ Enviar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 ➜ 🔔Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total🔔",
-              "variant": []
-            }
-          ]
+          "detail": "Mawile ➜ Enviar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 ➜ 🔔Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total🔔",
+          "variant": []
         }
       ]
     },
@@ -53,11 +53,12 @@
       "variant": [
         {
           "detail": "Posición 2 (A Bocajarro) ➜ Gengar, Otra Vez, +4 +2 (Otra Vez, cada que puedas) ➜ 🔔 Bola Sombra a todo🔔",
-          "variant": []
-        },
-        {
-          "detail": "Posición 3 (Patada Salto Alta) ➜ Cambiar a Slowbro y usar Bostezo frente al Dusknoir falso ➜ usar Protección y Bostezo si sale Hydreigon ➜ sacrificar a Politoed ➜ 🐸 Poliwrath +6 🥊",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Posición 3 (Patada Salto Alta) ➜ Cambiar a Slowbro y usar Bostezo frente al Dusknoir falso ➜ usar Protección y Bostezo si sale Hydreigon ➜ sacrifica a Politoed ➜ 🐸 Poliwrath +6 🥊",
+              "variant": []
+            }
+          ]
         }
       ]
     }

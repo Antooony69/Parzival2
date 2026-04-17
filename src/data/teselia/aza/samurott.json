@@ -2,10 +2,10 @@
   "id": "samurott",
   "name": "Samurott",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro  usar Bostezo 🥱",
+  "initialMove": "Cambiar a Slowbro y usar Bostezo🥱",
   "tricks": [
     {
-      "detail": "Megacuerno --> Cambiar a chansey y usar Amortiguador  frente a Daily; entrar con Gengar +2 x1 precision junto con Otra Vez 🔔Absol Banda focus🔔",
+      "detail": "Megacuerno --> Cambiar a chansey y usar Amortiguador frente a Absol; entrar con Gengar +2 + Precision X + Otra Vez 🔔(Absol Banda Focus)🔔",
       "variant": []
     },
     {
@@ -13,10 +13,10 @@
       "variant": []
     },
     {
-      "detail": "Serperior Cambiar a Chansey  y usar Amortiguador",
+      "detail": "Serperior Cambiar a Chansey y usar Amortiguador",
       "variant": [
         {
-          "detail": "Samurot --> Gengar +2 x1 precision",
+          "detail": "Samurot --> 💊Gengar 2+2 + Precision X💊",
           "variant": []
         },
         {
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "detail": "Mismagius --> Cambiar a Exeggutor  y usar Amortiguador  frente a Absol; entrar con Gengar +2 x1 precision junto con Otra Vez",
+      "detail": "Mismagius --> Cambiar a Chansey y usar Amortiguador frente a Absol; entrar con Gengar +2 + Precision X + Otra Vez 🔔(Absol Banda Focus)🔔",
       "variant": []
     }
   ]

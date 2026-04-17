@@ -12,66 +12,71 @@
           "variant": []
         },
         {
-          "detail": "Dragonite ➜ Cambiar a Chansey, cambiar a Gengar otra vez +2 luego Barre hasta que entre Bisharp, sacrifica a Politoed, entrar con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
-          "variant": []
+          "detail": "Dragonite ➜ Cambiar a Chansey, cambiar a Gengar otra vez +2 luego Barre hasta que entre Bisharp ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6🔔(Cascada a Cofragius/Bronzong)🔔",
+          "variant": [
+            {
+              "detail": "Gengar +2 frente a Bronzong  ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Eelektross --> Gengar usa Otra Vez luego cambiar a Slowbro",
+      "detail": "Eelektross ➜ Gengar usa Otra Vez luego cambiar a Slowbro",
       "variant": [
         {
-          "detail": "Se queda --> usar Bostezo",
+          "detail": "Se queda ➜ usar Bostezo",
           "variant": [
             {
-              "detail": "Gengar --> Usar Protección, cambiar a Poliwrath frente Chandelure, Volcarona +2 🔔(Psiquico a Gengar)🔔",
+              "detail": "Gengar ➜ Usar Protección, cambiar a Poliwrath ➜ frente Chandelure ➜ Volcarona +2 🔔(Psiquico a Gengar)🔔",
               "variant": []
             },
             {
-              "detail": "Chandelure --> Usar Protección, Bostezo frente a Gengar, Teletransporte; Volcarona +2 🔔(Psiquico a Gengar)🔔",
+              "detail": "Chandelure ➜ Usar Protección, Bostezo ➜ frente a Gengar ➜ Teletransporte ➜ Volcarona +2 🔔(Psiquico a Gengar)🔔",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Dragonite --> Usar Bostezo, sacrificar a Politoed , entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+          "detail": "Dragonite ➜ Usar Bostezo ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Hydreigon --> Gengar 6+2 🔔(Onda Certera a Purugly)🔔",
+      "detail": "Hydreigon ➜ Gengar 6+2 🔔(Onda Certera a Purugly)🔔",
       "variant": [
         {
-          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath Puño drenaje y debilitar",
+          "detail": "Ida y Vuelta activa Cuerpo Maldito ➜ Gengar usa Otra Vez, cambiar a Poliwrath Puño drenaje y debilitar",
           "variant": []
         },
         {
-          "detail": "Cambia a Milotic --> Cambiar a Chansey, usar Amortiguador para atraer a Golurk; entrar con Gengar 6+2",
+          "detail": "Cambia a Milotic ➜ Cambiar a Chansey, usar Amortiguador para atraer a Golurk ➜ entrar con Gengar 6+2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Toxicroak --> Cambiar a Slowbro, Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "detail": "Toxicroak ➜ Cambiar a Slowbro, Bostezo ➜ frente a Chandelure ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Lucario --> Gengar, Otra Vez 4+2 + Precision X",
+      "detail": "Lucario ➜ Gengar, Otra Vez 4+2 + Precision X",
       "variant": []
     },
     {
-      "detail": "Absol --> Gengar, Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
+      "detail": "Absol ➜ Gengar, Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
       "variant": []
     },
     {
-      "detail": "Dragonite --> Cambia a Slowbro luego a Chansey",
+      "detail": "Dragonite ➜ Cambia a Slowbro luego a Chansey",
       "variant": [
         {
-          "detail": "Chandelure/lucario --> Amortiguador 🔔(Mantener si usa Onda Certera y Mira abajo)🔔",
+          "detail": "Chandelure/lucario ➜ Amortiguador 🔔(Mantener si usa Onda Certera y Mira abajo)🔔",
           "variant": [
             {
-              "detail": "Dragonite --> Gengar +2 🔔(Mira el Item)🔔",
+              "detail": "Dragonite v Gengar +2 🔔(Mira el Item)🔔",
               "variant": [
                 {
                   "detail": "Restos → Derrótalo, sale Bisharp, sacrifica a Politoed, Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
@@ -84,17 +89,17 @@
               ]
             },
             {
-              "detail": "Bisharp --> sacrificar a Politoed, entrar con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
+              "detail": "Bisharp ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
               "variant": []
             },
             {
-              "detail": "Eelektross --> Gengar Otra Vez luego cambia a Slowbro y usa Bostezo, sacrificar a Politoed  entrar con Poliwrath 6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+              "detail": "Eelektross ➜ Gengar Otra Vez luego cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Eelektross --> Gengar Otra Vez luego cambia a Slowbro y usa Bostezo, sacrificar a Politoed  entrar con Poliwrath 6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+          "detail": "Eelektross ➜ Gengar Otra Vez luego cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
           "variant": []
         }
       ]

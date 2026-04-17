@@ -2,10 +2,10 @@
   "id": "banette",
   "name": "Banette",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 🔔(Si no cambia usa Amortiguador)🔔",
   "tricks": [
     {
-      "detail": "Sale Absol, cambias a Gengar, Otra Vez, +4 +2 (si Banette no cambia usa amortiguador hasta que lo haga) - Mantener Otra Vez",
+      "detail": "Sale Absol --> Cambia a Gengar, Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
       "variant": []
     }
   ]

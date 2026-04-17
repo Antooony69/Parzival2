@@ -5,16 +5,16 @@
   "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Vidasfera --> 🪨TrampaRocas🪨 frente a Golurk, Gengar +6 +2 (🔔Onda Certera a Purugly🔔) ",
+      "detail": "Tiene Vidasfera --> 🪨TrampaRocas🪨 frente a Golurk, Gengar Otra Vez 6+2 🔔(Onda Certera a Purugly)🔔",
       "variant": [
         {
-          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matarlo ",
+          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matarlo",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Vidasfera --> 🪨TrampaRocas🪨 frente a Absol, Gengar +4 +2",
+      "detail": "Sin Vidasfera --> 🪨TrampaRocas🪨 frente a Absol, Gengar Otra Vez 4+2",
       "variant": []
     }
   ]

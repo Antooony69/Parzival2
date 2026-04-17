@@ -5,31 +5,31 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "A bocajarro --> revisar el estado de salud de Chansey.",
+      "detail": "A bocajarro --> revisar el estado de salud de Chansey",
       "variant": [
         {
-          "detail": "PS bajos --> usar Teletransporte para sacrificar; Slowbro  usa Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6.",
+          "detail": "🔴PS bajos🔴 --> Usar Teletransporte para sacrificar; Slowbro usa Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Debilitado --> Slowbro  usa Bostezo ; sacrificar a Politoed , entrar con Poliwrath +6.",
+          "detail": "☠️Debilitado☠️ --> Slowbro usa Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Dragonite --> cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6 🔔Puño H a Froslass Cascada Dragonite🔔.",
+      "detail": "Dragonite --> cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
       "variant": []
     },
     {
-      "detail": "Eelektross --> Gengar usa Otra Vez, cambiar de Slowbro a Dragonite; usar Bostezo, sacrificar a Politoed, entrar con Poliwrath +6 🔔Puño H a Froslass Cascada Dragonite🔔 .",
+      "detail": "Eelektross --> Gengar usa Otra Vez, cambiar a Slowbro frente a Dragonite; usar Bostezo, sacrificar a Politoed, entrar con Poliwrath +6 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
       "variant": []
     },
     {
-      "detail": "Hydreigon --> Gengar +6 +2 🔔Purugly onda certera🔔",
+      "detail": "Hydreigon --> Gengar Otra Vez 6+2 🔔(Onda Certera a Purugly)🔔",
       "variant": [
         {
-          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar  usa Otra Vez , cambiar a Poliwrath para matarlo",
+          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matarlo",
           "variant": []
         }
       ]

@@ -193,7 +193,7 @@ export default function PokemonGuide() {
             RUTA RECOMENDADA:
             <span className="pl-2 text-blue-400">
               Teselia → Sinnoh (casa) → Hoenn (casa) →
-              Kanto (casa) → Johto (opcional)
+              Johto → Kanto (opcional)
             </span>
           </p>
         </div>

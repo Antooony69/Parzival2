@@ -5,96 +5,96 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Onda Certera, mantenerse 【Zoroark】 ➜ cambiar a Gengar .",
+      "detail": "Onda Certera, mantenerse【Zoroark】➜ Cambiar a Gengar",
       "variant": [
         {
-          "detail": "Se queda ➜ Gengar  4, 2 + 1 precisión .",
+          "detail": "Se queda ➜ Gengar 4+2 + Precisión X",
           "variant": []
         },
         {
-          "detail": "Dragonite ➜ cambiar a Chansey ➜ cambiar a Gengar otra vez +2  ataca hasta que entre  Bisharp ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 (cascada Cofag , Bronzong )",
+          "detail": "Dragonite ➜ Cambiar a Chansey, cambiar a Gengar otra vez +2 luego Barre hasta que entre Bisharp, sacrifica a Politoed, entrar con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Eelektross --> Gengar  usa Otra Vez , cambiar a Slowbro .",
+      "detail": "Eelektross --> Gengar usa Otra Vez luego cambiar a Slowbro",
       "variant": [
         {
-          "detail": "Se queda --> usar Bostezo .",
+          "detail": "Se queda --> usar Bostezo",
           "variant": [
             {
-              "detail": "Gengar --> usar Protección, cambiar de Poliwrath, Sale Chandelure → Volcarona +2 Danza Aleteo (Psiquico Gengar).",
+              "detail": "Gengar --> Usar Protección, cambiar a Poliwrath frente Chandelure, Volcarona +2 🔔(Psiquico a Gengar)🔔",
               "variant": []
             },
             {
-              "detail": "Chandelure --> usar Protección, Bostezo frente a Gengar, Teletransporte ; Volcarona +2 Danza Aleteo. (Psiquico Gengar, Lanzallamas Chandelure si estas anulado)",
+              "detail": "Chandelure --> Usar Protección, Bostezo frente a Gengar, Teletransporte; Volcarona +2 🔔(Psiquico a Gengar)🔔",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Dragonite --> usar Bostezo, sacrificar a Politoed , entrar con Poliwrath +6(puño H Froslass ,Cascada dragonite)",
+          "detail": "Dragonite --> Usar Bostezo, sacrificar a Politoed , entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Hydreigon --> Gengar +6 +2 con Onda Certera contra (Purugly).",
+      "detail": "Hydreigon --> Gengar 6+2 🔔(Onda Certera a Purugly)🔔",
       "variant": [
         {
-          "detail": "Ida y Vuelta  activa Cuerpo Maldito  --> Gengar usa Otra Vez , cambiar a Poliwrath puño drenaje y debilitar.",
+          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath Puño drenaje y debilitar",
           "variant": []
         },
         {
-          "detail": "Cambiar a Milotic --> cambiar a Chansey , usar Amortiguador para atraer a Golurk; entrar con Gengar  secuencia +6 +2.",
+          "detail": "Cambia a Milotic --> Cambiar a Chansey, usar Amortiguador para atraer a Golurk; entrar con Gengar 6+2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Toxicroak --> cambiar a Slowbro , Bostezo  frente a Chandelure; sacrificar a Politoed , entrar con Poliwrath +6).",
+      "detail": "Toxicroak --> Cambiar a Slowbro, Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Lucario --> Gengar, Otra Vez,  +4 +2 +1 precision X. (Usa Otra Vez cada que puedas).",
+      "detail": "Lucario --> Gengar, Otra Vez 4+2 + Precision X",
       "variant": []
     },
     {
-      "detail": "Absol --> Gengar, Otra Vez, +4 +2. (Bola Sombra a todos)",
+      "detail": "Absol --> Gengar, Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
       "variant": []
     },
     {
-      "detail": "Dragonite --> Slowbro → Chansey.",
+      "detail": "Dragonite --> Cambia a Slowbro luego a Chansey",
       "variant": [
         {
-          "detail": "Chandelure/lucario --> Amortiguador, mantener si usa Onda Certera → mira abajo",
+          "detail": "Chandelure/lucario --> Amortiguador 🔔(Mantener si usa Onda Certera y Mira abajo)🔔",
           "variant": [
             {
-              "detail": "Dragonite --> Gengar, +2. (Mira el Item)",
+              "detail": "Dragonite --> Gengar +2 🔔(Mira el Item)🔔",
               "variant": [
                 {
-                  "detail": "Restos → Derrótalo, sale Bisharp → Politoed (sacrificar), Poliwrath +6. (Cascada Cofag/Bronzong).",
+                  "detail": "Restos → Derrótalo, sale Bisharp, sacrifica a Politoed, Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
                   "variant": []
                 },
                 {
-                  "detail": "Sin Restos → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6. (Puño Hielo Froslass, Cascada Dragonite).",
+                  "detail": "Sin Restos → Slowbro usa Bostezo, sacrifica a Politoed, Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
                   "variant": []
                 }
               ]
             },
             {
-              "detail": "Bisharp --> sacrificar a Politoed , entrar con Poliwrath +6 (cascada Cofa , Bronzong )",
+              "detail": "Bisharp --> sacrificar a Politoed, entrar con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
               "variant": []
             },
             {
-              "detail": "Eelektross / Lucario --> sacrificar a Politoed  entrar con Poliwrath 6 (puño H Froslass)",
+              "detail": "Eelektross --> Gengar Otra Vez luego cambia a Slowbro y usa Bostezo, sacrificar a Politoed  entrar con Poliwrath 6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Eelektross / Lucario --> sacrificar a Politoed  entrar con Poliwrath 6 (puño H Froslass)",
+          "detail": "Eelektross --> Gengar Otra Vez luego cambia a Slowbro y usa Bostezo, sacrificar a Politoed  entrar con Poliwrath 6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
           "variant": []
         }
       ]

@@ -5,22 +5,22 @@
   "initialMove": "🪨 Trampa Rocas 🪨 🥚 Si Sableye se queda usa Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Leafeon --> Volcarona +1 + Especial X",
+      "detail": "Leafeon ➜ Volcarona +1 + Especial X",
       "variant": []
     },
     {
-      "detail": "Rhyperior --> Encanto; cambiar a Slowbro",
+      "detail": "Rhyperior ➜ Encanto; cambiar a Slowbro",
       "variant": [
         {
-          "detail": "Si se queda --> Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+          "detail": "Se Queda Rhyperior ➜ Bostezo y frente a Leafeon ➜ Volcarona +1 + Especial X",
           "variant": []
         },
         {
-          "detail": "Leafeon --> Volcarona +1 + Especial X",
+          "detail": "Leafeon ➜ Volcarona +1 + Especial X",
           "variant": []
         },
         {
-          "detail": "Gyarados --> Bostezo; Protección; Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+          "detail": "Gyarados ➜ Bostezo y Protección , otro Bostezo mas ➜ frente a Leafeon ➜ Volcarona +1 + Especial X",
           "variant": []
         }
       ]

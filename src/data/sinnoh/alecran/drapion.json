@@ -2,7 +2,7 @@
   "id": "drapion",
   "name": "Drapion",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
       "detail": "Si se queda --> Identificar movimiento",
@@ -28,7 +28,7 @@
               ]
             },
             {
-              "detail": "19 - 23% (Crítico 43 - 51%) ➜ Chansey usa Encanto y Amortiguador esperando a Tyranitar ➜ sacrificar a Politoed y entrar con Poliwrath usando Ataque X para presionar 🔔usar Cascada contra Drapion absorbiendo el golpe de Volcarona🔔",
+              "detail": "19 - 23% (Crítico 43 - 51%) ➜ Chansey usa Encanto y Amortiguador esperando a Tyranitar ➜ sacrificar a Politoed y entrar con Poliwrath usando Ataque X para presionar 🔔(Cascada a Drapion y Puño Drenaje a Volcarona)🔔",
               "variant": []
             }
           ]
@@ -48,7 +48,7 @@
       "variant": []
     },
     {
-      "detail": "Durant ➜ Entrar con Gengar +4 🔔No usar Otra Vez🔔 usar Bola Sombra a todo el equipo",
+      "detail": "Durant ➜ Entrar con Gengar +4 (No usar Otra Vez) 🔔(Barre con Bola Sombra)🔔",
       "variant": []
     },
     {
@@ -63,7 +63,7 @@
       "detail": "Scizor ➜ Usar Amortiguador para identificar movimiento",
       "variant": [
         {
-          "detail": "Fuerza Bruta ➜ Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊 ( usar Bostezo al enfrentar a Flygon, seguido de Protección y Bostezo)",
+          "detail": "Fuerza Bruta ➜ Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊 🔔(Bostezo al enfrentar a Flygon, seguido de Protección y Bostezo)🔔",
           "variant": []
         },
         {

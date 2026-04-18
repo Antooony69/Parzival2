@@ -2,33 +2,30 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Ver habilidad🔔",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Intimidación --> Usar 🪨Trampa Rocas🪨 al enfrentar a Breloom; Gengar +4 y precisión",
-      "variant": [
-        {
-          "detail": "Huir a Conkeldurr --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6; 🔔Puño drenaje a Tyranitar🔔",
-          "variant": []
-        }
-      ]
+      "detail": "Toxicroack --> Cambiar a Slowbro y usar Bostezo frente a Magnezone, sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
     },
     {
-      "detail": "Sin Intimidación --> Usar 🪨Trampa Rocas🪨",
+      "detail": "Breloom ➜ Gengar +4 + Precisión X",
       "variant": [
         {
-          "detail": "Toxicroak --> Cambiar a Slowbro y usar Bostezo al enfrentar a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🐸",
           "variant": []
-        },
-        {
-          "detail": "Conkeldurr + Sin Llamasfera --> Cambiar a Slowbro y usar Bostezo al enfrentar a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Conkeldurr + Llamasfera --> Gengar +4 +2 🔔Bola Sombra a todo🔔; si huye a Gyarados, cambiar a Chansey y quedarte hasta que cambie otra vez",
-          "variant": []
-        }
-      ]
+        } 
+      ]  
+    },        
+    {     
+      "detail": "Conkeldurr + Sin Llamasfera --> Cambiar a Slowbro y usar Bostezo al enfrentar a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "🔥Conkeldurr + Llamasfera🔥 --> Gengar +4 +2 🔔(Barre con Bola Sombra)🔔 🚨(Si cambia a Gyarados, cambia a Chansey y aguanta hasta que cambie denuevo)🚨",
+      "variant": []
     }
   ]
 }
+  
+

@@ -13,7 +13,21 @@
         },
         {
           "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno curate  ; 💡 Psíquico contra Gyarados💡",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Cambia a Gengar luego a Slowbro",
+              "variant": [
+                {
+                  "detail": "Si se queda → Bostezo, cambia a Volcarona, +1 + SpAtk X",
+                  "variant": []
+                },
+                {
+                  "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         },
         {
           "detail": "Excadrill --> Seguir usando gigadrenado hasta que muera ",
@@ -22,15 +36,16 @@
       ]
     },
     {
-      "detail": "Sin Globo Helio --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "detail": "Sin Globo Helio --> Encanto, Trampa Rocas (Mantener Amortiguador hasta el cambio",
       "variant": [
         {
-          "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
-          "variant": []
-        },
-        {
-          "detail": "Mismagius --> Volcarona +1; ataca hasta que salga  Houndoom; luego usar Danza Aleteo una vez y barrer completo",
-          "variant": []
+          "detail": "Su Slowbro → Gengar, Otra Vez, +4 +2. (Mantener Otra Vez)",
+          "variant": [
+            {
+              "detail": "Si cambia a Excadril mientras intentas Boostearte, cambia a Slowbro, luego a Chansey y usa encanto, vuelve a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
         }
       ]
     }

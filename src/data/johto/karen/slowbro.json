@@ -5,7 +5,7 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Puño Drenaje  --> Volcarona +2",
+      "detail": "Puño Drenaje  --> Gengar, Otra Vez, +4 +2",
       "variant": []
     },
     {
@@ -38,8 +38,17 @@
           "variant": []
         },
         {
-          "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; 🔔Psíquico a Gyarados🔔",
-          "variant": []
+          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "Excadrill --> Full Gigadrenado hasta matarlo ",

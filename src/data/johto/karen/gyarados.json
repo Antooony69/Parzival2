@@ -38,8 +38,17 @@
           "variant": []
         },
         {
-          "detail": "Victreebel --> Volcarona +1 + Especial X; si recibe veneno se elimina; 🔔Psíquico a Gyarados🔔",
-          "variant": []
+          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "Excadrill --> Usar Gigadrenado hasta que muera",

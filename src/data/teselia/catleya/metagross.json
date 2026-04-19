@@ -2,13 +2,13 @@
   "id": "metagross_6",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔 Identifica si tiene Globo 🔔",
+  "initialMove": "🔔Identifica si Tiene Globo🔔",
   "tricks": [
     {
       "detail": "🎈Tiene  Globo Helio🎈 ➜ Trampa Rocas",
       "variant": [
         {
-          "detail": "Puño Meteoro ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6.",
+          "detail": "Puño Meteoro ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
           "variant": []
         },
         {
@@ -25,7 +25,7 @@
           ]  
         },
         {
-          "detail": "Alakazam ➜ Teletransporte, sacar a Slowbro  Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6.",
+          "detail": "Alakazam ➜ Teletransporte, sacar a Slowbro  Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
           "variant": []
         }
       ]
@@ -34,27 +34,27 @@
       "detail": "No tiene Globo Helio ➜ Trampa Rocas",
       "variant": [
         {
-          "detail": "Machada ➜ Ver objeto; 🔔(Si falla, cambiar a Volcarona y debilitalo)🔔",
+          "detail": "Machada ➜ Ver objeto 🔔(Si falla, cambiar a Volcarona y Debilitarlo)🔔",
           "variant": [
             {
               "detail": "Tiene Vidasfera ➜ Cambia a Volcarona y matalo",
               "variant": [
                  {
-                   "detail": "Milotic / Houndoom ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada contra Bronzong)🔔",
+                   "detail": "Milotic / Houndoom ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Bronzong)🔔",
                    "variant": []  
                  },
                  { 
-                   "detail": "Umbreon ➜ Cambia a Chansey para atraer al Pajaro", 
+                   "detail": "Umbreon ➜ Cambia a Chansey para atraer a Staraptor", 
                    "variant": [
                      { 
                        "detail": "Staraptor ➜ Cambia a Volcarona +3 🚨(Gigadenado y Lanzallamas contra Umbreon)🚨", 
                        "variant": []  
                      },      
                      {  
-                       "detail": "Metagross ➜ Cambia a Volcarona frente a Staraptor, 💊despues cambia a Gengar 4+Precision X💊", 
+                       "detail": "Metagross ➜ Cambia a Volcarona frente a Staraptor, 💊despues cambia a Gengar +4 + Precision X💊", 
                        "variant": [
                          {  
-                           "detail": "Cambia a Milotic ➜ Cambia a Chansey para atraer al Pajaro, luego cambia a Volcarona +3 🚨(Gigadenado y Lanzallamas contra Umbreon)🚨", 
+                           "detail": "Cambia a Milotic ➜ Cambia a Chansey para atraer a Staraptor, luego cambia a Volcarona +3 🚨(Gigadenado y Lanzallamas contra Umbreon)🚨", 
                            "variant": [] 
                          }
                        ]
@@ -62,10 +62,10 @@
                    ]
                  },
                  {   
-                   "detail": "Staraptor --> 💊Cambia a Gengar 4+ Precision X💊",
+                   "detail": "Staraptor --> 💊Cambia a Gengar +4 + Precision X💊",
                    "variant": [
                       {   
-                        "detail": "Cambia a Milotic ➜ Cambia a Chansey para atraer al Pajaro, luego cambia a Volcarona +3 🚨(Gigadenado y Lanzallamas contra Umbreon)🚨",
+                        "detail": "Cambia a Milotic ➜ Cambia a Chansey para atraer a Staraptor, luego cambia a Volcarona +3 🚨(Gigadenado y Lanzallamas contra Umbreon)🚨",
                         "variant": []
                       }  
                    ]
@@ -73,7 +73,7 @@
               ] 
             },
             {
-              "detail": "No tiene Vidasfera ➜Cambiar a Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
+              "detail": "No tiene Vidasfera ➜ Cambiar a Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
               "variant": []        
             }
           ]
@@ -82,11 +82,11 @@
           "detail": "Puño meteoro ➜ Observa si el ataque aumenta",
           "variant": [
             {
-              "detail": "⏫Ataque Aumenta⏫ ➜ Usa Teletransporte, saca a Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada contra Reuniclus)🔔",
+              "detail": "⏫Ataque Aumenta⏫ ➜ Usa Teletransporte, saca a Slowbro Bostezo y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
               "variant": [] 
             },
             {
-               "detail": "🚫Ataque no Aumenta🚫 ➜ Cambia a Slowbro Bostezo frente a Jolteon ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada contra Reuniclus)🔔",
+               "detail": "🚫Ataque no Aumenta🚫 ➜ Cambia a Slowbro y usa Bostezo frente a Jolteon ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
                "variant": [] 
             }
           ]
@@ -95,18 +95,18 @@
           "detail": "Mienshao ➜ Cambiar a Gengar y usar Bola sombra",
           "variant": [
             {
-              "detail": "Jolteon ➜ Cambiar a Chansey y usar Amortiguador ➜ Frente a Staraptor ➜ Slowbro bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada contra Reuniclus)🔔",
+              "detail": "Jolteon ➜ Cambiar a Chansey y usar Amortiguador ➜ Frente a Staraptor ➜ Slowbro usa bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
               "variant": []
             },  
             {
-              "detail": "Umbreon / Entei ➜ cambiar a Slowbro y usa bostezo y si el pokemon rival se duerme usa bostezo otra vez ➜ al enfrentar a Musharna ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada contra Musharna / Ver quién entra segundo)🔔",
+              "detail": "Umbreon / Entei ➜ Cambiar a Slowbro y usar Bostezo frente a Musharma ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Musharna / Ver quién entra segundo)🔔",
               "variant": [
                 {
-                  "detail": "Entei ➜ 💊Primero usar max pocion y presionar de nuevo💊 🔔(Puño drenaje contra Umbreon y Cascada contra Metagross)🔔",
+                  "detail": "Entei ➜ 💊Primero usar max pocion y seguir Barriendo💊 🔔(Puño drenaje a Umbreon y Cascada a Metagross)🔔",
                   "variant": []
                 },      
                 {
-                  "detail": "Otros Pokemon ➜ Usar Puño drenaje y Puño drenaje",
+                  "detail": "Otro Pokemon ➜ 🥊Usar Puño drenaje y Puño drenaje🥊",
                   "variant": []
                 }
               ]
@@ -118,14 +118,14 @@
           "variant": []
         },      
         {
-          "detail": "Absol ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Nidoking ➜ Teletransporte y sacar a Volcarona +1 🔔(Identifica tu Situacion)🔔",
+          "detail": "Absol ➜ Cambiar a Slowbro y usar Bostezo Frente a Nidoqueen ➜ Teletransporte y sacar a Volcarona +1 🔔(Identifica tu Situacion)🔔",
           "variant": [
             {
-              "detail": "Si se queda ➜ Usar Psíquico ➜ frente a Blissey; 💊tomar un Especial X y presionar hasta completar💊",
+              "detail": "Si se queda ➜ Usar Psíquico ➜ frente a Blissey 💊tomar un Especial X y Seguir Barriendo💊",
               "variant": []
             },      
             {  
-              "detail": "Blissey --> 💊Tomar un Especial X y presionar hasta completar💊",
+              "detail": "Blissey --> 💊Tomar un Especial X y Seguir Barriendo💊",
               "variant": []
             }
           ]

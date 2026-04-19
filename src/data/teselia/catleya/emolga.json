@@ -2,7 +2,7 @@
   "id": "emolga",
   "name": "Emolga",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 🔔emolga se queda usa amortiguador otra vez🔔",
+  "initialMove": "🪨Trampa Rocas🪨 🔔(Si no Cambia usa Amortiguador)🔔",
   "tricks": [
     {
       "detail": "Metagross --> Ver objeto",
@@ -15,11 +15,11 @@
           "detail": "Sin Globo Helio --> Gengar +2",
           "variant": [
             {
-              "detail": "Mantenerse (stay) --> Gengar +4",
+              "detail": "Si se Queda --> Gengar +4",
               "variant": []
             },
             {
-              "detail": "Bronzong / Milotic --> Sacrificar a Politoed y entrar con Poliwrath +6; usar Cascada contra Bronzong",
+              "detail": "Bronzong / Milotic --> Sacrificar a Politoed y entrar con Poliwrath +6 🔔(Cascada a Bronzong)🔔",
               "variant": []
             }
           ]
@@ -35,7 +35,7 @@
       "variant": []
     },
     {
-      "detail": "Leafeon --> Usar Encanto y Amortiguador para forzar el cambio del rival; al enfrentar a Entei Alakazam, 🔔proceder como se indica arriba🔔.",
+      "detail": "Leafeon --> Usar Encanto y Amortiguador para forzar el cambio del rival; al enfrentar a Entei/Alakazam ⬆️(Mira la Solucion Arriba)⬆️",
       "variant": []
     }
   ]

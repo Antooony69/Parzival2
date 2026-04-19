@@ -2,11 +2,6 @@
   "id": "cinccino",
   "name": "Cinccino",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Encanto,Trampa Rocas frente a Mienshao --> Cambiar a Gengar, cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-  "tricks": [
-    {
-      "detail": "🔔Chansey sin HP --> Usar Poción Máxima🔔",
-      "variant": []
-    }
-  ]
+  "initialMove": "♥️Encanto luego 🪨Trampa Rocas🪨 frente a Mienshao, Cambiar a Gengar luego cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6♥️ 🔔(Si Chansey esta sin HP Usar Poción Máxima)🔔",
+  "tricks": []
 }

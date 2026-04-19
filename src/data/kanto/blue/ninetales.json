@@ -19,6 +19,10 @@
         {
           "detail": "Leafeon → Cambia a Volcarona +2",
           "variant": []
+        },
+        {  
+          "detail": "Charizard → Cambia a Poliwrath luego a Volcarona +2",
+          "variant": [] 
         }  
       ]   
     },
@@ -46,11 +50,11 @@
           "detail": "Cambia a Charizard → Pushea hasta Magnezone, usa Bola sombra",
           "variant": [
             {    
-              "detail": "Vaporeon recibe el golpe → Usa Maquinacion y sigue Pusheando",
+              "detail": "Vaporeon recibe el golpe → Usa Maquinacion y sigue Barriendo 🚨(Si mueres usando Maquinacion, entra Volcarona +2)🚨",
               "variant": []
             },
             {     
-              "detail": "Geangar Muere → Entra Volcarona y usa Psiquico, frente a Machamp, sacrifica a Politoed y entra Poliwrath +6",
+              "detail": "Geangar Muere → Entra Volcarona y usa Psiquico frente a Machamp, sacrifica a Politoed y entra Poliwrath +6",
               "variant": []
             }
           ]

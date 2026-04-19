@@ -5,7 +5,7 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si no se retira → Teletransporte y saca a Slowbro, Bostezo😴",
+      "detail": "Si se Queda → Teletransporte y saca a Slowbro luego usa Bostezo😴",
       "variant": [
         {
           "detail": "Jolteon → Sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Skarmory, Si la lluvia termina no importa)🔔",
@@ -18,7 +18,7 @@
       ]  
     },
     {
-      "detail": "Heracross → Sacrificar a Poliwrath (Heracross debe quedar a -2), entra Gengar 6+2 🔔(No usar Otra Vez)🔔 🚨(Barre con Bola sombra y Gengar tiene que estar Full vida)🚨",
+      "detail": "Heracross → Cambia a Volcarona para recibir 2 A Bocajarros (Heracross debe quedar a -2), entra Gengar 6+2 🔔(No usar Otra Vez)🔔 🚨(Barre con Bola sombra y Gengar tiene que estar Full vida)🚨",
       "variant": []
     }
   ]

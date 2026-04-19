@@ -2,7 +2,7 @@
   "id": "umbreon",
   "name": "Umbreon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Cambiar a Slowbro🔔",
+  "initialMove": "💡Cambiar a Slowbro💡",
   "tricks": [
     {
       "detail": "Metagross --> Cambiar a Chansey ante Nidoking y usar Amortiguador",
@@ -13,16 +13,17 @@
         },
         {
           "detail": "Metagross --> Cambiar a Volcarona para matarlo, frente a Staraptor cambiar a Gengar +6 + Precisión X (No usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "Huir de Milotic --> Cambiar a Chansey para atraer al pájaro; Volcarona +3 🔔(Gigadrenado + Lanzallamas Umbreon)🔔",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Cambia a Milotic --> Cambiar a Chansey para atraer a Staraptor; Volcarona +3 🔔(Gigadrenado + Lanzallamas a Umbreon)🔔",
+              "variant": []
+            }  
+          ]  
         }
       ]
     },
     {
-      "detail": "Mienshao --> Usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a mienshao y Cascada a Musharna/Metagross)🔔",
+      "detail": "Mienshao --> Usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a Mienshao y Cascada a Musharna/Metagross)🔔",
       "variant": []
     }
   ]

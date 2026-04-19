@@ -2,7 +2,7 @@
   "id": "rhyperior",
   "name": "Rhyperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨  🔔(Si se queda usa Encanto y Amortiguador para forzar Cambio)🔔",
+  "initialMove": "🪨Trampa Rocas🪨 🔔(Si se queda usa Encanto y Amortiguador para forzar Cambio)🔔",
   "tricks": [
     {
       "detail": "Poliwrath --> Cambia a Slowbro y usa Bostezo frente a Jolteon, sacrifica a Politoed, entra Poliwrath +6",

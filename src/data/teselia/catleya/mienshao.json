@@ -2,36 +2,36 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Gengar Otra Vez si usa patada salto mira abajo👻",
+  "initialMove": "👻Cambiar a Gengar y usar Otra Vez👻 🔔(Mira quien Ataca Primero)🔔",
   "tricks": [
     {
-      "detail": "Si gengar ataca primero con Otra Vez ➜ Maquinación y esperar a que se debilite solo; ver quién entra:",
+      "detail": "Si gengar ataca primero ➜ Maquinación y esperar a que se debilite solo 🔔(Ver quién entra)🔔",
       "variant": [
         {
-          "detail": "Raichu ➜ Cambiar a Chansey y usar Trampa Rocas ",
+          "detail": "Raichu ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨",
           "variant": [
             {
               "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo para forzar el cambio; sacrificar a Politoed y entrar con Poliwrath +6",
               "variant": []
             },
             {
-              "detail": "Excadrill ➜ chansey , Encanto, Amortiguador (si la salud baja del 30% usa una max pocion ) pon las trampa rocas ➜ frente a metagros sacas a slowbro bostezo ➜ sacrificas a politoed ➜ Poliwrath +6 ",
+              "detail": "Excadrill ➜ Cambiar a Chansey luego usar Encanto y Amortiguador, 🚨(Si la salud baja Hasta 30% usa una Max Pocion)🚨 🪨Trampa Rocas🪨 frente a metagros, cambiar a Slowbro y usar Bostezo ➜ sacrificas a Politoed ➜ Poliwrath +6",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Umbreon ➜ Cambiar a Chansey, luego cambiar a Slowbro; usar Bostezo ➜ Frente a Musharna ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔puño drenaje a Umbreon y Cascada a Musharna y Metagross🔔",
+          "detail": "Umbreon ➜ Cambiar a Chansey, luego cambiar a Slowbro; usar Bostezo frente a Musharna ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño Drenaje a Umbreon y Cascada a Musharna/Metagross)🔔",
           "variant": []
         },
         {
-          "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Musharna ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔puño drenaje a Umbreon y Cascada a Musharna y Metagross 🔔",
+          "detail": "Metagross/Entei ➜ Cambiar a Slowbro y usar Bostezo frente a Musharna ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño Drenaje a Umbreon y Cascada a Musharna/Metagross)🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Si Mienshao ataca primero con Patada salto ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Jolteon ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔Cascada a Reuniclus🔔",
+      "detail": "Si Mienshao ataca primero ➜ Cambiar a Slowbro y usar Bostezo frente a Jolteon ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
       "variant": []
     }
   ]

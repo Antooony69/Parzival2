@@ -2,7 +2,7 @@
   "id": "jolteon",
   "name": "Jolteon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
       "detail": "Machamp → Cambia a Gengar luego a Slowbro, Bostezo frente a Jolteon, sacrifica a Politoed, entra Poliwrath +6",

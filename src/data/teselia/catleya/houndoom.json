@@ -2,20 +2,17 @@
   "id": "houndoom",
   "name": "Houndoom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨 frente a Metagross, Gengar Otra Vez +2",
   "tricks": [
     {
-      "detail": "Sale Metagross ➜ Gengar Otra Vez +2.",
-      "variant": [
-        {
-          "detail": "Se queda → Gengar +6 (Mantener Otra Vez).",
-          "variant": []
-        },
-        {
-          "detail": "Bronzong / Milotic → Politoed (sacrificar), Poliwrath +6. (Cascada a Bronzong).",
-          "variant": []
-        }
-      ]
+      "detail": "Si se Queda → Gengar +6 (Mantener el Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong / Milotic → Sacrifica a Politoed, entra Poliwrath +6 🔔(Cascada a Bronzong)🔔",
+      "variant": []
     }
   ]
 }
+  
+

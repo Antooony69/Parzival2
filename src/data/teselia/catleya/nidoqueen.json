@@ -2,28 +2,28 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usa Teletransporte 💡",
+  "initialMove": "💡Usa Teletransporte💡",
   "tricks": [
     {
-      "detail": "Absol --> Sacar a Slowbro bostezo al enfrentar a Nidoking; Teletransporte y sacar a Volcarona +1 según la situación 🔔",
+      "detail": "Absol --> Sacar a Slowbro y usar bostezo frente  a Nidoqueen; Teletransporte y sacar a Volcarona +1 🔔(Mirar tu Situación)🔔",
       "variant": [
         {
-          "detail": "Se queda --> psiquico para el nido  y frente Blissey; luego Danza Aleteo dos veces y presionar hasta completar",
+          "detail": "Si se queda --> Psiquico para Debilitarlo, frente Blissey usa Danza Aleteo dos veces luego termina de Barrer",
           "variant": []
         },
         {
-          "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
+          "detail": "Blissey --> Danza Aleteo dos veces y seguir Barriendo",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Metagross --> Volcarona frente a Staraptor; Gengar +6 y precisión (No usar Otra Vez)",
+      "detail": "Metagross --> Volcarona frente a Staraptor; Gengar +6 + Precisión X (No usar Otra Vez)",
       "variant": [
-            {
-              "detail": "Huye a Milotic --> Cambiar a Chansey para atraer al pájaro; Volcarona +3 🔔gigadrenado y lanzallamas a Umbreon🔔",
-              "variant": []
-            }
+        {
+          "detail": "Huye a Milotic --> Cambiar a Chansey para atraer a Staraptor; Volcarona +3 🔔(Gigadrenado + Lanzallamas contra Umbreon)🔔",
+          "variant": []
+        }
       ]
     }
   ]

@@ -2,14 +2,14 @@
   "id": "slowking",
   "name": "Slowking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro frente a Absol; usar Bostezo al salir Absol (o Nidoking); Teletransporte y sacar a Volcarona +1",
+  "initialMove": "Cambiar a Slowbro y usar Bostezo frente a Nidoqueen; usar Teletransporte, entrar con Volcarona +1 🔔(Mira tu Situación)🔔",
   "tricks": [
     {
-      "detail": "Quedarse --> Psíquico al enfrentar a Blissey; luego Danza Aleteo dos veces y presionar hasta completar",
+      "detail": "Si se queda --> Usar Psíquico para Debilitarlo, frente a Blissey usar Danza Aleteo dos veces y Barrer",
       "variant": []
     },
     {
-      "detail": "Blissey --> Danza Aleteo dos veces y presionar hasta completar",
+      "detail": "Blissey --> Usar Danza Aleteo dos veces y Barrer",
       "variant": []
     }
   ]

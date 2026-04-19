@@ -5,21 +5,14 @@
   "initialMove": "💡Ver habilidad💡",
   "tricks": [
     {
-      "detail": "Intimidación --> Volcarona +2 ",
+      "detail": "Intimidación --> Volcarona +3 🔔(Gigadrenado a Staraptor)🔔",
       "variant": []
     },
     {
-      "detail": "Sin Intimidación --> Opción para resolver:",
-      "variant": [
-        {
-          "detail": "Arriesgar --> Gengar +4 +2 🔔Arriesgar dos veces con Onda Certera🔔",
-          "variant": []
-        },
-        {
-          "detail": "Estable --> Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔Cascada a Reuniclus🔔",
-          "variant": []
-        }
-      ]
+      "detail": "Sin Intimidación --> Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
+      "variant": []
     }
   ]
 }
+  
+

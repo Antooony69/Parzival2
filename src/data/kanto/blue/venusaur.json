@@ -14,7 +14,7 @@
               "detail": "Si se queda → Cambia a Slowbro y usa Bostezo 🔔(Mira su Precision)🔔",
               "variant": [
                 {
-                  "detail": "Te acierta → Usa Teletransporte, entra Volcarona +2",
+                  "detail": "Acierta → Usa Teletransporte, entra Volcarona +2",
                   "variant": []
                 },  
                 {
@@ -24,7 +24,7 @@
               ]   
             },     
             {
-              "detail": "Poliwrath → Cambia a Poliwrath luego a Gengar 6+2",
+              "detail": "Poliwrath → Cambia a Poliwrath luego a Politoed, entra Chansey y usa Teletransportacion, 💊Gengar 2+2 + Precision X💊 💰(Si quieres Ahorrar: Gengar 6+2)💰",
               "variant": [] 
             }    
           ]  
@@ -33,11 +33,11 @@
           "detail": "🌱Drenadoras🌱 → Encanto frente a Gyarados, usa Teletransporte",
           "variant": [
             {
-              "detail": "Si se queda → Cambia a SLowbro y usa Bostezo frente a Magnzone, cambia a Poliwrath y deja que muera, 💊entra Volcarona +1 + atk. Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
+              "detail": "Si se queda → Cambia a SLowbro y usa Bostezo frente a Magnzone, cambia a Poliwrath y deja que muera, 💊Volcarona +1 + Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
               "variant": []
             },  
             {
-              "detail": "Sandlash → Cambia a Slowbro y usa relajo para recibir el terremoto, Bostezo frente a Magnezone, cambia a Poliwrath y deja que muera, 💊entra Volcarona +1 + atk. Especial X💊 (Gigadrenado contra Alakazam)🔔",
+              "detail": "Sandlash → Cambia a Slowbro y usa relajo para recibir el terremoto, Bostezo frente a Magnezone, cambia a Poliwrath y deja que muera, 💊Volcarona +1 + Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
               "variant": []
             } 
           ] 
@@ -45,15 +45,15 @@
       ]     
     },
     {
-      "detail": "Poliwrath → Usa Teletransporte, 💊Gengar 2+2 + Precision X💊 🤑(Si quieres Ahorrar: 6+2)🤑",
+      "detail": "Poliwrath → Sacrifica a Politoed luego entra Chansey y usa Teletransportacion, 💊Gengar 2+2 + Precision X💊 💰(Si quieres Ahorrar: Gengar 6+2)💰",
       "variant": []
     },
     {
-      "detail": "Sandlash → Usa Teletransporte y saca a Slowbro, Bostezo, Proteccion y Bostezo frente a Magnezone, Sacrifica a Poliwrath, 💊entra Volcarona +1 + atk. Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
+      "detail": "Sandlash → Usa Teletransporte y saca a Slowbro, Bostezo frente a Magnezone, Sacrifica a Poliwrath, 💊Volcarona +1 + Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
       "variant": []
     },
     {  
-      "detail": "Gyarados → Usa Teletransporte y saca a Slowbro, Bostezo, Proteccion y Bostezo frente a Magnezone, Sacrifica a Poliwrath, 💊entra Volcarona +1 + atk. Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
+      "detail": "Gyarados → Usa Teletransporte y saca a Slowbro, Bostezo + Proteccion + Bostezo frente a Magnezone, Sacrifica a Poliwrath, 💊Volcarona +1 + Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
       "variant": [] 
     }
   ]

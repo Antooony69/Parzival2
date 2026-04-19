@@ -2,14 +2,14 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Slowbro ante Absol, cambiar a Volcarona ante Nidoking; Volcarona +1 según la situación💡",
+  "initialMove": "💡Cambiar a Slowbro ante Absol, cambiar a Volcarona ante Nidoking; Volcarona +1💡 ⬇️(Mira tu Situación)⬇️",
   "tricks": [
     {
-      "detail": "No huye --> atacar con Psíquico, si sacan a Chansey; usar Danza Aleteo dos veces más y barrer.",
+      "detail": "Si se queda --> Usar Psíquico para Debilitarlo, frente a Blissey usar Danza Aleteo dos veces y Barrer",
       "variant": []
     },
     {
-      "detail": "Blissey --> Usar Danza Aleteo dos veces más y barrer.",
+      "detail": "Blissey --> Usar Danza Aleteo dos veces y Barrer",
       "variant": []
     }
   ]

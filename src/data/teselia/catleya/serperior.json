@@ -2,14 +2,14 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Metagross ➜ cambiar a Gengar  Otraz Vez +2 Mira abajo ↓ ",
+  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Metagross, cambiar a Gengar Otra Vez +2",
   "tricks": [
     {
-      "detail": "Metagross Se queda ➜ 👻 Gengar +6 👻",
+      "detail": "Si se Queda ➜ 👻Gengar +6👻",
       "variant": []
     },
     {
-      "detail": "Milotic / Bronzong ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊 🔔Cascada a Bronzong 🔔",
+      "detail": "Milotic / Bronzong ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊 🔔(Cascada a Bronzong)🔔",
       "variant": []
     }
   ]

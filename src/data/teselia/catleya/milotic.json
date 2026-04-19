@@ -2,13 +2,13 @@
   "id": "milotic",
   "name": "Milotic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Metagross, cambiar a Volcarona y usar Lanzallamas",
+  "initialMove": "🪨Trampa Rocas🪨 frente a Metagross, cambiar a Volcarona y usar Lanzallamas",
   "tricks": [
     {
-      "detail": "Staraptor --> Gengar +4 y precisión 🔔Tiene Pañuelo elegido🔔",
+      "detail": "Staraptor --> Gengar +4 + Precisión X 🔔(Tiene Pañuelo elegido)🔔",
       "variant": [
         {
-          "detail": "Huir de Milotic --> Cambiar a Chansey y usar Amortiguador para atraer al pájaro; Volcarona +3 🔔Gigadrenado y lanzallmas Umbreon🔔",
+          "detail": "Si cambia a Milotic --> Cambiar a Chansey y usar Amortiguador para atraer a Staraptor; Volcarona +3 🔔(Gigadrenado + Lanzallamas a Umbreon)🔔",
           "variant": []
         }
       ]

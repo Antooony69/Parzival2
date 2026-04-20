@@ -5,28 +5,28 @@
   "initialMove": "🔔Usar Trampa Rocas🔔",
   "tricks": [
     {
-      "detail": "Conkeldurr --> Entrar con Gengar +2",
+      "detail": "Conkeldurr ➜ Entrar con Gengar otra vez +2",
       "variant": [
         {
-          "detail": "Si se queda --> Gengar +4 + Precisión",
+          "detail": "Si Conkeldur se queda ➜ Gengar +4 + Precisión",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Salamence --> Atacar hasta debilitar al enfrentar a Steelix; sacrificar a Politoed  entrar con Poliwrath  usar Ataque X y presionar con Cascada (waterfall) a Steelix / Conkeldurr restante con Puño Drenaje ",
+      "detail": "Salamence ➜ Ataca con bola sombra ➜ y frente a  Steelix ➜ sacrifica a Politoed y entras con Poliwrath usar Ataque X  🔔 Cascada a Steelix / Conkeldurr con Puño Drenaje 🔔",
       "variant": []
     },
     {
-      "detail": "Ludicolo --> Cambiar a Slowbro  y usar Bostezo  sacrificar a Politoed entrar con Poliwrath +6",
+      "detail": "Ludicolo ➜  Cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed y entrar con Poliwrath +6🐸🥊",
       "variant": []
     },
     {
-      "detail": "Medicham --> Cambiar a Slowbro y usar Bostezo  al enfrentar a Cacturne  entrar con Volcarona  +3, 🔔puede usar Especial X y Gigadrenado a Steelix🔔",
+      "detail": "Medicham ➜ Cambiar a Slowbro y usa Bostezo ➜ Frente a Maractus ➜ entra con Volcarona +3 🔔puedes usar Especial X y Gigadrenado a Steelix🔔",
       "variant": []
     },
     {
-      "detail": "Haxorus --> Usar Amortiguador o Teletransporte  entrar con Gengar +6",
+      "detail": "Haxorus ➜ Usa Amortiguador o Teletransporte y entra con Gengar +6",
       "variant": []
     }
   ]

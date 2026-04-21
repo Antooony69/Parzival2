@@ -5,34 +5,35 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": " Si usa Onda Certera es Zoroark】➜ Cambiar a Gengar 🔔Mira abajo🔔",
+      "detail": "Si usa Onda Certera es【Zoroark】➜ Cambiar a Gengar 🔔(Mira abajo)🔔",
       "variant": [
         {
-          "detail": "Si Zoroak se queda ➜ Gengar 4+2 + Precisión X 🔔no usar otra vez Zoroark tiene gafas elegidas🔔 ",
+          "detail": "Si se queda ➜ Gengar 4+2 + Precisión X 🔔(No usar Otra Vez Zoroark tiene gafas elegidas)🔔",
           "variant": []
         },
         {
-          "detail": "Dragonite ➜ entra Slowbro  y Cambia a Chansey y usa amortiguador ",
+          "detail": "Dragonite ➜ Cambia a Slowbro luego Cambia a Chansey y usa Amortiguador",
           "variant": [
             {
-              "detail": "Si Dragonite se queda ➜ cambia a Gengar otra vez +2 luego Barre hasta que entre Bisharp ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6🔔(Cascada a Cofragius/Bronzong)🔔",
+              "detail": "Si se queda ➜ Cambia a Gengar otra vez +2 luego Barre hasta que entre Bisharp ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6🔔(Cascada a Cofragius/Bronzong)🔔",
               "variant": []
             },
             {
-              "detail": " Bisharp ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6🔔(Cascada a Cofragius/Bronzong)",
+              "detail": " Bisharp ➜ Sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)",
               "variant": []
             },
             {
-              "detail": "Si entra el segundo chandelure Es Zoroark ➜ cambia a Gengar",
-              "variant": []
-            },
-            {
-              "detail": "Se queda  ➜ Gengar +4 +2 + Precision X (Tiene Pañuelo elegido, No usar otra vez)",
-              "variant": []
-            },
-            {
-              "detail": "Dragonite ➜ entra Slowbro  y Cambia a Chansey y usa amortiguador 🔔Ver Arriba la estrategia de Dragonite🔔 ",
-              "variant": []
+              "detail": "Si entra el Segundo Chandelure ➜ Cambia a Gengar",
+              "variant": [
+                {
+                  "detail": "Si se queda  ➜ Gengar 4+2 + Precision X (No usar otra vez)",
+                  "variant": []
+                },
+                {
+                  "detail": "Dragonite ➜ Cambia a Slowbro luego Cambia a Chansey y usa Amortiguador 🔔(Ver Arriba la estrategia de Dragonite)🔔",
+                  "variant": []
+                }
+              ]  
             }
           ]
         }
@@ -42,7 +43,7 @@
       "detail": "Eelektross ➜ Gengar usa Otra Vez luego cambiar a Slowbro",
       "variant": [
         {
-          "detail": "Se queda ➜ usar Bostezo",
+          "detail": "Se queda ➜ Usar Bostezo",
           "variant": [
             {
               "detail": "Gengar ➜ Usar Protección, cambiar a Poliwrath ➜ frente Chandelure ➜ Volcarona +2 🔔(Psiquico a Gengar)🔔",
@@ -92,18 +93,10 @@
           "detail": "Chandelure/lucario ➜ Amortiguador 🔔(Mantener si usa Onda Certera y Mira abajo)🔔",
           "variant": [
             {
-              "detail": "Dragonite ➜ Slowbro y cambiar a chansey amortiguador",
+              "detail": "Dragonite ➜ Gengar Otra Vez +2 🔔(Mira el Objeto)🔔",
               "variant": [
                 {
-                  "detail": "Frente a Chandelure/Lucario ➜Amortiguador 🔔Si usa Onda Certera es zoroak con gafas elegidas Gengar +4 +2 + precision x",
-                  "variant": []
-                },
-                {
-                  "detail": "Si Cambia a Dragonite mientras te bosteas ➜ y tienes a gengar +2 🔔Observa Abajo🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "Con Restos ➜ Ataca a Dragonite hasta que entre Bisharp ➜ Sacrifica a Politoed ➜ Poliwrath +6 (cascada a cofagrigus/bronzong ",
+                  "detail": "Con Restos ➜ Ataca a Dragonite hasta que entre Bisharp ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Cofagrigus/Bronzong)🔔",
                   "variant": []
                 },
                 {
@@ -113,7 +106,7 @@
               ]
             },
             {
-              "detail": "Bisharp ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
+              "detail": "Bisharp ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 🔔(Cascada a Cofragius/Bronzong)🔔",
               "variant": []
             },
             {

@@ -5,7 +5,7 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Identificar movimiento",
+      "detail": "Si se queda ➜ Identificar movimiento",
       "variant": [
         {
           "detail": "Triturar ➜ Revisar daño",
@@ -86,11 +86,11 @@
       ]
     },
     {
-      "detail": "Skuntank ➜ Sacrifica a Politoed ➜ cambiar de Volcarona a Gengar para usar Autodestrucción al enfrentar a Durant ➜ Slowbro usa Bostezo y Teletransporte ➜ entra con Poliwrath +6 absorbiendo golpe de Crustle y usar Velocidad X para presionar",
+      "detail": "Skuntank ➜ Sacrifica a Politoed ➜ cambiar de Volcarona a Gengar para usar Autodestrucción al enfrentar a Forretess ➜ Slowbro usa Bostezo y Teletransporte ➜ entra con Poliwrath +6  🔔 Si sale Crustle usa  Velocidad X y puño dranaje ",
       "variant": []
     },
     {
-      "detail": "Tyranitar ➜ Poliwrath usa Puño Drenaje contra tyranitar al enfrentar a Ferrothorn; Volcarona +1 🦋🔥 ",
+      "detail": "Tyranitar ➜ Poliwrath usa Puño Drenaje contra tyranitar al enfrentar a Ferrothorn ➜ Volcarona x1 Danza aleteo 🦋🔥 ",
       "variant": []
     }
   ]

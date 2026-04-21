@@ -56,7 +56,7 @@
           ]
         },
         {
-          "detail": "Dragonite ➜  Slowbro Usar Bostezo ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+          "detail": "Dragonite ➜ Slowbro Usar Bostezo ➜ sacrifica a Politoed ➜ entrar con Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
           "variant": []
         }
       ]
@@ -90,7 +90,7 @@
       "detail": "Dragonite ➜ Cambia a Slowbro luego a Chansey",
       "variant": [
         {
-          "detail": "Chandelure/lucario ➜ Amortiguador 🔔(Mantener si usa Onda Certera y Mira abajo)🔔",
+          "detail": "Chandelure/lucario ➜ Amortiguador 🔔(Aguanta la Onda Certera o A bocajarro y sigue la guia de arriba segun el pokemon que a salido)🔔",
           "variant": [
             {
               "detail": "Dragonite ➜ Gengar Otra Vez +2 🔔(Mira el Objeto)🔔",
@@ -114,7 +114,7 @@
               "variant": []
             },
             {
-              "detail": "Segundo Chandelure ➜ Observar la parte superior, done dice usa Onda Certera y permanecer en el campo.",
+              "detail": "Si Sale el segundo chanselure [Zoroark] Usa Amoritguador para ver si usa onda certera y cambiar a gengar +4 +2 + Precision x 🔔Si sabes que es zoruark no usar otra vez🔔",
               "variant": []
             }
           ]

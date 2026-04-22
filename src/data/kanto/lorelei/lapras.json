@@ -50,7 +50,7 @@
           "detail": "Rápido --> Teletransporte para ver objeto",
           "variant": [
             {
-              "detail": "Vidasfera --> Gengar +4 +2",
+              "detail": "Vidasfera --> Gengar, otra vez, +4 +2",
               "variant": []
             },
             {
@@ -60,10 +60,10 @@
           ]
         },
         {
-          "detail": "¿Ahorrar dinero? --> Gengar +2",
+          "detail": "¿Ahorrar dinero? --> Gengar, otra vez, +2",
           "variant": [
             {
-              "detail": "Si se queda --> Gengar +4 +2; barrer con Bola Sombra",
+              "detail": "Si se queda --> Gengar, otra vez, +4 +2; barrer con Bola Sombra",
               "variant": []
             },
             {

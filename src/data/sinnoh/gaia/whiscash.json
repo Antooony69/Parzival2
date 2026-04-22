@@ -2,24 +2,46 @@
   "id": "whiscash",
   "name": "Whiscash",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Cambiar a Volcarona🔔",
+  "initialMove": "🔔Trampa Rocas🔔 Si no Cambia Usa Amortiguador",
   "tricks": [
     {
-      "detail": "Si se queda / Rhyperior --> Absorber hasta que debilite al enfrentar a Blastoise ; entrar con Slowbro y usar Bostezo",
+      "detail": "Rhyperior ➜ Chansey Encanto y entra con Slowbro y usa Bostezo",
       "variant": [
         {
-          "detail": "Si se queda --> Usar Protección y Relajo  al enfrentar a Leavanny ; entrar con Volcarona +1",
+          "detail": "Si se queda ➜ Usa Bostezo otra vez Para que entre Parasect y entrar con Volcarona x1 danza aleteo",
           "variant": []
         },
         {
-          "detail": "Leavanny --> Entrar con Volcarona +1",
+          "detail": "Parasect ➜ Entra con Volcarona x1 danza aleteo",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Leavanny  --> Entrar con Volcarona  +1",
-      "variant": []
+      "detail": "Parasect ➜ Usa Teletransporte ",
+      "variant": [
+        {
+          "detail": "Si parasect se Queda ➜ volcarona x1 danza aleteo y lanzallamas",
+          "variant": []
+        },
+        {
+          "detail": "Rhyperior ➜ Slowbro Bostezo (Mira si Megacuerno golpea o falla)",
+          "variant": [
+            {
+              "detail": "Si Golpea ➜ slowbro usa Teletransporte ➜ Volcarona x1 Danza Aleteo (Si quieres ahorrar dinero usa proteccion y usa Bostezo entra Con Volcarona x1 Danza aleteo)",
+              "variant": []
+            },
+            {
+              "detail": "Si Falla ➜  volcarona x1 Danza Aleteo",
+              "variant": []
+            },
+            {
+              "detail": "Sale Parasect ➜ Volcarona x1 Danza Aleteo",
+              "variant": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -5,40 +5,40 @@
   "initialMove": "🪨 Trampa rocas 🪨 🔔se queda sigue usando Amortiguador🔔",
   "tricks": [
     {
-      "detail": "Conkeldurr --> Cambiar a Gengar y usar Otra Vez 🔔revisar movimiento🔔",
+      "detail": "Conkeldurr ➜ Cambiar a Gengar y usa Otra Vez 🔔revisar movimiento🔔",
       "variant": [
         {
-          "detail": "A Bocajarro --> Gengar +4 🔔Bola Sombra a todo🔔",
+          "detail": "A Bocajarro ➜ Gengar Otra Vez +4 🔔Bola Sombra a todo🔔",
           "variant": []
         },
         {
-          "detail": "Puño Drenaje --> Cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial",
+          "detail": "Puño Drenaje ➜ Cambia a Volcarona ante Seismitoad ➜ Volcarona x1 Danza aleteo + Especial x",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Haxorus --> Gengar +4 🔔Bola Sombra a todo🔔",
+      "detail": "Haxorus ➜ Gengar +4 🔔Bola Sombra a todo🔔",
       "variant": [
         {
-          "detail": "Conkeldurr --> Gengar --> Cambiar a Politoed y luego a Gengar +4",
+          "detail": "Conkeldurr ➜ Gengar ➜ Cambia a Politoed y luego a Gengar Otra vez +4",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Aggron --> Cambiar a Poliwrath y matalo",
+      "detail": "Aggron ➜ Cambia a Poliwrath y matalo",
       "variant": [
         {
-          "detail": "Seismitoad / Skarmory --> Cambiar a Chansey y usar Amortiguador al enfrentar a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial",
+          "detail": "Seismitoad / Skarmory ➜ Cambia a Chansey ,Amortiguador Frente a Conkeldurr ➜ Gengar usa Otra Vez y cambia a Volcarona Frente a Seismitoad, Volcarona +1 danza aleteo + Especial x 🔔si volcarona muere de un critico vuelve a repetir el proceso de la ruta de seismitoad🔔",
           "variant": []
         },
         {
-          "detail": "Conkeldurr --> Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 + X especial",
+          "detail": "Conkeldurr ➜ Gengar usa Otra Vez y cambiar a Volcarona Frente a Seismitoad ➜ Volcarona x1 Danza aleteo + Especial x",
           "variant": []
         },
         {
-          "detail": "Dusknoir --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Dusknoir ➜ Sacrifica a Politoed y entrar con Poliwrath +6",
           "variant": []
         }
       ]

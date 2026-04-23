@@ -5,24 +5,24 @@
   "initialMove": "💡 Teletransporte💡",
   "tricks": [
     {
-      "detail": "A bocajarro --> Revisar objeto",
+      "detail": "A bocajarro ➜ Revisar objeto",
       "variant": [
         {
-          "detail": "Vidasfera --> Entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+          "detail": "Vidasfera ➜ Entra con Slowbro y usa Bostezo y sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
           "variant": []
         },
         {
-          "detail": "Sin Vidasfera --> Entrar con Gengar +4 y usar Otra Vez (Bola Sombra a todo Lucario Banda focus )",
+          "detail": "Sin Vidasfera ➜ Entra con Gengar Otra vez +4  (Bola Sombra a todo Lucario Banda focus)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Poder Oculto --> Entrar con Gengar +6 +2",
+      "detail": "Esfera Aural ➜ Entra con Gengar  Otra Vez +6 +2",
       "variant": []
     },
     {
-      "detail": "Garchomp --> Entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+      "detail": "Garchomp ➜ Entra con Slowbro y usa Bostezo y sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
       "variant": []
     }
   ]

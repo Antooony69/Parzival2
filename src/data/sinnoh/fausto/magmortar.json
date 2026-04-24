@@ -61,7 +61,7 @@
       ]
     },
     {
-      "detail": "Blaziken / Arcanine ➜ Cambiar a Slowbro, Bostezo ➜ Frente a Cacturne ➜ sacrifica a Politoed  ➜ Poliwrath  +6",
+      "detail": "Blaziken / Arcanine ➜ Cambiar a Slowbro, Bostezo ➜ Frente a Maractus ➜ sacrifica a Politoed  ➜ Poliwrath  +6",
       "variant": []
     },
     {
@@ -73,17 +73,17 @@
       "variant": []
     },
     {
-      "detail": "Bouffalant ➜ Gengar  usa Maquinación ➜ Frente a Dragonite ➜ atacar con bola sombra",
+      "detail": "Bouffalant ➜ Gengar usa Maquinación ➜ Frente a Dragonite ➜ atacar con bola sombra",
       "variant": [
         {
           "detail": "Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath +6",
           "variant": []
         },
         {
-          "detail": "Steelix ➜ Cambiar a Slowbro  y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
+          "detail": "Steelix ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
           "variant": [
             {
-              "detail": "Arriesgado ➜ Sacrifica directamente a Politoed  ➜ Poliwrath +6",
+              "detail": "Arriesgado ➜ Sacrifica directamente a Politoed ➜ Poliwrath +6",
               "variant": []
             }
           ]
@@ -92,11 +92,11 @@
           "detail": "Maractus ➜ Usar Trampa Rocas para recibir Esfuerzo y usar Amortiguador ",
           "variant": [
             {
-              "detail": "Lopunny / Medicham ➜ Cambiar a Slowbro  y usar Bostezo ➜ Frente a Maractus entrar con Volcarona +3 🔔 puedes usar Especial X y Gigadrenado a Steelix 🔔",
+              "detail": "Lopunny / Medicham ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Maractus entrar con Volcarona +3 🔔 puedes usar Especial X y Gigadrenado a Steelix 🔔",
               "variant": []
             },
             {
-              "detail": "Magmortar ➜ Gengar otra vez +2 y presionar hasta tener en frente a  Steelix ➜ cambiar a Slowbro  y usar Bostezo ➜ Frente a Maractus ➜  Volcarona  +3 🔔 Gigadrenado a Steelix, puedes usar Especial X 🔔",
+              "detail": "Magmortar ➜ Gengar otra vez +2 y presionar hasta tener en frente a  Steelix ➜ cambiar a Slowbro y usar Bostezo ➜ Frente a Maractus ➜  Volcarona  +3 🔔 Gigadrenado a Steelix, puedes usar Especial X 🔔",
               "variant": []
             }
           ]

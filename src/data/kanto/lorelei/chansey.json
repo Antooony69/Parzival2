@@ -2,14 +2,14 @@
   "id": "chansey",
   "name": "Chansey",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Bronzong; Encanto❤️",
+  "initialMove": "🪨Trampa Rocas🪨 frente a Bronzong luego usa Encanto❤️",
   "tricks": [
     {
       "detail": "Cabezazo Zen / Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Autodestrucción y sale Chansey --> Sacrificar a Politoed; Poliwrath +6",
+      "detail": "Autodestrucción y sale su Chansey --> Sacrificar a Politoed; Poliwrath +6",
       "variant": []
     },
     {

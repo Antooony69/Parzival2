@@ -2,6 +2,11 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Gengar y debilitar con bola sombra frente a Mandibuzz; cambiar a Chansey y usar Trampa Rocas frente a Absol; Volcarona +2 (Gigadrenado a Absol)",
-  "tricks": []
+  "initialMove": "Cambiar a Gengar y matalo con bola sombra ",
+  "tricks": [
+    {
+      "detail": "Frente a Mandibuzz/spiritomb ➜ cambia a Chansey y usa Trampa Rocas ➜ frente a Absol entra con  Volcarona x2 Danza aleteo (Gigadrenado a Absol)",
+      "variant": []
+    }
+  ]
 }

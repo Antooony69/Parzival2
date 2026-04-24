@@ -2,6 +2,11 @@
   "id": "glalie",
   "name": "Glalie",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 TRAMPA ROCAS 🪨 frente a Mienshao; Gengar +2; Bola Sombra a todo",
-  "tricks": []
+  "initialMove": "🪨 TRAMPA ROCAS 🪨 ",
+  "tricks": [
+    {
+      "detail": "Frente a Mienshao ➜ Entra Gengar Usa Maquinacion y mata a todos con Bola Sombra 🔔Mienshao no te mata de roca afilada🔔",
+      "variant": []
+    }
+  ]
 }

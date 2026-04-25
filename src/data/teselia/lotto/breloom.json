@@ -2,18 +2,18 @@
   "id": "breloom",
   "name": "Breloom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar +2 y atacar 💡",
+  "initialMove": "💡Gengar Otra Vez +2 y Debilitar💡",
   "tricks": [
     {
-      "detail": "Magnezone --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; cambiar a Slowbro y usar Bostezo al enfrentar a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Magnezone --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨 frente a Conkeldurr; cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Conkeldurr --> Cambiar a Slowbro, luego a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Slowbro usa Bostezo ante Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Conkeldurr --> Cambiar a Slowbro, luego a Chansey y usar 🪨Trampa Rocas🪨 frente a Conkeldurr; Slowbro usa Bostezo frente a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
       "variant": []
     },
     {
-      "detail": "Gengar +2 enfrentando a Conkeldurr --> Cambiar a Slowbro y usar Bostezo frente Magnezone, luego usa Proteccion y Bostezo frente a Breloom, despues sacrifica a politoed y entra con Poliwrath +6",
+      "detail": "Gengar +2 y entra Conkeldurr --> Cambiar a Slowbro y usar Bostezo frente a Magnezone, luego usa Proteccion y Bostezo frente a Breloom, despues sacrifica a politoed y entra con Poliwrath +6",
       "variant": []
     }
   ]

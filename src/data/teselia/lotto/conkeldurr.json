@@ -5,7 +5,7 @@
   "initialMove": "👻Cambia a Gengar y usa Otra Vez👻",
   "tricks": [
     {
-      "detail": "A bocajarro + Llamasfera ➜ Gengar Otra vez +4 y bola sombra🔔(Ver quien entra)🔔:",
+      "detail": "A bocajarro + Llamasfera ➜ Gengar +4 y Bola Sombra 🔔(Ver quien entra)🔔",
       "variant": [
         {
           "detail": "Skarmory ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Haxorus; Gengar +4 🔔(Bola Sombra a todo)🔔",
@@ -25,7 +25,7 @@
       "detail": "Puño Drenaje + Llamasfera ➜ Cambiar a Chansey Frente a Seismitoad luego usar Encanto",
       "variant": [
         {
-          "detail": "Conkeldurr ➜ Usar Encanto otra vez hasta que salga Aggron luego poner Trampa rocas",
+          "detail": "Conkeldurr ➜ Usar Encanto otra vez hasta que salga Aggron luego poner 🪨Trampa Rocas🪨",
           "variant": [
             {
               "detail": "Conkeldurr ➜ Gengar usa otra vez y cambia a Volcarona frente a Seismitoad, 💊Volcarona +1 + Especial X💊",
@@ -71,7 +71,7 @@
               ]
             },
             {
-              "detail": "Sin Vidasfera ➜ Bostezo.",
+              "detail": "Sin Vidasfera ➜ Bostezo",
               "variant": [
                 {
                   "detail": "Magnezone ➜ Cambiar a Chansey y usar Encanto frente a Breloom, 💊cambia a Gengar +4 + Precisión X💊",

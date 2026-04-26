@@ -5,25 +5,25 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Puño Drenaje  --> Gengar, Otra Vez, +4 +2",
+      "detail": "Puño Drenaje ➜ Volcarona x2 Danza aleteo",
       "variant": []
     },
     {
-      "detail": "Excadrill --> Ver objeto",
+      "detail": "Excadrill ➜ Ver objeto",
       "variant": [
         {
-          "detail": "Globo Helio --> Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar  Tyranitar",
+          "detail": "Globo Helio ➜ usa Encanto y Amortiguador frente a Tyranitar sacas a Poliwrath para matar Tyranitar",
           "variant": []
         },
         {
-          "detail": "Sin Globo Helio --> Teletransporte; enviar a Slowbro y usar Bostezo",
+          "detail": "Sin Globo Helio ➜ Teletransporte ➜ enviar a Slowbro y usar Bostezo",
           "variant": [
             {
-              "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "detail": "Si se queda ➜ Teletransporte ➜ Volcarona x1 danza aleteo ataca hasta que entre Houndoom Para volver a usar Danza aleteo y matarlo",
               "variant": []
             },
             {
-              "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "detail": "Mismagius ➜ Volcarona x1 danza aleteo ataca hasta que entre Houndoom Para volver a usar Danza aleteo y matarlo",
               "variant": []
             }
           ]
@@ -31,27 +31,27 @@
       ]
     },
     {
-      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar ",
+      "detail": "Tyranitar ➜ Entra con Poliwrath para matar a tyranitar ",
       "variant": [
         {
-          "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+          "detail": "Gyarados ➜ Volcarona x1 danza aleteo + Especial X y frente a Houndoom sigue atacando no te mata 🔔Psíquico a Gyarados🔔",
           "variant": []
         },
         {
-          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
+          "detail": "Victreebel ➜ Cambia a Gengar, luego a Slowbro",
           "variant": [
             {
-              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, x1 danza aleteo + Especial X",
               "variant": []
             },
             {
-              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+              "detail": "Gyarados ➜ Volcarona, x1 danza aleteo + Especial X",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Excadrill --> Full Gigadrenado hasta matarlo ",
+          "detail": "Excadrill ➜ Full Gigadrenado hasta matarlo ",
           "variant": []
         }
       ]

@@ -299,17 +299,17 @@ export default function PokemonGuide() {
 
     <div className="flex items-center gap-2">
       <img
-        className="w-8 h-8 hover:scale-110 transition-transform"
+        className="w-10 h-10 hover:scale-110 transition-transform"
         src={`${import.meta.env.BASE_URL}images/IrviingHC.png`}
         alt="Irving"
       />
       <img
-        className="w-8 h-8 hover:scale-110 transition-transform"
+        className="w-10 h-10 hover:scale-110 transition-transform"
         src={`${import.meta.env.BASE_URL}images/ParziivalTwitch.png`}
         alt="Parzival"
       />
       <img
-        className="w-8 h-8 hover:scale-110 transition-transform"
+        className="w-10 h-10 hover:scale-110 transition-transform"
         src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`}
         alt="Itachi"
       />

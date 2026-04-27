@@ -2,13 +2,13 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Slowbro",
+  "initialMove": "Cambia a Slowbro y Mira que Objeto tiene",
   "tricks": [
     {
       "detail": "Tiene Vidaesfera → Bostezo.",
       "variant": [
         {
-          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 + precisión X.",
+          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 + precisión X(heracross Banda focus)",
           "variant": []
         },
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "detail": "No tiene Vidasfera ➜ Bostezo ➜ sale Lucario ➜ Teletransporte ➜ Volcarona +2 (HP por encima 17%).",
+      "detail": "No tiene Vidasfera ➜ Slowbro Bostezo ➜ sale Lucario ➜ Teletransporte ➜ Volcarona x2 danza aleteo (HP por encima 17%).",
       "variant": []
     }
   ]

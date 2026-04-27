@@ -5,27 +5,27 @@
   "initialMove": "💡 Mira Qué Habilidad Tiene 💡",
   "tricks": [
     {
-      "detail": "Intimidación --> 🥚Amortiguador🥚",
+      "detail": "Intimidación ➜ 🥚Amortiguador🥚",
       "variant": [
         {
-          "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+          "detail": "Absol ➜ Gengar +4 + Precisión (No usar Otra Vez)",
           "variant": []
         },
         {
-          "detail": "Scizor --> Volcarona +2 + Ataque Especial X; gigadrenado  a Luxray",
+          "detail": "Scizor ➜ Volcarona x2 Danza aleteo + Especial X 💡gigadrenado a Luxray💡",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Intimidación --> Trampa Rocas; sacrificar a Politoed; Poliwrath puño hielo  para debilitar",
+      "detail": "Sin Intimidación ➜ Trampa Rocas y sacrifica a Politoed y con Poliwrath puño hielo para matarlo",
       "variant": [
         {
-          "detail": "Shiftry --> Volcarona +2; usa lanzallamas  contra Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)",
+          "detail": "Shiftry ➜ Volcarona x2 Danza aleteo y usa lanzallamas  contra Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)",
           "variant": []
         },
         {
-          "detail": "Hariyama --> Recibir Ataque X; completar con Cascada contra Hariyama",
+          "detail": "Hariyama ➜ Con  Poliwrath usa Ataque X 💡con Cascada contra Hariyama💡",
           "variant": []
         }
       ]

@@ -5,14 +5,14 @@
   "initialMove": "👻Gengar usa Otra Vez👻, cambiar a Slowbro y luego cambiar a Chansey",
   "tricks": [
     {
-      "detail": "Gengar ➜ 🪨Trampa Rocas🪨 frente a Eelektross, Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo",
+      "detail": "Gengar ➜ 🪨Trampa Rocas🪨 frente a Eelektross, Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo 🚨(Si se queda usando Onda Certera, cambia a Volcarona +2)🚨",
       "variant": [
         {
           "detail": "Chandelure ➜ Usar Protección y Bostezo frente a Gengar ➜ entrar con Volcarona +2 🔔(Psíquico a Gengar y Lanzallamas a Chandelure)🔔",
           "variant": []
         },
         {
-          "detail": "Gengar ➜ Usar Protección ➜ cambia a Poliwrath, frente a Chandelure ➜ Volcarona +2",
+          "detail": "Gengar ➜ Usar Protección ➜ cambia a Poliwrath, frente a Chandelure ➜ Volcarona +2 🔔(Psíquico a Gengar)🔔",
           "variant": [
             {
               "detail": "🪨Trampa Rocas🪨, ante un Onda Certera inesperado mantenerse ➜ Gengar 2+2 + Precisión X 🔔No usar Otra Vez)🔔",

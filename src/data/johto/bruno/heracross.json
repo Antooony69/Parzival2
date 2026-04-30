@@ -5,7 +5,7 @@
   "initialMove": "💡Varias Opciones💡",
   "tricks": [
     {
-      "detail": "RNG → Trampa Rocas",
+      "detail": "Ruta Arriesgada → Trampa Rocas",
       "variant": [
         {
           "detail": "No crítico → Gengar, Otra Vez, +2 + Precisión X",
@@ -22,7 +22,7 @@
       ]
     },
     {
-      "detail": "Estable → Gengar, Otra Vez, +2",
+      "detail": " Ruta Segura → Gengar, Otra Vez, +2",
       "variant": [
         {
           "detail": "Se queda → Derrótalo, sale Steelix → Slowbro, Bostezo → Teletransporte → Chansey, Trampa Rocas",
@@ -49,7 +49,7 @@
               "variant": []
             },
             {
-              "detail": "Machamp → Gengar → Chansey → Staraptor → Gengar, +2 + Precisión X",
+              "detail": "Machamp → Gengar Otra vez → Chansey y Frente a Staraptor → Gengar Otra vez +2 + Precisión X",
               "variant": []
             }
           ]
@@ -58,10 +58,10 @@
           "detail": "Machamp → Chansey → Gengar, Otra Vez, +2",
           "variant": [
             {
-              "detail": "Se queda → Derrótalo → Sale Steelix → Slowbro, mantén Bostezo, sale Heracross → Teletransporte → Chansey, Trampa Rocas",
+              "detail": "Se queda → Derrótalo → si entra Steelix cambia a Slowbro, mantén Bostezo, sale Heracross → Teletransporte → Chansey, Trampa Rocas",
               "variant": [
                 {
-                  "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+                  "detail": "Machamp → Gengar, Otra Vez → Chansey, frente a Staraptor → Gengar, Otra Vez, +2 + Precisión X",
                   "variant": []
                 },
                 {
@@ -71,7 +71,7 @@
               ]
             },
             {
-              "detail": "Kangaskhan → Chansey → Trampa Rocas → seguir guía Kangaskhan",
+              "detail": "Kangaskhan → Chansey → Trampa Rocas → seguir guía de Kangaskhan arriba ",
               "variant": []
             }
           ]

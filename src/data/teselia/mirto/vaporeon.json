@@ -2,18 +2,18 @@
   "id": "vaporeon",
   "name": "Vaporeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Conkeldurr --> Cambiar a Slowbro y usar Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Conkeldurr --> Cambiar a Slowbro y usar Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a Volcarona)🔔",
       "variant": []
     },
     {
-      "detail": "Braviary --> Sacrificar a Gengar; Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Archeops --> Sacrificar a Gengar; Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a Volcarona)🔔",
       "variant": []
     },
     {
-      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Lucario/Braviary --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a Volcarona)🔔",
       "variant": []
     },
     {
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔(Puño drenaje contra Volcarona)🔔",
+          "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath 6+2 🔔(Puño drenaje a Volcarona)🔔",
           "variant": []
         }
       ] 

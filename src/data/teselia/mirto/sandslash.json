@@ -21,24 +21,24 @@
           ]
         },
         {
-          "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔(Puño drenaje contra Volcarona)🔔",
+          "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔(Puño drenaje a Volcarona)🔔",
           "variant": []
         }
       ]  
     },
     {
-      "detail": "Lucario / Braviary --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
+      "detail": "Lucario / Braviary --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje a Volcarona)🔔",
       "variant": []
     },
     {
       "detail": "Puño Certero --> Cambia a Slowbro y usa Bostezo",
       "variant": [
         {
-          "detail": "Si se queda --> Sacrificar a Politoed y entrar con Poliwrath +6; presionar hasta Vanillish y usar Velocidad X",
+          "detail": "Si se queda --> Sacrificar a Politoed y entrar con Poliwrath +6; presionar hasta Vanillish y usar Velocidad X 🔔(Puño drenaje a Volcarona)🔔",
           "variant": []
         },
         {
-          "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6 +2",
+          "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath 6+2 🔔(Puño drenaje a Volcarona)🔔",
           "variant": []
         }
       ]

@@ -8,28 +8,37 @@
       "detail": "Puño Dinámico ➜ Cambia a Slowbro, bostezo",
       "variant": [
         {
-          "detail": "Vendetta → bostezo, sale metagross/eelektross → Politoed (sacrificar), Poliwrath +6",
+          "detail": "Vendetta → bostezo, sale metagross/eelektross → Sacrifica a Politoed , Poliwrath +6🐸🥊",
           "variant": []
         },
         {
           "detail": "Roca Afilada → Bostezo",
           "variant": [
             {
-              "detail": "Salamence (sin intimidación) → Chansey, trampa rocas → Gengar frente a Machamp → Chansey → Gengar +6",
+              "detail": "Salamence (sin intimidación) → Chansey, trampa rocas → Gengar frente a hitmonlee → Gengar Bola sombra",
+              "variant": [
+                {
+                  "detail": "si el riva saca a Machamp ➜ cambia a Chansey y cambia a Gengar otra vez +4. Gengar tiene un 20% de probabilidad de debilitar a Steelix ➜ Si gengar muere saca a Volcarona x1 Danza aleteo.",
+                  "variant": []
+                },
+                {
+                  "detail": "Si el rival usa Patada Salto Alta (o si Hitmonlee huye) Frente Machamp ➜ cambiar a Slowbro y luego a chansey frente Luxray ➜ Gengar otra vez 2 + Precisión X",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Eelektross → Chansey encanto y frente a Aggron usa Amortiguador → Machamp → Gengar Otra Vez +4",
               "variant": []
             },
             {
-              "detail": "Eelektross → Chansey → Aggron → Amortiguador → Machamp → Gengar +4",
-              "variant": []
-            },
-            {
-              "detail": "Metagross → Politoed (sacrificar), Poliwrath +6",
+              "detail": "Metagross → Sacrifica a Politoed, Poliwrath +6🐸🥊",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Puño Hielo → Bostezo frente a Metagross → Politoed (sacrificar), Poliwrath +6",
+          "detail": "Puño Hielo → Bostezo frente a Metagross → Sacrifica a Politoed , Poliwrath +6🐸🥊",
           "variant": []
         }
       ]

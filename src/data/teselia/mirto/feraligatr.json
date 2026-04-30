@@ -2,18 +2,18 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " Usar 🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Sacrificar a Gengar; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔Puño drenaje contra Volcarona🔔",
+      "detail": "Se Qeuda Feraligatr ➜ Sacrifica a Gengar y Slowbro usa Bostezo, sacrifica a Politoed y entra con Poliwrath +6🐸🥊 🔔Puño drenaje a Volcarona🔔",
       "variant": []
     },
     {
-      "detail": "Lucario --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔Puño drenaje contra Volcarona🔔",
+      "detail": "Lucario ➜ Slowbro usa Bostezo y sacrifica a Politoed , entra con Poliwrath +6🐸🥊 🔔Puño drenaje a Volcarona🔔",
       "variant": []
     },
     {
-      "detail": "Escavalier --> Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Escavalier ➜ Slowbro usa Bostezo y sacrifica a Politoed , entrar con Poliwrath +6🐸🥊",
       "variant": []
     }
   ]

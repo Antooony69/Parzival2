@@ -2,6 +2,37 @@
   "id": "abomasnow",
   "name": "Abomasnow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💕Encanto tres veces💕; Teletransporte; Volcarona +2 🚨(PS por encima del 70%)🚨",
-  "tricks": []
-}
+  "initialMove": "⬇️Mira las Opciones para Resolver⬇️",
+  "tricks": [
+    {
+      "detail": "🍀Suerte🍀 ➜ Sacrificar a Politoed, saca a Poliwrath y usa Puño Drenaje, 💊frente a Empoleon usa un Ataque X💊",
+      "variant": []
+    },  
+    {
+      "detail": "✅Rapido✅ ➜ Cambia a Gengar 🔔(Mira si el Cuerpo Maldito se Activa)🔔",
+      "variant": [
+        {
+          "detail": "Si se Activa ➜ Sacrificar a Politoed y entra Poliwrath +6",
+          "variant": []
+        },  
+        {  
+          "detail": "No se Activa ➜ Gengar Otra Vez 🔔(Mira tu Situacion)🔔",
+          "variant": [
+            {  
+              "detail": "☠️Gengar Muere☠️ ➜ Volcarona +2",
+              "variant": [] 
+            },  
+            {    
+              "detail": "👻Gengar no Muere👻 ➜ Sacrificar a Politoed y entra Poliwrath +6",
+              "variant": [] 
+            }  
+          ]  
+        }  
+      ]    
+    },  
+    {
+      "detail": "💰Ahorrar💰 ➜ 💕Encanto tres veces💕; Teletransporte; Volcarona +2 🚨(PS por encima del 70%)🚨",
+      "variant": []
+    }
+  ]  
+}  

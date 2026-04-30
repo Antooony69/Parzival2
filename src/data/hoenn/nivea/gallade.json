@@ -2,11 +2,6 @@
   "id": "gallade",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Gengar +6 👻 (No usar Otra Vez) 🔔Bola Sombra a todo🔔",
-  "tricks": [
-    {
-      "detail": "🔔Si Skarmory hace un golpe critico Con Pico Taladro usa max pocion🔔",
-      "variant": []
-    }
-  ]
+  "initialMove": "👻Cambia a Gengar +6👻 🔔(Barrer con Bola Sombra)🔔 🚨(Si Skarmory hace Critico usa Max Pocion)🚨",
+  "tricks": []
 }

@@ -2,14 +2,14 @@
   "id": "scizor",
   "name": "Scizor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Fuerza Bruta ➜ Cambiar a Slowbro Usa  Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 🐸🥊💡Usar Bostezo al enfrentar a Flygon, seguido de Protección y Bostezo💡",
+      "detail": "Fuerza Bruta ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Si el Bostezo le cae a Flygon usa Protección y Bostezo)🔔",
       "variant": []
     },
     {
-      "detail": "Acróbata ➜ Usar 🪨Trampa Rocas🪨 al enfrentar a Flygon ➜ Slowbro  usa Bostezong al enfrentar a Scizor ➜ sacrificar a Politoed  y entrar con Poliwrath +6 🐸🥊",
+      "detail": "Acróbata ➜ Usar 🪨Trampa Rocas🪨 al enfrentar a Flygon ➜ Slowbro usa Bostezo al enfrentar a Scizor ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
       "variant": []
     }
   ]

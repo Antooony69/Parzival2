@@ -2,16 +2,16 @@
   "id": "ferrothorn",
   "name": "Ferrothorn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
       "detail": "Si se queda ➜ Identificar movimiento",
       "variant": [
         {
-          "detail": "Latigazo / Giro Rápido ➜ Chansey usa Encanto y Amortiguador al enfrentar a Tyranitar  Poliwrath puño drenaje",
+          "detail": "Latigazo / Giro Rápido ➜ Chansey usa Encanto y Amortiguador al enfrentar a Tyranitar luego cambia a Poliwrath y usa Puño Drenaje",
           "variant": [
             {
-              "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥",
+              "detail": "Ferrothorn ➜ Volcarona +1 🦋🔥",
               "variant": []
             },
             {
@@ -24,27 +24,28 @@
           "detail": " 🌱 Drenadoras 🌱 ➜ Cambiar a Slowbro",
           "variant": [
             {
-              "detail": "Flygon ➜ Usar Relajo para recibir Ida y Vuelta ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+              "detail": "Flygon ➜ Usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
               "variant": []
             },
             {
               "detail": "Kabutops ➜ Usar Bostezo",
-              "variant": []
-            },
-            {
-              "detail": "Yanmega ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥",
-              "variant": []
+              "variant": [
+                {
+                  "detail": "Yanmega ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+                  "variant": []
+                },
+                {
+                  "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥",
+                  "variant": []
+                }
+              ]  
             }
           ]
         }
       ]
     },
     {
-      "detail": "Flygon ➜ Usar Teletransporte ➜ enviar a Slowbro y usar Relajo para recibir Ida y Vuelta ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+      "detail": "Flygon ➜ Usar Teletransporte ➜ enviar a Slowbro y usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
       "variant": []
     },
     {

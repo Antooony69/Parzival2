@@ -2,7 +2,7 @@
   "id": "octillery",
   "name": "Octillery",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
       "detail": "Si se queda ➜ Revisar si Chansey tiene un estado alterado",
@@ -15,23 +15,20 @@
           "detail": "Con estado alterado ➜ Cambia a Slowbro",
           "variant": [
             {
-              "detail": "Kabutops ➜ Usa Bostezo 🥱 ",
-              "variant": []
+              "detail": "Kabutops ➜ Usa Bostezo 🥱",
+              "variant": [
+                {
+                  "detail": "Yanmega ➜ Sacrificar a Politoed y entra con Poliwrath +6 🐸🥊",
+                  "variant": []
+                },
+                {
+                  "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥 ",
+                  "variant": []
+                }   
+              ]   
             },
             {
-              "detail": "Yanmega ➜ Sacrificar a Politoed y entra con Poliwrath +6 🐸🥊 ",
-              "variant": []
-            },
-            {
-              "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥 ",
-              "variant": []
-            },
-            {
-              "detail": "Flygon ➜ Usar Relajo para recibir Ida y Vuelta o cometa draco ➜ usa Bostezo al enfrentar a Yanmega ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "Skuntank ➜ Sacrificar a Politoed ➜ cambiar de Volcarona a Gengar y para que Skuntank use Autodestrucción al enfrentar a Forretress ➜ Slowbro usa Bostezo y Teletransporte ➜ entrar con Poliwrath +6 (absorbiendo el golpe de Crustle y usar Velocidad X para presionar)",
+              "detail": "Flygon ➜ Usar Relajo para recibir Cometa Draco ➜ usa Bostezo al enfrentar a Yanmega ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
               "variant": []
             }
           ]
@@ -39,7 +36,7 @@
       ]
     },
     {
-      "detail": "Skuntank --> Sacrificar a Politoed; cambiar de Volcarona a Gengar y para que Skuntank use Autodestrucción al enfrentar a Forrestress Slowbro usa Bostezo y Teletransporte; entrar con Poliwrath +6 absorbiendo el golpe de Crustle y usar Velocidad X para presionar",
+      "detail": "Skuntank --> Sacrifica a Politoed ➜ cambiar a Volcarona luego a Gengar ➜ frente a Durant cambia a Slowbro y usa Bostezo luego Teletransporte ➜ entrar con Poliwrath +6 y usa Puño Drenaje ➜ 💊frente Crustle usar Velocidad X luego termina de Barrer💊",
       "variant": []
     }
   ]

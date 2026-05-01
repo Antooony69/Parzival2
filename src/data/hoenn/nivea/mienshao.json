@@ -8,11 +8,11 @@
       "detail": "Vidasfera ➜ Cambiar a Chansey para recibir Ida y Vuelta ➜ usar Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y esperar a que se debilite solo",
       "variant": [
         {
-          "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔"
+          "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
           "variant": []
         },
         {
-          "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔"
+          "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
           "variant": []
         }
       ]
@@ -25,7 +25,7 @@
       "detail": "Sin Precisión ➜ Cambiar a Chansey 🔔(Mira el Objeto)🔔",
       "variant": [
         {
-          "detail": "Vidasfera + Ida y Vuelta ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y esperar a que se debilite solo"
+          "detail": "Vidasfera + Ida y Vuelta ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y esperar a que se debilite solo",
           "variant": [
             {
               "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
@@ -38,7 +38,7 @@
           ]  
         },
         {
-          "detail": "Cambio a Nidoking ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y usar Maquinación para Barrer 🔔(Si no hay crítico no debilita)🔔"
+          "detail": "Cambio a Nidoking ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y usar Maquinación para Barrer 🔔(Si no hay crítico no debilita)🔔",
           "variant": []
         },
         {
@@ -49,7 +49,7 @@
               "variant": []
             },
             {
-              "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔"
+              "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
               "variant": []
             }
           ]

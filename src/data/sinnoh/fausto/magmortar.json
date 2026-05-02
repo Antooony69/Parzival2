@@ -87,19 +87,19 @@
               "variant": []
             }
           ]
+        }
+      ]      
+    },
+    {
+      "detail": "Maractus ➜ Usar Trampa Rocas para recibir Esfuerzo y usar Amortiguador",
+      "variant": [
+        {
+          "detail": "Lopunny / Medicham ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Maractus entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "variant": []
         },
         {
-          "detail": "Maractus ➜ Usar Trampa Rocas para recibir Esfuerzo y usar Amortiguador",
-          "variant": [
-            {
-              "detail": "Lopunny / Medicham ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Maractus entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Magmortar ➜ Gengar Otra Vez +2 y presionar hasta tener en frente a Steelix ➜ cambiar a Slowbro y usar Bostezo ➜ Frente a Maractus ➜  Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "Magmortar ➜ Gengar Otra Vez +2 y presionar hasta tener en frente a Steelix ➜ cambiar a Slowbro y usar Bostezo ➜ Frente a Maractus ➜  Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "variant": []
         }
       ]
     },

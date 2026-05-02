@@ -155,7 +155,7 @@ export default function PokemonGuide() {
 
           <p className="text-blue-400 font-bold mb-4">
             <a
-              href="https://youtu.be/qroUOLDMZv8"
+              href="https://youtu.be/LidSI0vJYKs?si=JRz1Vgg_1OzLFPDI"
               target="_blank"
               rel="noreferrer"
             >

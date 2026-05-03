@@ -35,7 +35,7 @@
       ]
     },
     {
-      "detail": "Medicham ➜ Usar Teletransporte 🔔(Si quieres Ahorrar: Cambia a Slobro y si falla el ataque mira la Solucion Abajo)🔔",
+      "detail": "Medicham ➜ Usar Teletransporte 🔔(Si quieres Ahorrar: Cambia a Slowbro y si falla el ataque mira la Solucion Abajo)🔔",
       "variant": [
         {
           "detail": "Vidasfera ➜ Slowbro usa Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
@@ -46,7 +46,7 @@
           "variant": []
         },
         {
-          "detail": "Si no acierta el golpe ➜ Usar Bostezo",
+          "detail": "Si falla la patada ➜ Usar Bostezo",
           "variant": [
             {
               "detail": "Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",

@@ -11,7 +11,7 @@
           "detail": "Triturar ➜ Revisar daño",
           "variant": [
             {
-              "detail": "15 - 18% (Crítico 33 - 40%) ➜ Usar Teletransporte",
+              "detail": "Daño De Triturar 15% - 18% (Crítico 33% - 40%) ➜ Usar Teletransporte",
               "variant": [
                 {
                   "detail": "Si se queda ➜ Enviar a Politoed y espera que lo debiliten ➜ entra con Poliwrath +6 🐸🥊",
@@ -28,7 +28,7 @@
               ]
             },
             {
-              "detail": "19 - 23% (Crítico 43 - 51%) ➜ Chansey usa Encanto y Amortiguador esperando a Tyranitar ➜ sacrificar a Politoed ➜ entrar con Poliwrath y usa un Ataque X para Barrer 🔔(Cascada a Drapion y Puño Drenaje a Volcarona)🔔",
+              "detail": "Daño De Triturar 19% - 23% (Crítico 43% - 51%) ➜ Chansey usa Encanto y Amortiguador esperando a Tyranitar ➜ sacrificar a Politoed ➜ entrar con Poliwrath y usa un Ataque X para Barrer 🔔(Cascada a Drapion y Puño Drenaje a Volcarona)🔔",
               "variant": []
             }
           ]

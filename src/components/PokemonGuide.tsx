@@ -1,14 +1,14 @@
 import { useState, useEffect } from "react"
 import { ChevronDown, ChevronUp } from "lucide-react"
 
-// Import interfaces
+// Interfaces
 import type { Pokemon } from "../interfaces/Pokemon"
 import type { Region } from "../interfaces/Region"
 
-// Import hooks
+// Hooks
 import { useDynamicImports } from "../hooks/useDynamicImports"
 
-// Import components
+// Components
 import { RegionCard } from "./RegionCard"
 import { LeaderCard } from "./LeaderCard"
 import { PokemonCard } from "./PokemonCard"
@@ -26,6 +26,25 @@ export default function PokemonGuide() {
 
   const { getPokemonFiles } = useDynamicImports()
 
+  // 🔹 Créditos (más limpio)
+  const credits = [
+    {
+      name: "Irving",
+      img: "IrviingHC.png",
+      link: "https://twitch.tv/irviinghc",
+    },
+    {
+      name: "Parzival",
+      img: "ParziivalTwitch.png",
+      link: "https://twitch.tv/parziival",
+    },
+    {
+      name: "Itachi",
+      img: "ItachiiSuka.png",
+      link: "https://twitch.tv/itachi",
+    },
+  ]
+
   // Load region config
   useEffect(() => {
     const loadRegionConfig = async () => {
@@ -40,7 +59,7 @@ export default function PokemonGuide() {
     loadRegionConfig()
   }, [])
 
-  // Load pokemon data (FIXED)
+  // Load pokemon data
   useEffect(() => {
     const loadPokemonData = async () => {
       if (regions.length === 0 || regionsLoaded) return
@@ -82,10 +101,7 @@ export default function PokemonGuide() {
               pokemons: pokemons.filter(Boolean),
             })
           } catch (error) {
-            console.error(
-              `Error loading pokemon data for ${leader.name}:`,
-              error
-            )
+            console.error(`Error loading pokemon data for ${leader.name}:`, error)
 
             updatedLeaders.push({
               ...leader,
@@ -109,25 +125,14 @@ export default function PokemonGuide() {
   }, [regions, regionsLoaded, getPokemonFiles])
 
   const handleRegionClick = (regionId: string) => {
-    if (expandedRegion === regionId) {
-      setExpandedRegion(null)
-      setExpandedLeader(null)
-      setSelectedPokemon(null)
-    } else {
-      setExpandedRegion(regionId)
-      setExpandedLeader(null)
-      setSelectedPokemon(null)
-    }
+    setExpandedRegion(expandedRegion === regionId ? null : regionId)
+    setExpandedLeader(null)
+    setSelectedPokemon(null)
   }
 
   const handleLeaderClick = (leaderId: string) => {
-    if (expandedLeader === leaderId) {
-      setExpandedLeader(null)
-      setSelectedPokemon(null)
-    } else {
-      setExpandedLeader(leaderId)
-      setSelectedPokemon(null)
-    }
+    setExpandedLeader(expandedLeader === leaderId ? null : leaderId)
+    setSelectedPokemon(null)
   }
 
   const handlePokemonClick = (pokemon: Pokemon) => {
@@ -137,11 +142,7 @@ export default function PokemonGuide() {
   }
 
   const currentRegion = regions.find((r) => r.id === expandedRegion)
-
-  const currentLeader = currentRegion?.leaders.find(
-    (l) => l.id === expandedLeader
-  )
-
+  const currentLeader = currentRegion?.leaders.find((l) => l.id === expandedLeader)
   const currentLeaderPokemons = currentLeader?.pokemons || []
 
   return (
@@ -154,7 +155,7 @@ export default function PokemonGuide() {
     >
       <div className="container mx-auto px-4 py-8">
 
-        {/* Header */}
+        {/* HEADER */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold mb-2">
             FARM LIGA PokeMMO
@@ -162,79 +163,35 @@ export default function PokemonGuide() {
 
           <p className="text-blue-400 font-bold mb-4">
             <a
-              href="https://youtu.be/LidSI0vJYKs?si=JRz1Vgg_1OzLFPDI"
+              href="https://youtu.be/LidSI0vJYKs"
               target="_blank"
               rel="noreferrer"
+              className="inline-flex items-center gap-2 hover:text-red-500 transition"
             >
-              <span className="inline-flex items-center hover:text-red-600 transition-colors">
-                <img
-                  className="w-8 h-8"
-                  src={`${import.meta.env.BASE_URL}images/PaxpoYT.png`}
-                  alt="Guía en Video"
-                />
-                <span className="pl-2">
-                  VER TUTORIAL EN VIDEO
-                </span>
-              </span>
+              <img
+                className="w-8 h-8"
+                src={`${import.meta.env.BASE_URL}images/PaxpoYT.png`}
+                alt="Video"
+              />
+              VER TUTORIAL EN VIDEO
             </a>
 
-            <span className="mx-2">|</span>
+            <span className="mx-3">|</span>
 
             <a
               href="https://discord.gg/pKPxjAFNmA"
               target="_blank"
               rel="noreferrer"
+              className="inline-flex items-center gap-2 hover:text-white transition"
             >
-              <span className="inline-flex items-center hover:text-white-600 transition-colors">
-                <img
-                  className="w-6 h-6"
-                  src={`${import.meta.env.BASE_URL}images/discord.png`}
-                  alt="Reportes"
-                />
-                <span className="pl-2">Reportes</span>
-              </span>
+              <img
+                className="w-6 h-6"
+                src={`${import.meta.env.BASE_URL}images/discord.png`}
+                alt="Discord"
+              />
+              Reportes
             </a>
           </p>
-
-<p className="text-gray-400 mb-4">
-  RUTA RECOMENDADA:
-  <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
-    Teselia →
-    
-    <span className="inline-flex items-center gap-1">
-      Sinnoh (casa)
-      <img
-        className="w-4 h-4"
-        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-        alt="Casa"
-      />
-    </span>
-
-    →
-
-    <span className="inline-flex items-center gap-1">
-      Hoenn (casa)
-      <img
-        className="w-4 h-4"
-        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-        alt="Casa"
-      />
-    </span>
-
-    →
-
-    Johto →
-
-    <span className="inline-flex items-center gap-1">
-      Kanto (casa)
-      <img
-        className="w-4 h-4"
-        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-        alt="Casa"
-      />
-    </span>
-  </span>
-</p>
 
           {loading && (
             <p className="text-yellow-400 font-semibold">
@@ -243,47 +200,38 @@ export default function PokemonGuide() {
           )}
         </div>
 
-        {/* Tips */}
-        <div className="flex flex-col items-center mb-2">
+        {/* TIPS */}
+        <div className="flex flex-col items-center mb-4">
           <button
             onClick={() => setShowTips(!showTips)}
-            className="flex gap-2 hover:text-blue-300 transition-colors"
+            className="flex gap-2 hover:text-blue-300 transition"
           >
-            {showTips ? (
-              <ChevronUp className="w-4 h-4 text-blue-400" />
-            ) : (
-              <ChevronDown className="w-4 h-4 text-blue-400" />
-            )}
-
-            <span className="text-yellow-400 font-medium pb-2">
-              RECOMENDACIONES ANTES DE EMPEZAR <b>(EQUIPO - TIPS)</b>
+            {showTips ? <ChevronUp /> : <ChevronDown />}
+            <span className="text-yellow-400 font-medium">
+              RECOMENDACIONES (EQUIPO - TIPS)
             </span>
           </button>
 
           {showTips && (
-            <ul className="list-disc text-left max-w-2xl mx-auto pl-6 text-gray-300">
+            <ul className="list-disc text-left max-w-2xl pl-6 text-gray-300 mt-2">
               <li>
-                EQUIPO NECESARIO:{" "}
                 <a
                   href="https://pokepast.es/e356ee22f26cf6dc"
                   target="_blank"
                   rel="noreferrer"
                   className="text-blue-400"
                 >
-                  👉 VER 👈
+                  👉 Equipo recomendado 👈
                 </a>
               </li>
-              <li>Completa cada Liga 5 veces antes.</li>
-              <li>Equipo correctamente configurado.</li>
-              <li>Equipos económicos pueden fallar.</li>
-              <li>Desactivar EXP Share/Reamplificador.</li>
-              <li>Utilizar "Otra Vez" con Gengar salvo indicación.</li>
-              <li>Reportar errores en Discord.</li>
+              <li>Completa cada Liga 5 veces antes</li>
+              <li>Configura bien el equipo</li>
+              <li>Desactiva EXP Share</li>
             </ul>
           )}
         </div>
 
-        {/* Regions */}
+        {/* REGIONS */}
         <div className="grid grid-cols-5 gap-3 mb-6">
           {regions.map((region) => (
             <RegionCard
@@ -295,7 +243,7 @@ export default function PokemonGuide() {
           ))}
         </div>
 
-        {/* Leaders */}
+        {/* LEADERS */}
         {expandedRegion && currentRegion && (
           <div className="grid grid-cols-5 gap-3 mb-6">
             {currentRegion.leaders.map((leader) => (
@@ -309,7 +257,7 @@ export default function PokemonGuide() {
           </div>
         )}
 
-        {/* Pokemon */}
+        {/* POKEMON */}
         {expandedLeader && (
           <div className="mb-6">
             <div className="grid grid-cols-6 md:grid-cols-8 lg:grid-cols-12 gap-2">
@@ -325,48 +273,50 @@ export default function PokemonGuide() {
           </div>
         )}
 
-        {/* Details */}
+        {/* DETAILS */}
         {selectedPokemon && (
           <PokemonDetails pokemon={selectedPokemon} />
         )}
 
-        {/* Footer */}
-<div className="flex justify-between mt-8 pt-4 border-t border-gray-700">
-  <div className="flex items-center gap-3">
-    <span className="text-gray-400">Creditos</span>
+        {/* FOOTER */}
+        <div className="flex justify-between items-center mt-8 pt-4 border-t border-gray-700">
 
-    <img
-      src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
-      className="w-12 h-12"
-      alt="Lehosif"
-    />
+          <div className="flex items-center gap-3">
+            <span className="text-gray-400">Créditos</span>
 
-    <div className="flex items-center gap-2">
-      <img
-        className="w-10 h-10 hover:scale-110 transition-transform"
-        src={`${import.meta.env.BASE_URL}images/IrviingHC.png`}
-        alt="Irving"
-      />
-      <img
-        className="w-10 h-10 hover:scale-110 transition-transform"
-        src={`${import.meta.env.BASE_URL}images/ParziivalTwitch.png`}
-        alt="Parzival"
-      />
-      <img
-        className="w-10 h-10 hover:scale-110 transition-transform"
-        src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`}
-        alt="Itachi"
-      />
-    </div>
-  </div>
-  
+            <img
+              src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
+              className="w-12 h-12"
+              alt="Lehosif"
+            />
+
+            <div className="flex gap-2">
+              {credits.map((user) => (
+                <a
+                  key={user.name}
+                  href={user.link}
+                  target="_blank"
+                  rel="noreferrer"
+                  title={user.name}
+                >
+                  <img
+                    className="w-10 h-10 hover:scale-110 hover:opacity-80 cursor-pointer transition"
+                    src={`${import.meta.env.BASE_URL}images/${user.img}`}
+                    alt={user.name}
+                  />
+                </a>
+              ))}
+            </div>
+          </div>
+
           <button
             onClick={() => setLightMode(!lightMode)}
-            className="text-gray-400 hover:text-white"
+            className="text-gray-400 hover:text-white transition"
           >
             {lightMode ? "Dark Mode" : "Light Mode"}
           </button>
         </div>
+
       </div>
     </div>
   )

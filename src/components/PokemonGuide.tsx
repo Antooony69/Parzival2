@@ -317,9 +317,35 @@ export default function PokemonGuide() {
         )}
 
         {/* Footer */}
-        <div className="flex justify-between mt-8 pt-4 border-t border-gray-700">
-          <span className="text-gray-400">Creditos</span>
+<div className="flex justify-between mt-8 pt-4 border-t border-gray-700">
+  <div className="flex items-center gap-3">
+    <span className="text-gray-400">Creditos</span>
 
+    <img
+      src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
+      className="w-12 h-12"
+      alt="Lehosif"
+    />
+
+    <div className="flex items-center gap-2">
+      <img
+        className="w-10 h-10 hover:scale-110 transition-transform"
+        src={`${import.meta.env.BASE_URL}images/IrviingHC.png`}
+        alt="Irving"
+      />
+      <img
+        className="w-10 h-10 hover:scale-110 transition-transform"
+        src={`${import.meta.env.BASE_URL}images/ParziivalTwitch.png`}
+        alt="Parzival"
+      />
+      <img
+        className="w-10 h-10 hover:scale-110 transition-transform"
+        src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`}
+        alt="Itachi"
+      />
+    </div>
+  </div>
+  
           <button
             onClick={() => setLightMode(!lightMode)}
             className="text-gray-400 hover:text-white"

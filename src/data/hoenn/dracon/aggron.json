@@ -2,17 +2,6 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": [
-    {
-      "text": "💡 Encanto; Amortiguador y Frente a Gallade(banda focus) Gengar Otra vez +4 ("
-    },
-    {
-      "text": "Bola Sombra a todo",
-      "color": "yellow"
-    },
-    {
-      "text": ") 💡"
-    }
-  ],
+  "initialMove": "💡 Encanto; Amortiguador y Frente a Gallade(banda focus) Gengar Otra vez +4 (Bola Sombra a todo) 💡",
   "tricks": []
 }

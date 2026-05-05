@@ -196,39 +196,45 @@ export default function PokemonGuide() {
             </a>
           </p>
 
-          <p className="text-gray-400 mb-4">
-            RUTA RECOMENDADA:
-            <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
-              Teselia →
-              <span className="inline-flex items-center gap-1">
-                Sinnoh (casa)
-                <img
-                  className="w-4 h-4"
-                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-                  alt="Casa"
-                />
-              </span>
-              →
-              <span className="inline-flex items-center gap-1">
-                Hoenn (casa)
-                <img
-                  className="w-4 h-4"
-                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-                  alt="Casa"
-                />
-              </span>
-              →
-              Johto 
-              → 
-              <span className="inline-flex items-center gap-1">
-                Kanto (casa)
-                <img
-                  className="w-4 h-4"
-                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-                  alt="Casa"
-                />
-            </span>
-          </p>
+<p className="text-gray-400 mb-4">
+  RUTA RECOMENDADA:
+  <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
+    Teselia →
+    
+    <span className="inline-flex items-center gap-1">
+      Sinnoh (casa)
+      <img
+        className="w-4 h-4"
+        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+        alt="Casa"
+      />
+    </span>
+
+    →
+
+    <span className="inline-flex items-center gap-1">
+      Hoenn (casa)
+      <img
+        className="w-4 h-4"
+        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+        alt="Casa"
+      />
+    </span>
+
+    →
+
+    Johto →
+
+    <span className="inline-flex items-center gap-1">
+      Kanto (casa)
+      <img
+        className="w-4 h-4"
+        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+        alt="Casa"
+      />
+    </span>
+  </span>
+</p>
 
           {loading && (
             <p className="text-yellow-400 font-semibold">

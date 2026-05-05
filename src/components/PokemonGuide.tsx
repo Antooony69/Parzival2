@@ -21,6 +21,9 @@ export default function PokemonGuide() {
   const [lightMode, setLightMode] = useState(false)
   const [showTips, setShowTips] = useState(false)
   const [regions, setRegions] = useState<Region[]>([])
+  const [regionsLoaded, setRegionsLoaded] = useState(false)
+  const [loading, setLoading] = useState(true)
+
   const { getPokemonFiles } = useDynamicImports()
 
   // Load region config
@@ -37,10 +40,10 @@ export default function PokemonGuide() {
     loadRegionConfig()
   }, [])
 
-  // Load pokemon data
+  // Load pokemon data (FIXED)
   useEffect(() => {
     const loadPokemonData = async () => {
-      if (regions.length === 0) return
+      if (regions.length === 0 || regionsLoaded) return
 
       const updatedRegions: Region[] = []
 
@@ -50,31 +53,33 @@ export default function PokemonGuide() {
         for (const leader of region.leaders) {
           try {
             const pokemonFiles = await getPokemonFiles(region.id, leader.id)
-            const pokemons = []
 
-            for (const file of pokemonFiles) {
-              try {
-                const module = await import(
-                  `../data/${region.id}/${leader.id}/${file.replace(".json", "")}.json`
-                )
+            const pokemons = await Promise.all(
+              pokemonFiles.map(async (file) => {
+                try {
+                  const module = await import(
+                    `../data/${region.id}/${leader.id}/${file.replace(".json", "")}.json`
+                  )
 
-                const data = module.default || module
+                  const data = module.default || module
 
-                pokemons.push({
-                  ...data,
-                  id:
-                    data.id ||
-                    data.name?.toLowerCase() ||
-                    file.replace(".json", ""),
-                })
-              } catch (error) {
-                console.error(`Error importing ${file}:`, error)
-              }
-            }
+                  return {
+                    ...data,
+                    id:
+                      data.id ||
+                      data.name?.toLowerCase() ||
+                      file.replace(".json", ""),
+                  }
+                } catch (error) {
+                  console.error(`Error importing ${file}:`, error)
+                  return null
+                }
+              })
+            )
 
             updatedLeaders.push({
               ...leader,
-              pokemons,
+              pokemons: pokemons.filter(Boolean),
             })
           } catch (error) {
             console.error(
@@ -96,10 +101,12 @@ export default function PokemonGuide() {
       }
 
       setRegions(updatedRegions)
+      setRegionsLoaded(true)
+      setLoading(false)
     }
 
     loadPokemonData()
-  }, [regions.length])
+  }, [regions, regionsLoaded, getPokemonFiles])
 
   const handleRegionClick = (regionId: string) => {
     if (expandedRegion === regionId) {
@@ -159,14 +166,14 @@ export default function PokemonGuide() {
               target="_blank"
               rel="noreferrer"
             >
-              <span className="inline-flex items-center hover:text-blue-600 transition-colors">
+              <span className="inline-flex items-center hover:text-red-600 transition-colors">
                 <img
-                  className="w-6 h-6"
+                  className="w-8 h-8"
                   src={`${import.meta.env.BASE_URL}images/PaxpoYT.png`}
                   alt="Guía en Video"
                 />
                 <span className="pl-2">
-                  Ver tutorial en video
+                  VER TUTORIAL EN VIDEO
                 </span>
               </span>
             </a>
@@ -178,7 +185,7 @@ export default function PokemonGuide() {
               target="_blank"
               rel="noreferrer"
             >
-              <span className="inline-flex items-center hover:text-blue-600 transition-colors">
+              <span className="inline-flex items-center hover:text-white-600 transition-colors">
                 <img
                   className="w-6 h-6"
                   src={`${import.meta.env.BASE_URL}images/discord.png`}
@@ -191,11 +198,35 @@ export default function PokemonGuide() {
 
           <p className="text-gray-400 mb-4">
             RUTA RECOMENDADA:
-            <span className="pl-2 text-blue-400">
-              Teselia → Sinnoh (casa) → Hoenn (casa) →
+            <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
+              Teselia →
+              <span className="inline-flex items-center gap-1">
+                Sinnoh (casa)
+                <img
+                  className="w-4 h-4"
+                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+                  alt="Casa"
+                />
+              </span>
+              →
+              <span className="inline-flex items-center gap-1">
+                Hoenn (casa)
+                <img
+                  className="w-4 h-4"
+                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+                  alt="Casa"
+                />
+              </span>
+              →
               Johto → Kanto (opcional)
             </span>
           </p>
+
+          {loading && (
+            <p className="text-yellow-400 font-semibold">
+              Cargando datos...
+            </p>
+          )}
         </div>
 
         {/* Tips */}
@@ -210,9 +241,8 @@ export default function PokemonGuide() {
               <ChevronDown className="w-4 h-4 text-blue-400" />
             )}
 
-            <span className="text-blue-400 font-medium pb-2">
-              RECOMENDACIONES ANTES DE EMPEZAR{" "}
-              <b>(EQUIPO - TIPS)</b>
+            <span className="text-yellow-400 font-medium pb-2">
+              RECOMENDACIONES ANTES DE EMPEZAR <b>(EQUIPO - TIPS)</b>
             </span>
           </button>
 
@@ -233,7 +263,7 @@ export default function PokemonGuide() {
               <li>Equipo correctamente configurado.</li>
               <li>Equipos económicos pueden fallar.</li>
               <li>Desactivar EXP Share/Reamplificador.</li>
-              <li>Utilizar "Otra Vez" con Gengar a menos que la guía indique lo contrario.</li>
+              <li>Utilizar "Otra Vez" con Gengar salvo indicación.</li>
               <li>Reportar errores en Discord.</li>
             </ul>
           )}
@@ -286,44 +316,17 @@ export default function PokemonGuide() {
           <PokemonDetails pokemon={selectedPokemon} />
         )}
 
-{/* Footer */}
-<div className="flex justify-between mt-8 pt-4 border-t border-gray-700">
-  <div className="flex items-center gap-3">
-    <span className="text-gray-400">Creditos</span>
+        {/* Footer */}
+        <div className="flex justify-between mt-8 pt-4 border-t border-gray-700">
+          <span className="text-gray-400">Creditos</span>
 
-    <img
-      src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
-      className="w-12 h-12"
-      alt="Lehosif"
-    />
-
-    <div className="flex items-center gap-2">
-      <img
-        className="w-10 h-10 hover:scale-110 transition-transform"
-        src={`${import.meta.env.BASE_URL}images/IrviingHC.png`}
-        alt="Irving"
-      />
-      <img
-        className="w-10 h-10 hover:scale-110 transition-transform"
-        src={`${import.meta.env.BASE_URL}images/ParziivalTwitch.png`}
-        alt="Parzival"
-      />
-      <img
-        className="w-10 h-10 hover:scale-110 transition-transform"
-        src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`}
-        alt="Itachi"
-      />
-    </div>
-  </div>
-
-  <button
-    onClick={() => setLightMode(!lightMode)}
-    className="text-gray-400 hover:text-white"
-  >
-    {lightMode ? "Dark Mode" : "Light Mode"}
-  </button>
-</div>
-
+          <button
+            onClick={() => setLightMode(!lightMode)}
+            className="text-gray-400 hover:text-white"
+          >
+            {lightMode ? "Dark Mode" : "Light Mode"}
+          </button>
+        </div>
       </div>
     </div>
   )

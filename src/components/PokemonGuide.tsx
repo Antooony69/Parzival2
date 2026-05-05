@@ -349,7 +349,7 @@ export default function PokemonGuide() {
 
               <a href="https://imgur.com/Hxui6yL" target="_blank" rel="noreferrer">
                 <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/ParziivalTwitch.png`} />
+                  src={`${import.meta.env.BASE_URL}images/zParzival.png`} />
               </a>
 
               <a href="https://imgur.com/JRVJmKe" target="_blank" rel="noreferrer">

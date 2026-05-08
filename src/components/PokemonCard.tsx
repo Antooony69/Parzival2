@@ -23,8 +23,10 @@ export const PokemonCard = ({ pokemon, isSelected, onClick }: PokemonCardProps) 
           className="w-10 h-10 sm:w-16 sm:h-16 md:w-18 md:h-18 lg:w-20 lg:h-20 object-contain"
         />
       </div>
-      <div className="absolute inset-0 bg-black bg-opacity-30 flex items-end">
-        <span className="text-white text-xs sm:text-sm font-medium p-1 sm:p-2 w-full text-center bg-black bg-opacity-60 truncate">
+      {/* He quitado bg-black y bg-opacity-30 de aquí */}
+      <div className="absolute inset-0 bg-transparent flex items-end">
+        {/* He quitado bg-black y bg-opacity-60 de aquí para eliminar la sombra del nombre */}
+        <span className="text-white text-xs sm:text-sm font-medium p-1 sm:p-2 w-full text-center truncate">
           {pokemon.name}
         </span>
       </div>

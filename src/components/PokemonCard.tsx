@@ -16,20 +16,20 @@ export const PokemonCard = ({ pokemon, isSelected, onClick }: PokemonCardProps) 
       }`}
       onClick={() => onClick(pokemon)}
     >
-      {/* Contenedor de la imagen: He aumentado el padding inferior para que el nombre no tape al Pokémon */}
-      <div className="flex items-center justify-center p-2 pb-6">
+      {/* Contenedor de la imagen con más espacio (pb-8) para que no choque con el nombre */}
+      <div className="flex items-center justify-center p-2 pb-8">
         <img
           src={`${import.meta.env.BASE_URL}images/pokemon/${pokemon.name.toLowerCase().replace(/ /g, '_')}.png`}
           alt={pokemon.name}
-          /* Tamaños aumentados y renderizado de píxeles para que no se vea borroso */
-          className="w-14 h-14 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 object-contain image-pixelated transition-transform duration-300"
+          /* Tamaños extra grandes: w-20 en móvil hasta w-40 en pantallas grandes */
+          className="w-20 h-20 sm:w-28 sm:h-28 md:w-32 md:h-32 lg:w-40 lg:h-40 object-contain transition-transform duration-300"
           style={{ imageRendering: 'pixelated' }} 
         />
       </div>
 
-      {/* Contenedor del nombre */}
+      {/* Nombre del Pokémon con un fondo ligeramente más oscuro para legibilidad */}
       <div className="absolute inset-0 bg-transparent flex items-end">
-        <span className="text-white text-xs sm:text-sm font-medium p-1 sm:p-2 w-full text-center truncate bg-black/20 backdrop-blur-sm">
+        <span className="text-white text-xs sm:text-base font-bold p-2 w-full text-center truncate bg-black/40 backdrop-blur-sm">
           {pokemon.name}
         </span>
       </div>

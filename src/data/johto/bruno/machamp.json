@@ -12,17 +12,29 @@
           "variant": []
         },
         {
-          "detail": "Roca Afilada → Bostezo",
+          "detail": "Roca Afilada ➜ Bostezo",
           "variant": [
             {
-              "detail": "Salamence (sin intimidación) → Chansey, trampa rocas → Gengar frente a hitmonlee → Gengar Bola sombra",
+              "detail": "Salamence (sin intimidación) ➜ Cambia a Chansey y usa Trampa Rocas frente a Hitmonlee ➜ Gengar Bola Sombra",
               "variant": [
                 {
-                  "detail": "si el riva saca a Machamp ➜ cambia a Chansey y cambia a Gengar otra vez +4. Gengar tiene un 20% de probabilidad de debilitar a Steelix ➜ Si gengar muere saca a Volcarona x1 Danza aleteo.",
+                  "detail": "Si el rival saca a Machamp ➜ cambia a Chansey y luego a Gengar otra vez según la situación",
                   "variant": []
                 },
                 {
-                  "detail": "Si el rival usa Patada Salto Alta (o si Hitmonlee huye) Frente Machamp ➜ cambiar a Slowbro y luego a chansey frente Luxray ➜ Gengar otra vez 2 + Precisión X",
+                  "detail": "Si se queda ➜ Gengar +6 y usa Bola Sombra a todo",
+                  "variant": []
+                },
+                {
+                  "detail": "Si huye hacia Salamence ➜ Gengar +4 y usa Bola Sombra a todo",
+                  "variant": []
+                },
+                {
+                  "detail": "Gengar tiene un 20% de probabilidad de debilitar a Steelix ➜ Si Gengar muere saca a Volcarona x1 Danza Aleteo",
+                  "variant": []
+                },
+                {
+                  "detail": "Si Hitmonlee huye hacia Machamp ➜ cambia a Slowbro y luego a Chansey frente a Luxray ➜ Gengar otra vez +2 + Precisión X",
                   "variant": []
                 }
               ]

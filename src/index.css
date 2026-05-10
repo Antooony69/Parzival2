@@ -8,12 +8,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* EL TRUCO MAESTRO: Esto fuerza a que CUALQUIER letra sea verde */
+* {
+  color: #22c55e !important;
+}
+
 body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  /* He añadido esta línea para que todo el texto sea verde */
-  color: #22c55e; 
+  background-color: #0f172a; /* Mantiene tu fondo oscuro */
 }
 
 /* Animation utilities */

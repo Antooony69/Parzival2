@@ -16,28 +16,24 @@ export const PokemonCard = ({ pokemon, isSelected, onClick }: PokemonCardProps) 
       }`}
       onClick={() => onClick(pokemon)}
     >
-      {/* Contenedor del Sprite: Sin padding para que el pokemon use todo el ancho/alto */}
-      <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+      {/* Contenedor del Sprite */}
+      <div className="absolute inset-0 flex items-center justify-center pointer-events-none pb-4">
         <img
           src={`${import.meta.env.BASE_URL}images/pokemon/${pokemon.name.toLowerCase().replace(/ /g, '_')}.png`}
           alt={pokemon.name}
-          /* 
-             - scale(2): Duplica el tamaño del dibujo original.
-             - h-full w-full: Se asegura de que el área de la imagen cubra el cuadro.
-             - pixelated: Mantiene los bordes definidos del sprite.
-          */
           className="h-full w-full object-contain"
           style={{ 
             imageRendering: 'pixelated',
-            transform: 'scale(2)',
+            /* Cambiado de 2 a 1.5 para un tamaño mediano */
+            transform: 'scale(1.5)', 
             transformOrigin: 'center center'
           }} 
         />
       </div>
 
-      {/* Nombre: Lo he puesto más pequeño y con un fondo sólido abajo para que no estorbe visualmente */}
+      {/* Nombre */}
       <div className="absolute inset-x-0 bottom-0 z-20 bg-black/60">
-        <span className="text-[10px] sm:text-xs text-white font-bold py-0.5 w-full text-center block truncate uppercase tracking-tighter">
+        <span className="text-[10px] sm:text-xs text-white font-bold py-1 w-full text-center block truncate uppercase tracking-tighter">
           {pokemon.name}
         </span>
       </div>

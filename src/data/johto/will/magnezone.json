@@ -6,18 +6,20 @@
   "tricks": [
     {
       "detail": "Se Queda Magnezone ➜ usa Teletransporte",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si Magnezone no cambia ➜ entra volcarona ataca con psiquico y despues usa lanzallamas Si entra Typhlosion ; sacrifica a Politoed ➜ Poliwrath +6",
+          "variant": [
+            {
+              "detail": "◉ Girafarig ➜ Cambia de Volcarona a Gengar y usa Otra Vez y cambia a Slowbro, frente a Mantine ➜ usa Bostezo y frente a Magnezone , sacrifica a Politoed ➜ Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Si aún se queda Slowbro bostezo ➜ entra volcarona x1 danza aleteo 🔔ataca con psiquico y lanzallamas🔔 Si entra Typhlosion ; sacrifica a Politoed ➜ Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Girafarig ➜ Cambia de Volcarona a Gengar y usa Otra Vez y cambia a Slowbro, frente a Mantine ➜ usa Bostezo y frente a Magnezone , sacrifica a Politoed ➜ Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Girafarig ➜ Gengar usa Otra Vez y cambia a Slowbro ➜ frente a Mantine usar Bostezo ➜ frente a Magnezone ➜ sacrifica a Politoed ➜ Poliwrath +6",
+      "detail": "◉ Girafarig ➜ Gengar usa Otra Vez y cambia a Slowbro ➜ frente a Mantine usa Bostezo ➜ frente a Magnezone ➜ sacrifica a Politoed ➜ Poliwrath +6",
       "variant": []
     }
   ]

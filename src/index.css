@@ -12,6 +12,8 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+  /* He añadido esta línea para que todo el texto sea verde */
+  color: #22c55e; 
 }
 
 /* Animation utilities */

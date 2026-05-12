@@ -8,9 +8,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* EL TRUCO MAESTRO: Esto fuerza a que CUALQUIER letra sea verde */
+/* EL TRUCO MAESTRO: Ahora con tu verde neón #21ff00 */
 * {
-  color: #22c55e !important;
+  color: #21ff00 !important;
 }
 
 body {
@@ -18,6 +18,14 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #0f172a; /* Mantiene tu fondo oscuro */
+}
+
+/* Opcional: Esto hará que los bordes y anillos de selección 
+   también usen tu nuevo color por defecto */
+@layer base {
+  button, input, [class*="ring-"], [class*="border-"] {
+    border-color: rgba(33, 255, 0, 0.3);
+  }
 }
 
 /* Animation utilities */

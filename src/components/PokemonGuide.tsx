@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef } from "react" // Se añadió useRef
 import { ChevronDown, ChevronUp } from "lucide-react"
 
 // Import interfaces
@@ -23,6 +23,9 @@ export default function PokemonGuide() {
   const [regions, setRegions] = useState<Region[]>([])
   const [regionsLoaded, setRegionsLoaded] = useState(false)
   const [loading, setLoading] = useState(true)
+
+  // Referencia para el scroll automático
+  const detailsRef = useRef<HTMLDivElement>(null)
 
   const { getPokemonFiles } = useDynamicImports()
 
@@ -131,9 +134,15 @@ export default function PokemonGuide() {
   }
 
   const handlePokemonClick = (pokemon: Pokemon) => {
-    setSelectedPokemon(
-      selectedPokemon?.name === pokemon.name ? null : pokemon
-    )
+    const isSame = selectedPokemon?.name === pokemon.name;
+    setSelectedPokemon(isSame ? null : pokemon);
+
+    // Si se está seleccionando uno nuevo, hacemos scroll
+    if (!isSame) {
+      setTimeout(() => {
+        detailsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+    }
   }
 
   const currentRegion = regions.find((r) => r.id === expandedRegion)
@@ -196,45 +205,39 @@ export default function PokemonGuide() {
             </a>
           </p>
 
-<p className="text-gray-400 mb-4">
-  RUTA RECOMENDADA:
-  <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
-    Teselia →
-    
-    <span className="inline-flex items-center gap-1">
-      Sinnoh (casa)
-      <img
-        className="w-4 h-4"
-        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-        alt="Casa"
-      />
-    </span>
-
-    →
-
-    <span className="inline-flex items-center gap-1">
-      Hoenn (casa)
-      <img
-        className="w-4 h-4"
-        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-        alt="Casa"
-      />
-    </span>
-
-    →
-
-    Johto →
-
-    <span className="inline-flex items-center gap-1">
-      Kanto (casa)
-      <img
-        className="w-4 h-4"
-        src={`${import.meta.env.BASE_URL}images/Healicon.png`}
-        alt="Casa"
-      />
-    </span>
-  </span>
-</p>
+          <p className="text-gray-400 mb-4">
+            RUTA RECOMENDADA:
+            <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
+              Teselia →
+              <span className="inline-flex items-center gap-1">
+                Sinnoh (casa)
+                <img
+                  className="w-4 h-4"
+                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+                  alt="Casa"
+                />
+              </span>
+              →
+              <span className="inline-flex items-center gap-1">
+                Hoenn (casa)
+                <img
+                  className="w-4 h-4"
+                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+                  alt="Casa"
+                />
+              </span>
+              →
+              Johto →
+              <span className="inline-flex items-center gap-1">
+                Kanto (casa)
+                <img
+                  className="w-4 h-4"
+                  src={`${import.meta.env.BASE_URL}images/Healicon.png`}
+                  alt="Casa"
+                />
+              </span>
+            </span>
+          </p>
 
           {loading && (
             <p className="text-yellow-400 font-semibold">
@@ -325,9 +328,11 @@ export default function PokemonGuide() {
           </div>
         )}
 
-        {/* Details */}
+        {/* Details - Se añadió el ref y scroll-margin para mejor visualización */}
         {selectedPokemon && (
-          <PokemonDetails pokemon={selectedPokemon} />
+          <div ref={detailsRef} className="scroll-mt-10">
+            <PokemonDetails pokemon={selectedPokemon} />
+          </div>
         )}
 
         {/* Footer */}
@@ -344,17 +349,17 @@ export default function PokemonGuide() {
             <div className="flex items-center gap-2">
               <a href="https://imgur.com/IgDjlXj" target="_blank" rel="noreferrer">
                 <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/IrviingHC.png`} />
+                  src={`${import.meta.env.BASE_URL}images/IrviingHC.png`} alt="Irviing" />
               </a>
 
               <a href="https://imgur.com/Hxui6yL" target="_blank" rel="noreferrer">
                 <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/zParzival.png`} />
+                  src={`${import.meta.env.BASE_URL}images/zParzival.png`} alt="Parzival" />
               </a>
 
               <a href="https://imgur.com/JRVJmKe" target="_blank" rel="noreferrer">
                 <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`} />
+                  src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`} alt="Itachii" />
               </a>
             </div>
           </div>

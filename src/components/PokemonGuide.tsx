@@ -206,7 +206,7 @@ export default function PokemonGuide() {
           </p>
 
           <p className="text-gray-400 mb-4">
-            RUTA RECOMENDADA:
+            RUTA RECOMENDADA: Finya Comienza En Teselia mmripio no lo olvides
             <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
               Teselia →
               <span className="inline-flex items-center gap-1">

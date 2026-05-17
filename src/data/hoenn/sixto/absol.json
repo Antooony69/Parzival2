@@ -8,8 +8,17 @@
       "detail": "Vidasfera --> Usar Bostezo",
       "variant": [
         {
-          "detail": "Tajo Umbrío --> 💕Cambiar a Chansey y usar Encanto frente a Garchomp💕; poner 🪨Trampa Rocas🪨, cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Politoed, entra Poliwrath +6",
-          "variant": []
+          "detail": "Tajo Umbrío --> Cambiar a Chansey, trampa rocas",
+          "variant": [
+            {
+              "detail": "Se queda → Gengar, Otra Vez, +2 +2 + Precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Garchomp → Amortiguador 2 veces, encanto y cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "Electivire --> Sacrificar a Politoed, entra Poliwrath +6 🔔(Puño Drenaje a Electivire/Toxicroak)🔔",
@@ -37,7 +46,7 @@
           "detail": "Tajo Umbrío --> Chansey usa Trampa Rocas 🔔(Si el Golpe es Critico usar Max Pocion y luego cambiar a Gengar)🔔",
           "variant": [
             {
-              "detail": "Recibir A Bocajarro --> Gengar Otra Vez +2 + Precisión X 💰(Si quieres Ahorrar: Gengar +6)💰",
+              "detail": "Recibir A Bocajarro --> Gengar Otra Vez +2 + Precisión X 💰(Si quieres Ahorrar: Gengar +6, tiene banda focus)🔔",
               "variant": []
             }
           ]

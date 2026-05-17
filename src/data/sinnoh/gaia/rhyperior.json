@@ -11,11 +11,11 @@
           "detail": "Vidaesfera  --> Usar Teletransporte enviar a Slowbro y usar Bostezo para ver movimientos",
           "variant": [
             {
-              "detail": "Terremoto --> Sacrificar a Politoed ; entrar con Poliwrath +6  🔔usar Puño Hielo contra Gengar🔔 ",
+              "detail": "Terremoto --> Sacrifica a Politoed ; entrar con Poliwrath +6  🔔usar Puño Hielo contra Gengar🔔 ",
               "variant": []
             },
             {
-              "detail": "Megacuerno acierta --> Usar Teletransporte ; entrar con Volcarona , usar Especial X y presionar",
+              "detail": "Megacuerno acierte --> Usar Teletransporte ; entrar con Volcarona , usar Especial X y presionar",
               "variant": []
             },
             {
@@ -60,13 +60,14 @@
         },
         {
           "detail": "Rhyperior --> Absorber hasta que debilite al enfrentar a Blastoise ; entrar con Chansey y atraer a Parasect ; entrar con Volcarona +1",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Absol --> Cambiar a Slowbro y luego a Volcarona ; al enfrentar a Gengar o Nidoking  Volcarona +1 🔔 Usar Psíquico al enfrentar a Gengar🔔",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "Absol --> Cambiar a Slowbro y luego a Volcarona ; al enfrentar a Gengar o Nidoking  Volcarona +1 🔔 Usar Psíquico al enfrentar a Gengar🔔",
-      "variant": []
     },
     {
       "detail": "Absol --> Cambiar a Slowbro y usar Bostezo ; entrar con Volcarona +1 🔔 Usar Psíquico al enfrentar a Gengar🔔",

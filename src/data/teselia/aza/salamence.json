@@ -5,18 +5,18 @@
   "initialMove": "❤️Encanto❤️ ",
   "tricks": [
     {
-      "detail": "Garra Dragón --> Usar Amortiguador frente a Absol cambiar a Gengar +2 +1 precision seguido de Otra Vez (absol banda focus)",
+      "detail": "Garra Dragón ➜ Usar Amortiguador frente a Absol cambiar a Gengar +2 + precision X seguido de Otra Vez (absol banda focus)",
       "variant": []
     },
     {
-      "detail": "Absol --> Poner 🪨TrampaRocas recomendar usar Amortiguador🪨",
+      "detail": "Absol ➜ Poner 🪨TrampaRocas recomendar usar Amortiguador🪨",
       "variant": [
         {
-          "detail": "Luxray --> Gengar Gengar +2 +1 precision 🔔No usar Otra Vez🔔",
+          "detail": "Luxray ➜ Gengar +2 + precision X 🔔No usar Otra Vez🔔",
           "variant": []
         },
         {
-          "detail": "Samurott --> Gengar +2 +1 precision",
+          "detail": "Samurott ➜ Gengar Otra Vez +2 + precision X ",
           "variant": []
         }
       ]

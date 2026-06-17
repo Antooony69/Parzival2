@@ -5,37 +5,29 @@
   "initialMove": "🔔Cambiar a Slowbro🔔",
   "tricks": [
     {
-      "detail": "Si se queda --> Usar Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior / Camerupt --> Usar Teletransporte entrar con Volcarona , usar Especial X y presionar",
-      "variant": []
-    },
-    {
-      "detail": "Serperior --> Entrar con Volcarona +2",
-      "variant": []
-    },
-    {
-      "detail": "Durant --> Usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar",
-      "variant": []
-    },
-    {
-      "detail": "Durant --> Usar Bostezo ; usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar para completar",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior --> Usar Bostezo 🔔 Revisar si Megacuerno acierta 🔔",
+      "detail": "Si se queda ➜ Usar Bostezo",
       "variant": [
         {
-          "detail": "Acierta --> Usar Teletransporte ; entrar con Volcarona , usar Especial X y presionar",
+          "detail": "◉ Rhyperior / Camerupt ➜ Usa Teletransporte entra con Volcarona , usa Especial X y ataca",
           "variant": []
         },
         {
-          "detail": "Falla --> Cambiar a Volcarona , usar Especial X y presionar",
+          "detail": "◉ Tangrowth ➜ Entra con Volcarona x2 danza aleteo🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "◉ Durant ➜ usa Protección y Bostezo, sacrifica a Politoed, Poliwrath a +6🐸🥊",
           "variant": []
         }
       ]
+    },
+    {
+      "detail": "◉ Durant ➜ usar Bostezo, Protección y Bostezo; sacrifica a Politoed, Poliwrath a +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ usa Bostezo, luego Teletransporte; Volcarona Especial X y ataca",
+      "variant": []
     }
   ]
-}
+}  

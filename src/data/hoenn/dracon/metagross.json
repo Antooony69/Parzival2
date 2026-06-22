@@ -6,25 +6,26 @@
   "tricks": [
     {
       "detail": "◉ Metagross se queda ➜ Ver situación",
-      "variant": []
-    },
-    {
-      "detail": "◉ Si tiene Vidasfera y sube su ataque ➜ Chansey usa Teletransporte y cambia a Volcarona lanzallamas ➜ frente a Flygon ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed; Poliwrath +6",
       "variant": [
         {
-          "detail": "Otras situaciones ➜ Slowbro usa Bostezo",
+          "detail": "◉ Si tiene Vidasfera y sube su ataque ➜ Chansey usa Teletransporte y cambia a Volcarona lanzallamas ➜ frente a Flygon ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed; Poliwrath +6",
           "variant": [
             {
-              "detail": "◉ Lapras / Nidoking ➜ Sacrifica a Politoed ➜ Poliwrath +6",
-              "variant": []
-            },
-            {
-              "detail": "◉ Salamence ➜ Protección y Bostezo frente a Nidoking ➜ sacrifica a Politoed ➜ Poliwrath +6",
-              "variant": []
-            },
-            {
-              "detail": "◉ Se queda Metagross ➜ Sacrafica a politoed ➜ Poliwrath +6",
-              "variant": []
+              "detail": "Otras situaciones ➜ Slowbro usa Bostezo",
+              "variant": [
+                {
+                  "detail": "◉ Lapras / Nidoking ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Salamence ➜ Protección y Bostezo frente a Nidoking ➜ sacrifica a Politoed ➜ Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Se queda Metagross ➜ Sacrafica a politoed ➜ Poliwrath +6",
+                  "variant": []
+                }
+              ]
             }
           ]
         }

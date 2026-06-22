@@ -5,20 +5,20 @@
   "initialMove": "🪨Trampa Rocas🪨 Usar Teletransporte 🔔(Para ver la habilidad)🔔",
   "tricks": [
     {
-      "detail": "Sin Velocidad Extrema --> Entrar con Politoed para sacrificarlo 🔔(Mira la Habilidad)🔔",
+      "detail": "◉ Sin Velocidad Extrema ➜ Entra con Politoed para sacrificarlo 🔔(Mira la Habilidad)🔔",
       "variant": [
         {
-          "detail": "Velocidad Extrema --> Entrar con Gengar +4",
+          "detail": "◉ Velocidad Extrema ➜ Entra con Gengar otra vez +4",
           "variant": []
         },
         {
-          "detail": "Garra Dragón --> Entrar con Poliwrath y Barrer hasta Garchmop, luego usa un Ataque X y sigue Barriendo;",
+          "detail": "◉ Garra Dragón ➜ Entrar con Poliwrath y ataca frente a Garchomp, usa Ataque X y sigue atacando",
           "variant": []
         }  
       ]  
     },
     {
-      "detail": "Velocidad Extrema --> Entrar con Gengar +4 🔔(Barre con Bola Sombra)🔔",
+      "detail": "◉ Velocidad Extrema ➜ Entra con Gengar otra vez +4 🔔(Barre con Bola Sombra)🔔",
       "variant": []
     }
   ]

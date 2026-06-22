@@ -5,39 +5,31 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Absol --> Cambiar a Slowbro y usar Bostezo ; entrar con Volcarona (moth) +1 🔔Usar Psíquico al enfrentar a Gengar🔔",
+      "detail": "◉ Absol ➜ Entra Slowbro y usar Bostezo ; entrar con Volcarona x1 danza aleteo 🔔Usar Psíquico al enfrentar a Gengar🔔",
       "variant": []
     },
     {
-      "detail": "Rhyperior --> Usar Teletransporte y revisar objeto",
+      "detail": "◉ Rhyperior ➜ Usa Teletransporte y revisar objeto",
       "variant": [
         {
-          "detail": "Vidaesfera --> Slowbro usa Bostezo ; sacrificar a Politoed ; entrar con Poliwrath +6 y usar Puño Hielo contra Gengar",
+          "detail": "◉ Vidaesfera ➜ Slowbro usa Bostezo y sacrifica a Politoed ; entra con Poliwrath +6 y usa Puño Hielo en Gengar",
           "variant": []
         },
         {
-          "detail": "Sin Vidaesfera --> Enviar a Slowbro y usar Bostezo al enfrentar a Quagsire; continuar usando Bostezo",
+          "detail": "◉ Sin Vidaesfera ➜ Volcarona y frente a blastoise o quagsire usar danza aleteo y atacar (psiquico gengar)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Si se queda --> Usar Teletransporte ; entrar con Volcarona  +1 🔔usar Psíquico al enfrentar a Gengar🔔 ",
-      "variant": []
-    },
-    {
-      "detail": "Gengar --> Entrar con Volcarona  +1 🔔usar Psíquico al enfrentar a Gengar🔔",
-      "variant": []
-    },
-    {
-      "detail": "Durant --> Opciones para resolver",
+      "detail": "◉ Durant ➜ Opciones para resolver",
       "variant": [
         {
-          "detail": "Estable --> Cambiar a Slowbro y usar Bostezo al enfrentar a Gengar; entrar con Volcarona +1 y usar Psíquico al enfrentar a Gengar ",
+          "detail": "◉ Ruta Estable ➜ Slowbro y usa Bostezo Frente a Gengar; entra con Volcarona x1 danza y usa Psíquico en Gengar ",
           "variant": []
         },
         {
-          "detail": "Arriesgado --> Entrar con Volcarona +1",
+          "detail": "◉Arriesgado ➜ Entra con Volcarona x1 danza aleteo",
           "variant": []
         }
       ]

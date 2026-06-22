@@ -5,17 +5,8 @@
   "initialMove": "💡 Cambiar a Slowbro💡",
   "tricks": [
     {
-      "detail": "Rhyperior --> Usar Bostezo y revisar si Megacuerno acierta",
-      "variant": [
-        {
-          "detail": "Acierta --> Usar Teletransporte  entrar con Volcarona , usar Especial X y presionar",
-          "variant": []
-        },
-        {
-          "detail": "Falla --> Cambiar a Volcarona , usar Especial X y presionar",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Rhyperior ➜ Usa Bostezo y teletransporte , entra con volcarona +1 especial X y ataca",
+      "variant": []
     }
   ]
 }

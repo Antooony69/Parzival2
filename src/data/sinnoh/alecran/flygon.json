@@ -8,11 +8,11 @@
       "detail": "Si se queda ➜ Usar Teletransporte ➜ enviar a Slowbro y revisar daño",
       "variant": [
         {
-          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) ➜ Usar Relajo para aguantar Cometa Draco ➜ usar Bostezo para que entre Yanmega ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "detail": "Si el daño que recibes es menor al 35.6% (Crítico 53.4%) ➜ Usa Relajo para aguantar Cometa Draco ➜ usar Bostezo para que entre Yanmega ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
           "variant": []
         },
         {
-          "detail": "36.5 - 44% (Crítico 54 - 65%) ➜ Usar Bostezo al enfrentar a Drapion/Scizor ➜ sacrifica a Politoed  ➜ Poliwrath +6 🐸🥊",
+          "detail": "Si el daño que recibes es mayor al 36.5% (Crítico 54) ➜ Usa Bostezo Frente a Drapion/Scizor/octillery ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
           "variant": []
         }
       ]
@@ -22,7 +22,7 @@
       "variant": []
     },
     {
-      "detail": "Scizor ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊 🔔(Si el Bostezo le cae a Flygon usa Protección y Bostezo)🔔",
+      "detail": "Scizor ➜ Entra Con Volcarona y frente a tyranitar sacrifica a politoed entra con Poliwrath +6 🐸🥊 ",
       "variant": []
     },
     {

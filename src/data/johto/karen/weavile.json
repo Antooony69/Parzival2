@@ -2,14 +2,14 @@
   "id": "weavile",
   "name": "Weavile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚 para recibir el golpe de hielo; 🪨 Trampa Rocas 🪨 frente a Excadrill; Teletransporte y enviar a Slowbro para usar Bostezo",
+  "initialMove": "🥚Usa Amortiguador y Aguanta el Ataque despues Trampa Rocas, frente a Excadrill; Teletransporte ➜ Slowbro y usa Bostezo",
   "tricks": [
     {
-      "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+      "detail": "◉ Si se queda ➜ Teletransporte; Volcarona x1 Danza aleteo; ⚠️Si entra o tienes frente a Houndoom usa x1 danza aleteo mas y ataca⚠️ ",
       "variant": []
     },
     {
-      "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+      "detail": "◉ Mismagius ➜ Volcarona x1 danza aleteo ⚠️Si entra o tienes frente a Houndoom usa x1 danza aleteo mas y ataca⚠️",
       "variant": []
     }
   ]

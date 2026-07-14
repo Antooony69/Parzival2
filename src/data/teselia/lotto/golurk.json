@@ -5,20 +5,25 @@
   "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Puño Drenaje --> Ver si es Golpe Crítico ",
+      "detail": "◉ Puño Drenaje ➜ Ver si es Golpe Crítico ",
       "variant": [
         {
-          "detail": "Normal --> Gengar +4",
+          "detail": "◉ No sale Critico ➜ Gengar Otra Vez +4",
           "variant": []
         },
         {
-          "detail": "sale critico--> Teletransporte;  si usa Puño Drenaje , Gengar +4 +2 si usa Terremoto; saca a Slowbro bostezo  frente a Lucario, sacrifica a politoed y entra Poliwrath +6.",
-          "variant": []
+          "detail": "◉ sale critico ➜ chansey Teletransporte; si usa Puño Drenaje , Gengar Otra Vez +4  ",
+          "variant": [
+            {
+              "detail": "◉ Terremoto ➜ saca a Slowbro bostezo ➜ frente a Lucario, sacrifica a politoed ➜ Poliwrath +6.",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Conkeldurr --> Gengar +4",
+      "detail": "◉ Conkeldurr ➜ Gengar Otra Vez +4",
       "variant": []
     }
   ]

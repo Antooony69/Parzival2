@@ -2,14 +2,14 @@
   "id": "golem",
   "name": "Golem",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨 al enfrentar a Durant",
+  "initialMove": "🪨TrampaRocas🪨 Frente a Durant ",
   "tricks": [
     {
-      "detail": "Estable --> Cambiar a Slowbro y luego a Volcarona al enfrentar a Gengar; Volcarona +1 🔔Usar Psíquico al enfrentar a Gengar (ghost)🔔",
+      "detail": "◉ Ruta Segura ➜  Slowbro y entra con Volcarona frente a Gengar; Volcarona x1 danza aleteo 🔔Usar Psíquico a Gengar 🔔",
       "variant": []
     },
     {
-      "detail": "Arriesgado --> Entrar con Volcarona +1 🔔Usar Psíquico al enfrentar a Gengar 🔔",
+      "detail": "◉ Ruta Arriesgada ➜ Volcarona x1 Danza aleteo y ataca 🔔Usar Psíquico a Gengar 🔔",
       "variant": []
     }
   ]

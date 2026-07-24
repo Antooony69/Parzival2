@@ -206,7 +206,7 @@ export default function PokemonGuide() {
           </p>
 
           <p className="text-gray-400 mb-4">
-            RUTA RECOMENDADA: Finya Comienza En Teselia mmripio no lo olvides
+            RUTA RECOMENDADA:
             <span className="pl-2 text-blue-400 flex flex-wrap items-center gap-2 justify-center">
               Teselia →
               <span className="inline-flex items-center gap-1">
@@ -280,6 +280,8 @@ export default function PokemonGuide() {
               <li>Equipo correctamente configurado.</li>
               <li>Equipos económicos pueden fallar.</li>
               <li>Desactivar EXP Share/Reamplificador.</li>
+              <li>Recuerda que el primer numero es maquinacion o especial x.</li>
+              <li>Y el segundo numero es Velocidad</li>
               <li>Utilizar "Otra Vez" con Gengar salvo indicación.</li>
               <li>Reportar errores en Discord.</li>
             </ul>

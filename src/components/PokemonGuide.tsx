@@ -276,6 +276,7 @@ export default function PokemonGuide() {
                   👉 VER 👈
                 </a>
               </li>
+              <li>Aqui Farmeo en Stream 👉 https://www.twitch.tv/parzivalmmo</li>
               <li>Completa cada Liga 5 veces antes.</li>
               <li>Equipo correctamente configurado.</li>
               <li>Equipos económicos pueden fallar.</li>

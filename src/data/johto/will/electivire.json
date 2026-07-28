@@ -2,37 +2,27 @@
   "id": "electivire",
   "name": "Electivire",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "Entra Gengar Otra Vez y Mira Quien Ataca Primero",
   "tricks": [
     {
-      "detail": "Se queda → Ver Item",
+      "detail": "◉ Gengar Ataca Primero ➜ Slowbro bostezo ⬇️",
       "variant": [
         {
-          "detail": "Vidaesfera → ver si es crítico.",
-          "variant": [
-            {
-              "detail": "No crítico → Gengar, Otra Vez, +2 + precisión X.",
-              "variant": []
-            },
-            {
-              "detail": "Crítico → Toma Max Poción → Gengar, Otra Vez, +2 + precisión X.",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Jynx ➜ Proteccion Y Bostezo, Frente a Empoleon, Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
         },
         {
-          "detail": "No vidaesfera → Gengar, +2 +2 + precisión X (no es necesario Otra Vez).",
-          "variant": [
-            {
-              "detail": "Gengar, sale Lucario → Poliwrath → Gengar → Poliwrath → Gengar, Otra Vez, +2 +2 + precisión X.",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Empoleon ➜ Chansey, Trampa Rocas Frente a Electivire ➜ Gengar otra vez +2 + Precisión X ",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Lucario → Gengar, Otra Vez, +2 +2 + precisión X.",
+      "detail": "◉ Gengar Ataca Segundo ➜ Slowbro, Bostezo Frente a Golduck , Chansey Trampa Rocas Se Queda o Entra Lucario , Gengar Otra Vez +2 +2 + Precision X ",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lucario ➜ Poliwrath ➜ Gengar Otra Vez +2 +2 + Precisión X",
       "variant": []
     }
   ]

@@ -279,8 +279,6 @@ export default function PokemonGuide() {
               <li>Aqui Farmeo en Stream 👉 https://www.twitch.tv/parzivalmmo</li>
               <li>Completa cada Liga 5 veces antes.</li>
               <li>Recuerda Que Otra Vez Sirve Para Bostearte 2 Veces Cuando se acaba usalo otra vez,si te hace falta bostearte mas.</li>
-              <li>Equipo correctamente configurado.</li>
-              <li>Equipos económicos pueden fallar.</li>
               <li>Desactivar EXP Share/Reamplificador.</li>
               <li>Recuerda que el primer numero es maquinacion o especial x.</li>
               <li>Y el segundo numero es Velocidad</li>

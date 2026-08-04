@@ -2,6 +2,15 @@
   "id": "jolteon",
   "name": "Jolteon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Cambiar a Slowbro frente a Lucario luego usar Bostezo, sacrificar a Politoed, entrar con Poliwrath +6🔔",
-  "tricks": []
+  "initialMove": "Amortiguador frente Lucario, Gengar Otra Vez + Bola Sombra",
+  "tricks": [
+    {
+      "detail": "◉ Umbreon ➜ Scrafty x2 danza dragon",
+      "variant": []
+    },
+    {
+      "detail": "◉ Jolteon ➜ Chansey Amortiguador Frente Lucario, Gengar Otra vez, y cambia a Scrafty frente Umbreon, x2 danza dragon",
+      "variant": []
+    }
+  ]
 }

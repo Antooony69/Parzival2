@@ -2,37 +2,46 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "Cambia a Gengar",
   "tricks": [
     {
-      "detail": "A bocajarro --> revisar el estado de salud de Chansey",
+      "detail": "◉ A Bocajarro ➜ Otra Vez con Gengar + Bola Sombra",
       "variant": [
         {
-          "detail": "🔴PS bajos🔴 --> Usar Teletransporte para sacrificar; Slowbro usa Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
+          "detail": "◉ Umbreon ➜ Scrafty x2 Danza dragon",
           "variant": []
         },
         {
-          "detail": "☠️Debilitado☠️ --> Slowbro usa Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
+          "detail": "◉ Jolteon ➜ Chansey Amortiguador Frente Lucario, Gengar Otra Vez, Scrafty x2 Danza Dragon",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Dragonite --> cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross --> Gengar usa Otra Vez, cambiar a Slowbro frente a Dragonite; usar Bostezo, sacrificar a Politoed, entrar con Poliwrath +6 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Hydreigon --> Gengar Otra Vez 6+2 🔔(Onda Certera a Purugly)🔔",
+      "detail": "◉ Dragonite ➜ Quagsire Bostezo, Frente Eelektross, Chansey Tramparocas",
       "variant": [
         {
-          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matarlo",
-          "variant": []
+          "detail": "◉ Dragonite ➜ Gengar Otra vez +2 Si Cambian a Bisharp mira abajo 🔔Bola Sombra Froslass🔔",
+          "variant": [
+            {
+              "detail": "◉ Si entra Bisharp ➜ Cambia a Quagsire , Salamence x1 Danza Dragon",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si no se va ➜ Salamence a x1 🔔Lanzallamas Froslass🔔",
+              "variant": []
+            }
+          ]
         }
       ]
+    },
+    {
+      "detail": "◉ Eelektross ➜ Quagsire y despues a Chansey TrampaRocas y Amortiguador Frente Dragonite ➜ Gengar Otra Vez ➜ Quagsire Bostezo Frente Eelektross; Salamence x1 🔔Lanzallamas Froslass🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Hydreigon ➜ Chansey Amortiguador y TrampaRocas Frente Golurk, Gengar Otra vez +4 +2",
+      "variant": []
     }
   ]
 }

@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "◉ si Eelektross no cambia ➜ Gengar Otra vez +4 +2 🔔 Rayo Gengar🔔 ",
-      "variant": [
-        {
-          "detail": "◉ Dragonite ➜ Quagsire Bostezo, Sale Eelektross, Salamence x1  🔔Lanzallamas Froslass🔔",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "◉ Dragonite ➜ Quagsire Bostezo, Sale Eelektross, Salamence x1 🔔Lanzallamas Froslass🔔",
+      "variant": []
     }
   ]
 }

@@ -5,12 +5,17 @@
   "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Fuerza Bruta ➡ 🪨TrampaRocas🪨 + Amortiguador frente a Eelektross, Gengar usa Otra Vez, cambiar a Slowbro frente a Dragonite, usar Bostezo, sacrifica a Politoed, Poliwrath +6 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+      "detail": "◉ Fuerza Bruta ➜ Tramparocas ,Frente Eelektross, Gengar Otra vez , cambia a Quagsire Bostezo frente a Eelektross ➜ Salamence a x1 🔔Lanzallamas Froslass.🔔",
       "variant": []
     },
     {
-      "detail": "Toxicroak ➡ Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, Poliwrath +6 🔔(Puño Drenaje a Bisharp)🔔",
-      "variant": []
+      "detail": "◉ Toxicroak ➜ Gengar despues Chansey frente Dragonite , TrampaRocas , Frente Toxicroak, cambia a Gengar despues Chansey frente a Dragonite; Gengar frente a Toxicroak, Salamence a x3.🔔",
+      "variant": [
+        {
+          "detail": "◉ Toxicroak Tiene Pañuelo elegido Esto Es la Variante de Toxicroak",
+          "variant": []
+        }
+      ]
     }
   ]
 }

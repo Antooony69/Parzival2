@@ -5,11 +5,21 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Lucario --> Cambiar a Gengar y usar Otra Vez, cambiar a Slowbro y usar Bostezo, sacrificar a Politoed, entrar con Poliwrath +6",
-      "variant": []
+      "detail": "◉ Lucario ➜ Gengar Otra vez + Bola Sombra",
+      "variant": [
+        {
+          "detail": "◉ Umbreon ➜ Scrafty x2 danza dragon",
+          "variant": [
+            {
+              "detail": "◉ Jolteon ➜ Chansey Amortiguador Frente Lucario, Gengar Otra vez , cambia a Scrafty frente a Umbreon, x2 danza dragon",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Toxicroak --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "detail": "◉ Toxicroak ➜ Gengar, entra con Chansey, vuelve a Gengar frente Toxicroak, Salamence a x3 danza dragon",
       "variant": []
     }
   ]

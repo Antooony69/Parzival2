@@ -2,12 +2,8 @@
   "id": "toxicroak",
   "name": "Toxicroak",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "",
+  "initialMove": "◉ 👻 Gengar 👻, entra con Chansey, TrampaRocas",
   "tricks": [
-    {
-      "detail": "◉ 👻 Gengar 👻, pasa a Chansey, TrampaRocas",
-      "variant": []
-    },
     {
       "detail": "◉ Toxicroak, Gengar, pasa a Chansey, vuelve a cambiar a Gengar frente a Toxicroak, Salamence x3 danza dragon.",
       "variant": []

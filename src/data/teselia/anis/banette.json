@@ -2,10 +2,14 @@
   "id": "banette",
   "name": "Banette",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 🔔(Si no cambia usa Amortiguador)🔔",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Sale Absol --> Cambia a Gengar, Otra Vez 4+2 🔔(Barre con Bola Sombra, Absol No tiene banda focus)🔔",
+      "detail": "◉ Absol ➜ Gengar Otra vez +2 ➜ Entra Hydreigon ➜ Scrafty x3 Danza Dragon",
+      "variant": []
+    },
+    {
+      "detail": "◉ 🥊 A Bocajarro a Bronzong 🥊",
       "variant": []
     }
   ]

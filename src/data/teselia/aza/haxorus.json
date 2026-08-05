@@ -2,6 +2,11 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro  y usar Bostezo  frente a Chandelure; sacrificar a Politoed y entrar con Poliwrath 🐸 +6",
-  "tricks": []
+  "initialMove": "◉ Usa Amortiguador para aguantar A Bocajarro, Gengar Otra Vez +6 +2",
+  "tricks": [
+    {
+      "detail": "◉ Ruta Arriesgada a Gengar, usa Otra Vez, cambia a Quagsire, Frente Scrafty, usa Bostezo frente Chandelure, Salamence x1",
+      "variant": []
+    }
+  ]
 }

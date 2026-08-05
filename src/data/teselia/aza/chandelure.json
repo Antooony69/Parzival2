@@ -5,46 +5,46 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Honchkrow --> Gengar usa Otra Vez, entra Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entra Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Scrafty --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Garchomp --> Teletransporte para Ver Movimiento",
+      "detail": "◉ Garchomp ➜ Amortiguador",
       "variant": [
         {
-          "detail": "Terremoto --> sacar a Slowbro y usar Bostezo para ver si es Golpe Crítico",
-          "variant": [
-            {
-              "detail": "Sin Critico --> Seguir con Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
-              "variant": []
-            },
-            {
-              "detail": "Con Critico --> Sacrificar a Politoed, entrar con Poliwrath +6",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Terremoto ➜ Salamence, entra Quagsire Otra Vez frente a Terremoto, Salamence x1 usando Otra Vez contra 🔔Chandelure / Espeon, Salamence x1🔔",
+          "variant": []
         },
         {
-          "detail": "Colmillo Ígneo --> Seguir con Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
+          "detail": "◉ Colmillo Ígneo ➜ Encanto + Amortiguador cuando salga Staraptor,  Gengar +4 (No usar Otra vezz) y barre hasta Spiritomb, Scrafty Te Bosteas y ataca",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Staraptor --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "detail": "◉ Samurott ➜ Gengar otra vez , Quagsire frente Tyranitar, Bostezo hasta Serperior, Volcarona x4 con Gigadrenaje + Lanza Llamas Serperior; si Tyranitar entra antes de Samurott, la salud debe ser > 71%",
       "variant": []
     },
     {
-      "detail": "Samurott --> 💊Gengar Otra Vez 2+2 + Precisión X💊",
+      "detail": "◉ Honchkrow ➜ Gengar x2 usando rayo cuando salga Krookodile, Salamence x1 cuando Krookodile quede atrapado en Triturar, luego sube a Scrafty x2",
       "variant": []
+    },
+    {
+      "detail": "◉ Hawlucha ➜ Gengar x4 (no usar otra vez y barre hasta Spiritomb, Scrafty y ataca ",
+      "variant": []
+    },
+    {
+      "detail": "◉ Haxorus ➜Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scrafty ➜ Gengar, pasa a Scrafty frente a Bisharp, y usa Puño Dranaje",
+      "variant": [
+        {
+          "detail": "◉ Crobat ➜ Chansey Encanto al recibir Superdiente, usa Amortiguador cuando salga Haxorus, sube a Gengar otra vez +2 +2 🔔no usar Amortiguador si Superdiente falla🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Haxorus ➜ Gengar Otra Vez +2 +2",
+          "variant": []
+        }
+      ]
     }
   ]
 }

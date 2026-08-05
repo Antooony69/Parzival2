@@ -2,6 +2,11 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Sacrificar a Politoed y entrar con Poliwrath +6💡",
-  "tricks": []
+  "initialMove": "◉ Quagsire Bostezo Frente Serperior, Volcarona x4",
+  "tricks": [
+    {
+      "detail": "◉ Usa Gigadrenado + lanzallamas para debilitar a Serperior. Tyranitar sale antes que Samurott si la salud es > 71%",
+      "variant": []
+    }
+  ]
 }

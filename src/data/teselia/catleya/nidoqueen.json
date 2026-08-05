@@ -2,29 +2,20 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usa Teletransporte💡",
+  "initialMove": "Trampa rocas",
   "tricks": [
     {
-      "detail": "Absol --> Sacar a Slowbro y usar bostezo frente  a Nidoqueen; Teletransporte y sacar a Volcarona +1 🔔(Mirar tu Situación)🔔",
+      "detail": "◉ Absol ➜ Gengar Otra, Scrafty frente Blissey, Scrafty x2 con Danza Dragón y usa A Bocajarro contra Togekiss",
       "variant": [
         {
-          "detail": "Si se queda --> Psiquico para Debilitarlo, frente Blissey usa Danza Aleteo dos veces luego termina de Barrer",
-          "variant": []
-        },
-        {
-          "detail": "Blissey --> Danza Aleteo dos veces y seguir Barriendo",
+          "detail": "◉ si cambias a Scrafty y entra Metagross ➜ Quagsire Bostezo Frente Nidoqueen, Salamence x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Metagross --> Saca Volcarona y derrotalo, frente a Staraptor; Gengar +6 + Precisión X (No usar Otra Vez)",
-      "variant": [
-        {
-          "detail": "Huye a Milotic --> Cambiar a Chansey para atraer a Staraptor; Volcarona +3 🔔(Gigadrenado + Lanzallamas contra Umbreon)🔔",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Metagross ➜ Gengar Otra vez , Scrafty Frente Umbreon, Scrafty x3 con Danza Dragón y A Bocajarro contra Metagross y Milotic",
+      "variant": []
     }
   ]
 }

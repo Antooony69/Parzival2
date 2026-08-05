@@ -2,11 +2,15 @@
   "id": "drifblim",
   "name": "Drifblim",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚Amortiguador🥚 esperar a Lucario, Gengar Otra Vez, cambiar a Slowbro  y usar Bostezo, frente a Jolteon, sacrifica a Politoed, Poliwrath +6🐸🥊",
+  "initialMove": "🥚Amortiguador🥚 Frente Lucario, Gengar Otra vez + Bola Sombra y ataca",
   "tricks": [
     {
-      "detail": "👾TESTEO👾 ➜ Cambiar a Slowbro, sacrifica a Politoed, Poliwrath +6🐸🥊",
+      "detail": "◉ Umbreon ➜ Scrafty x2 Danza dragon",
       "variant": []
-    }  
-  ]  
+    },
+    {
+      "detail": "◉ Jolteon ➜ Chansey Amortiguador Frente Lucario, Gengar Otra vez, cambia a Scrafty y frente Umbreon, x2 Danza Dragon",
+      "variant": []
+    }
+  ]
 }

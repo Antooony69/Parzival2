@@ -8,15 +8,15 @@
       "detail": "◉ Onda Certera ➜ Gengar Otra vez +2",
       "variant": [
         {
-          "detail": "Si no cambia ➜ Gengar +4+2, barre hasta Bisharp, cambia a Scrafty y ataca",
+          "detail": "◉ Si no cambia ➜ Gengar +4+2, barre hasta Bisharp, cambia a Scrafty y ataca",
           "variant": []
         },
         {
-          "detail": "Drapion ➜ Quagsire Recuperación Frente Samurott; Volcarona a +2, Si te bajan la defensa sube tu defensa igual con la salud",
+          "detail": "◉ Drapion ➜ Quagsire Recuperación Frente Samurott; Volcarona a +2, Si te bajan la defensa sube tu defensa igual con la salud",
           "variant": []
         },
         {
-          "detail": "Gliscor ➜ Chansey, Amortiguador Frente Bisharp, Quagsire Recuperación Frente Samurott, Volcarona x2",
+          "detail": "◉ Gliscor ➜ Chansey, Amortiguador Frente Bisharp, Quagsire Recuperación Frente Samurott, Volcarona x2",
           "variant": []
         }
       ]
@@ -25,11 +25,11 @@
       "detail": "◉ Samurott ➜ Gengar Otra vez +2 y mira las siguientes opciones:",
       "variant": [
         {
-          "detail": "Si no cambia ➜ Quagsire Recuperación Frente Roserade, Volcarona x4",
+          "detail": "◉ Si no cambia ➜ Quagsire Recuperación Frente Roserade, Volcarona x4",
           "variant": []
         },
         {
-          "detail": "Tyranitar ➜ Quagsire bostezo Frente Serperior, Volcarona x4, usa Gigadrenado / lanzallamas a Serperior 🔔Tyranitar sale antes que Samurott si la salud es > 71%🔔",
+          "detail": "◉ Tyranitar ➜ Quagsire bostezo Frente Serperior, Volcarona x4, usa Gigadrenado / lanzallamas a Serperior 🔔Tyranitar sale antes que Samurott si la salud es > 71%🔔",
           "variant": []
         }
       ]

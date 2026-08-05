@@ -2,6 +2,45 @@
   "id": "alakazam",
   "name": "Alakazam",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 luegp usar Teletransporte para sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entra Poliwrath +6 🔔(Puedes usar Amortiguador para Curarte y despues usar Teletransporte)🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉ Si no cambia ➜ Pantalla de Luz, cambia a Quagsire, usa Bostezo y Frente Leafeon, Salamence x4, si usas Danza Dragón x1 cambia a Entei frente Metagross, cambia a Quagsire y usa Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Alakazam ➜ Gengar Velocidad x + usa Otra Vez + Maquinación, y barre",
+          "variant": []
+        },
+        {
+          "detail": "◉ Leafeon ➜ Usa Protección y Bostezo Frente Empoleon,Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Leafeon ➜ Encanto y Amortiguador hasta que salga Alakazam",
+      "variant": []
+    },
+    {
+      "detail": "◉ Entei ➜ Encanto y Amortiguador hasta que salga Alakazam",
+      "variant": []
+    },
+    {
+      "detail": "◉ Metagross ➜ Quagsire Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Alakazam ➜ Usa Protección, usa Bostezo Frente Empoleon, Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Leafeon ➜ Usa Protección, usa Bostezo Frente Empoleon, Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Empoleon ➜ Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

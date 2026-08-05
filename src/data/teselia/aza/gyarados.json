@@ -2,14 +2,14 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Garchomp, usar Teletransporte para sacar a Slowbro y usar Bostezo 🔔(Ver si el Terremoto es Golpe Crítico)🔔",
+  "initialMove": "◉ Trampa Rocas Frente Garchomp, cambia a Salamence, pasa a Quagsire usando Otra Vez frente a Terremoto, y Salamence x1",
   "tricks": [
     {
-      "detail": "Si no hay golpe crítico --> Usar Bostezo frente a Chandelure, sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "◉ Si usas Otra Vez contra Chandelure ➜ Salamence x1",
       "variant": []
     },
     {
-      "detail": "Si hay crítico  --> Sacrificar a Politoed entrar con Poliwrath +6",
+      "detail": "◉ Si usas Otra Vez contra Espeon ➜ Salamence x1",
       "variant": []
     }
   ]

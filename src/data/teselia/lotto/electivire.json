@@ -2,10 +2,14 @@
   "id": "electivire",
   "name": "Electivire",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar usa Otra Vez💡",
+  "initialMove": "💡Gengar Otra Vez +2💡",
   "tricks": [
     {
-      "detail": "Cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "detail": "Conkeldurr / Metagross ➜ Ataca para debilitar hasta Crawdaunt, Scrafty y entra con Gengar, otra vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ Scrafty, cambia a Gengar otra vez +2 y ataca para debilitar hasta Crawdaunt, cambia a Scrafty, luego cambia a Gengar, otra vez +4 +2",
       "variant": []
     }
   ]

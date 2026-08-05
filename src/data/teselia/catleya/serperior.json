@@ -2,14 +2,10 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Metagross, cambiar a Gengar Otra Vez +2",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Metagross, Gengar Otra Vez, Scrafty Frente Milotic, Scrafty x3 ",
   "tricks": [
     {
-      "detail": "Si se Queda ➜ 👻Gengar +6👻",
-      "variant": []
-    },
-    {
-      "detail": "Milotic / Bronzong ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊 🔔(Cascada a Bronzong)🔔",
+      "detail": "◉ Usa A Bocajarro contra Bronzong y Metagross",
       "variant": []
     }
   ]

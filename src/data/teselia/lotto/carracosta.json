@@ -2,15 +2,6 @@
   "id": "carracosta",
   "name": "Carracosta",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
-  "tricks": [
-    {
-      "detail": "Conkeldurr ➜ Gengar Otra Vez +4",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus ➜ Gengar Otra Vez +4 🔔(Si huye a Conkeldurr, cambiar a Chansey y luego a Gengar Otra vez +4)🔔",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa Rocas cuando salga el tipo Lucha, Gengar Otra vez +4 🪨",
+  "tricks": []
 }

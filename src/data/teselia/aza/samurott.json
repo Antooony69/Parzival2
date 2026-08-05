@@ -2,31 +2,22 @@
   "id": "samurott",
   "name": "Samurott",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro y usar Bostezo🥱",
+  "initialMove": "◉ Pon Trampa Rocas, Gengar Otra vez +2 y mira las siguientes opciones:",
   "tricks": [
     {
-      "detail": "Megacuerno --> Cambiar a chansey y usar Amortiguador frente a Absol; entrar con Gengar +2 + Precision X + Otra Vez 🔔(Absol Banda Focus)🔔",
+      "detail": "◉ Si no cambia ➜ Gengar Otra vez +4 +2",
       "variant": []
     },
     {
-      "detail": "Poder Oculto Eléctrico --> Sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "◉ Tyranitar ➜ Quagsire Bostezo, Frente Serperior, Volcarona +4, usa Gigadrenado + lanzallamas 🔔Tyranitar sale antes que Samurott si la salud es > 71%🔔",
       "variant": []
     },
     {
-      "detail": "Serperior Cambiar a Chansey y usar Amortiguador",
-      "variant": [
-        {
-          "detail": "Samurot --> 💊Gengar 2+2 + Precision X💊",
-          "variant": []
-        },
-        {
-          "detail": "Tyranitar --> Sacrificar a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Si entras con Salamence: Ataca hasta que salga Bisharp, Scrafty Puño Drenaje Frente Absol, Gengar otra vez +4",
+      "variant": []
     },
     {
-      "detail": "Mismagius --> Cambiar a Chansey y usar Amortiguador frente a Absol; entrar con Gengar +2 + Precision X + Otra Vez 🔔(Absol Banda Focus)🔔",
+      "detail": "◉ Si entras Gengar frente Absol Entra con Scrafty, Gengar otra vez +2, ataca hasta que salga Bisharp, cambia y Quagsire Bostezo Frente Mismagius , Salamence x1",
       "variant": []
     }
   ]

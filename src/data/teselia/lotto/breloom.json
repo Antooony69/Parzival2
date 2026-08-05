@@ -2,18 +2,22 @@
   "id": "breloom",
   "name": "Breloom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar Otra Vez +2 y Debilitar💡",
+  "initialMove": "💡 Gengar otra vez +2 y ataca si entra Tyranitar, Scrafty Puño Drenaje, chansey Trampa Rocas hasta que salga el tipo Lucha, Gengar otra vez +6\n💡",
   "tricks": [
     {
-      "detail": "◉ Magnezone ➜ Chansey Trampa Rocas frente a Conkeldurr;  Slowbro, Bostezo frente a Magnezone; sacrifica a Politoed y entrar con Poliwrath +6🐸🥊",
+      "detail": "◉ Si no se retira, y usaste bola sombra y entra dusknoir; Sombra Vil hace daño de 55% - 56.3% a Gengar",
       "variant": []
     },
     {
-      "detail": "◉ Conkeldurr ➜ Slowbro, luego a Chansey y usar 🪨Trampa Rocas🪨 frente a Conkeldurr; Slowbro usa Bostezo frente a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6🐸🥊",
+      "detail": "◉ Si Breloon Recurrente ➜ Chansey para atrapar de nuevo al tipo Lucha, Gengar otr vez +6",
       "variant": []
     },
     {
-      "detail": "◉ si Gengar Usa Otra vez y al usar maquinacion entra Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo frente a Magnezone, luego usa Proteccion y Bostezo frente a Breloom, sacrifica a politoed y entra con Poliwrath +6🐸🥊",
+      "detail": "◉ Si se confunde y no pones Trampa Rocas ➜ Gengar, Quagsire Bostezo Frente Gyarados, Chansey Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si al boostear a Gengar sale Magnezone ➜ Quagsire, Bostezo Frente Breloom, y Salamence x1",
       "variant": []
     }
   ]

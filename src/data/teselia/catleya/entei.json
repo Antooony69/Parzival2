@@ -5,45 +5,43 @@
   "initialMove": "❤️Encanto❤️",
   "tricks": [
     {
-      "detail": "◉ Usa Encanto",
+      "detail": "◉ Vidasfera ➜ Amortiguador hasta que salga Mienshao, Gengar y ataca hasta que salga Umbreon, Scrafty x3 🔔Puño Drenaje Metagross🔔",
       "variant": []
     },
     {
-      "detail": "◉ Vida Esfera ➜ Amortiguador hasta que salga Mienshao, Gengar y ataca hasta que salga Umbreon, Scrafty x3 🔔usa Puño Drenaje contra Metagross🔔",
-      "variant": []
-    },
-    {
-      "detail": "◉ Sin Vida Esfera ➜ Pon Trampa Rocas 🔔si no se va, cambia a Quagsire ostezo🔔",
-      "variant": []
-    },
-    {
-      "detail": "◉ Leafeon ➜ Encanto y Amortiguador hasta que salga Alakazam",
-      "variant": []
-    },
-    {
-      "detail": "◉ Metagross ➜ Quagsire Bostezo",
+      "detail": "◉ Sin Vidasfera ➜ Trampa Rocas 🔔si no se va, cambia a Quagsire bostezo🔔",
       "variant": [
         {
-          "detail": "◉ Leafeon ➜ Protección y Bostezo Frente Empoleon, y Scrafty x2",
+          "detail": "◉ Leafeon ➜ Encanto y Amortiguador hasta que salga Alakazam",
           "variant": []
         },
         {
-          "detail": "◉ Empoleon ➜ Scrafty x2",
-          "variant": []
+          "detail": "◉ Metagross ➜ Quagsire Bostezo",
+          "variant": [
+            {
+              "detail": "◉ Leafeon ➜ Protección y Bostezo Frente Empoleon, Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Empoleon ➜ Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Alakazam ➜ Protección y Bostezo Frente Empoleon, Scrafty x2",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "◉ Alakazam ➜ Protección y Bostezo Frente Empoleon, Scrafty x2",
-          "variant": []
+          "detail": "◉ Alakazam ➜ Pantalla de Luz, Quagsire Bostezo hasta Alakazam, Gengar Velocidad x + usa Otra Vez + Maquinación y barre 🔔 si entra Leafeon y no alakazan , Salamence x3, si usas Danza Dragón y huye de Entei ataca hasta Metagross, y usa un movimiento de Fuego contra Metagross",
+          "variant": [
+            {
+              "detail": "◉ Usa Bostezo hasta Leafeon ➜ Usa Protección y Bostezo de nuevo hasta Empoleon, Scrafty x2",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "◉ Alakazam ➜ Usa Pantalla de Luz, Quagsire Bostezo hasta Alakazam, Gengar Velocidad x + usa Otra Vez + Maquinación y barre 🔔 si entra Leafeon y no alakazan , Salamence x3, si usas Danza Dragón y huye de Entei ataca hasta Metagross, y usa un movimiento de Fuego contra Metagross",
-      "variant": []
-    },
-    {
-      "detail": "◉ Usa Bostezo hasta Leafeon ➜ Usa Protección y Bostezo de nuevo hasta Empoleon, y sube a Scrafty x2",
-      "variant": []
     }
   ]
 }

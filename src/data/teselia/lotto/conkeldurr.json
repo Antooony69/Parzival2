@@ -38,33 +38,33 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "detail": "◉ Tyranitar ➜ Scrafty Puño Drenaje hasta que salga Gyarados, chansey Trampa Rocas hasta atrapar al tipo Lucha, Gengar otra vez +6",
-      "variant": []
-    },
-    {
-      "detail": "◉ Si se confunde y no pones Trampa Rocas ➜ Gengar, otra vez +2 y ataca hasta que salga Magnezone, chansey Trampa Rocas hasta atrapar a Conkeldurr, Gengar otra vez +6. Si cambia aleatoriamente, usa Amortiguador hasta que regrese Conkeldurr; si usa Recurrente cambia achansey para atrapar de nuevo al tipo Lucha",
-      "variant": []
-    },
-    {
-      "detail": "◉ Si al boostear a Gengar entra Magnezone ➜ chansey Amortiguador para atrapar al tipo Lucha, Gengar otra vez +6",
-      "variant": []
-    },
-    {
-      "detail": "◉ Metagross ➜ Salamence, Volcarona lanzallamas",
-      "variant": [
+        },
         {
-          "detail": "◉ Salamence ➜ Quagsire y revisa sus movimientos",
+          "detail": "◉ Tyranitar ➜ Scrafty Puño Drenaje hasta que salga Gyarados, chansey Trampa Rocas hasta atrapar al tipo Lucha, Gengar otra vez +6",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si se confunde y no pones Trampa Rocas ➜ Gengar, otra vez +2 y ataca hasta que salga Magnezone, chansey Trampa Rocas hasta atrapar a Conkeldurr, Gengar otra vez +6. Si cambia aleatoriamente, usa Amortiguador hasta que regrese Conkeldurr; si usa Recurrente cambia achansey para atrapar de nuevo al tipo Lucha",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si al boostear a Gengar entra Magnezone ➜ chansey Amortiguador para atrapar al tipo Lucha, Gengar otra vez +6",
+          "variant": []
+        },
+        {
+          "detail": "◉ Metagross ➜ Salamence, Volcarona lanzallamas",
           "variant": [
             {
-              "detail": "◉ Garra Dragón ➜ Bostezo y cambia a chansey; Amortiguador para forzar el cambio",
+              "detail": "◉ Salamence ➜ Quagsire y revisa sus movimientos",
               "variant": [
                 {
-                  "detail": "◉ Machamp ➜ Gengar otra vez +2 y barre hasta Crawdaunt, Scrafty, luego cambia a Gengar, otra vez +4 y usa Otra Vez (tiene Banda focus)",
-                  "variant": []
+                  "detail": "◉ Garra Dragón ➜ Bostezo y cambia a chansey; Amortiguador para forzar el cambio",
+                  "variant": [
+                    {
+                      "detail": "◉ Machamp ➜ Gengar otra vez +2 y barre hasta Crawdaunt, Scrafty, luego cambia a Gengar, otra vez +4 y usa Otra Vez (tiene Banda focus)",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
             }

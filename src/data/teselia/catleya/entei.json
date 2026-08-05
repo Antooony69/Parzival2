@@ -5,28 +5,44 @@
   "initialMove": "❤️Encanto❤️",
   "tricks": [
     {
-      "detail": "Vidasfera ➜ Cambiar a Slowbro frente a Mienshao, usar Bostezo, sacrifica a Politoed ➜Poliwrath +6🐸🥊 🔔(Puño Drenaje a Mienshao y Cascada a Musharna/Metagross)🔔",
+      "detail": "◉ Usa Encanto",
       "variant": []
     },
     {
-      "detail": "No Vidasfera ➜ 🪨Usa Trampa rocas🪨 🔔(Si se queda, cambiar a Slowbro y usar Bostezo)🔔",
+      "detail": "◉ Vida Esfera ➜ Amortiguador hasta que salga Mienshao, Gengar y ataca hasta que salga Umbreon, Scrafty x3 🔔usa Puño Drenaje contra Metagross🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Sin Vida Esfera ➜ Pon Trampa Rocas 🔔si no se va, cambia a Quagsire ostezo🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Leafeon ➜ Encanto y Amortiguador hasta que salga Alakazam",
+      "variant": []
+    },
+    {
+      "detail": "◉ Metagross ➜ Quagsire Bostezo",
       "variant": [
         {
-          "detail": "Alakazam ➜ Teletransporte, sacar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+          "detail": "◉ Leafeon ➜ Protección y Bostezo Frente Empoleon, y Scrafty x2",
           "variant": []
         },
         {
-          "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+          "detail": "◉ Empoleon ➜ Scrafty x2",
           "variant": []
         },
         {
-          "detail": "Leafeon ➜ Usar Amortiguador, Encanto y Amortiguador para forzar el cambio ⬆️(Mira la Solucion Arriba)⬆️",
+          "detail": "◉ Alakazam ➜ Protección y Bostezo Frente Empoleon, Scrafty x2",
           "variant": []
         }
       ]
     },
-    { 
-      "detail": "Alakazam ➜ 🪨Trampa rocas🪨 luego usa Teletransporte, sacar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+    {
+      "detail": "◉ Alakazam ➜ Usa Pantalla de Luz, Quagsire Bostezo hasta Alakazam, Gengar Velocidad x + usa Otra Vez + Maquinación y barre 🔔 si entra Leafeon y no alakazan , Salamence x3, si usas Danza Dragón y huye de Entei ataca hasta Metagross, y usa un movimiento de Fuego contra Metagross",
+      "variant": []
+    },
+    {
+      "detail": "◉ Usa Bostezo hasta Leafeon ➜ Usa Protección y Bostezo de nuevo hasta Empoleon, y sube a Scrafty x2",
       "variant": []
     }
   ]

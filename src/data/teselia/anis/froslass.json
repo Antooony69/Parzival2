@@ -5,12 +5,77 @@
   "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "◉ Eelektross ➜ Gengar Otra Vez, quagsire Bostezo frente eelektross ➜ Salamence x1 danza dragon 🔔(LanzaLlamas Frosslass)🔔",
+      "detail": "◉ Onda Certera ➜ ¿Baja la Defensa Especial?",
+      "variant": [
+        {
+          "detail": "◉ Sí Baja La Defensa ➜ Gengar +2 no usar Otra Vez y Ataca Frente Bisharp, Scrafty x3 danza dragon 🔔Bocajarro Bronzong🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ No Baja la Defensa ➜ Amortiguador hasta Dragonite, Gengar Otra vez +4 Otra Vez Frente Bisharp; Scrafty x3 🔔si Bisharp huye frente a Bronzong; cambia a Chansey a usar Amortiguador para atraparlo de nuevo; si Bisharp esta en la posición 2 , usa A Bocajarro en Bronzong",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Absol ➜ Gengar otra vez +2 si sale Hydreigon, Scrafty x3 danza dragon 🔔Bocajarro Bronzong🔔",
       "variant": []
     },
     {
-      "detail": "◉ Dragonite ➜ quagsire Bostezo frente eelektross ➜ Salamence x1 danza dragon 🔔(LanzaLlamas Frosslass)🔔",
+      "detail": "◉ Hydreigon ➜ Amortiguador, cambia a Quagsire frente Golurk, Bostezo hasta Chandelure,➜ Salamence x2",
       "variant": []
+    },
+    {
+      "detail": "◉ Eelektross ➜ Gengar x2 y mira abajo:",
+      "variant": [
+        {
+          "detail": "◉ Si no se va Eelektross ➜ Gengar +4 +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Entra Dragonite ➜ Quagsire Bostezo Frente Eelektross,➜ Salamence x1 🔔Lanzallamas Froslass🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Toxicroak ➜ Gengar, entra Chansey, vuelve a Gengar frente Toxicroak,➜ Salamence x3 danza dragon",
+      "variant": []
+    },
+    {
+      "detail": "◉ Dragonite ➜ Revisa la posición:",
+      "variant": [
+        {
+          "detail": "◉ Dragonite Posicion 4 ➜ Gengar otra vez +2 si sale Bisharp, revisa la posición:",
+          "variant": [
+            {
+              "detail": "◉ bisharp posicion 2 ➜ Scrafty x3 🔔Bocajarro Bronzong🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Otro ➜ Quagsire, Bostezo Frente Eelektross, Salamence a x1 🔔Lanzallamas Froslass🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Otro ➜ Quagsire, Bostezo Frente Eelektross, Salamence a x1 🔔Lanzallamas Froslass🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Lucario ➜ Gengar Otra vez + Bola Sombra",
+      "variant": [
+        {
+          "detail": "◉ Jolteon ➜ Chansey Amortiguador Frente Lucario, Gengar Otra Vez, entra con Scrafty Frente Umbreon, x2 Danza dragon",
+          "variant": []
+        },
+        {
+          "detail": "◉ Umbreon ➜ Scrafty x2 Danza Dragon",
+          "variant": []
+        }
+      ]
     }
   ]
 }

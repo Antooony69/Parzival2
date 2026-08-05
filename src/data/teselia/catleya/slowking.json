@@ -2,15 +2,12 @@
   "id": "slowking",
   "name": "Slowking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro y usar Bostezo frente a Nidoqueen; usar Teletransporte, entrar con Volcarona +1 🔔(Mira tu Situación)🔔",
+  "initialMove": "Trampa Rocas Frente Absol, Gengar Otra Vez , cambia a Scrafty Frente Blissey x2 🔔A Bocajarro en togekiss🔔",
   "tricks": [
     {
-      "detail": "Si se queda --> Usar Psíquico para Debilitarlo, frente a Blissey usar Danza Aleteo dos veces y Barrer",
-      "variant": []
-    },
-    {
-      "detail": "Blissey --> Usar Danza Aleteo dos veces y Barrer",
+      "detail": "🔔Si entra Metagross y no Blissey ➜ Quagsire, Bostezo Frente Nidoqueen, Salamence x1🔔",
       "variant": []
     }
   ]
 }
+   

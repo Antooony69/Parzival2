@@ -2,68 +2,58 @@
   "id": "bisharp",
   "name": "Bisharp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 Si no Cambia usa Amortiguador",
   "tricks": [
     {
-      "detail": "Se queda ➜ Ver el ataque",
+      "detail": "◉ Patada Baja / Cabeza de Hierro 【Vida Esfera】 ➜ Amortiguador hasta tener la salud alta",
       "variant": [
         {
-          "detail": "Patada Baja ➡ Amortiguador 4 veces",
-          "variant": [
-            {
-              "detail": "Patada Baja ➡ Volcarona +3 🔔(Gigadrenado al Pokemon en 2da Posición (Zoroark), Psiquico al verdadero Chandelure)🔔",
-              "variant": [
-                {
-                  "detail": "☠️Si muere por Critico☠️ ➜ Gengar 2+2 + Precisión X",
-                  "variant": []
-                },  
-                {  
-                  "detail": "Te Bosteas y Entra Dragonite ➜ 💊Toma un Especial X luego Barre💊 🔔(Gigadrenado a Frosslas)🔔",
-                  "variant": []
-                }
-              ]
-            },  
-            {
-              "detail": "Cabeza de Hierro ➡ Cambiar a Slowbro y usar Bostezo frente a Chandelure, sacrifica a Politoed, Poliwrath +6🐸🥊 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
-              "variant": []
-            }  
-          ]
+          "detail": "◉ Solo Patada Baja ➜ Quagsire con Bostezo Frente Chandelure; Volcarona a x1 🔔con Amortiguador 3 veces para curar al máximo; no importa si Jellicent huye; Zoroark se puede curar Gigadrenaje🔔",
+          "variant": []
         },
         {
-          "detail": "Cabeza de Hierro ➡ Cambiar a Slowbro y usar Bostezo frente a Chandelure/Eelektross, sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+          "detail": "◉ Dragonite ➜ Quagsire Bostezo Frente Eelektross, Salamence x1 🔔Lanzallamas Froslass🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Eelektross ➜ Gengar otra vez +2 si sale Dragonite, cambia a Quagsire Bostezo Frente Eelektross, Salamence x1 o Volcarona a x2 🔔Lanzallamas Froslass🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Cabeza de Hierro se queda y no se va ➜ Volcarona lanzallamas Frente Dragonite, Quagsire Bostezo Frente Eelektross, Salamence x1 o Volcarona x2 🔔Lanzallamas Froslass🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Eelektross ➡ Gengar usa Otra Vez luego cambia a Slowbro",
+      "detail": "◉ Eelektross ➜ Gengar otra vez +2 y mira abajo:",
       "variant": [
         {
-          "detail": "Se queda ➡ Bostezo ",
-          "variant": [
-            {
-              "detail": "Gengar ➡ Protección , cambiar a Poliwrath frente Chandelurem Volcarona +2 🔔(Psiquico a Gengar)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Chandelure ➡ Protección , Bostezo frente a Gengar, Teletransporte, Volcarona +2 🔔(Psiquico a Gengar)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Si no se va ➜ Gengar otra vez +4 y +2",
+          "variant": []
         },
         {
-          "detail": "Dragonite ➡ Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, Poliwrath +6🐸🥊 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
+          "detail": "◉ Dragonite ➜ Quagsire Bostezo Frente Eelektross, Salamence x1 🔔Lanzallamas Froslass🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Toxicroak ➡ Cambiar a Slowbro, Bostezo frente a Chandelure, sacrifica a Politoed, Poliwrath +6🐸🥊",
+      "detail": "◉ Toxicroak ➜ Gengar, cambia a Chansey, vuelve a Gengar frente Toxicroak, Salamence x3 🔔Garra Dragón Umbreon, Toxicroak Pañuelo?🔔",
       "variant": []
     },
     {
-      "detail": "Dragonite ➡ Cambiar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6🐸🥊 🔔(Puño Hielo a Frosslas y Cascada a Dragonite)🔔",
-      "variant": []
+      "detail": "◉ Dragonite ➜ Elige la Ruta",
+      "variant": [
+        {
+          "detail": "◉ Ruta Segura ➜ Amortiguador Frente Eelektross, Gengar otra vez +2 y barre hasta Froslass, Chansey  Amortiguador cuando salga Eelektross,  Gengar otra vez +4 y +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Arriesgada + Ahorro ➜ Quagsire Bostezo Frente Eelektross, Salamence x1 o Volcarona a x2 🔔Terremoto / Psíquico Froslass",
+          "variant": []
+        }
+      ]
     }
   ]
 }

@@ -5,12 +5,50 @@
   "initialMove": "❤️Encanto y 🪨Trampa Rocas🪨 🔔(Si no cambia usar Amortiguador)🔔",
   "tricks": [
     {
-      "detail": "Alakazam --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "◉ Se queda Leafeon ➜ Usa Encanto y Amortiguador hasta que salga Alakazam",
       "variant": []
     },
     {
-      "detail": "Entei / Metagross --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "◉ Entei ➜ Encanto y Amortiguador hasta que salga Alakazam",
       "variant": []
+    },
+    {
+      "detail": "◉ Metagross ➜ Quagsire Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Alakazam ➜ Protección y Bostezo de nuevo hasta Empoleon, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Empoleon ➜ Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Leafeon ➜ Protección y Bostezo de nuevo hasta Empoleon, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ si al cambiar a Quagsire entra Leafeon ➜ Salamence x4, 🔔no tengas la vida baja  ya que Entei tiene velocidad extrema 🔔movimiento de Fuego contra Metagross🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Alakazam ➜ Usa Pantalla de Luz, Quagsire, Bostezo si al cambiar a Quagsire entra Leafeon ➜ Salamence x4,si usas Danza Dragón y entra Entei,ataca y si entra Metagross, cambia a Quagsire y usa Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Alakazam ➜ Gengar Velocidad x + usa Otra Vez + Maquinación, y barre",
+          "variant": []
+        },
+        {
+          "detail": "◉ Leafeon ➜ Usa Protección y Bostezo hasta Empoleon, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ si al cambiar a Quagsire entra Leafeon ➜ Salamence x4 🔔no tengas la vida baja  ya que Entei tiene velocidad extrema 🔔movimiento de Fuego contra Metagross🔔",
+          "variant": []
+        }
+      ]
     }
   ]
 }

@@ -2,6 +2,21 @@
   "id": "gliscor",
   "name": "Gliscor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar Amortiguador para aguantar Acróbata, cambiar a Slowbro aguanta el ataque de mienshao , usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6💡",
-  "tricks": []
+  "initialMove": "💡Usar Amortiguador + Trampa Rocas💡",
+  "tricks": [
+    {
+      "detail": "Conkeldurr / Toxicroak ➜ Gengar, Otra Vez + Bola Sombra hasta que salga Magnezone, Quagsire Bostezo hasta que salga Gyarados, Salamence x1 si no sale Magnezone, Gengar otra vez +6",
+      "variant": [
+        {
+          "detail": "Si usa Bola Sombra y sale Conkeldurr ➜ Scrafty, cambia a Gengar, otra vez +6; si huye Magnezone, Quagsire Bostezo Frente Gyarados, Salamence x1",
+          "variant": [
+            {
+              "detail": "Si cambias a Scrafty y luego a Gengar Frente Gliscor ➜ Quagsire Bostezo Frente Gyarados, Salamence x1",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

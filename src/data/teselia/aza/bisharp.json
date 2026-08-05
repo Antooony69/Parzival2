@@ -18,19 +18,19 @@
         {
           "detail": "◉ Absol ➜ Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 Otra Vez",
           "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Garchomp ➜ Amortiguador",
-      "variant": [
-        {
-          "detail": "◉ Terremoto ➜ Salamence, entra Quagsire Otra Vez frente a Terremoto, Salamence x1 usando Otra Vez contra Chandelure / Espeon, ySalamence x1",
-          "variant": []
         },
         {
-          "detail": "◉ Colmillo Ígneo ➜ Encanto + Amortiguador cuando salga Staraptor, Gengar +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty y matalo",
-          "variant": []
+          "detail": "◉ Garchomp ➜ Amortiguador",
+          "variant": [
+            {
+              "detail": "◉ Terremoto ➜ Salamence, entra Quagsire Otra Vez frente a Terremoto, Salamence x1 usando Otra Vez contra Chandelure / Espeon, ySalamence x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Colmillo Ígneo ➜ Encanto + Amortiguador cuando salga Staraptor, Gengar +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty y matalo",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "◉ Haxorus ➜ Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 +2",

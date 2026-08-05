@@ -2,14 +2,18 @@
   "id": "spiritomb",
   "name": "Spiritomb",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚Amortiguador🥚",
+  "initialMove": " Trampa Rocas y si no cambia Usa Amortiguador",
   "tricks": [
     {
-      "detail": "Staraptor / Garchomp ➜ Cambiar a Slowbro y usa bostezo ➜ frente a Chandelure ➜ sacrifica a Politoed ➜ entra con Poliwrath +6🐸🥊 🔔(Puño Drenaje a Sharpedo)🔔",
+      "detail": "◉ Honchkrow ➜ Gengar otra vez +2 y ataca hasta que salga Krookodile, Salamence x1 🔔Krookodile usa Triturar, Scrafty x2🔔",
       "variant": []
     },
     {
-      "detail": "Honchkrow ➜ Cambiar a Slowbro y usa Bostezo ➜ frente a Chandelure ➜ sacrifica a Politoed ➜ entra con Poliwrath +6🐸🥊",
+      "detail": "◉ Garchomp ➜ Encanto y Amortiguador hasta que salga Staraptor",
+      "variant": []
+    },
+    {
+      "detail": "◉ Staraptor ➜ Gengar +4 (no usar Otra Vez) y barre hasta Spiritomb, Scrafty y ataca",
       "variant": []
     }
   ]

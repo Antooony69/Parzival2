@@ -5,70 +5,63 @@
   "initialMove": "🔔(Revisar si tiene Globo Helio)🔔",
   "tricks": [
     {
-      "detail": "Si tiene Globo Helio --> Amortiguador frente a Samurott, 💊Gengar 2+2 + Precisión X💊",
-      "variant": [
-        {
-          "detail": "⚠️Testeo⚠️ --> Encanto contra samurot, usar Amortiguador frente a Tyranitar, sacrificar a Politoed, entrar con Poliwrath +6",
-          "variant": []
-        }  
-      ]  
+      "detail": "◉ Globo Helio ➜ Trampa Rocas Frente Samurott, Gengar Otra vez, Quagsire frente Tyranitar, Bostezo Frente Serperior, Volcarona x4 Gigadrenaje + lanza llamas a Serperior; si Tyranitar entra antes de Samurott, la salud debe ser > 71%",
+      "variant": []
     },
     {
-      "detail": "No tiene Globo Helio --> 🪨Trampa Rocas🪨",
+      "detail": "◉ Sin Globo Helio ➜ Trampa Rocas y mantente en campo con Amortiguador",
       "variant": [
         {
-          "detail": "Si se Queda --> Teletransporte entra Slowbro y usa Bostezo, sacrificar a Politoed, entra Poliwrath +6 🔔(Usar Proteccion y Bostezo contra Serperior)🔔",
+          "detail": "◉ Samurott ➜ Quagsire Recuperacion y cuando salga Roserade, entra Volcarona x4",
           "variant": []
         },
         {
-          "detail": "Scrafty --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+          "detail": "◉ Absol ➜ Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 Otra Vez",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Garchomp ➜ Amortiguador",
+      "variant": [
+        {
+          "detail": "◉ Terremoto ➜ Salamence, entra Quagsire Otra Vez frente a Terremoto, Salamence x1 usando Otra Vez contra Chandelure / Espeon, ySalamence x1",
           "variant": []
         },
         {
-          "detail": "Honchkrow --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+          "detail": "◉ Colmillo Ígneo ➜ Encanto + Amortiguador cuando salga Staraptor, Gengar +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty y matalo",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Haxorus ➜ Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Honchkrow ➜ Gengar otra vez +2 frente Krookodile; Salamence x1 cuando Krookodile quede atrapado en Triturar,entra con Scrafty x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Staraptor ➜ Gengar otra vez +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty a x2 y ataca",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scrafty ➜ Gengar, entra Scrafty y frente Bisharp, Puño Drenaje",
+      "variant": [
+        {
+          "detail": "◉ Crobat ➜ Chansey Encanto al recibir Superdiente, usa Amortiguador cuando salga Haxorus, Gengar otra vez +2 +2 🔔no usar Amortiguador si Superdiente falla🔔",
           "variant": []
         },
         {
-          "detail": "Absol --> 💊Gengar +2 + Precisión X + Otra Vez💊 🔔(Absol tiene Banda Focus)🔔",
+          "detail": "◉ Haxorus ➜ Gengar otra vez +2 +2",
           "variant": []
         },
         {
-          "detail": "Garchomp --> Teletransporte para Ver Movimiento",
-          "variant": [
-            {
-              "detail": "Terremoto --> Sacar a Slowbro y usar Bostezo para ver si es Golpe Crítico ",
-              "variant": [
-                {
-                  "detail": "Sin Critico --> (mantener) Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
-                  "variant": []
-                },
-                {
-                  "detail": "Con Critico --> Sacrificar a Politoed, entrar con Poliwrath +6",
-                  "variant": []
-                } 
-              ]  
-            },
-            {  
-              "detail": "🔥Colmillo Ígneo🔥 --> sacar a Slowbro y (mantener) Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
-              "variant": []
-            }  
-          ]    
-        },
-        { 
-          "detail": "Staraptor --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+          "detail": "◉ 【Imprevisto】 Cambia a Scrafty frente a Haxorus ➜ Sube a Gengar a +2 y +2",
           "variant": []
-        },
-        {
-          "detail": "Samurott --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Haxorus --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6 🔔(Si Haxorus se queda, continuar usando Bostezo)🔔",
-          "variant": []
-        }  
-      ]  
+        }
+      ]
     }
-  ]  
-}  
-    
-
+  ]
+}

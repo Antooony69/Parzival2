@@ -5,20 +5,64 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se Queda --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "◉ Hidrobomba / Surf ➜ Quagsire, Bostezo Frente Leafeon, Salamence x4 🔔si usa Rayo Hielo y se queda en campo, cambia a Quagsire Frente Leafeon, Salamence x4, si usas Danza Dragón x1 y huye a Entei ataca frente Metagross, Quagsire Bostezo🔔",
+      "variant": [
+        {
+          "detail": "◉ Cambia a Quagsire Frente Alakazam ➜ Gengar y luego a chansey, Pantalla de Luz, Quagsire Bostezo",
+          "variant": [
+            {
+              "detail": "◉ Leafeon ➜ Protección y Bostezo de nuevo hasta Empoleon, y Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Alakazam ➜ Gengar Velocidad x + usa Otra Vez + Maquinación, y barre",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Se queda en campo usando Rayo Hielo ➜ Volcarona x2 🔔(con la PS de Volcarona > 60%)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Leafeon ➜ Usa Encanto y Amortiguador hasta que salga Alakazam",
       "variant": []
     },
     {
-      "detail": "Leafeon --> Usar Encanto y Amortiguador para forzar el cambio del rival ⬇️(Ver Solucion Abajo)⬇️",
+      "detail": "◉ Entei ➜ Usa Encanto y Amortiguador hasta que salga Alakazam",
       "variant": []
     },
     {
-      "detail": "Entei --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "◉ Metagross ➜ Cambia a Quagsire y usa Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Alakazam ➜ Protección y Bostezo hasta Empoleon, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Leafeon ➜ Protección y Bostezo hasta Empoleon, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Empoleon ➜ Scrafty x2 y usa movimiento de Fuego contra Metagross",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Alakazam --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "◉ Alakazam ➜ Pantalla de Luz, Quagsire Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Leafeon ➜ Protección, usa Bostezo hasta Empoleon, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Alakazam ➜ Gengar Velocidad x + usa Otra Vez + Maquinación, y barre",
+          "variant": []
+        }
+      ]
     }
   ]
 }

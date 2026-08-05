@@ -2,14 +2,10 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Slowbro ante Absol, cambiar a Volcarona si entra Nidoqueen saca a Volcarona x1 danza aleteo💡 ⬇️(Mira tu Situación)⬇️",
+  "initialMove": "Trampa Rocas Frente Absol, Gengar Otra Vez, Scrafty frente Blissey, x2 💡A Bocajarro a Togekiss💡",
   "tricks": [
     {
-      "detail": "Si Nidoqueen se Queda ➜ Usa Psíquico para Debilitarlo ➜ frente a Blissey usar Danza Aleteo dos veces y Barrer",
-      "variant": []
-    },
-    {
-      "detail": "Blissey ➜ Usar Danza Aleteo dos veces y Barrer ",
+      "detail": "◉ Si cambias a Scrafty y Metagross y no blissey ➜ Quagsire Bostezo hasta Nidoqueen, Salamence x1",
       "variant": []
     }
   ]

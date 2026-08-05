@@ -2,40 +2,52 @@
   "id": "emolga",
   "name": "Emolga",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 🔔(Si no Cambia usa Amortiguador)🔔",
+  "initialMove": "🪨Trampa Rocas🪨 ",
   "tricks": [
     {
-      "detail": "Metagross --> Ver objeto",
+      "detail": "◉ Leafeon ➜ Encanto y Amortiguador hasta que salga Alakazam",
+      "variant": []
+    },
+    {
+      "detail": "◉ Entei ➜ Encanto y Amortiguador hasta que salga Alakazam",
+      "variant": []
+    },
+    {
+      "detail": "◉ Metagross (Globo helio) ➜ Quagsire Bostezo",
       "variant": [
         {
-          "detail": "Globo Helio --> Slowbro usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "◉ Leafeon ➜ Protección, Bostezo Frente Empoleon, Salamence x4 y usa movimiento de Fuego contra Metagross",
           "variant": []
         },
         {
-          "detail": "Sin Globo Helio --> Gengar +2",
-          "variant": [
-            {
-              "detail": "Si se Queda --> Gengar +4",
-              "variant": []
-            },
-            {
-              "detail": "Bronzong / Milotic --> Sacrificar a Politoed y entrar con Poliwrath +6 🔔(Cascada a Bronzong)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Empoleon ➜ Salamence x4 y usa movimiento de Fuego contra Metagross",
+          "variant": []
+        },
+        {
+          "detail": "◉ Alakazam ➜ Usa Protección, Bostezo Frente Empoleon, Salamence x4 y usa movimiento de Fuego contra Metagross",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Alakazam --> Usar Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "◉ Metagross (Sin Globo Helio) ➜ Gengar Otra vez, cambia a Scrafty Frente Milotic, sube a Scrafty x3 A Bocajarro a Bronzong y Metagross",
       "variant": []
     },
     {
-      "detail": "Entei --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "◉ Alakazam ➜ Pantalla de Luz, Quagsire, Bostezo y cambia a Quagsire Frente Leafeon, Salamence x4, si usa Danza Dragón x1 y huye a Entei, al debilitarlo sale Metagross, cambia a Quagsire y usa Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Leafeon ➜ Usa Protección, usa Bostezo Frente Empoleon y Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Alakazam ➜ Gengar Velocidad x + usa Otra Vez + Maquinación, y barre",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Leafeon --> Usar Encanto y Amortiguador para forzar el cambio del rival; al enfrentar a Entei/Alakazam ⬆️(Mira la Solucion Arriba)⬆️",
+      "detail": "◉ Si se queda en campo ➜ Usa Pantalla de Luz y Amortiguador, cambia a Quagsire, usa Bostezo 🔔 Frente a Leafeon, Salamence x4",
       "variant": []
     }
   ]

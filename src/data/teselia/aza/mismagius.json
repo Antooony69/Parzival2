@@ -5,33 +5,37 @@
   "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "Onda Certera de (Zoroark) ➜ Gengar usa Otra Vez cambiar a Slowbro y usar Bostezo frente a Mismagius, Volcarona +2",
-      "variant": []
-    },
-    {
-      "detail": "Samurott ➜ Cambiar a Slowbro luego cambiar a Chansey",
+      "detail": "◉ Onda Certera ➜ Gengar Otra vez +2",
       "variant": [
         {
-          "detail": "Poder Oculto Eléctrico ➜ Cambiar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+          "detail": "Si no cambia ➜ Gengar +4+2, barre hasta Bisharp, cambia a Scrafty y ataca",
           "variant": []
         },
         {
-          "detail": "Serperior ➜ Usar Amortiguador",
-          "variant": [
-            {
-              "detail": "Samurott ➜ 💊Gengar 2+2 + Precision X💊",
-              "variant": []
-            },
-            {  
-              "detail": "Tyranitar ➜ Sacrifica a Politoed, Poliwrath +6 🐸🥊",
-              "variant": []
-            }
-          ]
+          "detail": "Drapion ➜ Quagsire Recuperación Frente Samurott; Volcarona a +2, Si te bajan la defensa sube tu defensa igual con la salud",
+          "variant": []
+        },
+        {
+          "detail": "Gliscor ➜ Chansey, Amortiguador Frente Bisharp, Quagsire Recuperación Frente Samurott, Volcarona x2",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Absol ➜ Gengar Otra vez +2 + Precision X 🔔(Absol tiene Banda Focus)🔔",
+      "detail": "◉ Samurott ➜ Gengar Otra vez +2 y mira las siguientes opciones:",
+      "variant": [
+        {
+          "detail": "Si no cambia ➜ Quagsire Recuperación Frente Roserade, Volcarona x4",
+          "variant": []
+        },
+        {
+          "detail": "Tyranitar ➜ Quagsire bostezo Frente Serperior, Volcarona x4, usa Gigadrenado / lanzallamas a Serperior 🔔Tyranitar sale antes que Samurott si la salud es > 71%🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Absol ➜ Amortiguador para resistir A Bocajarro, Gengar Otra vez +4 usando Otra Vez Absol Banda focus",
       "variant": []
     }
   ]

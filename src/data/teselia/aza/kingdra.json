@@ -2,6 +2,11 @@
   "id": "kingdra",
   "name": "Kingdra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro frente a Honchkrow , usar Bostezo ante Chandelure ; sacrificar a Politoed y entrar con Poliwrath +6",
-  "tricks": []
+  "initialMove": "◉ Trampa rocas Frente Honchkrow, Gengar otra vez +2 y ataca frente Krookodile, Salamence x1",
+  "tricks": [
+    {
+      "detail": "◉ Si Krookodile usa Triturar entra Con Scrafty x2 Danza Dragon",
+      "variant": []
+    }
+  ]
 }

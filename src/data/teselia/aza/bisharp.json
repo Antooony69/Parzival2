@@ -5,7 +5,7 @@
   "initialMove": "🔔(Revisar si tiene Globo Helio)🔔",
   "tricks": [
     {
-      "detail": "◉ Globo Helio ➜ Trampa Rocas Frente Samurott, Gengar Otra vez, Quagsire frente Tyranitar, Bostezo Frente Serperior, Volcarona x4 Gigadrenado + lanza llamas a Serperior; si Tyranitar entra antes de Samurott, la salud debe ser > 71%",
+      "detail": "◉ Globo Helio ➜ Trampa Rocas Frente Samurott, Gengar Otra vez, Quagsire frente Tyranitar, Bostezo Frente Serperior, Volcarona x4 Gigadrenaje + lanza llamas a Serperior; si Tyranitar entra antes de Samurott, la salud debe ser > 71%",
       "variant": []
     },
     {
@@ -31,35 +31,35 @@
         {
           "detail": "◉ Colmillo Ígneo ➜ Encanto + Amortiguador cuando salga Staraptor, Gengar +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty y matalo",
           "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Haxorus ➜ Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "◉ Honchkrow ➜ Gengar otra vez +2 frente Krookodile; Salamence x1 cuando Krookodile quede atrapado en Triturar,entra con Scrafty x2",
-      "variant": []
-    },
-    {
-      "detail": "◉ Staraptor ➜ Gengar otra vez +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty a x2 y ataca",
-      "variant": []
-    },
-    {
-      "detail": "◉ Scrafty ➜ Gengar, entra Scrafty y frente Bisharp, Puño Drenaje",
-      "variant": [
+        },
         {
-          "detail": "◉ Crobat ➜ Chansey Encanto al recibir Superdiente, usa Amortiguador cuando salga Haxorus, Gengar otra vez +2 +2 🔔no usar Amortiguador si Superdiente falla🔔",
+          "detail": "◉ Haxorus ➜ Amortiguador para aguantar A Bocajarro, Gengar otra vez +4 +2",
           "variant": []
         },
         {
-          "detail": "◉ Haxorus ➜ Gengar otra vez +2 +2",
+          "detail": "◉ Honchkrow ➜ Gengar otra vez +2 frente Krookodile; Salamence x1 cuando Krookodile quede atrapado en Triturar,entra con Scrafty x2",
           "variant": []
         },
         {
-          "detail": "◉ 【Imprevisto】 Cambia a Scrafty frente a Haxorus ➜ Sube a Gengar a +2 y +2",
+          "detail": "◉ Staraptor ➜ Gengar otra vez +4 (no usar Otra Vez) y barre hasta Spiritomb, entra Scrafty a x2 y ataca",
           "variant": []
+        },
+        {
+          "detail": "◉ Scrafty ➜ Gengar, entra Scrafty y frente Bisharp, Puño Drenaje",
+          "variant": [
+            {
+              "detail": "◉ Crobat ➜ Chansey Encanto al recibir Superdiente, usa Amortiguador cuando salga Haxorus, Gengar otra vez +2 +2 🔔no usar Amortiguador si Superdiente falla🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Haxorus ➜ Gengar otra vez +2 +2",
+              "variant": []
+            },
+            {
+              "detail": "◉ 【Imprevisto】 Cambia a Scrafty frente a Haxorus ➜ Sube a Gengar a +2 y +2",
+              "variant": []
+            }
+          ]
         }
       ]
     }

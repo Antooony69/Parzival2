@@ -5,42 +5,38 @@
   "initialMove": "👻Cambia a Gengar👻",
   "tricks": [
     {
-      "detail": "A bocajarro --> Gengar +4 + Otra Vez, luego usa Bola sombra 🔔(Mira tu situacion)🔔",
+      "detail": "A Bocajarro ➜ Gengar Otra vez +6 (mira las siguientes opciones)",
       "variant": [
         {
-          "detail": "La banda focus se rompe --> 💊Toma un Velocidad X luego sigue Barriendo💊",
-          "variant": []
-        },
-        {
-          "detail": "Mienshao --> Continuar presionando; 🔔(Mienshao tiene banda Focus no te preocupes)🔔",
+          "detail": "Si Crawdaunt no se debilita 【Banda focus Nivel 71】 ➜ Rayo frente Salamence, Quagsire para ver su movimiento:",
           "variant": [
             {
-              "detail": "💀Crítico💀 --> Sacrificar a Politoed; Slowbro usa Bostezo ante Salamence; usar Teletransporte para entrar con Poliwrath +6",
+              "detail": "Terremoto ➜ Salamence x2",
+              "variant": []
+            },
+            {
+              "detail": "Garra Dragón ➜ Usa Bostezo, chansey y Amortiguador para atraer al tipo Lucha, Gengar otra vez +4 +2",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Gliscor / Gyarados --> Continuar presionando hasta Magnezone; Cambia a Chansey y usa Amortiguador para atraer al tipo lucha; Gengar +6",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Medicham --> Slowbro usa Bostezo",
-      "variant": [
-        {
-          "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Magnezone ➜ Ataca para debilitar",
           "variant": []
         },
         {
-          "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Mienshao ➜ Ataca para debilitar",
+          "variant": []
+        },
+        {
+          "detail": "Gliscor ➜ Ataca para debilitar",
+          "variant": []
+        },
+        {
+          "detail": "Medicham ➜ Scrafty x2 usa A Bocajarro contra Conkeldurr",
           "variant": []
         }
       ]
     }
   ]
 }
-
-    
-    

@@ -2,6 +2,11 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar Amortiguador frente a Samurott; entrar con Gengar Otra Vez +2 + 2 + Precisión X💡",
-  "tricks": []
+  "initialMove": " ◉ Trampa Rocas Frente Samurott, cambia a Quagsire Bostezo Frente Serperior, Volcarona x4 ",
+  "tricks": [
+    {
+      "detail": "◉ Usa Gigadrenado + lanzallamas para debilitar a Serperior, Tyranitar sale antes que Samurott si la salud es > 71%",
+      "variant": []
+    }
+  ]
 }

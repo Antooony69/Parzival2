@@ -5,7 +5,7 @@
   "initialMove": "👻Cambia a Gengar👻",
   "tricks": [
     {
-      "detail": "◉ Si usa Puño Drenaje Sin Llamasfera】 ➜ Usa Otra Vez + Bola Sombra",
+      "detail": "◉ Puño Drenaje Sin Llamasfera】➜ Usa Otra Vez + Bola Sombra",
       "variant": [
         {
           "detail": "◉ Si no se retira ➜ Gengar +2 y ataca",
@@ -74,15 +74,17 @@
     },
     {
       "detail": "◉ Si usa A Bocajarro 【Con Llamasfera】 ➜ Gengar otra vez +6 y ataca para debilitar",
-      "variant": []
-    },
-    {
-      "detail": "◉ Skarmory ➜ chansey Trampa Rocas hasta atrapar al tipo Lucha, Gengar otra vez +4",
-      "variant": []
-    },
-    {
-      "detail": "◉ Dusknoir ➜ Chansey Trampa Rocas hasta que salga Krookodile, Gengar otra vez +2 Frente a Luxray, Scrafty, x3 usa A Bocajarro en Metagross",
-      "variant": []
+      "variant": [
+        {
+          "detail": "◉ Skarmory ➜ chansey Trampa Rocas hasta atrapar al tipo Lucha, Gengar otra vez +4",
+          "variant": [
+            {
+              "detail": "◉ Dusknoir ➜ Chansey Trampa Rocas hasta que salga Krookodile, Gengar otra vez +2 Frente a Luxray, Scrafty, x3 usa A Bocajarro en Metagross",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
       "detail": "◉ Si usa A Bocajarro 【Sin Llamasfera】 ➜ Gengar otra vez +4 (Mienshao nv. 71 no es amenaza, Banda Focus)",

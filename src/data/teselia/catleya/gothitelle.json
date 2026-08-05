@@ -2,10 +2,10 @@
   "id": "gothitelle",
   "name": "Gothitelle",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usa Teletransporte para sacar a Volcarona💡",
+  "initialMove": "◉ Amortiguador Frente Metagross, Gengar Otra vez, Scrafty Frente Umbreon, Scrafty x3 ",
   "tricks": [
     {
-      "detail": "Metagross ➜ Usa Lanzallamas, frente a Staraptor cambia a Gengar +6 + Precisión X (No usar Otra Vez) 🔔(Si Cambia a Milotic, saca a Chansey para atraer a Staraptor)🔔",
+      "detail": "◉ Usa A Bocajarro Metagross y Milotic",
       "variant": []
     }
   ]

@@ -2,6 +2,11 @@
   "id": "sigilyph",
   "name": "Sigilyph",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Mienshao; cambiar a Gengar, luego cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨 Mienshao, Gengar entra con Quagsire frente Snorlax, usa Bostezo si entra Sigilyph, Salamence 1 Danza Dragón ",
+  "tricks": [
+    {
+      "detail": "◉ 🔔Para ahorrar pociones, entra con Scrafty frente a Snorlax x2 Danza Dragón🔔",
+      "variant": []
+    }
+  ]
 }

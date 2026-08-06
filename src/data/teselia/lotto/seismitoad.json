@@ -2,44 +2,33 @@
   "id": "seismitoad",
   "name": "Seismitoad",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🐸Cambiar a Poliwrath🐸",
+  "initialMove": "🦎Scrafty🦎",
   "tricks": [
     {
-      "detail": "Aggron ➜  Poliwrath mata a Aggron  ",
+      "detail": "◉ Medicham ➜ Gengar bola sombra",
       "variant": [
         {
-          "detail": "Seismitoad / Skarmory ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial ",
+          "detail": "◉ Si huye Conkeldurr ➜ Volcarona, Scrafty, Gengar otra vez +4",
           "variant": []
         },
         {
-          "detail": "Conkeldurr ➜ Gengar usa Otra Vez y cambiar a Chansey ante Seismitoad; usar 🪨Trampa Rocas🪨 frente a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial . ",
-          "variant": []
-        },
-        {
-          "detail": "Dusknoir ➜ Cambiar a Volcarona y luego a Chansey usar 🪨Trampa Rocas🪨",
-          "variant": []
-        },
-        {
-          "detail": "Se Queda Dusknoir ➜ Sacrifica a Politoed y entrar con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Conkeldurr ➜ Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad ➜ Volcarona x1 danza aleteo x especial . ",
+          "detail": "◉ Si huye Magnezone ➜ Chansey Amortiguador Frente Conkeldurr, Gengar otra vez +4",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Medicham ➜ Cambia a Slowbro y usa Bostezo",
+      "detail": "◉ Aggron ➜ Usa A Bocajarro en Aggron Frente Conkeldurr, Gengar usa Otra Vez, Chansey Trampa Rocas Frente Conkeldurr, Gengar Otra Vez y cambia a Volcarona x1 + Especial X y ataca Frente Skarmory, Chansey Trampa Rocas Frente Conkeldurr, Gengar Otra vez y Volcarona frente a Seismitoad, sube a x1 + Especial X",
       "variant": []
     },
     {
-      "detail": "Magnezone ➜ Protección ➜ Magnezone se duerme usa otra vez Bostezo y sacrifica a Politoed y entra con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Crawdaunt ➜ Sacrifica a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "◉ Conkeldurr ➜ Gengar, Chansey Trampa Rocas Frente Conkeldurr, Gengar otra vez, cambia a Volcarona frente a Seismitoad y sube a x1 + Ataque X",
+      "variant": [
+        {
+          "detail": "◉【Inesperado】 Si sale Aggron cuando pones Trampa Rocas ➜ Quagsire Bostezo Frente Conkeldurr, Gengar Otra Vez, cambia a Volcarona frente a Seismitoad, sube x1 + Especial X",
+          "variant": []
+        }
+      ]
     }
   ]
 }

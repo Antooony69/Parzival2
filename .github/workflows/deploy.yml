@@ -1,5 +1,6 @@
 name: Deploy to GitHub Pages
 
+# Esto evita que se amontonen los despliegues y cancela los anteriores automáticamente
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -13,7 +14,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  actions: read
 
 jobs:
   build:
@@ -21,29 +21,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
+      
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 18
           cache: 'npm'
-
+          
       - name: Install dependencies
-        run: npm install
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
+        run: npm ci
+        
       - name: Build
         run: npm run build
-
+        
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: './dist'
-
+          
   deploy:
     environment:
       name: github-pages

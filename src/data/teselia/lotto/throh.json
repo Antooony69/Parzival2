@@ -5,21 +5,17 @@
   "initialMove": "❤️Encanto❤️",
   "tricks": [
     {
-      "detail": "Aggron --> Usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona frente a Seismitoad; 💊1 Danza Aleteo + Especial X💊",
+      "detail": "◉ Aggron ➜ Trampa Rocas hasta que salga Conkeldurr, Gengar Otra Vez, cambia a Volcarona frente Seismitoad, x1 + Especial X",
       "variant": []
     },
     {
-      "detail": "Conkeldurr --> Usa Encanto contra Aggron y pon las Trampa Rocas",
+      "detail": "◉ Conkeldurr ➜ Gengar otra vez, Chansey, frente Seismitoad Trampa Rocas hasta que salga Conkeldurr, Gengar usa Otra Vez, cambia a Volcarona frente Seismitoad, x1 + Especial X",
       "variant": [
         {
-          "detail": "Conkeldurr --> Ver el caso anterior de Conkeldurr",
+          "detail": "◉【Inesperado】Si entra Aggron cuanto usas trampa rocas ➜ Quagsire, Bostezo frente Conkeldurr, Gengar Otra Vez, cambia a Volcarona frente Seismitoad, x1 + Especial X",
           "variant": []
-        },
-        {
-          "detail": "Dusknoir --> Sacrificar a Politoed y entrar con Poliwrath +6 🔔(Si Aggron entra contra Politoed, espera que muera y luego entra con Poliwrath +6)🔔",
-          "variant": []
-        } 
-      ]  
+        }
+      ]
     }
   ]
 }

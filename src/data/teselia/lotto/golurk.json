@@ -5,25 +5,16 @@
   "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "◉ Puño Drenaje ➜ Ver si es Golpe Crítico ",
+      "detail": "Puño Drenaje【Hace 50% chansey】➜ Gengar otra vez +4",
       "variant": [
         {
-          "detail": "◉ No sale Critico ➜ Gengar Otra Vez +4",
+          "detail": "Si Puño Drenaje hace Golpe Crítico ➜ Salamence, cambia a Quagsire Bostezo hasta Lucario, Volcarona x2 y atacar",
           "variant": []
-        },
-        {
-          "detail": "◉ sale critico ➜ chansey Teletransporte; si usa Puño Drenaje , Gengar Otra Vez +4  ",
-          "variant": [
-            {
-              "detail": "◉ Terremoto ➜ saca a Slowbro bostezo ➜ frente a Lucario, sacrifica a politoed ➜ Poliwrath +6.",
-              "variant": []
-            }
-          ]
         }
       ]
     },
     {
-      "detail": "◉ Conkeldurr ➜ Gengar Otra Vez +4",
+      "detail": "Conkeldurr ➜ Gengar otra vez +2",
       "variant": []
     }
   ]

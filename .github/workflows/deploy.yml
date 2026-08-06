@@ -1,8 +1,8 @@
-name: Deploy to GitHub Pages
+name: Deploy Vite Site to Pages
 
 on:
   push:
-    branches: ['master']
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -10,8 +10,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: 'pages'
-  cancel-in-progress: true
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -30,10 +30,13 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build
         run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

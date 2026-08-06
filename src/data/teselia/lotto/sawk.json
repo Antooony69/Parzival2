@@ -2,11 +2,15 @@
   "id": "sawk",
   "name": "Sawk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar 🪨Trampa Rocas🪨 frente a Conkeldurr; entrar con Gengar Otra Vez  +4 +2 🔔Bola Sombra a todo🔔💡",
+  "initialMove": "💡Usar 🪨Trampa Rocas🪨 frente a Conkeldurr, Gengar otra vez +2 y mira abajo:💡",
   "tricks": [
     {
-      "detail": "❗Si cambia a Gyarados, cambiar a Chansey y volver a atraer❗",
+      "detail": "Si no se retira ➜ Gengar otra vez +4 y ataca Frente Luxray, Scrafty x3",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile / Feraligatr ➜ Chansey, Gengar otra vez +2 Frente Luxray, Scrafty x3 💡A Bocajarro Metagross💡",
       "variant": []
     }
   ]
-}      
+}

@@ -2,14 +2,19 @@
   "id": "medicham",
   "name": "Medicham",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Slowbro usa Bostezo💡",
+  "initialMove": "💡Gengar Bola sombra💡",
   "tricks": [
     {
-      "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "Magnezone ➜ chansey, Amortiguador hasta que salga Conkeldurr, Gengar Otra Vez +4",
+      "variant": [
+        {
+          "detail": "Si huye a Salamence ➜ Quagsire Bostezo hasta Seismitoad,Salamence x1",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+      "detail": "Conkeldurr ➜ Quagsire Bostezo hasta Seismitoad, Salamence x1",
       "variant": []
     }
   ]

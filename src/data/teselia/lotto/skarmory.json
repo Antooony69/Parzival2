@@ -2,7 +2,7 @@
   "id": "skarmory",
   "name": "Skarmory",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas 🪨 🔔 el Rival Se Queda Usa encanto + Amortiguador 🔔",
+  "initialMove": "🪨 Trampa rocas 🪨 🔔 Se Queda Usa encanto + Amortiguador 🔔",
   "tricks": [
     {
       "detail": "◉ Conkeldurr ➜ Gengar",

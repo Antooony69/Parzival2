@@ -2,14 +2,14 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "🪨TrampaRocas🪨 Scrafty Puño Drenaje frente gyarados, chansey amortiguador hasta tener en frente un tipo lucha , gengar otra vez +6",
   "tricks": [
     {
-      "detail": "Ruta Segura ➜ Teletransporte, Slowbro usa Bostezo, sacrifica a Politoed, Poliwrath a +6🐸🥊",
+      "detail": "Si al bostear entra Magnezone ➜ Quagsire bostezo frente Breloom , Salamence x1 danza dragon",
       "variant": []
     },
     {
-      "detail": "Ruta Arriesgada ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "detail": "Si al bostear entra Conkeldurr ➜ Scrafty cambias a Gengar otra vez +6",
       "variant": []
     }
   ]

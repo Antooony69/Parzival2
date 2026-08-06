@@ -5,45 +5,41 @@
   "initialMove": "🔔Ver habilidad🔔",
   "tricks": [
     {
-      "detail": "Intimidación ➜ Usar Trampa Rocas ➜ Frente a Conkeldurr Sacar a Gengar otra vez +2 🔔Mira abajo🔔",
+      "detail": "◉ Intimidación ➜ Trampa Rocas hasta que salga Conkeldurr, Gengar otra vez +2",
+      "variant": []
+    },
+    {
+      "detail": "◉ No Intimidación ➜ CGengar",
       "variant": [
         {
-          "detail": "Conkeldurr Se queda ➜ Gengar otra vez +4 🔔 bola sombra a Todos🔔",
+          "detail": "◉ Medicham ➜ Scrafty x2 🔔A Bocajarro Conkeldurr🔔",
           "variant": []
         },
         {
-          "detail": "Si Entra Salamence ➜ Matalo De un Bola sombra y Frente a Metagross ➜ Slowbro Bostezo y Sacrifica a Politoed entra Con  Poliwrath +6 🔔 Cascada a Metagross🔔",
-          "variant": []
+          "detail": "◉ Machamp ➜ Scrafty, Gengar otra vez +2 y Mira según la situación",
+          "variant": [
+            {
+              "detail": "◉ Salamence ➜ Chansey, Trampa Rocas + Amortiguador esperando al tipo Lucha, Gengar otra vez +4 +2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Otros ➜ Ataca para debilitar hasta Crawdaunt, cambia a Scrafty, Gengar otra vez +4 +2",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Sin Intimidación ➜ Usar Trampa Rocas",
+      "detail": "◉ Conkeldurr ➜ Scrafty, Gengar otra vez +2 y ataca para debilitar hasta Crawdaunt, Scrafty, Gengar otra vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si se queda usando Colmillo Ígneo ➜ Quagsire, Bostezo hasta Seismitoad, Salamence x1",
       "variant": [
         {
-          "detail": "Colmillo Ígneo ➜ Cambiar a Slowbro y usar Bostezo y sacrifica a Politoed y entra con Poliwrath +6",
+          "detail": "◉ Si cambia a Conkeldurr ➜ Gengar, Otra Vez + Bola Sombra hasta que salga Magnezone, Chansey Amortiguador hasta que salga Medicham, Gengar +4 (No usar Otra Vez)",
           "variant": []
-        },
-        {
-          "detail": "Machamp ➜ Cambiar a Gengar luego a Slowbro y usa Bostezo, sacrifica a Politoed y entra Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Conkeldurr ➜ Cambia a Gengar y usa Otra Vez, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 ",
-          "variant": []
-        },
-        {
-          "detail": "Medicham ➜ Cambia a Slowbro y usa Bostezo",
-          "variant": [
-            {
-              "detail": "Magnezone ➜ Protección y Bostezo ➜ sacrifica a Politoed y entrar con Poliwrath +6",
-              "variant": []
-            },
-            {
-              "detail": "Crawdaunt ➜ Sacrificar a Politoed y entrar con Poliwrath +6",
-              "variant": []
-            }
-          ]
         }
       ]
     }

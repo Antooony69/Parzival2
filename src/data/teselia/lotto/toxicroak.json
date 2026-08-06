@@ -2,6 +2,15 @@
   "id": "toxicroak",
   "name": "Toxicroak",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6💡",
-  "tricks": []
+  "initialMove": "💡Gengar Otra vez + bola sombra, Si no se retira ➜ Gengar otra vez +6💡",
+  "tricks": [
+    {
+      "detail": "Magnezone ➜ Quagsire Bostezo Frente Gyarados, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Scrafty, Gengar otra vez +6",
+      "variant": []
+    }
+  ]
 }

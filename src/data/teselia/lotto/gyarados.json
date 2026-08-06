@@ -5,27 +5,48 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Toxicroack --> Cambiar a Slowbro y usar Bostezo frente a Magnezone, sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Breloom ➜ Gengar +4 + Precisión X",
+      "detail": "Toxicroak ➜ Gengar, Otra Vez + Bola Sombra hasta que salga Magnezone, Chansey Amortiguador para volver a atraer al tipo Lucha, Gengar otra vez +4; si no sale Magnezone, Gengar otra vez +4",
       "variant": [
         {
-          "detail": "Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🐸 🔔(Puño Drenaje a Tyranitar)🔔",
-          "variant": []
-        } 
-      ]  
-    },        
-    {     
-      "detail": "Conkeldurr + Sin Llamasfera --> Cambiar a Slowbro y usar Bostezo al enfrentar a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
+          "detail": "Si huye Conkeldurr ➜ Cambia a Scrafty, cambia a Gengar y sube a +4; si huye Magnezone, cambia a Blissey y usa Amortiguador para atraer al tipo Lucha, luego subes a Gengar a +4",
+          "variant": [
+            {
+              "detail": "Si cambias a Gengar contra Gliscor ➜ Cambia a Blissey y usa Amortiguador esperando al tipo Lucha, subes a Gengar a +4; si huye Magnezone, cambia a Blissey y espera al tipo Lucha, luego subes a Gengar a +4",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Breloom ➜ Gengar otra vez +2 y ataca hasta que salga Tyranitar, Scrafty Puño Drenaje hasta que salga Gyarados, cambia Chansey Amortiguador hasta que salga el tipo Lucha, Gengar otra vez +6 si no se retira ataca para debilitar; y si al boostear huye Magnezone, chansey para volver a atraer",
       "variant": []
     },
     {
-      "detail": "🔥Conkeldurr + Llamasfera🔥 --> Gengar +4 +2 🔔(Barre con Bola Sombra)🔔 🚨(Si cambia a Gyarados, cambia a Chansey y aguanta hasta que cambie denuevo)🚨",
-      "variant": []
+      "detail": "Conkeldurr【 Tiene Llamasfera】 ➜ Gengar otra vez +2 y mira abajo:",
+      "variant": [
+        {
+          "detail": "Krookodile / Feraligatr ➜ chansey Gengar otra vez +2 y ataca Frente Luxray, Scrafty x3",
+          "variant": []
+        },
+        {
+          "detail": "Si no se retira ➜ Gengar otra vez +4 y ataca Frente Luxray, Scrafty x3",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Conkeldurr【Sin Llamasfera】 ➜ Gengar, Otra Vez + Bola Sombra",
+      "variant": [
+        {
+          "detail": "Si sale Magnezone ➜ Quagsire Bostezo hasta Gyarados, Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "Si no se retira ➜ Gengar otra vez +6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
-  
-

@@ -2,6 +2,42 @@
   "id": "reuniclus",
   "name": "Reuniclus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar 🪨Trampa Rocas🪨 al enfrentar a Lucario; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6💡 🔔(Puño drenaje a Volcarona y Cascada a Reuniclus / Si Volcarona despierta no es amenza)🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨 Frente Lucario; Gengar +2 (No usar Otra Vez) y evalúa la situación:",
+  "tricks": [
+    {
+      "detail": "◉ Latias ➜ Sacrifica a Gengar, Quagsire Otra Vez + Bostezo, Scrafty x2",
+      "variant": [
+        {
+          "detail": "◉ Si usas Otra Vez y sale Volcarona ➜ Sacrifica a Scrafty, Salamence x3 + max pocion o Raiz energia",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Volcarona ➜ Ataca para debilitar Frente Excadrill, sacrifica a Volcarona, Quagsire usa otra vez en Terremoto, Salamence x2 (si huye Excadrill ,Mira que Ruta Seguir)",
+      "variant": [
+        {
+          "detail": "◉ Reuniclus ➜ Sigue con Otra Vez y revisa el movimiento del rival:",
+          "variant": [
+            {
+              "detail": "◉ Psicocarga ➜ Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Onda Certera ➜ Gengar otra vez +4 +2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉【Inesperado】 Si Lucario elimina a Gengar con Triturar ➜ Chansey y sacrifícalo, Salamence + Defensa X x1 danza dragon",
+      "variant": []
+    }
+  ]
 }

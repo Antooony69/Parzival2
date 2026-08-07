@@ -2,24 +2,28 @@
   "id": "yanmega",
   "name": "Yanmega",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar Defensa Especial X y 🪨Trampa Rocas🪨💡",
+  "initialMove": "💡Pantalla Luz + Trampa Rocas💡",
   "tricks": [
     {
-      "detail": "Kabutops ➜ Cambiar a Slowbro y usar Bostezo ",
+      "detail": "◉ Flygon ➜ Gengar otra vez, cambiar a Volcarona frente Ferrothorn, Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Kabutops ➜ Quagsire Bostezo",
       "variant": [
         {
-          "detail": "Yanmega ➜ Sacrificar a Politoed  y entrar con Poliwrath  +6",
+          "detail": "◉ Ferrothorn ➜ Volcarona x2",
           "variant": []
         },
         {
-          "detail": "Ferrothorn ➜ Volcarona  +2",
+          "detail": "◉ Yanmega ➜ Salamence x1 💡Nitrocarga Ferrothorn💡",
           "variant": []
-        }  
-      ]  
-    },
-    {
-      "detail": "Flygon ➜ Usar Teletransporte  para enviar a Slowbro ➜ usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+        },
+        {
+          "detail": "◉ Octillery ➜ Salamence x1, 💡Nitrocarga Ferrothorn💡",
+          "variant": []
+        }
+      ]
     }
   ]
 }

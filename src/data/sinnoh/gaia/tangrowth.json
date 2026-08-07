@@ -2,11 +2,16 @@
   "id": "tangrowth",
   "name": "Tangrowth",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Cambiar a Slowbro💡",
+  "initialMove": "💡 Encanto 💡",
   "tricks": [
     {
-      "detail": "◉ Rhyperior ➜ Usa Bostezo y teletransporte , entra con volcarona +1 especial X y ataca",
-      "variant": []
+      "detail": "◉ Rhyperior ➜  Gengar otra vez +2 si sale Bronzong / Quagsire, cambiar a Quagsire Bostezo frente Tangrowth, Volcarona x2",
+      "variant": [
+        {
+          "detail": "◉ Si al entrar Gengar Cambian a Tangrowth , Volcarona x2",
+          "variant": []
+        }
+      ]
     }
   ]
 }

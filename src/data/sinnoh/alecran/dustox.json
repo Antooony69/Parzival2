@@ -2,6 +2,11 @@
   "id": "dustox",
   "name": "Dustox",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Flygon ➜ cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊 🔔(Si no Cambia usa Amortiguador)🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨 Gengar Otra vez +2; si sale Drapion, Scrafty x3.",
+  "tricks": [
+    {
+      "detail": "◉ 【Imprevisto】Gengar frente Flygon ➜ Chansey; Gengar otra vez x2, si sale Drapion, Scrafty x3.",
+      "variant": []
+    }
+  ]
 }

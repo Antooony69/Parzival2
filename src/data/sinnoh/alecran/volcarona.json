@@ -2,6 +2,25 @@
   "id": "volcarona",
   "name": "Volcarona",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Sacrificar a Politoed ➜ entrar con Poliwrath +6 🐸🥊 (Puño Drenaje a Volcarona)💡",
-  "tricks": []
+  "initialMove": "💡Pantalla Luz + Trampa rocas💡",
+  "tricks": [
+    {
+      "detail": "◉ Volcarona no cambia ➜ Amortiguador para forzar cambio. Si baja la Defensa Especial, usa Defensa Especial X",
+      "variant": [
+        {
+          "detail": "◉ Tyranitar ➜ Quagsire, Bostezo frente Ferrothorn, Salamence Ataque X 🔔Nitrocarga Ferrothorn🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Ferrothorn ➜ Encanto + Amortiguador esperando a Tyranitar",
+      "variant": [
+        {
+          "detail": "◉ Tyranitar ➜ Quagsire, Bostezo frente Ferrothorn, Salamence x1",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

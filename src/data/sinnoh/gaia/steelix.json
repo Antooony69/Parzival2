@@ -2,6 +2,11 @@
   "id": "steelix",
   "name": "Steelix",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro al enfrentar a Rhyperior; usar Bostezo ; sacrificar a Politoed entrar con Poliwrath +6  🔔usar Puño Hielo contra Gengar🔔",
-  "tricks": []
+  "initialMove": "⭐Trampa Rocas Frente rhyperior ➜ Gengar Otra vez, Volcarona frente Steelix, Volcarona x1 + Especial X⭐",
+  "tricks": [
+    {
+      "detail": "⭐ GigaDrenado a Steelix ➜ Si Terremoto da Golpe Crítico Max pocion⭐",
+      "variant": []
+    }
+  ]
 }

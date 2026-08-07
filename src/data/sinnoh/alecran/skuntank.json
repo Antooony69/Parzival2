@@ -2,24 +2,24 @@
   "id": "skuntank",
   "name": "Skuntank",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡🪨Trampa Rocas🪨 y cambiar a Gengar💡",
+  "initialMove": " Trampa Rocas, ver si hay Golpe Crítico o Envenenamiento:",
   "tricks": [
     {
-      "detail": "Puya Nociva ➜ Gengar usa Otra Vez al movimiento Veneno ➜ cambiar a Slowbro y usar Bostezo",
+      "detail": "◉ No Critico ➜ Gengar otra vez, cambiar Quagsire frente Forretress, Bostezo frente Octillery, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Golpe Critico ➜ Gengar, esperar Explosión",
       "variant": [
         {
-          "detail": "Si se queda ➜ Usar Protección y Bostezo ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+          "detail": "◉ Forretress ➜ Quagsire Bostezo frente  Octillery, Salamence x1",
           "variant": []
         },
         {
-          "detail": "Octillery ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+          "detail": "◉ Drapion ➜ Quagsire, Bostezo frente Octillery, Salamence x1",
           "variant": []
-        }  
-      ]  
-    },
-    {
-      "detail": "Autodestrucción y entra Forretress ➜ Slowbro usa Bostezo ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-      "variant": []
+        }
+      ]
     }
   ]
 }

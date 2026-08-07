@@ -2,44 +2,22 @@
   "id": "whiscash",
   "name": "Whiscash",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Trampa Rocas🔔 Si no Cambia Usa Amortiguador",
+  "initialMove": "🔔Trampa Rocas🔔 ",
   "tricks": [
     {
-      "detail": "Rhyperior ➜ Chansey Encanto y entra con Slowbro y usa Bostezo",
-      "variant": [
-        {
-          "detail": "Si se queda ➜ Usa Bostezo otra vez Para que entre Parasect y entrar con Volcarona x1 danza aleteo",
-          "variant": []
-        },
-        {
-          "detail": "Parasect ➜ Entra con Volcarona x1 danza aleteo",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Rhyperior ➜ Encanto, cambiar a Volcarona frente a Parasect, Volcarona x1",
+      "variant": []
     },
     {
-      "detail": "Parasect ➜ Usa Teletransporte ",
+      "detail": "◉ Parasect ➜ Volcarona, ver qué movimiento usa si al cambiar a Volcarona Entra Rhyperior; GigaDrenado hasta eliminar; si sale Blastoise, cambiar a Quagsire con Bostezo frente a Parasect, Volcarona x1:",
       "variant": [
         {
-          "detail": "Si parasect se Queda ➜ volcarona x1 danza aleteo y lanzallamas",
+          "detail": "◉ ChupaVida ➜ Volcarona x1 + Max pocion o Raiz energia",
           "variant": []
         },
         {
-          "detail": "Rhyperior ➜ Slowbro Bostezo (Mira si Megacuerno golpea o falla)",
-          "variant": [
-            {
-              "detail": "Si Golpea ➜ slowbro usa Teletransporte ➜ Volcarona x1 Danza Aleteo (Si quieres ahorrar dinero usa proteccion y usa Bostezo entra Con Volcarona x1 Danza aleteo)",
-              "variant": []
-            },
-            {
-              "detail": "Si Falla ➜  volcarona x1 Danza Aleteo",
-              "variant": []
-            },
-            {
-              "detail": "Sale Parasect ➜ Volcarona x1 Danza Aleteo",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Demolición ➜ Volcarona x1",
+          "variant": []
         }
       ]
     }

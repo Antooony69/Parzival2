@@ -2,15 +2,28 @@
   "id": "gliscor",
   "name": "Gliscor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 🪨Trampa Rocas🪨",
+  "initialMove": " 🪨Trampa Rocas🪨 Frente Emboar o Durant ➜ Gengar otra vez ,  Salamence",
   "tricks": [
     {
-      "detail": "Emboar --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; usar Teletransporte  entrar con Volcarona (moth) +1 y usar Especial X 🔔Si el HP de Druddigon baja del 36% dos veces, darle medicina primero🔔",
+      "detail": "◉ Rhyperior ➜ Scrafty Defensa x x3 Danza Dragon (si entra Gliscor Sigue bosteando y cuerate)",
       "variant": []
     },
     {
-      "detail": "Durant --> Gengar  usa Otra Vez cambiar a Slowbro  al enfrentar a Rhyperior; usar Bostezo al enfrentar a Durant; usar Teletransporte  entrar con Volcarona  +1 y usar Especial X 🔔Si el HP de Druddigon baja del 36% dos veces, darle medicina primero🔔",
+      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire Bostezo frente Durant, Volcarona x1",
       "variant": []
+    },
+    {
+      "detail": "◉ Emboar ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire Recuperación Frente Durant,  Gengar otra Vez , Salamence",
+      "variant": [
+        {
+          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire Bostezo frente Durant, Volcarona x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty Defensa x x3 Danza Dragon (si entra Gliscor Sigue bosteando y cuerate)",
+          "variant": []
+        }
+      ]
     }
   ]
 }

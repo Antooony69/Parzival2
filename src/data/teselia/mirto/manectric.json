@@ -2,6 +2,28 @@
   "id": "manectric",
   "name": "Manectric",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Lucario / Braviary; cambiar a Slowbro y usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a Volcarona)🔔",
-  "tricks": []
-}   
+  "initialMove": "🪨Trampa Rocas🪨 Frente Lucario, Gengar",
+  "tricks": [
+    {
+      "detail": "◉ A Bocajarro ➜ Otra Vez Frente Krookodile / Feraligatr, Salamence y revisa el movimiento del rival:",
+      "variant": [
+        {
+          "detail": "◉ Terremoto ➜ Salamence x1 (si huye Volcarona, ignóralo)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Triturar ➜ Scrafty x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Patada Salto Alta ➜ Gengar x2 (no usar Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si sale Staraptor por usar Trampa Rocas ➜ Gengar otra vez +4 +2",
+      "variant": []
+    }
+  ]
+}

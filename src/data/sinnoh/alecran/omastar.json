@@ -5,11 +5,16 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Escavalier ➜ Sacrificar a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
+      "detail": "◉ Escavalier ➜ Encanto aguantando MegaCuerno, Encanto frente Scizor, Volcarona frente Flygon , Salamence x1",
+      "variant": [
+        {
+          "detail": "◉ Si al Cambiar a Volcarona Sale Drapion ➜ Quagsire, Bostezo frente Omastar, Salamence x1 🔔Nitrocarga para eliminar a Escavalier🔔",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Kingler ➜ Cambiar a Slowbro usa Bostezo ➜ frente a Sceptile entra con Volcarona +1 🦋🔥",
+      "detail": "◉ Kingler ➜ Quagsire, Bostezo frente Sceptile, Volcarona x1",
       "variant": []
     }
   ]

@@ -2,19 +2,24 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "⭐Encanto + Trampa Rocas⭐",
   "tricks": [
     {
-      "detail": "Se Qeuda Feraligatr ➜ Sacrifica a Gengar y Slowbro usa Bostezo, sacrifica a Politoed y entra con Poliwrath +6🐸🥊 🔔Puño drenaje a Volcarona🔔",
+      "detail": "◉ Escavalier / Accelgor ➜ Scrafty, Salamence x1",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Slowbro usa Bostezo y sacrifica a Politoed , entra con Poliwrath +6🐸🥊 🔔Puño drenaje a Volcarona🔔",
-      "variant": []
-    },
-    {
-      "detail": "Escavalier ➜ Slowbro usa Bostezo y sacrifica a Politoed , entrar con Poliwrath +6🐸🥊",
-      "variant": []
+      "detail": "◉ Lucario ➜ Gengar otra vez hasta que salga Krookodile / Feraligatr, Salamence y revisa el movimiento del rival:",
+      "variant": [
+        {
+          "detail": "◉ Terremoto ➜ Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Triturar ➜ Scrafty x2",
+          "variant": []
+        }
+      ]
     }
   ]
 }

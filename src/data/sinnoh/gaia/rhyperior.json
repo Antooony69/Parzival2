@@ -5,80 +5,59 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "◉ Rhyperior Se queda ➜ Mira que objeto y movimiento usa :",
+      "detail": "◉ Terremoto [Vidasfera + Chansey Es Lento] ➜ Gengar otra vez +2 si sale Bronzong / Quagsire, cambiar a Quagsire Bostezo frente Tangrowth, Volcarona x2 🔔si no se va, rhyperior matalo🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Terremoto [Vidasfera + Chansey Rapido] ➜ Gengar Otra vez Volcarona frente  Steelix, Volcarona x1 + Especial X 🔔Usa Gigadrenado🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Terremoto [Sin Vidasfera] ➜ Amortiguador; si sigue en campo, Encanto + Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "◉ Absol ➜ Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Parasect ➜ Volcarona, 🔔 Volcarona Si entra Rhyperior; GigaDrenado hasta eliminar; Frente Blastoise, Quagsire nostezo  para forzar cambio🔔",
       "variant": [
         {
-          "detail": "◉ Tiene Vidasfera ➜ Usa Teletransporte para saca a Slowbro usa Bostezo 🔔observa qué movimiento elige el rival🔔",
-          "variant": [
-            {
-              "detail": "◉ Terremoto ➜ Sacrifica Politoed, Poliwrath +6🐸🥊 🔔Puño Hielo Gengar🔔",
-              "variant": []
-            },
-            {
-              "detail": "◉ Megacuerno acierte ➜ Usa Teletransporte; saca a Volcarona, usa un Especial X y ataca",
-              "variant": []
-            },
-            {
-              "detail": "◉ Megacuerno falla ➜ Saca directamente a Volcarona, usa un Especial X y ataca",
-              "variant": []
-            },
-            {
-              "detail": "◉ Gengar ➜ Sacrifica, Politoed, Poliwrath +6🐸🥊 🔔Puño Hielo Gengar🔔",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "◉ No Tiene Vifasfera ➜ Usa Amortiguador, Encanto y Amortiguador 🔔Si Chansey tiene la vida muy baja Usa Max Pocion🔔",
-          "variant": [
-            {
-              "detail": "◉ Rhyperior Se queda ➜ Slowbro Bostezo :",
-              "variant": [
-                {
-                  "detail": "◉ Terremoto ➜ Teletranspote , Volcarona x1 danza aleteo 🔔Psiquico a Gengar🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Parasect ➜ Volcarona x1 Danza aleteo ",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Gengar ➜ Teletranspote, Volcarona x1 danza aleteo 🔔Psiquico a Gengar🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Durant ➜ Entra Con Slowbro Bostezo y Frente a Gengar , Volcarona x1 Danza aleteo 🔔Psiquico a Gengar🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Parasect ➜ Teletransporte 🔔Sigue La Ruta Que esta abajo sobre Parasect🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Absol ➜ Slowbro y cambia a Volcarona Frente a Gengar o nidoking , x1 Danza aleteo 🔔Psiquico a Gengar🔔",
-                  "variant": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "detail": "◉ Absol ➜ Cambia a Slowbro Bostezo , Volcarona x1 Danza aleteo 🔔Psiquico a Gengar🔔",
+          "detail": "◉ Chupa Vida ➜ Volcarona x1 + max pocion o raiz energia",
           "variant": []
         },
         {
-          "detail": "◉ Emboar ➜ Gengar otra vez +2",
+          "detail": "◉ Demolición ➜ Volcarona x1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Durant ➜ Volcarona x1 🔔(Opción segura: Quagsire Bostezo frente Parasect, Volcarona x1)🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Gengar ➜ Probar si sale Gengar",
+      "variant": [
+        {
+          "detail": "◉ Si aún no se va ➜ cambiar a Quagsire con Bostezo frente a Gengar, Volcarona x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ 【Caso inesperado】 Cambiar a Quagsire frente a Parasect ➜ Volcarona x1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Emboar ➜ Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+      "variant": [
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
           "variant": [
             {
-              "detail": "◉ Emboar Se Queda ➜ Gengar +4 🔔Bola Sombra a Todos🔔",
-              "variant": []
-            },
-            {
-              "detail": "◉ Rhyperior ➜ Sacrifica a Politoed , Poliwrath Ataque X y ataca 🔔Cascada rhyperior/ Puño hielo Durant o Dragonite🔔",
-              "variant": []
-            },
-            {
-              "detail": "◉ Druddigon ➜ Sacrifica a Politoed , Poliwrath +6 🐸🥊",
+              "detail": "◉ [Si muere por golpe crítico] ➜ Gengar +2 (No Usar Otra Vez), cambiar a Salamence frente a Druddigon atacando hasta que salga Rhyperior, cambiar a Quagsire, cambiar a Gengar (si Druddigon muere, cambiar directamente a Gengar +4)",
               "variant": []
             }
           ]
@@ -86,59 +65,73 @@
       ]
     },
     {
-      "detail": "◉ Durant ➜ Gengar Otra Vez ",
+      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
       "variant": [
         {
-          "detail": "◉ Se Queda Durant ➜ Maquinacion ",
+          "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
           "variant": [
             {
-              "detail": "◉ Durant No cambio ➜ Gengar +4 +2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "◉ Hippowdon ➜ Slowbro Bostezo ",
-          "variant": [
-            {
-              "detail": "◉ Durant ➜ Proteccion, Bostezo , Teletransporte Poliwrath +6 🐸🥊",
-              "variant": [
-                {
-                  "detail": "◉ Amoonguss ➜ Sacrifica Politoed , Poliwrath +6 🐸🥊 ",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Rhyperior ➜ No Cambia Usa bostezo hasta que cambie y Sacrifica a Politoed , Poliwrath +6 🐸🥊",
-                  "variant": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "detail": "◉ Druddigon ➜ Sacrifica a Politoed , Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Rhyperior ➜ Mira que Objeto tiene ",
-          "variant": [
-            {
-              "detail": "◉ Tiene Restos ➜ Sacrifica a Politoed , Poliwrath Ataque X y ataca 🔔Puño Dranaje cloyster, Puño hielo Dragonite y Despues Cascada🔔",
+              "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
               "variant": []
             },
             {
-              "detail": "◉ No Tiene Restos ➜ Slowbro bostezo :",
+              "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón)",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Durant ➜ Gengar Otra Vez, Chansey",
+      "variant": []
+    },
+    {
+      "detail": "◉ Hippowdon / Walrein ➜ Encanto frente a Durant, Volcarona x1 + Especial X",
+      "variant": []
+    },
+    {
+      "detail": "◉ Druddigon ➜ Amortiguador hasta que salga Emboar, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+      "variant": [
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
+          "variant": [
+            {
+              "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
               "variant": [
                 {
-                  "detail": "◉ Se Queda ➜ Usa Teletransporte , Volcarona x1 Danza Aleteo y Usa gigadrenado Frente a Hippowdon Usa Explecial X y Ataca ",
+                  "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Durant ➜ Proteccion , Bostezo y Sacrifica a Politoed , Poliwrath +6 🐸🥊",
+                  "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón)",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Druddigon ➜ cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Encanto",
+      "variant": [
+        {
+          "detail": "◉ Emboar ➜ Gengar Otra Vez, Salamence",
+          "variant": [
+            {
+              "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+              "variant": [
+                {
+                  "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Si vuelve a Salir Rhyperior ➜ Chansey Trampa rocas y Usa Max pocion , Amortigudor 🔔Si no cambia usa Encanto🔔",
+                  "detail": "◉ Rhyperior ➜ Scrafty con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para sweepear",
                   "variant": []
                 }
               ]
@@ -146,41 +139,31 @@
           ]
         },
         {
-          "detail": "◉ Durant Ruta Arriesgada ➜ Volcarona x1 Danza aleteo 🔔Psiquico a Gengar🔔",
+          "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
           "variant": []
         },
         {
-          "detail": "◉ Durant Ruta Segura ➜ Slowbro Bostezo Y Frente a Gengar , Volcarona x1 Danza aleteo ",
+          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire con Bostezo frente a Durant, Volcarona x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Parasect ➜ Teletransporte ",
+      "detail": "◉ Durant ➜ Volcarona x1 + Ataque Especial",
       "variant": [
         {
-          "detail": "◉ Parasect Se queda ➜ Volcarona x1 Danza Aleteo ",
-          "variant": [
-            {
-              "detail": "◉ Rhyperior ➜ Slowbro bostezo 🔔 Mira si Golpea o Falla Mega-Cuerno 🔔",
-              "variant": [
-                {
-                  "detail": "◉ No Falla ➜ Teletransporte , Volcarona x1 Danza Alete",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Falla ➜ Volcarona x1 Danza aleteo ",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Parasect ➜ Volcarona X1 volcarona ",
-                  "variant": []
-                }
-              ]
-            }
-          ]
+          "detail": "◉ Si no se va ➜ Gengar +4 (Mo usar otra Vez)",
+          "variant": []
         }
       ]
+    },
+    {
+      "detail": "◉ Absol ➜ Volcarona x1 Gigadrenado a Absol",
+      "variant": []
+    },
+    {
+      "detail": "◉ Parasect ➜ Volcarona x1",
+      "variant": []
     }
   ]
 }

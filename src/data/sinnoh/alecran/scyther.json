@@ -2,6 +2,15 @@
   "id": "scyther",
   "name": "Scyther",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar Encanto y 🪨Trampa Rocas🪨 al enfrentar a Escavalier ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊💡",
-  "tricks": []
+  "initialMove": " Encanto , repetir Encanto frente Escavalier, Trampa Rocas Frente Flygon, Salamence x1 🔔 No usar Amortiguador Hasta Que Entre Flygon🔔",
+  "tricks": [
+    {
+      "detail": "◉ Usas Trampa Rocas y sale Drapion ➜ Quagsire, Bostezo frente Omastar, Salamence x1 🔔Nitrocarga Escavalier🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Usas Trampa Rocas y ataca con MegaCuerno ➜ Volcarona frente Flygon, Salamence x1",
+      "variant": []
+    }
+  ]
 }

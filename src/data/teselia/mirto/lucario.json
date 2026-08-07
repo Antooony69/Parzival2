@@ -5,21 +5,77 @@
   "initialMove": "👻Cambia a Gengar👻",
   "tricks": [
     {
-      "detail": "Patada Salto Alta ➜ Revisar PS de Lucario",
+      "detail": "◉ Patada Salto Alta【Salud Amarilla】➜ Chansey Trampa Rocas / Staraptor, Gengar otra vez x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Patada Salto Alta【Salud Verde】➜ Gengar Otra Vez",
       "variant": [
         {
-          "detail": "PS Amarillo ➜ Gengar usa Maquinacion frente a Sandslash ➜ Chansey usa 🪨Trampa Rocas 🪨 Frente a Braviary entra con Slowbro usa Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño drenaje a Volcarona)🔔",
+          "detail": "◉ Latias ➜ Chansey Trampa Rocas frente Lucario, Gengar y espera a que se debilite solo hasta que salga Excadrill , sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+          "variant": [
+            {
+              "detail": "◉ Si usas Otra Vez y sale Volcarona",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Volcarona ➜ Chansey Trampa Rocas hasta Frente Lucario, Gengar y espera a que se debilite solo hasta que salga Excadrill, sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
           "variant": []
         },
         {
-          "detail": "PS Verde ➜ Gengar Otra Vez +2 y si sale Excadrill usa Bola Sombra para sacrificarlo, sacar a Slowbro y usar Bostezo frente a Volcarona y sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño drenaje a Volcarona y  Cascada a Reuniclus / Volcarona No te mata usa tambor tranquilo )🔔",
+          "detail": "◉ Excadrill ➜ ChanseyTrampa Rocas frente Lucario, cambia a Gengar y espera a que se debilite solo hasta que salga Excadrill , sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X,Salamence x1",
+          "variant": [
+            {
+              "detail": "◉ Si no se retira ➜ Espera a que se debilite solo",
+              "variant": [
+                {
+                  "detail": "◉ Latias ➜ Chansey Trampa Rocas",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se retira ➜ Sacrifica a Gengar, Quagsire usa Otra Vez + Bostezo, Scrafty x2",
+                      "variant": [
+                        {
+                          "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+                          "variant": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Volcarona ➜ Chansey Trampa Rocas",
+          "variant": [
+            {
+              "detail": "◉ Si no se retira ➜ Usa Pantalla de Luz, Salamence + Ataque x x1",
+              "variant": [
+                {
+                  "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Excadrill ➜ Cambia a Salamence, cambia a Scrafty y sacrifícalo, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "A Bocajarro ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño drenaje a Volcarona/Manectric)🔔",
-      "variant": []
+      "detail": "◉ A Bocajarro ➜ Chansey Fente Krookodile / Feraligatr, Trampa Rocas, sacrifica a chansey, Salamence x1",
+      "variant": [
+        {
+          "detail": "◉【Inesperado】 Si Lucario no se retira ➜ Gengar otra +2 frente Krookodile / Feraligatr, Chansey Trampa Rocas y muere, Salamence x1",
+          "variant": []
+        }
+      ]
     }
   ]
 }

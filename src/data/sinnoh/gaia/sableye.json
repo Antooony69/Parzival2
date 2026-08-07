@@ -2,32 +2,28 @@
   "id": "sableye",
   "name": "Sableye",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Cambiar a Slowbro🔔",
+  "initialMove": "🔔Encanto🔔",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Usar Bostezo",
+      "detail": "◉ Se Queda Sableye ➜ Amortiguador esperando a que se retire; si no se va, Volcarona x2",
       "variant": [
         {
-          "detail": "◉ Rhyperior / Camerupt ➜ Usa Teletransporte entra con Volcarona , usa Especial X y ataca",
+          "detail": "◉ Durant ➜ Gengar Otra vez, Chansey frente a Hippowdon / Walrein, Encanto hasta que salga Durant, Volcarona x1 + Especial X",
           "variant": []
         },
         {
-          "detail": "◉ Tangrowth ➜ Entra con Volcarona x2 danza aleteo🦋🔥",
-          "variant": []
-        },
-        {
-          "detail": "◉ Durant ➜ usa Protección y Bostezo, sacrifica a Politoed, Poliwrath a +6🐸🥊",
+          "detail": "◉ Rhyperior ➜ Gengar Otra Vez , cambiar a Quagsire frente Quagsire / Bronzong, Bostezo frente a Tangrowth, Volcarona x2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Durant ➜ usar Bostezo, Protección y Bostezo; sacrifica a Politoed, Poliwrath a +6🐸🥊",
+      "detail": "◉ Durant ➜ Volcarona x1 + Especial X (si está con quemadura, se puede hacer Danza Aleteo x3)",
       "variant": []
     },
     {
-      "detail": "◉ Rhyperior ➜ usa Bostezo, luego Teletransporte; Volcarona Especial X y ataca",
+      "detail": "◉ Rhyperior ➜ Gengar otra vez +2 Frente Bronzong a Quagsire, cambiar a Quagsire Bostezo frente Tangrowth, Volcarona x2; si no se va, atacar hasta eliminar",
       "variant": []
     }
   ]
-}  
+}

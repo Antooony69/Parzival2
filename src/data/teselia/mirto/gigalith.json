@@ -2,29 +2,19 @@
   "id": "gigalith",
   "name": "Gigalith",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💕Usar Encanto, luego 🪨Trampa Rocas🪨 🔔(Si no cambia Usar Amortiguador)🔔",
+  "initialMove": "🪨Trampa Rocas🪨 Quagsire Bostezo 🔔 Si la salud de Chansey está entre 200 y 460 HP, usará (Explosión) 🔔",
   "tricks": [
     {
-      "detail": "Excadrill --> Teletransporte para sacar a Slowbro y usar Bostezo😴",
-      "variant": [
-        {
-          "detail": "Si se queda --> Sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Latios --> Usar Proteccion y luego Bostezo",
-          "variant": [
-           {
-             "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
-             "variant": []
-           },    
-           {
-             "detail": "Seismitoad --> Cambia a Volcarona +2",
-             "variant": []  
-           }
-          ]
-        }
-      ]
+      "detail": "◉ Seismitoad ➜ Salamence x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si la HP llega al rango de auto-destrucción ➜ Cambia a Gengar esperando la Explosión hasta que salga Excadrill luego cambia a Salamence Quagsire, Bostezo Frente Seismitoad , Salamence x2 🔔si no explota, sacrifica a Gengar y Quagsire Bostezo🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si el rival se queda ➜ Usa Protección, vuelve a usar Bostezo Frente Seismitoad , Salamence x2; 🔔si usas Protección y Explota Frente Seismitoad, sacrifica a Quagsire, Salamence x2🔔",
+      "variant": []
     }
-  ]  
-}  
+  ]
+}

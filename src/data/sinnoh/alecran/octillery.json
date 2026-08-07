@@ -5,39 +5,33 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Revisar si Chansey tiene un estado alterado",
+      "detail": "◉ Octillery Se Queda ➜ Pantalla luz + Amortiguador para forzar cambio",
+      "variant": []
+    },
+    {
+      "detail": "◉ Flygon ➜ Gengar ➜ Quagsire frente Ferrothorn, Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Skuntank ➜ Gengar otra vez ➜ Quagsire ➜ frente Forretress, Bostezo ➜ frente Octillery, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Kabutops ➜ Quagsire Bostezo",
       "variant": [
         {
-          "detail": "Sin estado alterado ➜ Usar Teletransporte enviar a Slowbro y usar Bostezo ➜ sacrificar Politoed ➜ entra con Poliwrath +6 🐸🥊",
+          "detail": "◉ Yanmega ➜ Salamence x1",
           "variant": []
         },
         {
-          "detail": "Con estado alterado ➜ Cambia a Slowbro",
-          "variant": [
-            {
-              "detail": "Kabutops ➜ Usa Bostezo 🥱",
-              "variant": [
-                {
-                  "detail": "Yanmega ➜ Sacrificar a Politoed y entra con Poliwrath +6 🐸🥊",
-                  "variant": []
-                },
-                {
-                  "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥 ",
-                  "variant": []
-                }   
-              ]   
-            },
-            {
-              "detail": "Flygon ➜ Usar Relajo para recibir Cometa Draco ➜ usa Bostezo al enfrentar a Yanmega ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Ferrothorn ➜ Volcarona x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Octillery ➜ Salamence x1",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "Skuntank ➜ Sacrifica a Politoed ➜ cambiar a Volcarona luego a Gengar ➜ frente a forretress cambia a Slowbro y usa Bostezo luego Teletransporte ➜ entrar con Poliwrath +6 y usa Puño Drenaje ➜ 💊frente Crustle usar Velocidad X luego termina de Barrer💊",
-      "variant": []
     }
   ]
 }

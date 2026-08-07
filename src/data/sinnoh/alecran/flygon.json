@@ -5,33 +5,56 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "◉Si se queda ➜ Usar Teletransporte ➜ enviar a Slowbro y revisar daño",
+      "detail": "◉ Terremoto 【Vidasfera】 ➜ Gengar otra vez, cambiar a Volcarona",
       "variant": [
         {
-          "detail": "◉ Si el daño que recibes es menor al 35.6% (Crítico 53.4%) ➜ Usa Relajo para aguantar Cometa Draco ➜ usar Bostezo para que entre Yanmega ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "detail": "◉ Ferrothorn ➜ Volcarona +2",
           "variant": []
         },
         {
-          "detail": "◉ Si el daño que recibes es mayor al 36.5% (Crítico 54) ➜ Usa Bostezo Frente a Drapion/Scizor/octillery ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "detail": "◉ Drapion ➜ Scrafty x3 🔔 A Bocajarro contra Drapion 🔔",
           "variant": []
         },
         {
-          "detail": "◉ Frente a Skuntank Usa Teletransporte ➜ Volcarona, Cambia a Gengar y Frente a (crustle/forretress) Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "detail": "◉ Si al Cambiar a Gengar entra Skuntank ➜ Quagsire, Bostezo frente Octillery, Salamence x1 🔔Si Skuntank no cambia usa bostezo otra vez🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Skuntank ➜ Sacrifica a Politoed ➜ cambiar a Volcarona luego a Gengar ➜ frente a Durant cambia a Slowbro y usa Bostezo luego Teletransporte ➜ entrar con Poliwrath +6 y usa Puño Drenaje ➜ 💊frente Crustle usar Velocidad X luego termina de Barrer💊",
+      "detail": "◉ Skuntank ➜ Gengar otra vez, Quagsire frente Forretress, Bostezo frente Octillery, Salamence x1",
       "variant": []
     },
     {
-      "detail": "◉ Scizor ➜ Entra Con Volcarona y frente a tyranitar sacrifica a politoed entra con Poliwrath +6 🐸🥊 ",
-      "variant": []
+      "detail": "◉ Scizor ➜ Amortiguador y ver qué movimiento usa",
+      "variant": [
+        {
+          "detail": "◉ Fuerza Bruta ➜ Elige Que Ruta usar",
+          "variant": [
+            {
+              "detail": "◉ Ahorrar ➜ Volcarona hasta que salga Flygon, Chansey Amortiguador hasta que salga Kingler, Quagsire, Bostezo frente Beautifly, Salamence x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Ruta Rapida ➜ Quagsire, Bostezo frente Beautifly, Salamence x1",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Acrobacia ➜ Amortiguador y esperar a Flygon; Gengar otra vez +2, si sale Drapion, Scrafty x3 🔔A Bocajarro contra Drapion🔔",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Escavalier ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
-      "variant": []
+      "detail": "◉ Escavalier ➜ Encanto aguantando Megacuerno, Encanto frente Scizor, Volcarona frente Flygon, Salamence, x1",
+      "variant": [
+        {
+          "detail": "◉ Si al Cambiar a Volcarona entra Drapion ➜ Quagsire, Bostezo frente Omastar, Salamence x1 🔔Nitrocarga para eliminar a Escavalier🔔",
+          "variant": []
+        }
+      ]
     }
   ]
 }

@@ -2,14 +2,14 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨+ Pantalla luz entra con Quagsire Bostezo",
   "tricks": [
     {
-      "detail": "Llamarada ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Volcarona)🔔",
+      "detail": "Si el rival se queda ➜ Salamence x1",
       "variant": []
     },
     {
-      "detail": "Excadrill ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Volcarona)🔔",
+      "detail": "Si usas Bostezo Frente Volcarona ➜ Salamence x1",
       "variant": []
     }
   ]

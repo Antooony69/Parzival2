@@ -5,45 +5,41 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Cambiar a Slowbro y usar Bostezo",
+      "detail": "◉ Kabutops no cambie ➜ Quagsire Bostezo",
       "variant": [
         {
-          "detail": "Yanmega ➜ Sacrifica a Politoed y entrar con Poliwrath +6 🐸🥊",
+          "detail": "◉ Ferrothorn ➜ Volcarona x2",
           "variant": []
         },
         {
-          "detail": "Drapion ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+          "detail": "◉ Flygon ➜ Salamence x1",
           "variant": []
         },
         {
-          "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥 ",
+          "detail": "◉ Octillery ➜ Salamence x1",
           "variant": []
         },
         {
-          "detail": "Scizor ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-          "variant": []  
-        }
-      ]
-    },
-    {
-      "detail": "Flygon ➜ Usar Teletransporte ➜ enviar a Slowbro  🔔(Revisar daño de Terremoto)🔔",
-      "variant": [
-        {
-          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) --> Usar Relajo para recibir Cometa Draco ➜ usa Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "36.5 - 44% (Crítico 54 - 65%) ➜ Usa Bostezo hasta enfrentar a Drapion/Scizor ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+          "detail": "◉ Yanmega ➜ Salamence x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Durant ➜ Entra con Gengar +4 (No usar Otra Vez) 🔔(Barrer con Bola Sombra)🔔",
-      "variant": []
+      "detail": "◉ Flygon ➜ Gengar otra vez, Volcarona",
+      "variant": [
+        {
+          "detail": "◉ Ferrothorn ➜ Volcarona x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Drapion ➜ Scrafty x3 🔔Bocajarro en Drapion🔔",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Scizor ➜ Chansey usa Amortiguador esperando a Flygon ➜ cambia a Slowbro y usar Bostezo al enfrentar a Drapion ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+      "detail": "◉ Durant ➜ Gengar +2 (No Usar Otra Vez)",
       "variant": []
     }
   ]

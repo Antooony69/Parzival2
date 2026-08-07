@@ -5,20 +5,43 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Usar Amortiguador y esperar a Rhyperior",
+      "detail": "◉ Garra Dragón ➜ Amortiguador esperando a Rhyperior",
       "variant": []
     },
     {
-      "detail": "Rhyperior --> Usar Teletransporte para enviar a Slowbro y usar Bostezo ; sacrificar a Politoed y entrar con Poliwrath +6 🔔Hielo golpea a Gengar🔔",
+      "detail": "◉ Rhyperior ➜ Gengar Otra Vez, Volcarona frente a Steelix, Volcarona x1 + Especial X Gigadrenado en Steelix",
       "variant": []
     },
     {
-      "detail": "Emboar --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant ; usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 35% dos veces, darle medicina primero🔔",
+      "detail": "◉ Emboar / Durant ➜ Gengar Otra Vez, Salamence",
+      "variant": [
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty Defensa X + x2 (si la salud está baja, usar Danza Dragón + Puño Drenaje + Danza Dragón) para superar en velocidad a Gliscor con Scrafty x3",
+          "variant": [
+            {
+              "detail": "◉ [Si muere por golpe crítico] ➜ Gengar, cambiar a Salamence sale Druddigon ataca Frente Rhyperior, Quagsire, Gengar otra vez +4 +2 (si Druddigon muere, cambiar directamente a Gengar +4)",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Druddigon ➜ Ataca ; Frente Rhyperior, Quagsire Bostezo frente Durant, Volcarona x1",
       "variant": []
     },
     {
-      "detail": "Durant --> Gengar usa Otra Vez  cambiar a Slowbro  al enfrentar a Rhyperior; usar Bostezo al enfrentar a Durant usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 35% dos veces, darle medicina primero🔔",
-      "variant": []
+      "detail": "◉ Emboar ➜ Atacar hasta eliminar; Frente Rhyperior, Quagsire Recuperación hasta que salga Durant,  Gengar otra vez , Salamence",
+      "variant": [
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa +2 x3 danza dragon curate si puede debe usar x3 para ganar velocidad a gliscor y ataca",
+          "variant": []
+        },
+        {
+          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; Frente Rhyperior, Quagsire Bostezo frente Durant, Volcarona x1",
+          "variant": []
+        }
+      ]
     }
   ]
 }

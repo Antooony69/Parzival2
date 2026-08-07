@@ -2,20 +2,15 @@
   "id": "camerupt",
   "name": "Camerupt",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Slowbro💡",
+  "initialMove": "💡Cambiar a Quagsire💡",
   "tricks": [
     {
-      "detail": "Rhyperior --> Usar Bostezo  🔔Revisar la precisión de Megacuerno 🔔",
-      "variant": [
-        {
-          "detail": "Si acierta --> Usar Teletransporte ; entrar con Volcarona , usar Especial X y presionar",
-          "variant": []
-        },
-        {
-          "detail": "Si falla --> Cambiar a Volcarona , usar Especial X y presionar",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Si no Cambia ➜ Bostezo, Protección, Bostezo frente Tangrowth, Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Gengar otra vez +2 hasta que salga Bronzong o Quagsire, Quagsire Bostezo frente Tangrowth, Volcarona x2",
+      "variant": []
     }
   ]
 }

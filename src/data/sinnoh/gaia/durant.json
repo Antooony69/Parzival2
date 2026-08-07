@@ -2,76 +2,100 @@
   "id": "durant",
   "name": "Durant",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar usa Otra Vez",
+  "initialMove": "💡Gengar usa Otra Vez💡",
   "tricks": [
     {
-      "detail": "Si se queda --> Bola Sombra",
+      "detail": "◉ Fuerza Bruta ➜ Chansey",
       "variant": [
         {
-          "detail": "Se queda → Maquinación + Bola sombra para debilitar",
-          "variant": [
-            {
-              "detail": "Golem --> Cambiar a Chansey y usar Trampa Rocas si se queda; cambiar a Slowbro y usar Bostezo al enfrentar a Gengar; entrar con Volcarona +1 y usar Psíquico al enfrentar a Gengar",
-              "variant": []
-            },
-            {
-              "detail": "Si usa Maquinación y va hacia Hippowdon --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; Usa protección y vuelve a usar Bostezo, sale Rhyperior → Teletransporte a Poliwrath +6",
-              "variant": []
-            },
-            {
-              "detail": "Cloyster → Politoed (sacrificar), Poliwrath +6",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Hippowdon --> Cambiar a Slowbro y usar Bostezo al enfrentar a Durant; Usa protección y vuelve a usar Bostezo, sale Amoonguss → Teletransporte a Poliwrath +6",
+          "detail": "◉ Hippowdon ➜ Encanto frente Durant, Volcarona x1 + Ataque Especial",
           "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Rhyperior --> Revisar objeto",
-      "variant": [
-        {
-          "detail": "Restos --> Chansey, trampa rocas. Sale Emboar → Gengar, otra vez, +2",
-          "variant": [
-            {
-              "detail": "Se queda → Gengar, +4 (bola sombra a todos)",
-              "variant": []
-            },
-            {
-              "detail": "Druddigon → Politoed (sacrificar), Poliwrath + Atk X y presiona. (Puño Drenaje a Cloyster, Puño H a Dragonite y los demas cascada)",
-              "variant": []
-            }
-          ]
         },
         {
-          "detail": "Sin Restos --> Cambia a Slowbro, Bostezo",
+          "detail": "◉ Druddigon ➜ Trampa Rocas hasta que salga Lucha, Gengar otra vez, cambiar a Salamence",
           "variant": [
             {
-              "detail": "Se queda → Teletransporte a Volcarona, +1. Usa Gigadrenado para vencer a Rhyperior, sale Hippowdon → Toma un SpAtk X, presiona hasta que salga Walrein/Dewgong. + 1 Danza Aleteo, termina",
-              "variant": []
+              "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
+              "variant": [
+                {
+                  "detail": "◉ [Si muere por golpe crítico] ➜ Gengar, cambiar a Salamence y ataca frente Druddigon hasta que salga Rhyperior, Quagsire, Gengar otra vez +4 +2",
+                  "variant": []
+                }
+              ]
             }
           ]
         }
       ]
     },
     {
-      "detail": "Si cambia a Rhyperior al usar Otra Vez --> Cambiar a Chansey y usar Trampa Rocas, toma 1 Max Poción ; Usa Amortiguador y Encanto hasta que cambie",
+      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire Bostezo frente Durant, Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Emboar ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
       "variant": [
         {
-          "detail": "Durant (Arriesgado) --> Volcarona, +1. (Psiquico a Gengar)",
+          "detail": "◉ Druddigon ➜ Atacar hasta que salga Rhyperior, Quagsire con Bostezo frente a Durant, Volcarona x1",
           "variant": []
         },
         {
-          "detail": "Durant (Estable) → Slowbro, bostezo. Sale Gengar → Cambia a Volcarona +1",
+          "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Druddigon --> Sacrificar a Politoed ; entrar con Poliwrath +6 y usar Puño Drenaje para absorber y mantener la línea de HP",
+      "detail": "◉ Rhyperior ➜ Trampa Rocas",
+      "variant": [
+        {
+          "detail": "◉ Emboar / Durant ➜ Gengar Otra Vez, Salamence",
+          "variant": []
+        },
+        {
+          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
+          "variant": []
+        },
+        {
+          "detail": "◉ No Cambia ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, cambiar a Gengar, cambiar a Salamence",
+          "variant": []
+        },
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Durant ➜ Gengar otra vez, Chansey Encanto frente Durant, Volcarona x1 + Ataque Especial",
+      "variant": [
+        {
+          "detail": "◉ Si no Cambia ➜ Encanto + Amortiguador hasta que salga Durant, Volcarona x1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Si no sale ➜ Chansey muere, Quagsire Bostezo frente Gengar, revivir Chansey, Trampa Rocas Frente  Durant, Volcarona x1 (si se muere es mala suerte)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Chansey Encanto + Trampa Rocas Frente Durant, Volcarona x1 // Si muere usar Amortiguador // Si sale Cloyster,  Quagsire Bostezo frente Parasect, Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si sale Forretress por Trampa Rocas ➜ Quagsire Bostezo frente Gengar Protección, luego Bostezo frente Parasect, Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si sale Cloyster por Trampa Rocas ➜ Amortiguador esperando a Durant, Volcarona x1",
       "variant": []
     }
   ]

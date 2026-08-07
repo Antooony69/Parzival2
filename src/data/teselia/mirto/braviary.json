@@ -2,6 +2,15 @@
   "id": "braviary",
   "name": "Braviary",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar usa Otra Vez ➜ cambiar a Chansey ante Vaporeon usar 🪨Trampa Rocas🪨 frente Lucario ➜ Cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊💡",
-  "tricks": []
+  "initialMove": "Gengar Otra Vez +2 Si no Cambia Ataca",
+  "tricks": [
+    {
+      "detail": "◉ Lucario ➜ Chansey Trampa Rocas, Quagsire Bostezo frente Volcarona, entra con Volcarona x2 Danza Aleteo",
+      "variant": []
+    },
+    {
+      "detail": "◉ Sandslash ➜ Chansey Trampa Rocas Frente Lucario, Gengar +2 (no usar Otra Vez)",
+      "variant": []
+    }
+  ]
 }

@@ -5,61 +5,20 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Identificar movimiento",
-      "variant": [
-        {
-          "detail": "Latigazo / Giro Rápido ➜ Chansey usa Encanto y Amortiguador al enfrentar a Tyranitar luego cambia a Poliwrath y usa Puño Drenaje",
-          "variant": [
-            {
-              "detail": "Ferrothorn ➜ Volcarona +1 🦋🔥",
-              "variant": []
-            },
-            {
-              "detail": "Gastrodon ➜ Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": " 🌱 Drenadoras 🌱 ➜ Cambiar a Slowbro",
-          "variant": [
-            {
-              "detail": "Flygon ➜ Usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "Kabutops ➜ Usar Bostezo",
-              "variant": [
-                {
-                  "detail": "Yanmega ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-                  "variant": []
-                },
-                {
-                  "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥",
-                  "variant": []
-                }
-              ]  
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "Flygon ➜ Usar Teletransporte ➜ enviar a Slowbro y usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+      "detail": "◉ Giro Bola / Latigazo ➜ Encanto, Amortiguador y esperar a Tyranitar; Quagsire, Bostezo frente Ferrothorn, Salamence Ataque X y usa Nitrocarga para eliminar a Ferrothorn",
       "variant": []
     },
     {
-      "detail": "Kabutops ➜ Cambiar a Slowbro y usar Bostezo",
-      "variant": [
-        {
-          "detail": "Yanmega ➜ Usar Protección y Bostezo al enfrentar a Octillery ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Drenadoras ➜ Amortiguador y esperar a Flygon.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Flygon ➜ Gengar otra vez, y cambia Volcarona frente Ferrothorn, Volcarona x2.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Kabutops / Scythe ➜ Quagsire, Bostezo frente flygon, Protección, Bostezo frente Octillery, Volcarona x2.",
+      "variant": []
     }
   ]
 }

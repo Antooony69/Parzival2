@@ -2,6 +2,33 @@
   "id": "emboar",
   "name": "Emboar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Sacrificar a Politoed, entrar con Slowbro  y usar Bostezo al enfrentar a Durant; usar Teletransporte  y entrar con Poliwrath +6 💡 Usar Cascada contra Rhyperior",
-  "tricks": []
+  "initialMove": " Gengar Otra Vez , Salamence y Mira quien sale",
+  "tricks": [
+    {
+      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Chansey Trampa Rocas hasta que salga Durant, Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Scrafty Defensa X x3 Danza Dragon Si entra Gliscor Sigue Bosteando y curate",
+      "variant": [
+        {
+          "detail": "◉ [Si muere por golpe crítico] ➜ Gengar otra vez, Salamence atacando frente a Druddigon hasta que salga Rhyperior, Quagsire, Gengar otra vez +4 +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Si no sale ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Chansey con Trampa Rocas hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+      "variant": [
+        {
+          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Rhyperior ➜ Scrafty Defensa X x3 Danza Dragon Si entra Gliscor Sigue Bosteando y curate",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

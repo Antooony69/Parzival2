@@ -2,6 +2,20 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Slowbro usa Bostezo al enfrentar a Maractus sacrificar a Politoed entrar con Poliwrath +6💡 🔔(Puño Drenaje a Magmortar)🔔",
-  "tricks": []
+  "initialMove": "💡Gengar otra Vez , Chansey trampa Rocas Frente a Blaziken Mira Abajo que Hacer💡",
+  "tricks": [
+    {
+      "detail": "◉ Ruta 1 ➜ Amortiguador aguantando A Bocajarro, Gengar +4 (No usar Otra vez)",
+      "variant": [
+        {
+          "detail": "◉ Si entra Dragonite Cuando te Bosteas ataca  hasta Bronzong, Salamence x1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Ruta 2 ➜ Gengar +2 (No usar otra vez) ataca hasta Bronzong; Salamence x1 (Si blaziken no cambia,  Gengar +4 [No usar Otra vez]",
+      "variant": []
+    }
+  ]
 }

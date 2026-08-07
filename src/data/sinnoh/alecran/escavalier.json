@@ -2,6 +2,15 @@
   "id": "escavalier",
   "name": "Escavalier",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Usar 🪨Trampa Rocas🪨 ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊💡",
-  "tricks": []
-}    
+  "initialMove": "◉ Trampa Rocas + Encanto aguantando Megacornada, otra vez Encanto frente Scyther, Volcarona Frente Flygon, Salamence x1",
+  "tricks": [
+    {
+      "detail": "◉ Prohibido usar Amortiguador al esperar a Flygon.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si al cambiar a Volcarona entra Drapion ➜ Quagsire, Bostezo frente Omastar, Salamence x1 Nitrocarga Escavalier.",
+      "variant": []
+    }
+  ]
+}

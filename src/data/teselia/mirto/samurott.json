@@ -2,6 +2,42 @@
   "id": "samurott",
   "name": "Samurott",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Lucario; cambiar a Slowbro y usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño Drenaje a Volcarona y Cascada a Reuniclus)🔔 🚨(Si Volcarona despierta no hay Amenaza)🚨 ",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨 frente Lucario, Gengar +2 no usar Otra Vez y Mira abajo",
+  "tricks": [
+    {
+      "detail": "◉ Latias ➜ Sacrifica a Gengar, Quagsire Otra Vez + Bostezo, Scrafty x2",
+      "variant": [
+        {
+          "detail": "◉ Si usas Otra Vez y sale Volcarona ➜ Sacrifica a Scrafty, Salamence x3 + max pocion o Raiz energia",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Excadrill➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Volcarona ➜ Ataca para debilitar hasta Excadrill , sacrifica a Volcarona, Quagsire otra vez en Terremoto, Salamence x2 (si huye Excadrill, Mira abajo)",
+      "variant": [
+        {
+          "detail": "◉ Reuniclus ➜ Sigue con Otra Vez y revisa el movimiento del rival:",
+          "variant": [
+            {
+              "detail": "◉ Psicocarga ➜ Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Onda Certera ➜ Gengar otra vez +4 +2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉【Inesperado】 Si Lucario elimina a Gengar con Triturar ➜ Chansey y sacrifícalo, Salamence + Defensa X x1",
+      "variant": []
+    }
+  ]
 }

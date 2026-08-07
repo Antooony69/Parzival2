@@ -2,76 +2,82 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "⭐ Mira Que Habilidad Tiene Excadrill⭐",
   "tricks": [
     {
-      "detail": "Terremoto --> Revisar objeto equipado",
+      "detail": "◉ No tiene Rompemoldes ➜ Trampa Rocas + Amortiguador Frente Lucario, Gengar +2 (no usar Otra Vez)⭐Si Excadril no cambia, Encanto + Amortiguador esperando a Lucario⭐",
       "variant": [
         {
-          "detail": "Vidasfera --> Sacrifica a Gengar, saca a Slowbro y usa Bostezo",
+          "detail": "◉ Latias ➜ Sacrifica a Gengar, Quagsire bostezo en bola neblina , Scrafty x2",
           "variant": [
             {
-              "detail": "Si se queda --> Sacrificar a Politoed y entrar con Poliwrath +6 🔔(Observa Quien sale Primero)🔔",
-              "variant": [
-                {
-                  "detail": "Si sale Vanilluxe primero --> 💊Tomar una velocidad X y presionar de nuevo💊",
-                  "variant": []
-                },
-                {
-                  "detail": "Si sale Volcarona primero --> Presión completa",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔(Puño drenaje contra Volcarona)🔔",
+              "detail": "◉ Si usas Otra Vez y sale Volcarona ➜ Sacrifica a Scrafty, Salamence x3 + max pocion o raiz energia",
               "variant": []
             }
           ]
         },
-        { 
-          "detail": "No tiene Vidasfera --> Usa Teletransporte",
-          "variant": [  
+        {
+          "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez a Terremoto o Tijera X, Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Volcarona ➜ Ataca Hasta Estar frente Excadrill , sacrifica a Volcarona, Quagsire otra vez en Terremoto, Salamence x2 (si huye Excadrill ,Mira que ruta Seguir)",
+          "variant": [
             {
-              "detail": "Si se queda --> Saca a Slowbro y usa Bostezo 🔔(Puño drenaje contra Volcarona / Si Volcarona se despierta no es una Amenaza)🔔",
+              "detail": "◉ Reuniclus ➜ Sigue con Otra Vez y revisa el movimiento del rival:",
               "variant": [
                 {
-                  "detail": "Si aun no cambia --> Continua haciendo Bostezo hasta que lo obligues a cambiar a sus Pokémon de reserva",
+                  "detail": "◉ Onda Certera ➜ Gengar otra vez +6",
                   "variant": []
-                },    
+                },
                 {
-                  "detail": "Sale su poke de reserva --> Sacrifica a Politoed y entra con Poliwarth +6",
+                  "detail": "◉ Psicocarga ➜ Scrafty x2",
                   "variant": []
                 }
               ]
-            },  
-            {
-              "detail": "Lucario / Conkeldurr / Archeops --> Sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-              "variant": []
-            },  
-            {  
-              "detail": "Escavalier/Magcargo --> Saca a Poliwrath luego cambia Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-              "variant": []
             }
-          ]  
-        } 
-      ]    
-    },    
-    {
-      "detail": "Lucario --> Sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Volcarona despierta no es amenaza)🔔",
-      "variant": []
+          ]
+        },
+        {
+          "detail": "◉【Inesperado】 Si Lucario elimina a Gengar con Triturar ➜ Sacrifica Chansey , Salamence + Defensa x x1 danza dragon",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Escavalier / Magcargo --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Conkeldurr --> Cambiar a Slowbro y usar Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
-    },
-    {
-       "detail": "Archeops --> Sacrificar a Gengar; Slowbro usa Bostezo al enfrentar a Volcarona, sacrificar a Politoed y entrar con Poliwrath +6",
-       "variant": []
+      "detail": "◉ Si Tiene Rompemolde ➜ Trampa Rocas",
+      "variant": [
+        {
+          "detail": "◉ Terremoto (Sin Vidasfera) ➜ Salamence, luego cambia a Volcarona",
+          "variant": [
+            {
+              "detail": "◉ Terremoto ➜ Sacrifica a Volcarona, Salamence x3",
+              "variant": []
+            },
+            {
+              "detail": "◉ Avalancha ➜ Sacrifica a Volcarona, Quagsire Bostezo Frente Chandelure / Volcarona, Salamence x1 ⭐si falla Avalancha, sacrifica a Volcarona igual⭐",
+              "variant": [
+                {
+                  "detail": "◉ Frente Chandelure ➜ Salamence x1",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Terremoto 【Con Vidasfera】 ➜ Salamence, cambia a Quagsire y ataca, luego subes a Salamence a +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Conkeldurr ➜ Gengar Otra Vez + Bola Sombra hasta que salga Excadrill , Salamence x3",
+          "variant": []
+        },
+        {
+          "detail": "◉ Escavalier / Accelgor ➜ Sacrifica a Scrafty, Salamence x1",
+          "variant": []
+        }
+      ]
     }
   ]
 }

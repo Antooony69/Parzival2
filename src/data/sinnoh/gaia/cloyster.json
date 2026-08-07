@@ -5,31 +5,39 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Slowbro usa Bostezo",
+      "detail": "◉ Cloyster No Cambia ➜ Amortiguador; si aún no se va Encanto + Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "◉ Emboar ➜ Gengar otra vez , cambia a Salamence",
       "variant": [
         {
-          "detail": "Durant --> Usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 35% dos veces, darle medicina primero🔔",
+          "detail": "◉ Emboar ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire Recuperación Frente Durant, Gengar Otra Vez , Salamence",
           "variant": []
         },
         {
-          "detail": "Gengar --> Entrar con Volcarona +1",
+          "detail": "◉ Rhyperior ➜ Scrafty Defensa X Frente Gliscor, Scrafty x3 (si la salud está baja curate)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Druddigon ➜ Atacar hasta que salga Rhyperior, Quagsire Bostezo frente Durant, Volcarona x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Durant --> Slowbro usa Bostezo",
+      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Scrafty Defensa X Frente Gliscor, Scrafty +3 Si es Posible Curate",
+      "variant": []
+    },
+    {
+      "detail": "◉ Durant ➜ Volcarona x1",
       "variant": [
         {
-          "detail": "Si se queda --> Usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 36% dos veces, darle medicina primero🔔",
-          "variant": []
-        },
-        {
-          "detail": "Gengar --> Entrar con Volcarona +1 💡Usar Psíquico al enfrentar a Gengar 💡",
-          "variant": []
-        },
-        {
-          "detail": "Emboar --> Slowbro usa Bostezo al enfrentar a Durant; usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 36% dos veces, darle medicina primero🔔",
+          "detail": "◉ 【Caso inesperado】 si al cambiar a Volcarona y tiene Vidasfera ➜ Cambiar a Chansey, ver estrategia de Emboar",
           "variant": []
         }
       ]

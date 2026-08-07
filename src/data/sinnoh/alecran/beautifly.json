@@ -2,10 +2,14 @@
   "id": "beautifly",
   "name": "Beautifly",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Slowbro y usa Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊💡",
+  "initialMove": "Trampa Rocas Frente A Scizor (Elige Que Ruta Seguir)",
   "tricks": [
     {
-      "detail": "🔔Frente a Flygon ➜ usar Protección y Bostezo🔔",
+      "detail": "◉ Opción Rápida ➜ Quagsire Bostezo Frente Beautifly, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Opción Ahorro ➜ Cambia a Volcarona y ataca frente Yanmega, cambia a chansey Amortiguador frente Kingler / Crustle, cambia a Quagsire Bostezo, Frente Beautifly, Salamence x1",
       "variant": []
     }
   ]

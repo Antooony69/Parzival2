@@ -2,6 +2,24 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Lucario ➜ cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜  Poliwrath +6🐸🥊💡 🔔(Puño drenaje a Volcarona)🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨 Frente Lucario, Gengar Otra vez",
+  "tricks": [
+    {
+      "detail": "Si usas Otra Vez y sale Krookodile / Feraligatr, usa Rayo",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile / Feraligatr ➜ Salamence y revisa el movimiento del rival:",
+      "variant": [
+        {
+          "detail": "Terremoto ➜ Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "Triturar ➜ Scrafty x2",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

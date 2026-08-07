@@ -5,93 +5,108 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Identificar movimiento",
+      "detail": "◉ Escavalier ➜ Usa Encanto para recibir Megacuerno, usa Encanto otra vez hasta Scizor / Scyther, cambia a Volcarona ; si sale Flygon cambia a Salamence, x1",
       "variant": [
         {
-          "detail": "Triturar ➜ Revisar daño",
+          "detail": "◉ Si cambias a Volcarona Frente Drapion ➜ Cambia a Quagsire Bostezo Frente Omastar, Salamence x1 y usa Carga Nitro para eliminar a Escavalier",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Scizor ➜ Amortiguador y revisa el movimiento del rival:",
+      "variant": [
+        {
+          "detail": "◉ Fuerza Bruta ➜ Elige tu estrategia:",
           "variant": [
             {
-              "detail": "Daño De Triturar 15% - 18% (Crítico 33% - 40%) ➜ Usar Teletransporte",
-              "variant": [
-                {
-                  "detail": "Si se queda ➜ Enviar a Politoed y espera que lo debiliten ➜ entra con Poliwrath +6 🐸🥊",
-                  "variant": []
-                },
-                {
-                  "detail": "Flygon ➜ Slowbro usa Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-                  "variant": []
-                },
-                {
-                  "detail": "Kabutops ➜ Slowbro usa Bostezo al enfrentar a Flygon ➜ usar Protección y Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-                  "variant": []
-                }
-              ]
+              "detail": "◉ Opción Rápida ➜ Quagsire y usa Bostezo hasta Beautifly, Salamence a +1",
+              "variant": []
             },
             {
-              "detail": "Daño De Triturar 19% - 23% (Crítico 43% - 51%) ➜ Chansey usa Encanto y Amortiguador esperando a Tyranitar ➜ sacrificar a Politoed ➜ entrar con Poliwrath y usa un Ataque X para Barrer 🔔(Cascada a Drapion y Puño Drenaje a Volcarona)🔔",
+              "detail": "◉ Opción Ahorro ➜ Volcarona y ataca Frente Flygon, Chansey Amortiguador Frente Kingler / Crustle, Quagsire Bostezo Frente Beautifly, Salamence x1",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Puya Nociva ➜ Cambiar a Slowbro y usa Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "Terremoto ➜ Cambiar a Slowbro y usar Bostezo al enfrentar a Scizor ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+          "detail": "◉ Acrobacia ➜ Amortiguador esperando a Flygon, Gengar otra vez x2 Frente Drapion, Scrafty x3 usa A Bocajarro para eliminar",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Kingler ➜ Slowbro usa Bostezo al enfrentar a Sceptile ➜ Volcarona +1",
-      "variant": []
-    },
-    {
-      "detail": "Durant ➜ Entrar con Gengar +4 (No usar Otra Vez) 🔔(Barre con Bola Sombra)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Escavalier ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊 fijo hasta llegar a Gastrodon",
-      "variant": []
-    },
-    {
-      "detail": "Scyther ➜ Chansey usa Encanto y Amortiguador esperando a Escavalier ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊 fijo hasta llegar a Gastrodon",
-      "variant": []
-    },
-    {
-      "detail": "Scizor ➜ Usar Amortiguador para identificar movimiento",
+      "detail": "◉ Flygon ➜ Gengar Otra vez , Volcarona :",
       "variant": [
         {
-          "detail": "Fuerza Bruta ➜ Slowbro usa Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊 🔔(Si el Bostezo le cae a Flygon usa Protección y Bostezo)🔔",
+          "detail": "◉ Ferrothorn ➜ Volcarona x2",
           "variant": []
         },
         {
-          "detail": "Acrobata ➜ Usar Teletransporte ➜ enviar a Slowbro para usar Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+          "detail": "◉ Drapion ➜ Scrafty x3 A Bocajarro Drapion",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Flygon ➜ Usar Teletransporte ➜ enviar a Slowbro y revisar daño",
+      "detail": "◉ Kingler ➜ Quagsire Bostezo Frente Sceptile, Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Durant ➜ Gengar +2 (No usar Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Skuntank ➜ Gengar Otra vez, cambia a Quagsire Frente Durant / Scizor , Bostezo Frente Octillery, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Tyranitar ➜ Quagsire Bostezo Frente Ferrothorn, Salamence recibiendo el ataque rival + usa Carga Nitro para eliminar a Ferrothorn",
+      "variant": []
+    },
+    {
+      "detail": "◉ Triturar【Sin Vidasfera】 ➜ Quagsire Bostezo:",
       "variant": [
         {
-          "detail": "29.4 - 34.5% (Crítico 43.7 - 51.7%) ➜ Usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-          "variant": []
+          "detail": "◉ Ferrothorn ➜ Salamence recibiendo el ataque rival + usa Carga Nitro para eliminar a Ferrothorn",
+          "variant": [
+            {
+              "detail": "◉【Inesperado】 Salamence recibe el ataque y el rival cambia a Flygon ➜ chansey, Pantalla Luz + Amortiguador",
+              "variant": [
+                {
+                  "detail": "◉ Flygon ➜ Gengar Otra Vez , Volcarona Frente Ferrothorn, Volcarona x2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Kabutops ➜ Quagsire Bostezo Frente Octillery, Salamence x1 🔔Bostezo a Ferrothorn, si no cambia, Bostezo otra vez🔔",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         },
         {
-          "detail": "36.5 - 44% (Crítico 54 - 65%) ➜ Usar Bostezo al enfrentar a Drapion ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+          "detail": "◉ Octillery ➜ Salamence x1 (si cambia a Flygon, ataque de Fuego para Ferrothorn)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Skuntank ➜ Sacrifica a Politoed ➜ cambiar a Volcarona luego a Gengar ➜ frente a Durant cambia a Slowbro y usa Bostezo luego Teletransporte ➜ entrar con Poliwrath +6 y usa Puño Drenaje ➜ 💊frente Crustle usar Velocidad X luego termina de Barrer💊",
+      "detail": "◉ Si cambias a Quagsire contra Tyranitar ➜ Usa Bostezo hasta Ferrothorn, subes a Salamence recibiendo el ataque rival + usa Carga Nitro para eliminar a Ferrothorn",
       "variant": []
     },
     {
-      "detail": "Tyranitar ➜ Poliwrath usa Puño Drenaje contra tyranitar ➜ al enfrentar a Ferrothorn cambia a Volcarona +1 🦋🔥 ",
-      "variant": []
+      "detail": "◉ Puya Nociva 【Sin Vidasfera】 ➜ Amortiguador esperando a Flygon, cambia a Gengar, Otra Vez, Volcarona",
+      "variant": [
+        {
+          "detail": "◉ Ferrothorn ➜ Volcarona x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Drapion ➜ Scrafty x3 A Bocajarro Drapion",
+          "variant": []
+        }
+      ]
     }
   ]
 }

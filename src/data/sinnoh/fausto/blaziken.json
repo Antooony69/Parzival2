@@ -2,6 +2,11 @@
   "id": "blaziken",
   "name": "Blaziken",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Slowbro y usar Bostezo al enfrentar a Maractus; sacrificar a Politoed; entrar con Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
-  "tricks": []
+  "initialMove": "Trampa Rocas, Gengar +4 No usar Otra Vez",
+  "tricks": [
+    {
+      "detail": "◉ 【Caso inesperado】Si entra Dragonite bola sombra Frente a Bronzong, Salamence x1",
+      "variant": []
+    }
+  ]
 }

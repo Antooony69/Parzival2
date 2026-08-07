@@ -5,16 +5,52 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda --> Usar Teletransporte para sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
+      "detail": "◉ Si el rival se queda ➜ Usa Amortiguador",
       "variant": []
     },
     {
-      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Usar Cascada contra Reuniclus / Si Volcarona despierta no es amenaza)🔔",
+      "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto ,Salamence x1",
       "variant": []
     },
     {
-      "detail": "Excadrill --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
-      "variant": []
+      "detail": "◉ Lucario ➜ Gengar +2 (no usar Otra Vez) y evalúa la situación",
+      "variant": [
+        {
+          "detail": "◉ Latias ➜ Sacrifica a Gengar, Quagsire Otra Vez + Bostezo, Scrafty x2",
+          "variant": [
+            {
+              "detail": "◉ Si usas Otra Vez y sale Volcarona ➜ Sacrifica a Scrafty, Salamence x3 + max pocion o raiz energia",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Volcarona ➜ Ataca para debilitar hasta Excadrill , sacrifica a Volcarona, Quagsire otra vez en Terremoto,  Salamence x2 (si huye Excadrill , Mira Como seguir )",
+          "variant": [
+            {
+              "detail": "◉ Reuniclus ➜ Sigue con Otra Vez y revisa el movimiento del rival:",
+              "variant": [
+                {
+                  "detail": "◉ Psicocarga ➜ Scrafty x2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Onda Certera ➜ Gengar otra vez +6 +2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉【Inesperado】 Si Lucario elimina a Gengar con Triturar ➜ Sacrifica a chansey, Salamence + Defensa X x1 danza dragon",
+          "variant": []
+        }
+      ]
     }
   ]
 }

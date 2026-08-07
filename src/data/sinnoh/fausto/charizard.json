@@ -5,12 +5,17 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Lopunny ➜ Cambiar a Slowbro y usar Bostezo al enfrentar a Maractus ➜ entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+      "detail": "◉ Lupunny ➜ Quagsire con Bostezo frente Cacturne, Volcarona x3",
       "variant": []
     },
     {
-      "detail": "Maractus ➜ Continua lanzando Trampa Rocas y recibes el Esfuerzo ➜ usa Amortiguador frente a Lopunny ➜ cambiar a Slowbro y usar Bostezo ➜ entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-      "variant": []
+      "detail": "◉ Cacturne ➜ Volcarona x3, GigaDrenado frente a Steelix",
+      "variant": [
+        {
+          "detail": "◉ Si al bostear entra Charizard Ataca Frente Entei, cambiar a Quagsire con Bostezo frente a Cacturne, Volcarona x3",
+          "variant": []
+        }
+      ]
     }
   ]
 }

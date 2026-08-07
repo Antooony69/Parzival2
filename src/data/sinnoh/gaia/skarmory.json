@@ -2,6 +2,11 @@
   "id": "skarmory",
   "name": "Skarmory",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨  al enfrentar a Absol; cambiar a Slowbro y usar Bostezo ; entrar con Volcarona (+1 🔔 Usar Psíquico al enfrentar a Gengar 🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨Frente Absol; Volcarona x1 ",
+  "tricks": [
+    {
+      "detail": "◉ skarmory se queda ➜ Amortiguador esperando el cambio , Quagsire Bostezo frente Nidoking, Volcarona x1 (Tener en cuenta: Hay riesgo de golpe crítico)",
+      "variant": []
+    }
+  ]
 }

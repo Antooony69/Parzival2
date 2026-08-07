@@ -5,56 +5,34 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Demolición --> Teletransporte ",
+      "detail": "◉ Parasect ➜ si al cambia a Volcarona, entra Rhyperior; GigaDrenado hasta eliminar; si sale Blastoise,  Chansey Amortiguador hasta que salga Parasect, Volcarona x1:",
       "variant": [
         {
-          "detail": "Si se queda --> Volcarona +1",
+          "detail": "◉ Demolición ➜ Volcarona x1",
           "variant": []
         },
         {
-          "detail": "Rhyperior --> Slowbro, Bostezo (Mira la situación) ",
-          "variant": [
-            {
-              "detail": "Acierta --> Teletransporte a Volcarona +1",
-              "variant": []
-            },
-            {
-              "detail": "Falla --> Cambia a Volcarona +1",
-          "variant": []
-            },
-            {
-              "detail": "Parasect --> Entrar con Volcarona +1",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "Rhyperior --> Usar Encanto y cambiar a Slowbro ",
-      "variant": [
-        {
-          "detail": "Si se queda --> Usar Bostezo al enfrentar a Parasect  entrar con Volcarona +1",
-          "variant": []
-        },
-        {
-          "detail": "Parasect --> Entrar con Volcarona +1",
+          "detail": "◉ Chupa Vida ➜ Volcarona x1 + max pocion o raiz energia",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Durant --> Opciones para resolver",
+      "detail": "◉ Rhyperior ➜ Encanto, Quagsire",
       "variant": [
         {
-          "detail": "Estable --> Cambiar a Slowbro y usar Bostezo al enfrentar a Gengar; entrar con Volcarona +1 🔔usar Psíquico al enfrentar a Gengar🔔",
+          "detail": "◉ Rhyperior no cambia ➜ Bostezo frente Parasect, Volcarona x1",
           "variant": []
         },
         {
-          "detail": "Arriesgado --> Entrar con Volcarona +1 🔔usar Psíquico al enfrentar a Gengar🔔",
+          "detail": "◉ Parasect ➜ Volcarona x1",
           "variant": []
         }
       ]
+    },
+    {
+      "detail": "◉ Durant ➜ Volcarona x1",
+      "variant": []
     }
   ]
 }

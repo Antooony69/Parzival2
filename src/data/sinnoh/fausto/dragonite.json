@@ -5,39 +5,51 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Blaziken ➜ Slowbro usa Bostezo Frente a Maractus ⬇️(Mira Las Soluciones)⬇️",
+      "detail": "◉ Dragonite (Puño Fuego) ➜ Amortiguador hasta que se retire",
+      "variant": []
+    },
+    {
+      "detail": "◉ Cacturne ➜ Gengar, cambiar a Salamence",
       "variant": [
         {
-          "detail": "Rápido ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Drenaje a Magmortar)🔔",
+          "detail": "◉ Magmortar ➜ Volcarona, cambiar a Quagsire frente Dragonite, Recuperación aguantando Cometa Draco, Bostezo frente Cacturne, Volcarona x2",
           "variant": []
         },
         {
-          "detail": "Ahorrar dinero ➜ Entrar con Volcarona +3 🦋🔥",
+          "detail": "◉ Steelix ➜ Volcarona, lanzallamas Frente Dragonite, Quagsire Recuperación aguantando Cometa Draco, Bostezo frente Cacturne, Salamence x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Bouffalant ➜ Gengar usa Maquinación ➜ Si entra Dragonite eliminalo con bola sombra",
+      "detail": "◉ Camerupt ➜ Amortiguador hasta que entre Bouffalant; 🔔contra Bouffalant, prohibido pantallas; si entra Cacturne, continuar con Amortiguador hasta que vuelva Bouffalant🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Blaziken ➜ Amortiguador, Gengar +4 (No usar Otra Vez)",
       "variant": [
         {
-          "detail": "Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Magmortar)🔔",
+          "detail": "◉ 【Caso inesperado】si entra Dagonite al bostear bola sombra  Frente Bronzong, Salamence x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bouffalant ➜ Gengar, cambiar a Salamence",
+      "variant": [
+        {
+          "detail": "◉ Steelix ➜ Volcarona, Lanzallamas Frente Dragonite, cambiar a Quagsire con Recuperación aguantando Cometa Draco, Bostezo frente Cacturne, Salamence x1",
           "variant": []
         },
         {
-          "detail": "Steelix ➜  Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Magmortar)🔔",
-          "variant": [
-            {
-              "detail": "🚨Arriesgado🚨 ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Magmortar ➜ Volcarona, cambiar a Quagsire frente Dragonite, Recuperación aguantando Cometa Draco, Bostezo frente Cacturne, Volcarona x2",
+          "variant": []
         }
-      ]   
+      ]
     },
     {
-      "detail": "Maractus ➜ Gengar Otra Vez +2 ➜ frente a Dragonite usa Bola Sombra ⬆️(Ver la Solucion de Bouffalant)⬆️",
+      "detail": "◉ Arcanine ➜ Gengar otra vez +2 ataca hasta Bronzong, Salamence x2",
       "variant": []
-    } 
-  ]   
-}  
+    }
+  ]
+}

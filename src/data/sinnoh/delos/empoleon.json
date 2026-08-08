@@ -2,6 +2,23 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6🔔",
-  "tricks": []
+  "initialMove": "🔔Trampa Rocas Frente Gallade , Gengar Otra Vez🔔",
+  "tricks": [
+    {
+      "detail": "◉ Dragonite ➜ Quagsire Bostezo frente Empoleon, Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Espada Santa ➜ Gengar Otra vez +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "◉ 【Caso inesperado】 Usa Otra Vez y recibe Sombra vil ➜ Scrafty x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Usas Otra Vez y Sale Hydreigon ➜ Chansey Amortiguador, Gallade, Gengar Otra Vez +6 +2",
+      "variant": []
+    }
+  ]
 }

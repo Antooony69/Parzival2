@@ -2,21 +2,21 @@
   "id": "medicham",
   "name": "Medicham",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Slowbro luego a Chansey💡",
+  "initialMove": "💡Gengar Bola Sombra💡",
   "tricks": [
     {
-      "detail": "Maractus --> Usar Trampa Rocas para recibir Esfuerzo luego usar Amortiguador frente a Medicham ➜ cambiar a Slowbro y usar Bostezo al enfrentar a Maractus ➜ entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+      "detail": "◉ Typhlosion / Steelix ➜ Chansey, Trampa Rocas hasta que salga Maractus, Volcarona x2 ⭐si Steelix no Cambia , cambiar a Quagsire  Bostezo frente Maractus, Volcarona x2⭐",
       "variant": []
     },
     {
-      "detail": "Magmortar --> Usar Trampa Rocas al enfrentar a Medicham 🔔(Revisar la salud de Medicham)🔔",
+      "detail": "◉ Bronzong ➜ Scrafty x2 ⭐ Si entra Magmortar Ataca ⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Ludicolo ➜ Chansey, Trampa Rocas, Gengar otra Vez +4 (si Ludicolo huye ignorar)",
       "variant": [
         {
-          "detail": "Vida completa --> Entrar con Gengar +4 (No usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "Vida baja --> Entrar con Gengar +2 y suicidarse al enfrentar a Bronzong ➜ entrar con Volcarona +1 ➜ frente a Medichan / Houndoom usar Especial X y terminar de Barrer",
+          "detail": "◉ Si Gengar se Bostea y entra Bronzong , Scrafty x2, ⭐ Si entra Magmortar Ataca , A Bocajarro frente a Bronzong ⭐",
           "variant": []
         }
       ]

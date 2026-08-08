@@ -2,6 +2,19 @@
   "id": "entei",
   "name": "Entei",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 ➜ cambiar a Slowbro y usar Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-  "tricks": []
+  "initialMove": "Encanto + Trampra Rocas",
+  "tricks": [
+    {
+      "detail": "◉ Lopunny ➜ Quagsire Bostezo frente Cacturne, Volcarona x3",
+      "variant": []
+    },
+    {
+      "detail": "◉ Maractus ➜ Volcarona x3, ⭐Gigadrenado Steelix⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Magmortar ➜ Gengar Otra Vez, Quagsire frente Steelix, Bostezo frente Cacturne, Volcarona x2",
+      "variant": []
+    }
+  ]
 }

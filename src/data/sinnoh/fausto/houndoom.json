@@ -1,7 +1,7 @@
 {
-  "id": "haxorus",
-  "name": "Haxorus",
+  "id": "houndoom",
+  "name": "Houndoom",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "⭐Amortiguador aguantando A Bocajarro, Gengar +6⭐",
+  "initialMove": "🪨Trampa Rocas🪨Frente Medicham, Gengar +4 (No usar Otra Vez)",
   "tricks": []
 }

@@ -5,64 +5,63 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Observar habilidad",
+      "detail": "◉ Puño Drenaje ➜ Gengar, cambiar a Salamence",
       "variant": [
         {
-          "detail": "Puño Drenaje ➜ Teletransporte ➜ Slowbro Bostezo ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
+          "detail": "◉ Steelix ➜ Volcarona, LanzaLlamas Frente Dragonite, Quagsire  Recuperación aguantando Cometa Draco, Bostezo frente Maractus, Salamence x1",
           "variant": []
         },
         {
-          "detail": "Esfuerzo ➜ Amortiguador",
-          "variant": [
-            {
-              "detail": "Lopunny / Medicham ➜ Slowbro Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Magmortar ➜ Gengar Otra Vez +2 luego Presionar hasta Steelix ➜ Slowbro Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Magmortar ➜ Volcarona, cambiar a Quagsire frente Dragonite, Recuperación aguantando Cometa Draco, Bostezo frente Maractus, Volcarona x2",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Bouffalant ➜ Gengar usar Maquinación frente a Dragonite luego usa Bola Sombra",
+      "detail": "◉ Esfuerzo ➜ Amortiguador hasta que salga Lopunny / Medicham / Magmortar",
       "variant": [
         {
-          "detail": "Magmortar ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "detail": "◉ Lopunny ➜ Quagsire Bostezo frente Maractus, Volcarona x2 ⭐Lopunny GigaDrenado⭐",
           "variant": []
         },
         {
-          "detail": "Steelix ➜ Slowbro Bostezo ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
-          "variant": [
-            {
-              "detail": "🚨Arriesgado🚨 ➜ Sacrificar directamente a Politoed ➜ Poliwrath +6",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Medicham ➜ Gengar bola sombra Frente Steelix / Typhlosion, cambiar a Chansey Amortiguador hasta que salga Maractus, Volcarona x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Magmortar ➜ Gengar Otra Vez, cambiar a Quagsire Bostezo frente Maractus, Volcarona x2",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Lopunny / Medicham ➜ Slowbro usa Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+      "detail": "◉ Blaziken ➜ Amortiguador, Gengar +4 (No usar Otra Vez)",
+      "variant": [
+        {
+          "detail": "◉ 【Caso inesperado】Si entra Dragonite cuando usas maquinacion ataca hasta Bronzong, Salamence x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bouffalant ➜ Gengar, cambiar a Salamence",
+      "variant": [
+        {
+          "detail": "◉ Steelix ➜ Volcarona, Lanzallamas Frente Dragonite, cambiar a Quagsire Bostezo frente maractus, Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Magmortar ➜ Volcarona, cambiar a Quagsire frente Dragonite, Bostezo frente Maractus, Volcarona x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Arcanine ➜ Gengar Otra Vez +2 ataca Frente Bronzong, Salamence x2",
       "variant": []
     },
     {
-      "detail": "Blaziken / Arcanine ➜ Slowbro usa Bostezo frente a Maractus",
-      "variant": [
-        {
-          "detail": "Rápido → Sacrificar a Politoed ➜ Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Ahorrar dinero ➜ Volcarona +3",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Camerupt ➜ Slowbro Bostezo ➜ Sacrificar a Politoed ➜ Poliwrath +6",
+      "detail": "◉ Camerupt ➜ Amortiguador hasta que salga Bouffalant, ⭐ver Ruta Vs Bouffalant (prohibido poner pantallas), al salir Cacturne ver la rama de Puño Drenaje de Cacturne⭐",
       "variant": []
     }
   ]

@@ -5,25 +5,26 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Medicham ➜ Entrar con Gengar +4 (No usar Otra Vez)",
+      "detail": "◉ Medicham ➜ Gengar +4 (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Conkeldurr ➜ Entrar con Gengar Otra vez +2",
+      "detail": "◉ Conkeldurr ➜ Gengar otra vez +2; si no se va el rival, +6 +2",
       "variant": [
         {
-          "detail": "Si se Queda ➜ Gengar +4 + Precisión X",
-          "variant": []
-        },
-        {
-          "detail": "Salamence ➜ Bola sombra a Salamence ➜ Frente a Steelix ➜ sacrifica a Politoed ➜ Poliwrath usar Ataque X y Barrer 🔔(Cascada a Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Ludicolo ➜ Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-          "variant": []
+          "detail": "◉ Steelix ➜ Quagsire Bostezo frente Ludicolo, Volcarona x3",
+          "variant": [
+            {
+              "detail": "◉ Si Entra Rapidash al bostear ➜ Ataca , ⭐ Si Magmortar sale antes que Salamence: Usa Especial X ⭐",
+              "variant": []
+            }
+          ]
         }
       ]
+    },
+    {
+      "detail": "◉ Ludicolo ➜ Salamence x1 (2 ataques a Steelix)",
+      "variant": []
     }
   ]
 }

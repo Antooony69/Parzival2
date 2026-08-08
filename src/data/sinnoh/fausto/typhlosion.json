@@ -2,6 +2,20 @@
   "id": "typhlosion",
   "name": "Typhlosion",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Medicham ➜ Slowbro usa Bostezo frente a Maractus ➜ entra con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨 ",
+  "tricks": [
+    {
+      "detail": "◉ Medicham ➜ Gengar Bola Sombra Frente Typhlosion / Steelix, Chansey Amortiguador Frente Maractus, Volcarona x2",
+      "variant": [
+        {
+          "detail": "◉ Si Steelix no se va ➜ Quagsire Bostezo frente Maractus, Volcarona x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Si Sale Magmortar al usar Amortiguador ➜ Pantalla luz , Frente Maractus, Volcarona x2 ⭐si no se va Magmortar, usar Amortiguador⭐",
+      "variant": []
+    }
+  ]
 }

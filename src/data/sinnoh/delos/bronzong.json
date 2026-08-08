@@ -2,16 +2,24 @@
   "id": "bronzong",
   "name": "Bronzong",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 ",
+  "initialMove": "🪨 Trampa Rocas 🪨 Frente Gallade, Gengar otra Vez +2 bola sombra ",
   "tricks": [
     {
-      "detail": "◉ Gallade ➜ Gengar Otra vez +6 +2 + Precisión X ",
+      "detail": "◉ Hydreigon ➜ Chansey y revisar movimiento",
       "variant": [
         {
-          "detail": "⚠️ Aviso No te Olvides De Usar Otra Vez ⚠️",
+          "detail": "◉ Llamarada ➜ Quagsire Bostezo Frente Ninetales, Volcarona x3",
+          "variant": []
+        },
+        {
+          "detail": "◉ Cometa Draco ➜ Pantalla Luz, Scrafty x2",
           "variant": []
         }
       ]
+    },
+    {
+      "detail": "◉ Bronzong ➜ Quagsire Bostezo Frente Ninetales, Volcarona x3",
+      "variant": []
     }
   ]
 }

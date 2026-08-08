@@ -2,6 +2,15 @@
   "id": "lopunny",
   "name": "Lopunny",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 ➜ Slowbro usa Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-  "tricks": []
+  "initialMove": "⭐Trampa Rocas, Quagsire Bostezo frente Maractus, Volcarona x3 ⭐ Gigadrenado a Steelix⭐",
+  "tricks": [
+    {
+      "detail": "◉ Si sale Charizard ➜ Ataca hasta que salga Entei, Quagsire, cambiar a Volcarona frente Cacturne, Volcarona x3 (Ruta De Testeo)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si sale Entei ➜ Quagsire, Volcarona frente Cacturne, Volcarona x3",
+      "variant": []
+    }
+  ]
 }

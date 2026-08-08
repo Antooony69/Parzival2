@@ -5,59 +5,104 @@
   "initialMove": "🪨Trampa Rocas🪨 🔔(Si se queda usa Amortiguador)🔔",
   "tricks": [
     {
-      "detail": "Conkeldurr --> Entrar con Gengar Otra Vez +2",
+      "detail": "◉ Bouffalant ➜ Gengar, cambiar a Salamence",
       "variant": [
         {
-          "detail": "Si se queda --> 💊Gengar +4 + Precisión X💊",
+          "detail": "◉ Steelix ➜ Volcarona, Lanzallamas Frente Dragonite, cambiar a Quagsire Recuperación aguantando Cometa Draco, Bostezo frente Maractus, Salamence x1",
           "variant": []
         },
         {
-          "detail": "Salamence --> Barre hasta enfrentar a Steelix ➜ sacrificar a Politoed ➜ 💊entrar con Poliwrath + Ataque X y Barrer💊 🔔(Cascada contra Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Ludicolo --> Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ entrar con Poliwrath +6",
-          "variant": []
-        } 
-      ]  
-    },
-    {
-      "detail": "Maractus --> Usar Trampa Rocas para recibir Esfuerzo luego usar Amortiguador ",
-      "variant": [
-        { 
-          "detail": "Lopunny/Medicham --> Cambiar a Slowbro y usar Bostezo al enfrentar a Maractus, entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Magmortar --> Entrar con Gengar Otra Vez +2 y Barrer hasta Steelix ➜ cambiar a Slowbro y usar Bostezo al enfrentar a Maractus ➜ entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "detail": "◉ Magmortar ➜ Volcarona, cambiar a Quagsire frente Dragonite, Recuperación aguantando Cometa Draco, Bostezo frente Maractus, Volcarona x2",
           "variant": []
         }
-      ]  
+      ]
     },
     {
-      "detail": "Bouffalant --> Cambiar a Gengar y usar Maquinación (No usar Otra Vez) ➜ frente a Dragonite usa Bola Sombra",
+      "detail": "◉ Conkeldurr ➜ Gengar +2",
       "variant": [
         {
-          "detail": "Magmortar --> Sacrificar a Politoed luego entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Steelix --> Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed luego entrar con Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "detail": "◉ Ludicolo ➜ Salamence x1 (si Cambia a Salamence Sigue Atacando )",
           "variant": [
             {
-              "detail": "🚨Arriesgado🚨 --> Sacrificar directamente a Politoed y entrar con Poliwrath +6",
+              "detail": "◉ Si sufre quemadura y Sale Salamence sigue Atacando Frente Steelix, Terremoto + usar Restaura Todo, y seguir atacando",
               "variant": []
             }
-          ]  
-        }  
-      ]    
+          ]
+        },
+        {
+          "detail": "◉ Steelix ➜ Salamence, cambiar a Quagsire Bostezo frente Ludicolo, Volcarona x3",
+          "variant": [
+            {
+              "detail": "◉ Si Volcarona Se bostea y entra Rapidash Sigue Atacando Si entra Magmortar primero que Salamente Usa Especial X y Ataca",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Salamence ➜ Ataca para ver quién sale primero",
+          "variant": [
+            {
+              "detail": "◉ Steelix ➜ cambiar a Quagsire Bostezo frente Ludicolo, Volcarona x3 / Salamence x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Ludicolo ➜ Maquinación Ataca hasta Steelix, Quagsire Bostezo frente  Magmortar, Volcarona x3",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Lopunny/Medicham --> Cambiar a Slowbro y usar Bostezo al enfrentar a Maractus ➜ entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+      "detail": "◉ Lopunny ➜ Quagsire Bostezo frente Maractus, Volcarona x2",
       "variant": []
     },
     {
-      "detail": "Camerupt --> Usar Amortiguador y esperar al cambio de Bouffalant ⬆️(Ver Solucion de Bouffalant)⬆️",
+      "detail": "◉ Camerupt ➜ Amortiguador para forzar cambio a Bouffalant, ver estrategia contra Bouffalant (prohibido poner pantallas)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Maractus ➜ Volcarona y revisar movimiento",
+      "variant": [
+        {
+          "detail": "◉ Puño Drenaje ➜ Chansey, cambiar a Gengar Otra Vez, cambiar a Salamence",
+          "variant": [
+            {
+              "detail": "◉ Magmortar ➜ Volcarona, cambiar a Quagsire frente Dragonite, Bostezo frente Maractus, Volcarona x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Steelix ➜  Volcarona, LanzaLlamas Frente Dragonite, cambiar a Quagsire Bostezo frente Maractus, Salamence x1",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Si entras Gengar y entra Bouffalant ➜ Salamence Garra Dragón",
+          "variant": [
+            {
+              "detail": "◉ Dragonite ➜ Ataca Frente Steelix, cambiar a Quagsire Bostezo frente Maractus, Volcarona x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Steelix ➜ Volcarona, Lanzallamas Frente Dragonite, cambiar a Quagsire Recuperación aguantando Cometa Draco, Bostezo frente Maractus, Volcarona x2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Esfuerzo ➜ Volcarona x2",
+          "variant": [
+            {
+              "detail": "◉ Si Charizard entra Cuando Bosteas ➜ Ataca Frente Entei, Quagsire Bostezo frente Maractus, Volcarona x2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Medicham ➜ Gengar Bola Sombra Frente Steelix / Typhlosion, Chansey Amortiguador Frente Maractus, Volcarona x2 (si Steelix no se va, Quagsire Bostezo hasta que salga Maractus, Volcarona x2",
       "variant": []
     }
   ]

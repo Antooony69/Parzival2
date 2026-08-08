@@ -2,18 +2,19 @@
   "id": "conkeldurr",
   "name": "Conkeldurr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 luego cambia a Gengar Otra Vez +2",
+  "initialMove": "Gengar otra vez cambiar a Chansey Trampa Rocas Frente Conkeldurr, Gengar otra vez +2",
   "tricks": [
     {
-      "detail": "Si se Queda ➜ Gengar +4 + Precisión X",
-      "variant": []
+      "detail": "◉ Steelix ➜ Quagsire con Bostezo frente a Ludicolo, Volcarona x3",
+      "variant": [
+        {
+          "detail": "◉ si entra Rapidash Ataca Psiquico Si Magmortar sale primero que salamence usa un Especial X y ataca",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Salamence ➜ Bola sombra a Salamence ➜ Frente a Steelix ➜ sacrifica a Politoed ➜ Poliwrath usar Ataque X y Barrer 🔔(Cascada contra Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Ludicolo ➜ Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "detail": "◉ Ludicolo ➜ Salamence x1",
       "variant": []
     }
   ]

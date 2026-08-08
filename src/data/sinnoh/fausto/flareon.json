@@ -2,6 +2,11 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Gengar Otra Vez +6👻 🔔(Barrer con Bola Sombra)🔔 🚨(Si cambia a Bronzong ➜ sacrifica a Politoed luego entra Poliwrath +6)🚨 ",
-  "tricks": []
+  "initialMove": "👻Gengar Otra Vez +6👻  ",
+  "tricks": [
+    {
+      "detail": "◉ 【Caso inesperado】 Si Entra Bronzong ➜ Chansey Amortiguador Frente Haxorus, Amortiguador aguantando A Bocajarro, Gengar +6",
+      "variant": []
+    }
+  ]
 }

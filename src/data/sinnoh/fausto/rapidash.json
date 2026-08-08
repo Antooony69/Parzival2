@@ -2,18 +2,19 @@
   "id": "rapidash",
   "name": "Rapidash",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Conkeldurr ➜ entrar con Gengar Otra Vez +2",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Conkeldurr ➜ Gengar Otra Vez +2",
   "tricks": [
     {
-      "detail": "Si se Queda --> Gengar +4 + Precisión X",
-      "variant": []
+      "detail": "◉ Steelix ➜ Quagsire Bostezo frente Ludicolo, Volcarona x1 + Especial X",
+      "variant": [
+        {
+          "detail": "◉ Si entra Rapidash al Bostear ataca, Si entra Salamence Ataca Cuando Entre Magmortar Usa Especial X y ataca",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Salamence --> Barrer hasta a Steelix ➜ sacrificar a Politoed ➜ entrar con Poliwrath y usar Ataque X 🔔(Cascada a Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Ludicolo --> Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed entrar con Poliwrath +6",
+      "detail": "◉ Ludicolo ➜ Quagsire, cambiar a Volcarona x1 + Especial X",
       "variant": []
     }
   ]

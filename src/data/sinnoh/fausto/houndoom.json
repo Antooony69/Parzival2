@@ -1,12 +1,7 @@
 {
-  "id": "houndoom",
-  "name": "Houndoom",
+  "id": "haxorus",
+  "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
-  "tricks": [
-    {
-      "detail": "Frente a Medicham ➜ Gengar +4 🔔No usar Otra Vez / Medichan Tiene Pañuelo🔔",
-      "variant": []
-    }
-  ]
+  "initialMove": "⭐Amortiguador aguantando A Bocajarro, Gengar +6⭐",
+  "tricks": []
 }

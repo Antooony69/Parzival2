@@ -5,30 +5,25 @@
   "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Fuerza Bruta --> Entrar con Slowbro y usar Bostezo ",
+      "detail": "◉ Fuerza Bruta ➜ Trampa Rocas hasta que salga Gallade, Gengar Otra vez +2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Gallade ➜ Gengar otra vez + Bola Sombra Frente Dragonite, Chansey, Trampa Rocas",
       "variant": [
         {
-          "detail": "Ninetales --> Usar Protección  y Bostezo ; sacrificar a Politoed ; entrar con Poliwrath +6",
+          "detail": "◉ Gallade ➜ Gengar otra Vez, Quagsire con Bostezo frente a Empoleon, Salamence x1",
           "variant": []
         },
         {
-          "detail": "Absol --> Sacrificar a Politoed  entrar con Poliwrath  +6; abrir y observar la situación",
-          "variant": [
-            {
-              "detail": "Situación ① Girafarig  vs Ninetales (primer enfrentamiento) --> Usar Velocidad X y presionar de nuevo",
-              "variant": []
-            },
-            {
-              "detail": "Situación ② Ninetales vs Girafarig  (primer enfrentamiento) --> Presionar directamente; si no hay golpe crítico no debilita; si hay golpe crítico y cae, entrar con Gengar  +2 para completar",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Si no se va ➜ Quagsire con Bostezo frente a Empoleon, Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Medicham ➜ Gengar y ataca Frente Dragonite, Quagsire Bostezo frente Empoleon, Salamence x1",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "Gallade--> Entrar con Slowbro y usar Bostezo al enfrentar a Raichu; sacrificar a Politoed  entrar con Poliwrath  +6",
-      "variant": []
     }
   ]
 }

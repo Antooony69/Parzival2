@@ -2,32 +2,38 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 🔔(Si se Queda usa Amortiguador)🔔",
+  "initialMove": "🔔Mira Que Habilidad Tiene🔔",
   "tricks": [
     {
-      "detail": "Conkeldurr ➜ Entrar con Gengar Otra Vez +2",
+      "detail": "◉ Intimidación ➜ Trampa Rocas Frente Medicham,  Gengar y Bola sombra",
       "variant": [
         {
-          "detail": "Si se Queda ➜ Gengar +4 + Precisión X",
+          "detail": "◉ Typhlosion / Steelix ➜ Chansey Amortiguador Frente Maractus, Volcarona x2; si Steelix se queda, Quagsire Bostezo frente Maractus, Volcarona x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Sin Intimidación ➜ Trampa Rocas",
+      "variant": [
+        {
+          "detail": "◉ Haxorus ➜ Amortiguador aguantando A Bocajarro, Gengar  Otra Vez +6",
           "variant": []
         },
         {
-          "detail": "Salamence ➜ Ataca con Bola Sombra ➜ frente a Steelix ➜ sacrifica a Politoed ➜ entrar con Poliwrath y usar Ataque X  🔔(Cascada a Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Ludicolo ➜  Cambia a Slowbro y usar Bostezo ➜ sacrifica a Politoed y entrar con Poliwrath +6🐸🥊",
-          "variant": []
-        }  
-      ]     
-    },
-    {
-      "detail": "Medicham ➜ Cambiar a Slowbro y usar Bostezo Frente a Maractus ➜ entra con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus ➜ Usa Amortiguador o Teletransporte y entra con Gengar Otra Vez +6 🔔(Barre con Bola Sombra)🔔",
-      "variant": []
+          "detail": "◉ Conkeldurr ➜ Gengar Otra Vez +2 Ataca hasta Steelix, Quagsire Bostezo frente Ludicolo, Volcarona x3 ⭐si Ludicolo sale primero, Mira Abajo⭐",
+          "variant": [
+            {
+              "detail": "◉ 【Caso inesperado】 Ludicolo sale primero ➜ Salamence x1 (2 golpes a Steelix",
+              "variant": []
+            },
+            {
+              "detail": "◉ Volcarona Se Bostea y entra Rapidash ataca y si entra Salamance sigue atacando Si entra Magmortar usar Especial X y ataca",
+              "variant": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }

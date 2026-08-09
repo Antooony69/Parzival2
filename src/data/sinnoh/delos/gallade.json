@@ -2,102 +2,158 @@
   "id": "gallade_2",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Cambia a Gengar👻",
+  "initialMove": "⭐👻Gengar👻⭐",
   "tricks": [
     {
-      "detail": "Espada Santa ➜ Gengar usa Otra Vez",
+      "detail": "◉ Si entra el Segundo Gallade ➜ Scrafty, Gengar Otra Vez +6",
+      "variant": []
+    },
+    {
+      "detail": "◉ Espada Santa ➜ Gengar usa Otra Vez",
       "variant": [
         {
-          "detail": "Gallade pega Segundo ➜ Cambiar a Slowbro",
+          "detail": "◉ Espada Santa Golpea Segundo a Gengar ➜ Maquinación Frente Kecleon, Scrafty x2; Si gallade no cambia, Gengar otra vez +4 +2 ⭐Si Kecleon hace Critico a Gengar Muere ⭐ si Quieres evitar el crítico, Mata a Gallade y entra Kecleon, luego Scrafty x2⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Espada Santa Es Mas Rapido que Gengar ➜ Bola Sombra",
           "variant": [
             {
-              "detail": "Si se queda ➜ Usar Bostezo😴",
+              "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
               "variant": [
-                 {
-                   "detail": "Gardevoir ➜ Entrar con Chansey y usar Trampa Rocas ➜ Frente a Gallade 💊entra con Gengar +6 +2 + Precisión X💊",
-                   "variant": []
-                 },
-                 {         
-                   "detail": "Golduck / Absol ➜ Cambia a Chansey y usar Trampa Rocas",
-                   "variant": [
-                     {         
-                       "detail": "Absol ➜ 👻Cambia a Gengar 4+2👻",
-                       "variant": []
-                     },
-                     { 
-                       "detail": "Gallade ➜ 👻Cambia a Gengar 4+2👻 🔔(No usar Otra Vez)🔔",
-                       "variant": []
-                     }
-                   ] 
-                 },
-                 { 
-                   "detail": "Hydreigon ➜ Sacrifica a Politoed 🔔(Identifica el Movimiento)🔔",
-                   "variant": [
-                     { 
-                       "detail": "Pulso Dragon ➜ Cambiar a Chansey y usar Trampa Rocas ➜ Frente a Gallade ➜ 💊entra con Gengar +6 +2 + Precisión X💊",
-                       "variant": []
-                     },
-                     {   
-                       "detail": "Pulso Umbrío ➜ Entrar con Poliwrath +6",
-                       "variant": []
-                     } 
-                   ]
-                 },
-                 {  
-                    "detail": "Raichu ➜ Sacrifica a Politoed ➜ Poliwrath +6",
-                    "variant": []
-                 }   
-               ]
-            },
-            {  
-              "detail": "Dragonite ➜ Usar Bostezo😴",
-              "variant": [
-                {  
-                  "detail": "Raichu ➜ Sacrifica a Politoed ➜ Poliwrath +6",
-                  "variant": []
-                },
                 {
-                  "detail": "Absol ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Observa tu situación)🔔",
+                  "detail": "◉ Vidasfera ➜ Gengar Otra vez +2 y evaluar situación",
                   "variant": [
                     {
-                      "detail": "Si entra Girafarig primero que ninetales ➜ Usar Velocidad X y presionar de nuevo",
-                      "variant": []
-                    },
-                    {  
-                      "detail": "Si entra Ninetales Primero que Girafarig ➜ Sigue Atacando si no hay golpe crítico no debilita 🚨(Si hay golpe crítico y cae, entra con Gengar +2 para completar)🚨",
-                      "variant": []
-                    }  
+                      "detail": "◉ Empoleon ➜ Salamence x1",
+                      "variant": [
+                        {
+                          "detail": "◉ Si no se va Hydreigon ➜ Gengar otra vez +6  +2",
+                          "variant": []
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
-                  "detail": "Ninetales ➜ Usar Protección y Bostezo ➜ Frente a Absol ➜ sacrifica a Politoed ➜ Poliwrath +6",
-                  "variant": []
+                  "detail": "◉ Sin Vidasfera ➜ Pantalla Luz + Trampa Rocas",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se va Hydreigon ➜ Scrafty x2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Gardevoir o Gallade ➜ Gengar otra Vez +6 +2",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
-            }  
-          ]  
-        },
-        {
-          "detail": "Gallade Pega primero ➜ 💊Gengar 2+2 + Precision X💊 🔔(No usar Otra Vez)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Lo atrapas en Golpe bajo ➜ Sacrifica a Politoed ➜ Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Gallade usa Proteccion ➜ Gengar usa Maquinación y atacar hasta debilitar ➜ al enfrentar a Raichu ➜ entra con Chansey y usar Trampa Rocas al enfrentar a Absol ➜ entra con Gengar +4 +2",
-          "variant": []
-        },
-        {
-          "detail": "Cambia a Dragonite ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Raichu ➜ sacrifica a Politoed ➜ entra con Poliwrath +6",
-          "variant": []          
-        } 
-      ]  
+            },
+            {
+              "detail": "◉ Dragonite ➜ Chansey y evaluar daño de Garra Dragón",
+              "variant": [
+                {
+                  "detail": "◉ 33% - 39% De Vida ➜ Quagsire Bostezo frente Ninetales, Salamence x1",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ 21% - 24.7% De Vida ➜ Volcarona frente Medicham, Scrafty x2 (medicham pañuelo)",
+                  "variant": [
+                    {
+                      "detail": "◉ Si Dragonite Entra cuando te Bosteas ➜ Quagsire Bostezo frente Empoleon, Salamence x1",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Segundo Gallade ➜ Sacrifica a Politoed ➜ enviar a Chansey ➜ entra con Gengar +6 🔔(Usar Bola Sombra para Barrer)🔔",
+      "detail": "◉ Si no Cambia ➜ Ataca y eliminalo",
+      "variant": [
+        {
+          "detail": "◉ Espeon ➜ Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Raichu ➜ Chansey, Trampa Rocas Frente Absol (Banda Focus), Gengar Otra vez +4 +2 ⭐ si sale Lucario, Chansey  Amortiguador Frente Absol otra vez +4 +2⭐",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
+      "variant": [
+        {
+          "detail": "◉ Sin Vidasfera ➜ Pantalla Luz + Trampa Rocas, revisar movimiento",
+          "variant": [
+            {
+              "detail": "◉ Cometa Draco ➜ Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Llamarada ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gardevoir o Gallade ➜ Gengar otra vez +6 +2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Vidasfera ➜ Gengar Otra Vez +2 y evaluar situación",
+          "variant": [
+            {
+              "detail": "◉ Si no se va ➜ Gengar +6 / +2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Empoleon ➜ Salamence x1",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bronzong ➜ Chansey, Trampa Rocas",
+      "variant": [
+        {
+          "detail": "◉ Hydreigon ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+          "variant": []
+        },
+        {
+          "detail": "◉ Lucario ➜ Chansey, Trampa Rocas hasta que salga tipo Lucha, Gengar Otra vez +4 +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
       "variant": []
+    },
+    {
+      "detail": "◉ Protección ➜ Gengar +2 y atacar, cambiar a Chansey, Trampa Rocas Frente Absol, Gengar +4 +2 ( si Gallade te quema Curate En Este Gallade no hace Falta Otra vez)",
+      "variant": [
+        {
+          "detail": "◉ Si sale Lucario ➜ Chansey Amortiguador Frente Absol, Gengar Otra vez +4 +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Dragonite ➜ Chansey, cambiar a Volcarona frente Medicham, Scrafty x2",
+      "variant": [
+        {
+          "detail": "◉ Si Dragonite Mientras Te Bosteas usa Triturar, cambiar a Quagsire Bostezo frente Empoleon, Salamence x1",
+          "variant": []
+        }
+      ]
     }
   ]
 }

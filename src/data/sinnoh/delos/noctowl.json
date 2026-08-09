@@ -2,6 +2,37 @@
   "id": "noctowl",
   "name": "Noctowl",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 al enfrentar a Gallade o Roserade; entrar con Gengar +6/+2 + Precisión",
-  "tricks": []
+  "initialMove": "🪨 Trampa Rocas 🪨 Frente Gallade Gengar Otra Vez +2 ⭐Si Noctowl no cambia usa trampa rocas hasta que cambie⭐",
+  "tricks": [
+    {
+      "detail": "◉ Hydreigon ➜ Chansey y revisar movimiento",
+      "variant": [
+        {
+          "detail": "◉ Pulso Dragón  ➜ Pantalla Luz y evaluar situación",
+          "variant": [
+            {
+              "detail": "◉ Hydreigon no cambia ➜ Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gardevoir ➜ Scrafty x2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Llamarada ➜ Quagsire Bostezo Frente Ninetales, Volcarona x3",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+      "variant": []
+    },
+    {
+      "detail": "◉ No cambio  ➜ Atacar hasta eliminar y ver quién entra",
+      "variant": []
+    }
+  ]
 }

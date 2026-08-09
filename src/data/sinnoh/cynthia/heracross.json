@@ -2,18 +2,23 @@
   "id": "heracross",
   "name": "Heracross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Teletransporte 💡 (Revisar objeto)",
+  "initialMove": "⭐ Amortiguador ⭐",
   "tricks": [
     {
-      "detail": "Tiene Vidasfera --> Entrar con Gengar +4 + Precisión",
-      "variant": []
+      "detail": "◉ Con Vidasfera ➜ Gengar Otra vez +2 hasta que salga Tyranitar, sacrificar a Gengar, Scrafty x3 Abocajarro frente a Heracross y Bronzong.",
+      "variant": [
+        {
+          "detail": "◉ 【Caso inesperado】 Gengar +2 frente a Excadrill ➜ Cambiar a Salamence, cambiar a Scrafty, usa Puño Drenaje Frente Heracross; Gengar Otra Vez, cambiar a Scrafty frente a Tyranitar, Scrafty x3 ⭐Abocajarro Heracross, Bronzong⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ 【Caso inesperado】 Heracross no se retira ➜ Ataca y Frente Tyranitar y Scrafty x3 ⭐Si es Posible curate⭐",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Sin Vidasfera --> Entrar con Gengar +6 (No usar Otra Vez) y usar Onda Certera contra Clefable",
-      "variant": []
-    },
-    {
-      "detail": "Cambio a Bronzong enemigo --> Sacrificar a Politoed; entrar con Poliwrath +6",
+      "detail": "◉ Sin Vidasfera ➜ Gengar +6 (No usar Otra Vez).",
       "variant": []
     }
   ]

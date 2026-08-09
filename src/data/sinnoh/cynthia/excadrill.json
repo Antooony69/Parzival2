@@ -2,24 +2,11 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Cambiar a Politoed 💡",
+  "initialMove": "Encanto + Trampa Rocas Frente Heracross ➜ Gengar Otra Vez, Scrafty frente Tyranitar, Scrafty +3 ⭐Cuida la salud de scrafty, A bocajarro a Heracross y Bronzong⭐ ",
   "tricks": [
     {
-      "detail": "◉ Si Excadrill no cambia ➜ deja que Politoed se debilite y entra con chansey usa amortiguador Frente a Heracross ,chansey usa Teletransporte y entra con Gengar Otraz vez +4 + Precisión X",
+      "detail": "◉ 【Caso inesperado】Excadrill Entra Y Gengar uso otra vez ➜ scrafty puño dranaje Frente Heracross , Gengar otra vez , Scrafty Frente Tyranitar Scrafty x3",
       "variant": []
-    },
-    {
-      "detail": "◉ Heracross ➜ Deja que muera Politoed y observa qué movimiento usa",
-      "variant": [
-        {
-          "detail": "◉ Tiene A bocajarro ➜ Entra Gengar Otra vez +4 + Precisión X",
-          "variant": []
-        },
-        {
-          "detail": "◉ No tiene A bocajarro ➜ Chansey Teletransporte ; entra Gengar otra vez +4 + Precisión X",
-          "variant": []
-        }
-      ]
     }
   ]
 }

@@ -2,14 +2,18 @@
   "id": "braviary",
   "name": "Braviary",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 cambiar a Slowbro y usar Bostezo",
+  "initialMove": "⭐Gengar Otra Vez y Mira La Solucion abajo⭐",
   "tricks": [
     {
-      "detail": "Serperior --> Usar Teletransporte; entrar con Volcarona +2 y usar Especial X 🔔(Mantener PS por encima del 29%)🔔",
+      "detail": "◉ 【Caso inesperado】 Gengar usa Otra Vez y entra Bastiodon ➜ Chansey frente  Braviary, Gengar otra vez +2 Frente Bastiodon; usar Maquinación si no usa reprecion metalica usa otra vez y ataca",
       "variant": []
     },
     {
-      "detail": "Jellicent --> Usar Protección; cambiar a Volcarona ante Serperior; Volcarona +2 y usar Especial X 🔔(Mantener PS por encima del 29%)🔔",
+      "detail": "◉ Si no se va ➜ Gengar  Otra Vez +4",
+      "variant": []
+    },
+    {
+      "detail": "◉ Bastiodon ➜ Usar Maquinación, ver si usa reprecion metalica y si no la usa , usar otra vez y maquinacion y ataca",
       "variant": []
     }
   ]

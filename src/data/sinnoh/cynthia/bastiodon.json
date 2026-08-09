@@ -2,14 +2,27 @@
   "id": "bastiodon",
   "name": "Bastiodon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨; cambiar a Slowbro y usar Bostezo si no cambia seguir usando bostezo",
+  "initialMove": "⭐🪨Trampa Rocas 🪨⭐",
   "tricks": [
     {
-      "detail": "Serperior --> 💊Entrar con Volcarona +2 y usar Atk. Especial X💊 🚨(Mantener PS por encima del 29%)🚨",
+      "detail": "◉ Si Bastiodon No Cambia ➜ Gengar, Maquinación ⭐ Si usa Reprecion Metalica no usar Otra Vez y si usa otro movimiento usa otra vez y maquinacion , ataca⭐",
+      "variant": [
+        {
+          "detail": "◉ Cambiar a Gengar frente a Garchomp ➜ Sacrificar a Volcarona, Gengar usa Otra Vez sobre Terremoto, Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si sale otro Pokémon al usar Maquinación ➜ Atacar hasta que entre Bastiodon ⭐Maquinación Si usa Reprecion Metalica no usar Otra Vez y si usa otro movimiento usa otra vez y maquinacion , ataca⭐",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Garchomp ➜ Sacrificar a Scrafty, Gengar usa Otra Vez en Terremoto, Salamence x1.",
       "variant": []
     },
     {
-      "detail": "Jellicent --> Usar Protección, luego bostezo; cambiar a Volcarona ante Serperior; 💊Volcarona +2 y AtkSpecial X💊 🚨(Mantener PS por encima del 29%)🚨",
+      "detail": "◉ Jellicent ➜ Quagsire con Bostezo hasta que salga Serperior, Volcarona x2 + Especial X",
       "variant": []
     }
   ]

@@ -2,24 +2,6 @@
   "id": "clefable",
   "name": "Clefable",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚Trampa Rocas + Amortiguador🥚",
-  "tricks": [
-    {
-      "detail": "◉ Lucario ➜ Gengar otra vez +2 y evaluar la situación",
-      "variant": [
-        {
-          "detail": "◉ Eelektross ➜ Quagsire Bostezo Frente Lapras, sacrifica Salamence, Scrafty x2 ⭐Abocajarro Togekiss⭐",
-          "variant": []
-        },
-        {
-          "detail": "◉ Lapras ➜ Quagsire Bostezo Frente Lucario, Salamence x2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Heracross ➜ Sacrifica a Scrafty, Gengar +6 (sin usar Otra Vez)",
-      "variant": []
-    }
-  ]
+  "initialMove": "🥚Amortiguador Y Frente Heracross Sacrifica a chansey entras Con Gengar +6 No usar Otra vez🥚",
+  "tricks": []
 }

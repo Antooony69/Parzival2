@@ -2,6 +2,41 @@
   "id": "gardevoir",
   "name": "Gardevoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 al enfrentar a Gallade o Roserade; entrar con Gengar, otra vez, +4 +2 + Precisión",
-  "tricks": []
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Gallade ➜ Gengar Otra Vez +2",
+      "variant": [
+        {
+          "detail": "◉ Gallade o Gardevoir se queda ➜ bola sombra y Mira quien Entra",
+          "variant": []
+        },
+        {
+          "detail": "◉ Hydreigon ➜ Chansey y revisar movimiento",
+          "variant": [
+            {
+              "detail": "◉ Llamarada ➜ Quagsire con Bostezo hasta que salga Ninetales, Volcarona x3",
+              "variant": []
+            },
+            {
+              "detail": "◉ Cometa Draco ➜ Pantalla Luz y evaluar situación",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si no se va ➜ Scrafty x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gardevoir ➜ Scrafty x2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bronzong ➜ Quagsire Bostezo Frente Ninetales, Volcarona x3",
+      "variant": []
+    }
+  ]
 }

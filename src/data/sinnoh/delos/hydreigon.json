@@ -5,11 +5,43 @@
   "initialMove": "🥚 Amortiguador 🥚 y observa qué objeto tienen",
   "tricks": [
     {
-      "detail": "Vidasfera --> Cambiar a Slowbro ante Gallade o Roserade; usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+      "detail": "◉ Vidasfera ➜ Amortiguador Frente Gallade , Gengar Otra Vez +6 +2",
       "variant": []
     },
     {
-      "detail": "Sin Vidasfera --> Usar Trampa Rocas al enfrentar a Gallade o Roserade; entrar con Gengar +4 +2 + Precisión",
+      "detail": "◉ Sin Vidasfera ➜ Trampa Rocas Frente Gallade, Gengar Otra vez +2",
+      "variant": [
+        {
+          "detail": "◉ Gallade no cambio ➜ Ataca y mira quién entra",
+          "variant": [
+            {
+              "detail": "◉ Hydreigon ➜  Chansey y revisar movimiento",
+              "variant": [
+                {
+                  "detail": "◉ Llamarada ➜  Quagsire Bostezo Frente Ninetales, Volcarona x3",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Cometa Draco ➜ Pantalla Luz y evaluar situación",
+                  "variant": [
+                    {
+                      "detail": "◉ Hydreigon No cambia ➜ Scrafty x2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Gardevoir ➜ Scrafty x2",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Bronzong ➜ Quagsire Bostezo Frente Ninetales, Volcarona x3",
       "variant": []
     }
   ]

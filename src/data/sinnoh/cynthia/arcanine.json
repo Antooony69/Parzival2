@@ -2,23 +2,36 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "⭐Trampa Rocas⭐",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Usar Trampa Rocas ➜ cambiar a Slowbro y usar Bostezo",
+      "detail": "◉ Lanzallamas ➜ Verificar si causa quemadura:",
       "variant": [
-       {
-         "detail": "Serperior ➜ Usar Protección y Bostezo al enfrentar a Jellicent, sacrifica a Politoed, entra con Poliwrath +6 🐸🥊",
-         "variant": []
-       },
-       {
-        "detail": "Jellicent ➜ Usar Protección, cambiar a Volcarona ante Serperior, 💊Volcarona +2 + atk. Especial X💊 🚨(Mantener PS por encima del 29%)🚨",
-        "variant": []
-       }
-      ]  
-    },  
+        {
+          "detail": "◉ No quema ➜ Pantalla Luz y volver a verificar si quema:",
+          "variant": [
+            {
+              "detail": "◉ No quema ➜ Gengar +2  Frente Bastiodon, usar Maquinación y revisar movimiento usar Otra Vez y ataca",
+              "variant": []
+            },
+            {
+              "detail": "◉ Sí quema ➜ Volcarona frente a Garchomp y sacrificar, Gengar usa Otra Vez sobre Terremoto, Salamence x1.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Sí quema ➜ Scrafty frente Garchomp y sacrificar, Gengar Otra Vez sobre Terremoto, Salamence x1.",
+          "variant": []
+        }
+      ]
+    },
     {
-      "detail": "Lucario ➜ Entrar con Gengar, Otra Vez +4 (Lucario Banda focus)",
+      "detail": "◉ Lucario ➜ Gengar +2 (No usar Otra Vez) Frente Arcanine, usa Maquinacion y ataca",
+      "variant": []
+    },
+    {
+      "detail": "◉ Garchomp ➜ Sacrificar Scrafty, Gengar Otra Vez, Salamence x1.",
       "variant": []
     }
   ]

@@ -2,37 +2,37 @@
   "id": "bronzong",
   "name": "Bronzong",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 (Si se queda, usar Amortiguador)",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Heracross --> Usar Teletransporte y revisar objeto",
+      "detail": "◉ Heracross ➜ Amortiguador",
       "variant": [
         {
-          "detail": "Vidasfera --> Entrar con Gengar +4 + Precisión",
-          "variant": []
+          "detail": "◉ Tiene Vidasfera ➜ Gengar Otra Vez +2 frente Tyranitar, sacrifica Gengar, Sales Scrafty x3 + ⭐A Bocajarro Bronzong Heracross⭐",
+          "variant": [
+            {
+              "detail": "◉ 【Caso inesperado】 Si Gengar Al Bostear +2 Entra Excadrill ➜ Salamence, cambia a Scrafty y Atacar con Puño Drenaje, frente Heracross; Gengar otra vez +2 frente Tyranitar, sacrifica Gengar, Scrafty +3⭐A Bocajarro Bronzong Heracross⭐",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Sin Vidasfera --> Entrar con Gengar +6 (No usar Otra Vez) y usar Onda Certera contra Clefable",
+          "detail": "◉ Sin Vidasfera ➜ Gengar +6 (No usar Otra Vez ).",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Cambio a Bronzong enemigo --> Sacrificar a Politoed; entrar con Poliwrath +6",
+      "detail": "◉ Garchomp ➜ Salamence x5",
       "variant": []
     },
     {
-      "detail": "Garchomp --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6; usar Cascada contra Bronzong",
+      "detail": "◉ Terremoto ➜ Quagsire frente Garchomp, Salamence x5. ⭐Si no se va, Bostezo hasta que salga Nidoqueen, Chansey Amortiguador frente Garchomp⭐",
       "variant": []
     },
     {
-      "detail": "Lucario --> Usar Teletransporte; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
-      "variant": [
-        {
-          "detail": "Si Slowbro retrocede, saca politoed (sacrificar), Poliwrath +2 (con Ataque X), (manten HP 70%).",
-          "variant":  []
-        }
-      ]
+      "detail": "◉ Lucario ➜ Pantalla Luz + Amortiguador Frente Garchomp, Salamence x5. ⭐Si no cambia, Entra Con Gengar otra vez +2 y frente Garchomp, Salamence x5⭐",
+      "variant": []
     }
   ]
 }

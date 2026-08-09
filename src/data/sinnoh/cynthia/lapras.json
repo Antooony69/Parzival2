@@ -2,37 +2,82 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚Amortiguador 🥚 Lapras se Queda Usa Amortiguador",
+  "initialMove": " ⭐Trampa Rocas⭐ ",
   "tricks": [
     {
-      "detail": "Lucario ➜ Usar Teletransporte",
+      "detail": "◉ Lucario ➜ Amortiguador",
       "variant": [
         {
-          "detail": " Esfera Aural ➜ Entrar con Gengar Otra vez  +6 +2",
+          "detail": "◉ Si usa A Bocajarro ➜ Identificar su objeto:",
+          "variant": [
+            {
+              "detail": "◉ Con Vidasfera ➜ Gengar otra vez x2",
+              "variant": [
+                {
+                  "detail": "◉ Lapras ➜ Quagsire Bostezo Frente Lucario, Salamence x2 ⭐Revisa tu vida⭐",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Eelektross ➜ Quagsire Bostezo Frente Lapras, Protección y Bostezo Frente Lucario, Salamence x2 ⭐Revisa tu vida⭐",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Sin Vidasfera ➜ Gengar x2 (No usar Otra Vez), sale Arcanine Usar Maquinacion otra vez y atacar",
+              "variant": [
+                {
+                  "detail": "◉ Si Lucario no se retira ➜ Verificar si Roca Afilada está atrapada por objeto elegido",
+                  "variant": [
+                    {
+                      "detail": "◉ Sí está atrapado ➜ usar Maquinación una vez más y barrer a todo el equipo.",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ No está atrapado ➜ Usar Otra Vez sobre Roca Afilada, cambiar a Quagsire y usar Bostezo:",
+                      "variant": [
+                        {
+                          "detail": "◉ Lapras ➜ Volcarona +1 en Ataque Especial.",
+                          "variant": []
+                        },
+                        {
+                          "detail": "◉ Mismagius ➜ Salamence x1.",
+                          "variant": []
+                        },
+                        {
+                          "detail": "◉ Rayquaza ➜ Protección, Bostezo  y reaccionar según el Pokémon que entre (ver opciones anteriores).",
+                          "variant": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Esfera Aural ➜ Pantalla de Luz, Frente Garchomp, Salamence x5.",
           "variant": []
         },
         {
-          "detail": "A bocajarro ➜ Revisar objeto",
-          "variant": [
-            {
-              "detail": "Vidasfera ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "Sin Vidasfera ➜ Entra con Gengar otra vez +4 🔔(lucario Banda Focus) (Bola Sombra a todo)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Garchomp ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜  Poliwrath +6 🐸🥊",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Garchomp ➜ Salamence x5.",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Garchomp ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "detail": "◉ Garchomp ➜ Salamence x5.",
       "variant": []
+    },
+    {
+      "detail": "◉ Cascada ➜ Encanto + Amortiguador Frente Garchomp, Salamence x5 ⭐Si te retrocedes por Cascada, Trampa Rocas y  Amortiguador Frente Garchomp, Salamence x5⭐",
+      "variant": [
+        {
+          "detail": "◉ Frente Lucario ➜ Pantalla de Luz + Amortiguador Frente Garchomp, Salamence x5 ⭐Si Lucario no se retira nunca, Gengar Otra Vez Frente Garchomp Salamence x5⭐",
+          "variant": []
+        }
+      ]
     }
   ]
 }

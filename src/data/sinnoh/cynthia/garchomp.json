@@ -5,77 +5,116 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Vidasfera + Terremoto ➜ Revisar daño",
+      "detail": "◉ Terremoto con Vidasfera ➜ Ver cuanto Daño Hacen",
       "variant": [
         {
-          "detail": "32 - 39% (Crítico 49 - 59%) ➜ Usar Amortiguador esperando a Heracross ➜ usar Teletransporte ➜ entrar con Gengar +4 + Precisión",
-          "variant": []
+          "detail": "◉ Daño De 33% a 39% ➜ Sacrifica a Quagsire, Gengar Otra Vez",
+          "variant": [
+            {
+              "detail": "◉ Usa otra vez en Terremoto ➜ Salamence x2",
+              "variant": [
+                {
+                  "detail": "◉ Gengar cae derrotado por Bronzong (Poder Oculto Hielo) ➜ Scrafty Defensa X x2 danza dragon",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Al Usar Otra vez y sale Tyranitar ➜ Scrafty x3 y Curate  ⭐Abocajarro a Bronzong y Heracross⭐",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Al Usar Otra vez y sale Excadrill ➜ Sacrificar a Volcarona, Scrafty Puño Drenaje Frente Heracross; Gengar Otra Vez,  Scrafty frente Tyranitar x3.",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         },
         {
-          "detail": "40 - 48% (Crítico 60 - SASH %) ➜ Usar Encanto ➜ cambiar a Slowbro y usar Bostezo",
-          "variant": []
+          "detail": "◉ Cambiar a Quagsire y entra Heracross ➜  Gengar Otra Vez, cambiar a Scrafty.",
+          "variant": [
+            {
+              "detail": "◉ Tyranitar ➜ Scrafty x3 avanzando hasta Excadrill; sacrificar a Scrafty, Quagsire usa Otra Vez sobre Terremoto, Salamence x1.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Excadrill ➜ Scrafty atacando en segundo lugar con Puño Drenaje hasta que salga Heracross; cambiar a Gengar con Otra Vez, cambiar a Scrafty frente a Tyranitar x2.",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Roserade ➜ Sacrifica a Politoed ➜  Poliwrath +6 usar Cascada contra Metagross",
-          "variant": []
+          "detail": "◉ Daño De 40%–47% ➜ Sacrificar Chansey; Quagsire usa Bostezo , si el rival usa Protección, repetir Bostezo:",
+          "variant": [
+            {
+              "detail": "◉ Lapras ➜ Protección, luego Bostezo de nuevo hasta que entre Lucario, Salamence x2 (si PS > 44.4%).",
+              "variant": []
+            },
+            {
+              "detail": "◉ Roserade ➜ Volcarona x1 + Especial X / Volcarona x3 Danza aleteo",
+              "variant": []
+            },
+            {
+              "detail": "◉ Eelektross ➜ Volcarona x2.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Terremoto sin Vidasfera",
+      "variant": [
+        {
+          "detail": "◉ Terremoto Ver si Tiene Restos ? ➜ Salamence, cambiar a Scrafty.",
+          "variant": [
+            {
+              "detail": "◉ Si vuelve a usar Terremoto Tiene Pañuelo Pañuelo  ➜ Salamence x5.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Carga Dragón ➜ Sacrificar a Scrafty, Gengar usa Otra Vez sobre Terremoto, Salamence x1.",
+              "variant": [
+                {
+                  "detail": "◉ Si Carga Dragón falla o el rival usa Roca Afilada ➜ sacrificar a Scrafty, Gengar Otra Vez sobre Terremoto, Salamence x1",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Heracross ➜ Amortiguador",
+      "variant": [
+        {
+          "detail": "◉ Con Vidasfera ➜ Gengar Otra vez +2 Frente Tyranitar, sacrificar a Gengar, Scrafty x3  ⭐Abocajarro Heracross y Bronzong⭐",
+          "variant": [
+            {
+              "detail": "◉ 【Caso inesperado】 Gengar al usar otra vez entra Excadrill ➜  Salamence, cambiar a Scrafty, Puño Dranaje  Frente Heracross; Gengar Otra Vez frente Tyranitar, sacrificar a Gengar, Scrafty x3 ⭐Abocajarro Heracross y Bronzong⭐",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Eelektross ➜ Usar Protección y cambia rapido a Poliwrath y frente Heracross usar Tambor y que muera ahora entra con Gengar +6 (No usar Otra Vez,Heracross Tiene Pañuelo)",
-          "variant": []
-        },
-        {
-          "detail": "Lapras ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Aerodactyl ➜ Usa Bostezo hasta forzar la salida de glaceon o Roserade y sacrifica a Politoed ➜ Poliwrath +6",
+          "detail": "◉ Sin Vidasfera ➜ Gengar +6 (No usar Otra vez)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Vidasfera + Terremoto ➜ Sacrifica a Gengar ➜ cambia a Slowbro y usa Bostezo (Seguir usando Bostezo si se queda)",
+      "detail": "◉ Lucario ➜ Gengar +2 (no usar Otra Vez) y Mira que ruta usar:",
       "variant": [
         {
-          "detail": "Nidoking o Nidoqueen / Lucario / Chandelure ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 usar Cascada contra Bronzong",
+          "detail": "◉ Si no se retira ➜ Tras la caída de Gengar, Quagsire Bostezo Frente Lapras; sacrificar a Salamence, Scrafty x2 .",
           "variant": []
         },
         {
-          "detail": "Jellicent ➜ Usar Protección ➜ cambiar a Volcarona ante Serperior ➜ Volcarona +2 y usar Especial X (mantener PS por encima del 29%)",
+          "detail": "◉ Arcanine ➜ usar  Maquinación  hasta un total de +4.",
           "variant": []
         },
         {
-          "detail": "Serperior ➜ Entrar con Volcarona +2 y usar Especial X (mantener PS por encima del 29%)",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Heracross ➜ Usar Teletransporte y revisar objeto",
-      "variant": [
-        {
-          "detail": "Vidasfera ➜ Entrar con Gengar +4 + Precisión X",
-          "variant": []
-        },
-        {
-          "detail": "Sin Vidasfera ➜ Entrar con Gengar +6 (No usar Otra Vez) y usar Onda Certera contra Clefable",
-          "variant": []
-        },
-        {
-          "detail": "Cambio a Bronzong enemigo ➜ Sacrifica a Politoed ➜ Poliwrath +6",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Lucario ➜ Usar Teletransporte y revisar objeto",
-      "variant": [
-        {
-          "detail": "Vidasfera ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Sin Vidasfera ➜ Entra con Gengar Otra vez +4 🔔Lucario Banda Focus🔔",
+          "detail": "◉ Arcanine se retira ante Lapras ➜ Ataca hasts que entre Arcanine, usar Maquinación una vez más y barrer por completo.",
           "variant": []
         }
       ]

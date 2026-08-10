@@ -2,15 +2,24 @@
   "id": "scrafty",
   "name": "Scrafty",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "⭐Volcarona⭐",
   "tricks": [
     {
-      "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+      "detail": "◉ Absol ➜ Scrafty x3⭐A Bocajarro Scizor y Luxray⭐",
       "variant": []
     },
     {
-      "detail": "Scizor --> Volcarona +2 + Ataque Especial X (Gigadrenado a Luxray)",
-      "variant": []
+      "detail": "◉ Scizor ➜ Ver Que Ruta elegir",
+      "variant": [
+        {
+          "detail": "◉ Ruta Rápida ➜ Volcarona x2 + Especial X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Ahorro ➜ Ataca Frente Salamence ➜ Chansey ➜ Volcarona frente Absol ➜ Scrafty x3 ⭐ A Bocajarro Luxray⭐",
+          "variant": []
+        }
+      ]
     }
   ]
 }

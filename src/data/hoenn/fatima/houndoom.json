@@ -5,12 +5,17 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Honchkrow ➜ Sacrificar a Politoed ➜ Poliwrath Puño H y cuando entre Hydreigon  usa Ataque X y completar  🔔puño Hielo para eliminar a Honchkrow🔔",
+      "detail": "◉ Honchkrow ➜ Quagsire Bostezo frente Hydreigon ➜ Cambiar a Scrafty Velocidad X y ataca",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
+      "detail": "◉ Lucario ➜ Gengar  Otra vez x2 Frente Meganium, Defensa X y seguir Atacando (si PS > 55%)",
+      "variant": [
+        {
+          "detail": "◉ 【Imprevisto】Gengar usa otra vez y entra Houndoom ➜ Scrafty Velocidad X, ⭐A Bocajarro Luxray y a Meganium Puño Drenaje ⭐",
+          "variant": []
+        }
+      ]
     }
   ]
 }

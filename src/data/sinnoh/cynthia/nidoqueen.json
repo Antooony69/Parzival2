@@ -2,6 +2,11 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Teletransporte; entrar con Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6 💡 Usar Cascada contra Bronzong",
-  "tricks": []
+  "initialMove": "Pantalla Luz + Trampa rocas Frente garchomp ➜ Salamence x5  ",
+  "tricks": [
+    {
+      "detail": "◉ Si Nidoqueen no cambia ➜ Usa Amortiguador",
+      "variant": []
+    }
+  ]
 }

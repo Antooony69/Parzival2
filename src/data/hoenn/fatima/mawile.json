@@ -2,6 +2,19 @@
   "id": "mawile",
   "name": "Mawile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 🪨 Trampa Rocas 🪨 cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 💡 Puño Hielo a Froslass",
-  "tricks": []
+  "initialMove": "💡Volcarona Lanzallamas💡 ",
+  "tricks": [
+    {
+      "detail": "◉ Umbreon ➜ Scrafty Defensa Especial X x2 Danza Dragón",
+      "variant": []
+    },
+    {
+      "detail": "◉ Hydreigon ➜ Chansey ➜ Gengar Otra Vez ➜ Scrafty frente Umbreon ➜ Defensa Especial X x2 Danza Dragón",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rotom Lavadora ➜ Quagsire ➜  Chansey frente Hydreigon ➜ Gengar Otra Vez ➜ Scrafty frente Umbreon ➜ Scrafty Defensa Especial X x2 Danza Dragón",
+      "variant": []
+    }
+  ]
 }

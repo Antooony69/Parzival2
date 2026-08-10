@@ -5,27 +5,27 @@
   "initialMove": "💡 Mira Qué Habilidad Tiene 💡",
   "tricks": [
     {
-      "detail": "Intimidación ➜ 🥚Amortiguador🥚",
-      "variant": [
-        {
-          "detail": "Absol ➜ Gengar +4 + Precisión (No usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "Scizor ➜ Volcarona x2 Danza aleteo + Especial X 💡gigadrenado a Luxray💡",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Si NO tiene Intimidación ➜ Trampa Rocas ➜ Gengar Otra Vez , Quagsire frente Hariyama, Bostezo Frente Shiftry ➜ Volcarona x2 ⭐Gigadrenado en Absol⭐",
+      "variant": []
     },
     {
-      "detail": "Sin Intimidación ➜ Trampa Rocas y sacrifica a Politoed y con Poliwrath puño hielo para matarlo",
+      "detail": "◉ Si tiene Intimidación ➜ Volcarona:",
       "variant": [
         {
-          "detail": "Shiftry ➜ Volcarona x2 Danza aleteo y usa lanzallamas  contra Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)",
-          "variant": []
+          "detail": "◉ Scizor ➜ Elegir variante estratégica:",
+          "variant": [
+            {
+              "detail": "◉ Ruta de Ahorro ➜ Lanzallamas Frente Salamence ➜ Chansey ➜ Volcarona Frente Absol ➜ Scrafty x3.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Ruta Rápida ➜ Volcarona x2 + Especial X",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Hariyama ➜ Con  Poliwrath usa Ataque X 💡con Cascada contra Hariyama💡",
+          "detail": "◉ Absol ➜ Scrafty x3 ⭐A Bocajarro Scizor y Luxray⭐",
           "variant": []
         }
       ]

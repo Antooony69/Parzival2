@@ -2,6 +2,11 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas 🪨 frente a Lucario; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
-  "tricks": []
+  "initialMove": "⭐Trampa Rocas Frente Lucario ➜ Gengar otra vez +2 ➜ Frente Meganium Defensa X y ataca⭐",
+  "tricks": [
+    {
+      "detail": "◉ 【Imprevisto】Gengar Otra Vez y fuerza la salida de Houndoom ➜  Scrafty Velocidad X  ⭐Meganium Puño Drenaje⭐",
+      "variant": []
+    }
+  ]
 }

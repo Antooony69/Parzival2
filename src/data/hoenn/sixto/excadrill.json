@@ -2,19 +2,24 @@
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas 🪨.",
+  "initialMove": "⭐Mira Que Objeto Tiene⭐",
   "tricks": [
     {
-      "detail": "Mienshao ➜ entra con Gengar bola sombra a mienshao y frente a Mandibuzz / Spiritomb ➜ Volcarona x2 Danza aleteo 🔔gigadrenado para  Absol🔔",
+      "detail": "◉ NO tiene Globo Helio ➜ Trampa Rocas Frente Absol,Luxray,Crawdaunt ➜ Gengar Otra Vez, Quagsire Frente Excadrill, Bostezo Frente Gyarados ➜ Salamence x1.",
       "variant": []
     },
     {
-      "detail": "Absol ➜ Gengar, otra vez +2 + Precisión X 🔔No tiene banda focus🔔",
-      "variant": []
-    },
-    {
-      "detail": "Luxray ➜ Amortiguador y espera tener en frente a Absol o Crawdaunt y entra con Gengar Otra Vez +2 + Precisión X",
-      "variant": []
+      "detail": "◉ Si TIENE Globo Helio ➜ Trampa Rocas Frente Mienshao ➜ Gengar Bola Sombra Frente Excadrill ➜ Elegir Ruta ",
+      "variant": [
+        {
+          "detail": "◉ Ruta Segura ➜ Salamence, Quagsire Otra Vez sobre Terremoto ➜ Salamence, Danza Dragón Frente Mandibuzz ➜ Volcarona x2; ⭐si Excadrill no se retira, ataca hasta debilitarlo⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Rápida ➜ Chansey Amortiguador Frente Absol ➜ Volcarona x2.",
+          "variant": []
+        }
+      ]
     }
   ]
 }

@@ -2,28 +2,68 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Teletransporte💡",
+  "initialMove": "💡 Gengar 💡",
   "tricks": [
     {
-      "detail": "A bocajarro ➜ Revisar objeto",
+      "detail": "◉ A Bocajarro ➜ Scrafty y verificar el objeto del rival",
       "variant": [
         {
-          "detail": "Vidasfera ➜ Entra con Slowbro y usa Bostezo y sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
-          "variant": []
+          "detail": "◉ Con Vidasfera ➜ Gengar otra vez x2 y evaluar la situación:",
+          "variant": [
+            {
+              "detail": "◉ Eelektross ➜ Quagsire Bostezo Frente Lapras, Protección Bostezo Frente Lucario ➜ Salamence x1.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Lapras ➜ Quagsire Bostezo Frente Lucario ➜ Salamence x2 💡Tener Mas del 44.4 de vida💡",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Sin Vidasfera ➜ Entra con Gengar Otra vez +4  (Bola Sombra a todo Lucario Banda focus)",
-          "variant": []
+          "detail": "◉ Arcanine ➜ Chansey, Trampa Rocas Frente Lucario, Gengar otra vez x2; Frente Arcanine, Maquinacion y atacar",
+          "variant": [
+            {
+              "detail": "◉ 【Caso inesperado】 Chansey Frente Rayquaza ➜ Salamence y ataca , Frente Lapras o Mismagius; chansey Trampa Rocas Frente Lucario, Gengar x4 (No usar Otra Vez).",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si Fuego V falla ➜ Quagsire ➜ chansey Para que ataque con el Fuego V entra Salamence y ataca",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ 【Sin Vidasfera】 Si el rival se queda ➜ Gengar Otra Vez chansey (testeo)",
+          "variant": [
+            {
+              "detail": "◉ Arcanine o Garchomp ➜ Trampa Rocas.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Lucario ➜ Gengar x2 (No Otra Vez) Frente Arcanine, Maquinacion y ataca",
+              "variant": []
+            },
+            {
+              "detail": "◉ Rayquaza ➜ Salamence para recibir fuego V y ataca hasta que entre Lapras/Mismagius; cambiar chansey Amortiguador Frente Lucario, Gengar x2 (sin usar Otra Vez) Frente Arcanine,Maquinacion y ataca ⭐Si Fuego V falla, Quagsire, Chasney para reiniciar el ciclo⭐",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Esfera Aural ➜ Entra con Gengar  Otra Vez +6 +2",
+      "detail": "◉ Garchomp ➜ Salamence x5",
       "variant": []
     },
     {
-      "detail": "Garchomp ➜ Entra con Slowbro y usa Bostezo y sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
-      "variant": []
+      "detail": "◉ Esfera Aural ➜ Chansey, Pantalla Luz + Trampa Rocas Frente Garchomp ➜ Salamence x5.",
+      "variant": [
+        {
+          "detail": "◉ Si Lucario no se retira ➜ Gengar otra vez x2 Frente Garchomp ➜ Salamence x5.",
+          "variant": []
+        }
+      ]
     }
   ]
 }

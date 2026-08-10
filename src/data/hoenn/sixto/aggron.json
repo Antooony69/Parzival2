@@ -2,14 +2,14 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 TRAMPA ROCAS 🪨 Sacrificar a Politoed; Poliwrath absorbe y debilita",
+  "initialMove": "⭐Encanto y Revisar La Vida De Chansey⭐",
   "tricks": [
     {
-      "detail": "Shiftry --> Volcarona +2  (Mantener HP por encima del 23%)",
+      "detail": "◉ Si Chansey está al 50% de Vida ➜ Trampa Rocas Frente Absol ➜ Quagsire Bostezo Frente Shiftry ➜ Volcarona x2 / Salamence x1⭐ Si Salamence entra y no Shifty Usa Boztezo y proteccion , Bostezo otra vez⭐",
       "variant": []
     },
     {
-      "detail": "Hariyama --> Recibir Ataque X; completar (Cascada  Hariyama)",
+      "detail": "◉ Si Chansey está al 30% de Vida ➜ Quagsire Bostezo Frente Shiftry ➜ Salamence x1 Salamence x1⭐Si Salamence entra y no Shifty Usa Boztezo y proteccion, Bostezo otra vez⭐",
       "variant": []
     }
   ]

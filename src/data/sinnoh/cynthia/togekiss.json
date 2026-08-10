@@ -2,6 +2,20 @@
   "id": "togekiss",
   "name": "Togekiss",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 🔄 Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed ➜ 🐸Poliwrath +6 🥊",
-  "tricks": []
+  "initialMove": " ⭐Trampa Rocas⭐",
+  "tricks": [
+    {
+      "detail": "◉ Lucario ➜ Gengar otra vez x2 y evaluar la situación:",
+      "variant": [
+        {
+          "detail": "◉ Eelektross ➜ Quagsire Bostezo Frente Lapras, Protección Bostezo Frente Lucario ➜ Salamence x2 ⭐Tener vida mas del 44.4%⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Lapras ➜ Quagsire Bostezo Frente Lucario ➜ Salamence x2 ⭐Tener vida mas del 44.4%⭐",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

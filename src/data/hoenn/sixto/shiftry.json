@@ -2,25 +2,15 @@
   "id": "shiftry",
   "name": "Shiftry",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampas Rocas 🪨",
+  "initialMove": "🐉Salamence🐉",
   "tricks": [
     {
-      "detail": "Si entra Absol ➜ Cambia a Gengar +4 (No usar Otra Vez); Bola Sombra a todo",
+      "detail": "◉ Aggron ➜ Terremoto Frente Salamence ➜ Chansey Amortiguador Frente Absol ➜ Quagsire, Bostezo frente Shiftry ➜ Salamence x1.",
       "variant": []
     },
     {
-      "detail": "Si entra Aggron ➜ Sacrifica a Politoed y con Poliwrath mata a aggron",
-      "variant": [
-        {
-          "detail": "Si entra Shiftry ➜ Volcarona x2 Danza aleteo 🔔 lanzallamas en Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)🔔",
-          "variant": [
-            {
-              "detail": " Si entra Hariyama ➜ Usa Ataque X con poliwrath y ataca 🔔 Cascada contra Hariyama🔔",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "◉ Absol ➜ Scrafty x2.",
+      "variant": []
     }
   ]
 }

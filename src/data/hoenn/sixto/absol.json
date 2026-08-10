@@ -2,119 +2,209 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Slowbro💡",
+  "initialMove": "💡Gengar Otra Vez💡",
   "tricks": [
     {
-      "detail": "Vidasfera --> Usar Bostezo",
+      "detail": "◉ Si el rival es más lento que Gengar ➜ Maquinación",
       "variant": [
         {
-          "detail": "Tajo Umbrío --> Cambiar a Chansey, trampa rocas",
+          "detail": "◉ Si no cambia ➜ Atacar y ver quién entra:",
           "variant": [
             {
-              "detail": "Se queda → Gengar, Otra Vez, +2 +2 + Precisión X",
+              "detail": "◉ Garchomp ➜ Atacar hasta eliminarlo.",
               "variant": []
             },
             {
-              "detail": "Garchomp → Amortiguador 2 veces, encanto y cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+              "detail": "◉ Magnezone ➜ Cambiar a Blissey, colocar Trampa Rocas hasta Absol ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Metagross ➜ Cambiar a Blissey, colocar Trampa Rocas hasta Pokémon tipo Lucha ➜ Gengar x2.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Sharpedo ➜ Cambiar a Blissey, colocar Trampa Rocas ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Electivire --> Sacrificar a Politoed, entra Poliwrath +6 🔔(Puño Drenaje a Electivire/Toxicroak)🔔",
+          "detail": "◉ Magnezone [Globo Helio] ➜ Chansey Trampa Rocas Frente Darmanitan ➜ Salamence x2 / Volcarona x3 / Gengar x6 (sin usar Otra Vez)",
           "variant": []
         },
         {
-          "detail": "Gyarados --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨",
+          "detail": "◉ Si no cae (Banda Focus) ➜ Ataca",
           "variant": [
             {
-              "detail": "Absol --> Gengar Otra Vez +2 🔔(Barre con Bola Sombra)🔔",
+              "detail": "◉ Darmanitan ➜ Quagsire, Bostezo Frente Cacturne ➜ Salamence x3  ataque de Fuego Magnezone.",
               "variant": []
             },
             {
-              "detail": "Luxray --> Gengar Otra Vez +4 🔔(Barre con Bola Sombra)🔔",
+              "detail": "◉ Magnezone ➜ Chansey Amortiguador Frente Darmanitan ➜ Gengar x6 (No usar Otra Vez).",
               "variant": []
             }
           ]
+        },
+        {
+          "detail": "◉ Toxicroak ➜ Scrafty ➜ Cambiar a Gengar otra vez +4 Otra Vez Tiene Banda Focus",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gorebyss ➜ Chansey, Trampa Rocas hasta Pokémon tipo Lucha ➜ Gengar  Otra Vez +2.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Sudowoodo o otro poke ➜ Chasney, Trampa Rocas ➜ Gengar otra vez +2.",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Vidasfera --> Usar Teletransporte",
+      "detail": "◉ Garchomp ➜ Atacar hasta eliminarlo.",
       "variant": [
         {
-          "detail": "Tajo Umbrío --> Chansey usa Trampa Rocas 🔔(Si el Golpe es Critico usar Max Pocion y luego cambiar a Gengar)🔔",
+          "detail": "◉ Magnezone ➜ Chansey Trampa Rocas Frente Absol ➜ Gengar otra vez +2 y mira abajo",
           "variant": [
             {
-              "detail": "Recibir A Bocajarro --> Gengar Otra Vez +2 + Precisión X 💰(Si quieres Ahorrar: Gengar +6, tiene banda focus)🔔",
+              "detail": "◉ Si no cambia de Pokémon ➜ Gengar otra vez +6 +2.",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Persecución --> Enviar a Chansey, cambiar a Gengar, usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo.",
+          "detail": "◉ Si Vuelve Magnezone ➜ Quagsire Bostezo Frente Gyarados ➜ Salamence x1.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Metagross ➜ Chansey Trampa Rocas Frente Pokémon tipo Lucha ➜ Gengar otra Vez +2.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Sharpedo ➜ Cambiar a Blissey, colocar Trampa Rocas ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+      "variant": [
+        {
+          "detail": "◉ Magnezone ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si no cambia de Pokémon ➜ Gengar Otra vez +6 +2 ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Gorebyss ➜ Chansey Trampa Rocas Frente Luxray/Absol ➜ Gengar otra vez x2; si no cambia, Quagsire,  Bostezo Frente Gyarados, chansey Amortiguador Frente Luxray/Absol.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Excadrill [Globo Helio] ➜ Chansey Trampa Rocas, Si no cambia usa amortiguador",
+      "variant": [
+        {
+          "detail": "◉ Absol ➜ Elegir variante estratégica:",
           "variant": [
             {
-              "detail": "Si se queda --> Usar Protección y Bostezo frente a Huntail/Excadrill; sacrificar a Politoed; entrar con Poliwrath +6",
+              "detail": "◉ Ruta Segura ➜ Gengar otra Vez x2 Frente Excadrill ➜ Salamence ➜ Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón, Frente Mandibuzz ➜ Volcarona x2⭐vsi Excadrill no se retira, ataca⭐",
               "variant": []
             },
             {
-              "detail": "Huntail --> Sacrificar a Politoed; entrar con Poliwrath +6",
+              "detail": "◉ Ruta Rápida ➜ Volcarona x2.",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Luxray --> Enviar a Chansey y usar Amortiguador.",
+          "detail": "◉ Mienshao ➜ Gengar y atacar Frente Excadrill ➜ Elegir variante:",
           "variant": [
             {
-              "detail": "Absol --> Gengar +4 + Precisión X 🔔(No usar Otra Vez)🔔",
+              "detail": "◉ Segura ➜ Salamence ➜ Cambiar a Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón Frente Mandibuzz ➜ Volcarona x2 ⭐vsi Excadrill no se retira, ataca⭐",
               "variant": []
             },
             {
-              "detail": "Scizor --> Volcarona +2 + Ataque Especial X 🔔(Gigadrenado a Luxray)🔔",
+              "detail": "◉ Rápida ➜ Chansey max pocion Frente Absol , Volcarona x2",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Magnezone --> Enviar a Chansey y usar 🪨Trampa Rocas🪨",
+          "detail": "◉ Excadrill [Sin Globo Helio] ➜ Chansey, Trampa Rocas.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Scolipede ➜ Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Crawdaunt ➜ Gengar x6 (sin usar Otra Vez).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Luxray ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si no se retira ➜ Salamence ➜ Cambiar a Quagsire, Bostezo Frente Gyarados ➜ Salamence x1.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Magnezone [Sin Globo Helio] ➜ Chansey Trampa Rocas Frente Absol ➜ Gengar Otra Vez ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x1.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Magnezone [Globo Helio] ➜ Chansey Trampa Rocas Frente Darmanitan ➜ Gengar x6 (sin usar Otra Vez) / Salamence x2 / Volcarona x3.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Spiritomb / Mightyena ➜ Chansey Trampa Rocas Frente Absol/Toxicroak ➜ Gengar otra vez x2,⭐Se queda en el campo Amortiguador⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Hariyama ➜ Cambiar a Quagsire, usar Bostezo hasta Shiftry ➜ Salamence x1.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scrafty ➜ Chansey ➜ Volcarona.",
+      "variant": [
+        {
+          "detail": "◉ Absol ➜ Scrafty x3  ⭐AbocajarroScizor, Luxray⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Scizor ➜ Volcarona x2 + Especial X ⭐Gigadrenado Luxray⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si no se retira ➜ Chansey Amortiguador y volver a atrapar.",
           "variant": [
             {
-              "detail": "Darmanitan --> Gengar +2 + Precisión X 🔔(No usar Otra Vez)🔔; 💰(Si quieres Ahorrar: Gengar +6)💰",
-              "variant": []
-            },
-            {
-              "detail": "Absol --> Gengar usa Otra Vez, 2+2 + Precisión X 💰(Si quieres Ahorrar: Gengar 6+2)💰",
-              "variant": []
+              "detail": "◉ Scizor ➜ Volcarona y atacar.",
+              "variant": [
+                {
+                  "detail": "◉ Salamence ➜ Chansey ➜ Volcarona Frente Absol ➜ Scrafty x3  ⭐Abocajarro Luxray⭐",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Si no se retira ➜ Chansey Amortiguador hasta Absol ➜ Salamence x2.",
+                  "variant": []
+                }
+              ]
             }
           ]
         },
         {
-          "detail": "Salamence (Intimidación) --> Enviar a Chansey y usar Amortiguador.",
-          "variant": [
-            {
-              "detail": "Absol --> Gengar +4 + Precisión X 🔔(No usar Otra Vez)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Scizor --> Volcarona +2 + Ataque Especial X 🔔(Gigadrenado a Luxray)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Absol ➜ Scrafty x3.",
+          "variant": []
         },
         {
-          "detail": "Salamence (sin Intimidación) --> Enviar a Chansey; sacrificar a Politoed; Poliwrath usa Puño Hielo.",
-          "variant": [
-            {
-              "detail": "Shiftry --> Volcarona +2",
-              "variant": []
-            },
-            {
-              "detail": "Hariyama --> Gengar Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Absol ➜ Gengar x6 (sin usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Salamence ➜ chansey Amortiguador",
+          "variant": []
         }
       ]
     }

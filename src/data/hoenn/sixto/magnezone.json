@@ -5,11 +5,16 @@
   "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Darmanitan ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔usar movimientos súper eficaces🔔",
-      "variant": []
+      "detail": "◉ Absol ➜ Gengar Otra Vez ➜ Quagsire frente Garchomp, Bostezo Frente Gyarados ➜ Salamence x1.",
+      "variant": [
+        {
+          "detail": "◉ Cambiar a Quagsire frente Magnezone ➜ Bostezo ➜ Salamence x1.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Absol ➜ Gengar, Otra Vez, +2 +2 + Precisión X 🔔 usar movimientos súper eficaces🔔",
+      "detail": "◉ Darmanitan ➜ Gengar +6 (No usar Otra Vez).",
       "variant": []
     }
   ]

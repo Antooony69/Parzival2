@@ -2,6 +2,11 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas 🪨 Frente a Lucario ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔 para ahorrar dinero: Gengar +6 🔔",
-  "tricks": []
+  "initialMove": "🪨 Trampa rocas Gengar 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Lucario ➜Gengar ➜ Chansey, Frente Hydreigon ➜ Gengar, frente Lucario ➜ Scrafty x2",
+      "variant": []
+    }
+  ]
 }

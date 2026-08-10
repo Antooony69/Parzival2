@@ -5,34 +5,30 @@
   "initialMove": "🔔 Ver habilidad 🔔",
   "tricks": [
     {
-      "detail": "Intimidación ➜ Amortiguador",
+      "detail": "◉ Si tiene Intimidación ➜ Trampa Rocas:",
       "variant": [
         {
-          "detail": "Fuerza Bruta ➜ Trampa Rocas y frente a Absol cambia Gengar otra vez +2 + Precisión X ",
+          "detail": "◉ Scizor ➜ Amortiguador ➜ Volcarona Frente Absol ➜ Scrafty x3  ⭐A Bocajarro a Scizor,Luxray⭐",
           "variant": []
         },
         {
-          "detail": "Scizor ➜ Volcarona x2 Danza aleteo + Especial X 🔔gigadrenado a Luxray🔔",
+          "detail": "◉ Absol ➜ Volcarona x4 Defensa X ⭐Absol Se Queda no usar Defensa X, Gigadrenado a Luxray y recuperar PS si es necesario⭐",
           "variant": []
         },
         {
-          "detail": "Absol ➜ Gengar +4 + Precisión X (No usar Otra Vez)",
-          "variant": []
+          "detail": "◉ Si usa Fuerza Bruta ➜ Amortiguador ➜ Gengar Otra Vez ➜ Quagsire frente Excadrill, Bostezo Frente Gyarados ➜ Salamence x1.",
+          "variant": [
+            {
+              "detail": "◉ Si entra Crawdaunt Cinta elegida ➜ Scrafty puede barrer directamente si recibe un golpe crítico, Gengar x2 (sin usar Otra Vez).",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Sin Intimidación ➜ Opciones para resolver",
-      "variant": [
-        {
-          "detail": "Ruta Segura ➜ Trampa Rocas entra Gengar otra vez  +2 y mata a luxray y frente a Absol cambia a Chansey y luego mete a Gengar otra vez  +2",
-          "variant": []
-        },
-        {
-          "detail": "Prueba ➜ Cambiar a Slowbro y usar Bostezo frente a Gyarados; sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Si NO tiene Intimidación ➜ Trampa Rocas ➜ Gengar otra Vez x2.",
+      "variant": []
     }
   ]
-}
+} 

@@ -2,18 +2,18 @@
   "id": "milotic",
   "name": "Milotic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨TrampaRocas🪨",
+  "initialMove": "⭐Quagsire⭐",
   "tricks": [
     {
-      "detail": "Heracross ➜ Usar Teletransporte ➜ entra con Gengar +6 (No usar Otra Vez) 🔔usar Onda Certera contra Clefable🔔",
+      "detail": "◉ Heracross ➜  Scrafty, Gengar x6 (sin usar Otra Vez).",
       "variant": []
     },
     {
-      "detail": "Cambio a Bronzong ➜ Sacrifica a Politoed ➜ entrar con Poliwrath +6 🐸🥊",
+      "detail": "◉ Garchomp ➜ Usar Otra Vez sobre Terremoto, Salamence x1 Danza dragon + Ataque X",
       "variant": []
     },
     {
-      "detail": "Garchomp ➜ Usar Encanto ➜ Slowbro usa Bostezo y si garchomp se duerme usa bostezo hasta que entre Glaceon/Roserade ➜ sacrifica a Politoed ➜  Poliwrath +6 🐸🥊 🔔 Cascada contra Metagross🔔",
+      "detail": "◉ Aerodactyl ➜ Bostezo Frente Roserade, Volcarona x3.",
       "variant": []
     }
   ]

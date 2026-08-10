@@ -2,15 +2,6 @@
   "id": "honchkrow",
   "name": "Honchkrow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔 Cambiar a Slowbro y usar Bostezo 🔔",
-  "tricks": [
-    {
-      "detail": "Si permanece / Hydreigon / Lucario ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔 Puño Drenaje  para mantener la línea de salud 🔔",
-      "variant": []
-    },
-    {
-      "detail": "Banette ➜ Cambiar a Chansey y usar Trampa Rocas frente a Honchkrow ➜ sacrificar a Politoed  ➜ Poliwrath Puño H ➜ Cuando entra Hydreigon usa Ataque X  🔔 Puño Hielo para Honchkrow 🔔",
-      "variant": []
-    }
-  ]
+  "initialMove": "🔔 Gengar otra vez +2 Frente Hydreigon ➜ Chansey Trampa Rocas Frente Banette ➜ Gengar ➜ Cambiar a Scrafty Velocidad x y ataca⭐ Si no cambia usa amortiguador ⭐🔔",
+  "tricks": []
 }

@@ -5,56 +5,56 @@
   "initialMove": "💡 Ver habilidad 💡",
   "tricks": [
     {
-      "detail": "◉ Intimidación ➜ Trampa Rocas",
+      "detail": "◉ Si tiene Intimidación ➜ Trampa Rocas Frente Luxray,Absol ➜ Gengar Otra Vez x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ NO tiene Intimidación ➜ Trampa Rocas:",
       "variant": [
         {
-          "detail": "◉ Absol ➜ Gengar otra Vez +2 🔔(Bola Sombra a todo)🔔",
-          "variant": []
-        },
-        {
-          "detail": "◉ Luxray ➜ Gengar otra vez +4  🔔(Bola Sombra a todo)🔔",
-          "variant": []
+          "detail": "◉ Gyarados se queda ➜ Amortiguador para forzar el cambio.",
+          "variant": [
+            {
+              "detail": "◉ Absol ➜ Gengar otra vez x2 y Mira Quien Sale",
+              "variant": [
+                {
+                  "detail": "◉ Excadrill ➜ Salamence ➜ Quagsire Bostezo Frente Gyarados ➜ Salamence x1.",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Mightyena ➜ Ataca y gana",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Magnezone ➜ Revisar objeto:",
+                  "variant": [
+                    {
+                      "detail": "◉ Con Globo Helio ➜ Volcarona Frente Gyarados ➜ Salamence x2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Sin Globo Helio ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x1",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "◉ Garchomp ➜ Ataca Y cuando entre Magnezone/Sharpedo ➜ Quagsire Bostezo Frente Gyarados ➜ Salamence x1.",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "◉ Sin Intimidación ➜ Trampa Rocas",
-      "variant": [
-        {
-          "detail": "◉ Acua Cola ➜ Amortiguador frente a Absol, Gengar otra vez +4 🔔(Bola Sombra a todo)🔔",
-          "variant": []
-        },
-        {
-          "detail": "◉ Darmanitan ➜ 💊Gengar +2 + Precisión X💊 (No usar Otra Vez) 🔔(Usar movimientos súper eficaces)🔔 ",
-          "variant": []
-        },
-        {
-          "detail": "◉ Absol ➜ Cambiar a Slowbro y usar Bostezo",
-          "variant": [
-            {
-              "detail": "◉ Si el Bostezo fuerza la salida de un atacante especial del enemigo ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "◉ Tajo Umbrío ➜ Ver estado de Slowbro",
-              "variant": [
-                {
-                  "detail": "◉ ✅Slowbro vive✅ ➜ Sacrifica a Politoed ; Poliwrath +6 🐸🥊 ⚠️(Golpe Bajo no es amenaza)⚠️",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ ☠️Slowbro se debilita☠️ ➜ Cambiar a Chansey, 💊cambia a Gengar otra vez +2 +2 y Precisión X💊 ",
-                  "variant": []
-                }  
-              ]  
-            } 
-          ]  
-        },
-        {
-          "detail": "◉ Luxray ➜ Amortiguador, esperar a Absol, 💊Gengar otra vez +2 + Precisión X💊 ",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Darmanitan ➜ Gengar +6 (sin usar Otra Vez).",
+      "variant": []
+    },
+    {
+      "detail": "◉ Luxray ➜ Gengar Otra Vez Frente Excadrill ➜ Quagsire Bostezo Frente Gyarados ➜ Salamence x1.",
+      "variant": []
     }
   ]
 }

@@ -5,21 +5,12 @@
   "initialMove": "🪨 TRAMPA ROCAS 🪨",
   "tricks": [
     {
-      "detail": "Colmillo Ígneo --> Encanto + Amortiguador frente a Absol; Gengar +2 y 🔔Bola Sombra a todo🔔",
+      "detail": "◉ Colmillo Fuego [Vidasfera] ➜ Encanto y Amortiguador Frente Absol ➜ Gengar Otra Vez x2",
       "variant": []
     },
     {
-      "detail": "Absol --> Opciones para resolver",
-      "variant": [
-        {
-          "detail": "Rápido --> Gengar +2 +2 + Precisión",
-          "variant": []
-        },
-        {
-          "detail": "Ahorrar dinero --> Gengar +6 +2 y 🔔Bola Sombra a todo🔔",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Absol ➜ Gengar Otra Vez ➜ Quagsire frente Garchomp, Bostezo Frente Gyarados ➜ Salamence x1.",
+      "variant": []
     }
   ]
 }

@@ -2,10 +2,14 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambiar a Gengar y matalo con bola sombra ",
+  "initialMove": "Gengar Bola sombra Excadrill ➜ Chansey Trampa Rocas Frente Absol ➜ Elegir que ruta usar",
   "tricks": [
     {
-      "detail": "Frente a Mandibuzz/spiritomb ➜ cambia a Chansey y usa Trampa Rocas ➜ frente a Absol entra con  Volcarona x2 Danza aleteo (Gigadrenado a Absol)",
+      "detail": "◉ Ruta Rápida ➜ Volcarona x2 ⭐Gigadrenado en Absol⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ ruta Segura ➜ Gengar otra Vez x2 Frente Excadrill ➜ Salamence ➜ Quagsire Otra Vez sobre Terremoto ➜ Salamence, Danza Dragón Frente Mandibuzz ➜ Volcarona x2⭐ si Excadrill no se retira, atacar hasta eliminar⭐",
       "variant": []
     }
   ]

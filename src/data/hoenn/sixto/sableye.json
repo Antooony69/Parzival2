@@ -5,38 +5,25 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Absol ➜ Cambiar a Gengar y usar Otra Vez 🔔ver objeto🔔",
-      "variant": []
-    },
-    {
-      "detail": "Si gengar es mas rapido que Absol usa Esta ruta 🔔 mira abajo 🔔",
+      "detail": "◉ Absol ➜ Gengar Otra Vez, Quagsire",
       "variant": [
         {
-          "detail": "Rápido ➜ Gengar +2 +2 + Precisión X",
+          "detail": "◉ Garchomp ➜ Bostezo Frente Gyarados ➜ Salamence x1 / Volcarona x3 ⭐Garchomp se queda, Protección y luego Bostezo de nuevo⭐",
           "variant": []
         },
         {
-          "detail": "Ahorrar dinero ➜ Gengar +6 +2 Bola Sombra a todo",
+          "detail": "◉ Magnezone ➜ Bostezo Frente Gyarados ➜ Volcarona x3 / Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Hariyama ➜ Bostezo Frente Shiftry ➜ Volcarona x2 / Salamence x1.",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Absol Usa primero A bocajarro ➜ Gengar +4 (No usar Otra Vez - absol pañuelo elegido)",
+      "detail": "◉ Aggron ➜ Quagsire Bostezo Frente Shiftry ➜ Salamence x1.",
       "variant": []
-    },
-    {
-      "detail": "Aggron ➜ Sacrifica a Politoed ➜ Poliwrath Puño drenaje",
-      "variant": [
-        {
-          "detail": "Shiftry ➜ Volcarona x2 danza aleteo ➜ lanzallamas a Shiftry y el resto de plantas usar Psíquico",
-          "variant": []
-        },
-        {
-          "detail": "Hariyama ➜ Poliwrath  Ataque X  completar con Cascada contra Hariyama",
-          "variant": []
-        }
-      ]
     }
   ]
 }

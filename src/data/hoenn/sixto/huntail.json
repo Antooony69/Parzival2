@@ -5,11 +5,25 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Absol --> Gengar, Otra Vez, +2; 🔔con Bola Sombra🔔",
-      "variant": []
+      "detail": "◉ Mienshao ➜ Bola Sombra y ver quien entra:",
+      "variant": [
+        {
+          "detail": "◉ Excadrill ➜ Elegir Ruta",
+          "variant": [
+            {
+              "detail": "◉ Ruta Rápida ➜ Chansey Amortiguador Frente Absol ➜ Volcarona x2.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Ruta Segura ➜ Salamence ➜ Quagsire, Otra Vez sobre Terremoto ➜ Salamence, Danza Dragón Frente Mandibuzz ➜ Volcarona x2⭐ si Excadrill no se retira, atacar hasta eliminar⭐",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Mienshao --> Gengar, bola sombra , frente a Mandibuzz / Spiritomb; Volcarona +2; 🔔Gigadrenado contra Absol🔔",
+      "detail": "◉ Cualquier otro Pokémon ➜ Gengar Otra Vez x2.",
       "variant": []
     }
   ]

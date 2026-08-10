@@ -2,6 +2,15 @@
   "id": "spiritomb",
   "name": "Spiritomb",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡🐚Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🐸 💡",
-  "tricks": []
+  "initialMove": "💡Trampa Rocas Frente Lucario ➜ Gengar otra vez x2 Mira Abajo 💡",
+  "tricks": [
+    {
+      "detail": "◉ Eelektross ➜ Quagsire Bostezo, Frente Lapras, Protección, Bostezo Frente Lucario ➜ Salamence x2 ⭐que tenga mas de 44.4% de vida⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lapras ➜ Quagsire Bostezo, Frente Lucario ➜ Salamence x2 ⭐que tenga mas de 44.4% de vida⭐",
+      "variant": []
+    }
+  ]
 }

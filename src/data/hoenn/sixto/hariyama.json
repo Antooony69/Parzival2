@@ -2,22 +2,14 @@
   "id": "hariyama",
   "name": "Hariyama",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "⭐Salamence⭐",
   "tricks": [
     {
-      "detail": "Absol --> Gengar +4 (No usar Otra Vez); Bola Sombra a todo",
+      "detail": "◉ Aggron ➜ Terremoto Frente Salamence ➜ Chansey Amortiguador Frente ➜ Quagsire Bostezo Frente Shiftry, Salamence x1 ⭐ Si no se retira ➜ Encanto + Amortiguador , Quagsire Bostezo, Salamence, Protección y luego Bostezo de nuevo⭐",
       "variant": []
     },
     {
-      "detail": "Aggron --> Sacrificar a Politoed; Poliwrath entra a matar a aggron",
-      "variant": []
-    },
-    {
-      "detail": "Shiftry --> Volcarona +2; lanzallamas contra Shiftry y el resto de plantas usar Psíquico (Mantener HP por encima del 23%)",
-      "variant": []
-    },
-    {
-      "detail": "Hariyama --> Recibir Ataque X; completar con Cascada contra Hariyama",
+      "detail": "◉ Absol ➜ Scrafty x3.",
       "variant": []
     }
   ]

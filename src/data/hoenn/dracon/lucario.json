@@ -2,19 +2,32 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Cambiar a Gengar 👻",
+  "initialMove": "👻 Gengar 👻",
   "tricks": [
     {
-      "detail": "◉ A Bocajarro ➜ Otra Vez ➜ cambiar a Slowbro y usar Bostezo frente a Lapras ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "detail": "◉ Metagross ➜ Salamence, Chansey Trampa Rocas ➜ Volcarona Lanzallamas frente Flygon ➜ Quagsire Bostezo Frente Seviper ➜ Volcarona x2 (No tengas la salud muy baja).",
       "variant": []
     },
     {
-      "detail": "◉ Patada Salto Alta ➜ Gengar Maquinación y lucario se muere ➜ frente a Haxorus ➜ cambiar a Chansey y luego  Gengar Otra vez +4 (Haxorus banda focus)",
+      "detail": "◉ A Bocajarro ➜ Gengar Otra Vez ➜ Chansey Trampa Rocas Frente Lucario ➜ Gengar otra vez +2 Frente Altaria, +2 y ataca ",
       "variant": []
     },
     {
-      "detail": "◉ Metagross ➜ Cambiar a Slowbro, luego a Chansey frente a Lapras ➜ Trampa Rocas frente a Metagross ➜ cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed; Poliwrath +6🐸🥊",
-      "variant": []
+      "detail": "◉ Patada Salto Alta ➜ Chansey Trampa Rocas Frente Lucario ➜ Salamence x1 ",
+      "variant": [
+        {
+          "detail": "◉ Si Patada Salto falla y sale Lapras ➜ Volcarona x1, Frente Gallade ➜ Scrafty y cambia a Gengar otra vez +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Trampa Rocas y sale Gallade ➜ Gengar otra vez +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Trampa Rocas y sale Haxorus ➜ Gengar otra vez +2",
+          "variant": []
+        }
+      ]
     }
   ]
-}  
+}

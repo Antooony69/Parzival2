@@ -2,49 +2,57 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 (Si Lapras se queda, usa Amortiguador)",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "◉ Lucario ➜ Cambia a Gengar para ver el movimiento",
+      "detail": "◉ Eelektross / Regirock ➜ Gengar otra vez x2 y evalúa:",
       "variant": [
         {
-          "detail": "◉ A Bocajarro ➜ Gengar +4 Bola Sombra a todo",
+          "detail": "◉ Regirock no cambia ➜ Frente Metagross ➜ Salamence x1 ⭐Si quieres hacerlo mas rapido ➜ Gengar otra vez +4 +2⭐",
           "variant": []
         },
         {
-          "detail": "◉ Patada Salto Alta ➜ Opción para resolver",
-          "variant": [
-            {
-              "detail": "◉ Ruta Arriesgada ➜ Maquinación y barrer directamente ➜ aleatorio contra Lapras",
-              "variant": []
-            }
-          ]
+          "detail": "◉ si el rival Cambia Salamence ➜ Ataca Frente Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1.",
+          "variant": []
         },
         {
-          "detail": "◉ Ruta Segura ➜ Cambia a Slowbro, luego a Chansey y volver a Gengar",
-          "variant": [
-            {
-              "detail": "◉ Haxorus ➜ Gengar otra vez +2 ➜ atacar hasta Lucario ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "◉ Lucario ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 Pueño drenaje a Ampharos",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Si el rival  Cambia Metagross o Lapras ➜ Ataca Frente Metagross ➜ Salamence Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence  x1 ⭐ Bostezo le cae a Salamence , Protección y Bostezo⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si cambias a Gengar y entra Eelektross ➜ Quagsire, Chansey Amortiguador Frente Eelektross o Regirock ➜ Gengar otra vez +2 Frente Metagross ➜  Salamence, Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1 ⭐ Bostezo le cae a Salamence , Protección y Bostezo⭐",
+          "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Haxorus ➜ Gengar +2 ➜ atacar hasta Lucario ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
+      "detail": "◉ Lucario ➜ Gengar:",
+      "variant": [
+        {
+          "detail": "◉ Patada Salto ➜ Gengar +2 (no usar Otra Vez).",
+          "variant": []
+        },
+        {
+          "detail": "◉ A Bocajarro ➜ Gengar otra vez Frente Altaria ➜ Maquinacion y ataca",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Metagross ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
+      "detail": "◉ Haxorus ➜ Gengar otra vez +2 y mira quien entra :",
+      "variant": [
+        {
+          "detail": "◉ Si sale Salamence ➜ Chansey, Amortiguador Frente Lucario ➜ Gengar +2 ⭐No usar Otra vez⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si sale Lapras o Lucario ➜ Quagsire Bostezo Frente Salamence, Protección + Bostezo Frente Lapras ➜ Volcarona x2.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Eelektross / Regice ➜ Slowbro usa Bostezo frente a Nidoking ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "detail": "◉ Metagross ➜ Volcarona Lanzallamas Frente Flygon ➜ Quagsire Bostezo Frente Seviper ➜ Volcarona x2 ⭐Si el rival se queda, Protección, Bostezo y curar vida si es necesario⭐",
       "variant": []
     }
   ]

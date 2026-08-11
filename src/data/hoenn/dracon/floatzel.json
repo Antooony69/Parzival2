@@ -5,11 +5,25 @@
   "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Gallade --> Cambiar a Slowbro y usar Bostezo frente a Empoleon; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "◉ Gallade ➜ Elige una opcion",
+      "variant": [
+        {
+          "detail": "◉ Opción 1 ➜ Gengar otra vez +6 +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Opción 2 ➜ Gengar Otra Vez y ataca Frente Feraligatr ➜ Salamence x1.",
+          "variant": [
+            {
+              "detail": "◉ Triturar ➜ Scrafty x3.",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Feraligatr --> Cambiar a Slowbro y usar Bostezo frente a Sceptile; Volcarona +3 🔔(mantener PS por encima del 75%)🔔",
+      "detail": "◉ Feraligatr ➜ Quagsire, Bostezo Frente Sceptile ➜ Volcarona x1 + Especial X ⭐Mantener PS de Volcarona > 75%⭐",
       "variant": []
     }
   ]

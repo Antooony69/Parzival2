@@ -5,30 +5,19 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Hariyama ➜ Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Hielo a Froslass)🔔",
+      "detail": "◉ Mienshao ➜ Gengar Bola sombra Frente Walrein ➜ Volcarona ➜ Scrafty frente  Chansey ➜ Scrafty x2 (Puño Drenaje + A Bocajarro a Skarmory).",
       "variant": []
     },
     {
-      "detail": "Metagross ➜ Cambiar a Slowbro, luego de Volcarona frente a Serperior ➜ Volcarona +2",
+      "detail": "◉ Beartic / Gallade ➜ Gengar otra vez +2 Frente Walrein ➜ Maquinacion y ataca",
       "variant": []
     },
     {
-      "detail": "Mienshao ➜ Cambiar a Gengar y atacar con Bola Sombra",
-      "variant": [
-        {
-          "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo ➜ frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Cascada a Skarmory)🔔"
-        },
-        {
-          "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Cascada a Skarmory)🔔"
-        }
-      ]
-    },
-    {
-      "detail": "Gallade ➜ Gengar +4 (No usar Otra Vez) 🔔(Barrer con Bola Sombra)🔔",
+      "detail": "◉ Hariyama ➜ Gengar otra vez +4 +2  ⭐Rayo a Froslass⭐",
       "variant": []
     },
     {
-      "detail": "Beartic ➜ Gengar Otra Vez +4 🔔(Barrer con Bola Sombra)🔔",
+      "detail": "◉ Metagross ➜ Quagsire ➜ Volcarona frente Serperior ➜ Volcarona x1 + especial x",
       "variant": []
     }
   ]

@@ -2,6 +2,15 @@
   "id": "ludicolo",
   "name": "Ludicolo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Teletransporte; enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 💡",
-  "tricks": []
+  "initialMove": "💡Quagsire ➜ Gengar Otra Vez ➜ Salamence x1💡",
+  "tricks": [
+    {
+      "detail": "◉ Si cambia a Milotic ➜ Volcarona x4.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Salamence frente Empoleon ➜ Quagsire Bostezo Frente Roserade ➜ Salamence x1.",
+      "variant": []
+    }
+  ]
 }

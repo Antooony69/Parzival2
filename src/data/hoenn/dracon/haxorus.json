@@ -2,6 +2,6 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Gengar +4 +2 Bola Sombra a todos 👻",
+  "initialMove": "👻 Amortiguador ➜ Gengar otra vez +4 +2 👻",
   "tricks": []
 }

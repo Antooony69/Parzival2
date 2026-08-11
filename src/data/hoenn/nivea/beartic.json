@@ -2,6 +2,11 @@
   "id": "beartic",
   "name": "Beartic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Gengar Otra Vez +6👻 🔔(Barrer con Bola Sombra)🔔",
-  "tricks": []
+  "initialMove": "Gengar Otra Vez ➜ Chansey Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "◉ Gallade,Ursaring ,Beartic ➜ Gengar otra vez x2 Frente Walrein Maquinación ➜ Gengar +4",
+      "variant": []
+    }
+  ]
 }

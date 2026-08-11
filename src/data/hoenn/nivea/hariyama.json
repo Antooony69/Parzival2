@@ -2,14 +2,14 @@
   "id": "hariyama",
   "name": "Hariyama",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🐸Opciones para Resolver🐸",
+  "initialMove": "🐸Trampa Rocas ➜ Gengar Otra vez +4 +2🐸",
   "tricks": [
     {
-      "detail": "Rápido --> Trampa Rocas; Gengar 4+2 + Precisión X; 🔔(Barrer con Bola Sombra; si se bloquea, usar Onda Certera)🔔",
+      "detail": "◉ Si sufres un Golpe Crítico ➜ max pocion ➜ Gengar ➜ Rayo a Froslass",
       "variant": []
     },
     {
-      "detail": "Ahorrar Dinero --> Cambiar a Slowbro, luego a Chansey y usar Trampa Rocas; Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🔔(Cascada a Froslass)🔔",
+      "detail": "◉ 【Imprevisto】 Si Cambia a Froslass ➜ Chansey Amortiguador  Frente hariyama otra vez +4 +2",
       "variant": []
     }
   ]

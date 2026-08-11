@@ -2,14 +2,14 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "⭐Trampa Rocas⭐",
   "tricks": [
     {
-      "detail": "Puño Drenaje ➜ Gengar +4 +2 🔔Bola Sombra a todo🔔",
+      "detail": "◉ Fuerza Bruta ➜ Chansey Amortiguador Frente Gallade ➜ Gengar otra vez +4",
       "variant": []
     },
     {
-      "detail": "Fuerza Bruta ➜ Amortiguador y esperar a Gallade ➜ Gengar otra vez +4 otra vez 🔔Gallade Banda Focus🔔 ",
+      "detail": "◉ Puño Drenaje ➜ Gengar otra vez +2 Frente Metagross ➜ Salamence Terremoto Frente Regirock ➜  Volcarona ➜ Quagsire Bostezo frente Nidoking ➜ Salamence x1 ⭐Salamence rival entra ➜ Protección y Bostezo⭐",
       "variant": []
     }
   ]

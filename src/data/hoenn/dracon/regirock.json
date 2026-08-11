@@ -2,15 +2,28 @@
   "id": "regirock",
   "name": "Regirock",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Cambiar a Gengar 👻",
+  "initialMove": "👻 Trampa Rocas 👻",
   "tricks": [
     {
-      "detail": "Puño Drenaje --> Gengar +4 +2; 🔔Bola Sombra a todo🔔",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross --> Cambiar a Chansey y luego a Gengar +4 +2; 🔔Bola Sombra a todo🔔",
-      "variant": []
+      "detail": "◉ Si Regirock no se va / Si sale Eelektross ➜ Gengar Otra Vez  x2 y evaluar la situación:",
+      "variant": [
+        {
+          "detail": "◉ Si huye a Salamence ➜ Atacar hasta Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Regirock no se va ➜ Atacar Frente Metagross ➜ Salamence x1 hacerlo mas rapido Gengar otra vez +4 +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si huye a Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1 (usar Bostezo a Salamence rival, Protección y volver a lanzar Bostezo).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si huye a Lapras ➜ Atacar hasta Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence  x1 (usar Bostezo a Salamence rival, Protección y volver a lanzar Bostezo).",
+          "variant": []
+        }
+      ]
     }
   ]
 }

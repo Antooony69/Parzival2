@@ -2,6 +2,24 @@
   "id": "nidoking",
   "name": "Nidoking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻Amortiguador frente a Eelektross; Gengar, Otra Vez, +4 +2 (Bola Sombra a todo)👻",
-  "tricks": []
+  "initialMove": "👻Trampa Rocas👻",
+  "tricks": [
+    {
+      "detail": "◉ Eelektross ➜ Gengar otra vez x2 Frente  Metagross ➜ Salamence Terremoto Frente Regirock ➜ Volcarona ➜  Quagsire Bostezo Frente Nidoking ➜ Salamence  x1 (si Salamence rival no ha muerto, saldrá primero Salamence; usar Protección y Bostezo).",
+      "variant": []
+    },
+    {
+      "detail": "◉ Regirock ➜ Gengar Otra Vez +2 y evaluar la situación:",
+      "variant": [
+        {
+          "detail": "◉ Si no se va ➜ Atacar hasta Metagross ➜ Salamence x1 hacerlo mas rapido ➜ Gengar otra vez +4 +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si huye a Salamence ➜ Atacar hasta Metagross ➜ Salamence Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire  Bostezo Frente Nidoking ➜ Salamence x1.",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

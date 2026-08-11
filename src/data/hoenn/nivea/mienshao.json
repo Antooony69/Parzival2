@@ -2,59 +2,37 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Cambiar a Gengar, luego a Slowbro para recibir Roca Afilada💡 🔔(Verificar Objeto + Precisión)🔔",
+  "initialMove": "💡Gengar, Bola sombra💡",
   "tricks": [
     {
-      "detail": "Vidasfera ➜ Cambiar a Chansey para recibir Ida y Vuelta ➜ usar Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y esperar a que se debilite solo",
+      "detail": "◉ Nidoqueen / Altaria ➜ Chansey, Trampa Rocas Frente Metagross ➜ Quagsire Bostezo Frente Nidoqueen ➜ Salamence x1 ⭐si Metagross sube Ataque, verificar si Terremoto debilita de un golpe) ➜ Salamence  x1.⭐",
       "variant": [
         {
-          "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
+          "detail": "◉ Si el Bostezo duerme a Walrein ➜ Protección y Bostezo Frente Nidoqueen ➜ Salamence x1",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Vidasfera ➜ Slowbro usar Bostezo frente a Nidoking ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "Sin Precisión ➜ Cambiar a Chansey 🔔(Mira el Objeto)🔔",
+      "detail": "◉ Skarmory / Mismagius / Walrein ➜ Trampa Rocas.",
       "variant": [
         {
-          "detail": "Vidasfera + Ida y Vuelta ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y esperar a que se debilite solo",
-          "variant": [
-            {
-              "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Walrein o Dewgong ➜ Sacrificar a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
-              "variant": []
-            }  
-          ]  
-        },
-        {
-          "detail": "Cambio a Nidoking ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y usar Maquinación para Barrer 🔔(Si no hay crítico no debilita)🔔",
+          "detail": "◉ Skarmory ➜ Quagsire Bostezo Frente Mismagius ➜ Scrafty x2 ⭐Puño Drenaje + A Bocajarro a Skarmory⭐",
           "variant": []
         },
         {
-          "detail": "Cambio a Mismagius ➜ Trampa Rocas frente a Mienshao ➜ cambiar a Gengar y esperar a que se debilite solo",
-          "variant": [
-            {
-              "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
-              "variant": []
-            },
-            {
-              "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Skarmory)🔔",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Walrein [se queda en campo] ➜ Volcarona ➜ Cambiar a Scrafty frente Blissey ➜ Scrafty x2 ⭐Puño Drenaje + A Bocajarro a Skarmory⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Blissey ➜ Gengar x6 (No usar Otra Vez)  ⭐si gengar usa maquinacion y entra Lanturn / Walrein ➜ maquinacion Frente Blissey ➜ Gengar +6⭐",
+          "variant": []
         }
-      ] 
+      ]
+    },
+    {
+      "detail": "◉ Metagross ➜ Salamence ➜ Chansey Trampa Rocas ➜ Quagsire Bostezo Frente Nidoqueen ➜ Salamence x1",
+      "variant": []
     }
-  ]  
-}  
+  ]
+}

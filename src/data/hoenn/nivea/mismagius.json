@@ -2,15 +2,6 @@
   "id": "mismagius",
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 frente a Mienshao, cambia a Gengar Bola Sombra",
-  "tricks": [
-    {
-      "detail": "Skarmory ➜ Cambiar a Slowbro y usar Bostezo frente a Mismagius ➜ sacrificar a Politoed ➜ Poliwrath +6 🐸🥊🔔(Cascada a Skarmory)🔔",
-      "variant": []
-    },
-    {
-      "detail": "Walrein o Dewgong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊🔔(Cascada a Skarmory)🔔",
-      "variant": []
-    }
-  ]
+  "initialMove": "Trampa Rocas Frente Mienshao ➜ Gengar Bola Sombra y Frente Walrein ➜ Volcarona ➜ Scrafty Frente Blissey ➜ Scrafty x2 ⭐puño dranaje Skarmory⭐",
+  "tricks": []
 }

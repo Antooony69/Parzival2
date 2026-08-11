@@ -2,6 +2,11 @@
   "id": "regice",
   "name": "Regice",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 frente a Lucario; Gengar +2 + Precisión (No usar Otra Vez); 🔔 para ahorrar dinero: Gengar +6 🔔",
-  "tricks": []
+  "initialMove": "⭐Trampa Rocas⭐",
+  "tricks": [
+    {
+      "detail": "◉ Lucario ➜ Gengar ➜ Chansey frente Hydreigon ➜ Gengar frente Lucario ➜ Scrafty x3",
+      "variant": []
+    }
+  ]
 }

@@ -2,7 +2,11 @@
   "id": "sableye",
   "name": "Sableye",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 frente a Lucario; Gengar +2 + Precisión (No usar Otra Vez); 🔔 para ahorrar dinero: Gengar +6 🔔",
-  "tricks": []
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉ Lucario ➜ Gengar ➜ Chansey Frente Hydreigon ➜ Gengar frente Lucario ➜ Scrafty x3",
+      "variant": []
+    }
+  ]
 }
-    

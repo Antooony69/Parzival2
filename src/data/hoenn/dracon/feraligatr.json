@@ -2,24 +2,24 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "⭐Encanto⭐",
   "tricks": [
     {
-      "detail": "Cascada ➜ Teletransporte para sacar a Slowbro y usar Bostezo",
+      "detail": "◉ Gallade ➜ Gengar otra vez +4 ⭐Gallade Banda Focus⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Feraligatr no cambia ➜ Amortiguador.",
       "variant": [
         {
-          "detail": "Triturar ➜ Sacrificar a Politoed; Poliwrath +6",
+          "detail": "◉ Gallade ➜ Gengar otra vez +4 ⭐Gallade Banda Focus⭐",
           "variant": []
         },
         {
-          "detail": "Sceptile ➜ Volcarona +3 🔔(Mantener PS por encima del 75%)🔔",
+          "detail": "◉ Feraligatr no cambia ➜ Quagsire Bostezo Frente Sceptile ➜ Volcarona x1 + Especial X ⭐Mantener PS de Volcarona > 75%⭐",
           "variant": []
-        }  
-      ]  
-    },
-    {
-      "detail": "Gallade/Roserade ➜ Sacrificar a Politoed; Slowbro mantiene Bostezo frente a Salamence ➜ Teletransporte para sacar a Poliwrath +6",
-      "variant": []
+        }
+      ]
     }
   ]
 }

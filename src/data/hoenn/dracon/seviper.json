@@ -5,11 +5,16 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "◉ Gallade ➜ Gengar Otra Vez Frente Feraligatr ➜ Salamence x1.",
+      "variant": [
+        {
+          "detail": "◉ Triturar ➜ Scrafty  x3",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Gallade--> Cambiar a Slowbro y usar Bostezo frente a Empoleon; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Metagross ➜ Volcarona Lanzallamas Frente Flygon ➜ Quagsire Bostezo Frente Seviper ➜ Volcarona x2, ⭐Si no cambia usar proteccion + bostezo (si le falta vida, curar⭐",
       "variant": []
     }
   ]

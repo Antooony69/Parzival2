@@ -6,34 +6,36 @@
   "tricks": [
     {
       "detail": "◉ Puño Meteoro [Vidasfera] ➜ Volcarona Lanzallamas",
-      "variant": []
-    },
-    {
-      "detail": "◉ Lanturn / Walrein ➜ Chansey, Amortiguador Frente Hariyama ➜ Gengar Otra Vez +4 +2 ⭐Rayo Froslass⭐",
-      "variant": []
-    },
-    {
-      "detail": "◉ Mienshao ➜ Quagsire Bostezos Frente Nidoqueen ➜ Dragonite x1 ⭐Si Walrein entra usar bostezo y Protección , Bostezo Frente Nidoqueen ➜ Dragonite x1 ⭐",
-      "variant": []
+      "variant": [
+        {
+          "detail": "◉ Lanturn / Walrein ➜ Chansey, Amortiguador Frente Hariyama ➜ Gengar Otra Vez +4 +2 ⭐Rayo Froslass⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Mienshao ➜ Quagsire Bostezos Frente Nidoqueen ➜ Dragonite x1 ⭐Si Walrein entra usar bostezo y Protección , Bostezo Frente Nidoqueen ➜ Dragonite x1 ⭐",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "◉ 【Imprevisto】 Volcarona es debilitado por Puño Cometa ➜ Quagsire Bostezo.",
+      "variant": [
+        {
+          "detail": "◉ Nidoqueen ➜ Dragonite Danza Dragón x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Quagsire es debilitado por Hierba Lazo ➜ Sacrificar Salamence para revivir a Volcarona ➜ Volcarona ataca Lanturn / Froslass ➜  Chansey Amortiguador Frente Hariyama ➜ Gengar Otra Vez +4 +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Machada ➜ Quagsire ➜ Volcarona frente Serperior ➜ Volcarona x1 + Especial x",
       "variant": []
     },
     {
-      "detail": "◉ Nidoqueen ➜ Dragonite Danza Dragón x1",
-      "variant": []
-    },
-    {
-      "detail": "◉ Quagsire es debilitado por Hierba Lazo ➜ Sacrificar Salamence para revivir a Volcarona ➜ Volcarona ataca Lanturn / Froslass ➜  Chansey Amortiguador Frente Hariyama ➜ Gengar Otra Vez +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "◉ Machada ➜ Quagsire ➜  Volcarona frente Serperior ➜ Volcarona x1 + Especial x",
-      "variant": []
-    },
-    {
-      "detail": "◉ Mamoswine ➜ Encanto ➜  Quagsire Bostezo Frente Mismagius ➜ Volcarona x1  ⭐Si no cambia usar proteccion y bostezo⭐",
+      "detail": "◉ Mamoswine ➜ Encanto ➜ Quagsire Bostezo Frente Mismagius ➜ Volcarona x1  ⭐Si no cambia usar proteccion y bostezo⭐",
       "variant": []
     }
   ]

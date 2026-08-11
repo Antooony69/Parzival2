@@ -2,6 +2,11 @@
   "id": "empoleon",
   "name": "Empoleon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 frente a Gallade; cambiar a Slowbro y usar Bostezo frente a Empoleon ➜ sacrifica a Politoed ➜ Poliwrath +6",
-  "tricks": []
+  "initialMove": "⭐Amortiguador Frente Gallade ➜ Gengar Otra Vez y ataca Frente Feraligatr ➜ Salamence x1⭐",
+  "tricks": [
+    {
+      "detail": "◉ [Imprevisto] Si Feraligatr usa Triturar ➜ Scrafty x3 danza dragon",
+      "variant": []
+    }
+  ]
 }

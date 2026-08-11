@@ -5,65 +5,115 @@
   "initialMove": "🔔(Ver si tiene Intimidación)🔔",
   "tricks": [
     {
-      "detail": "Tiene Intimidación --> Amortiguador",
+      "detail": "◉ No tiene Intimidación ➜ Trampa Rocas.",
       "variant": [
         {
-          "detail": "Feraligatr ➜ cambiar a Slowbro y usar Bostezo frente a Sceptile ➜ Volcarona +3 🔔(Puedes usar un Especial X)🔔 🚨(PS por encima del 75%)🚨",
-          "variant": []
+          "detail": "◉ Metagross ➜ Volcarona lanzallamas Frente Flygon ➜ Quagsire Bostezo Frente Seviper ➜ Volcarona x2 🔔Si no cambia usa Protección y Bostezo (si le falta vida, curar)🔔",
+          "variant": [
+            {
+              "detail": "◉ Salamence mata a Volcarona ➜ Salamence x2.",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Gallade ➜  Gengar Otra Vez 4+2 + Precisión X 🔔gallade Tiene Banda focus🔔 ",
-          "variant": []
+          "detail": "◉ Lucario ➜ Gengar",
+          "variant": [
+            {
+              "detail": "◉ Patada Salto Alta ➜ Gengar +2 🔔No usar Otra Vez🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ A Bocajarro ➜ Gengar otra vez +2 Frente Altaria ➜ +2 y ataca",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Eelektross/Regice ➜ Gengar Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
-          "variant": []
+          "detail": "◉ Haxorus ➜ Gengar otra vez +2 y evaluar 🔔si no cambia, +4 +2🔔",
+          "variant": [
+            {
+              "detail": "◉ Lapras / Salamence ➜ Chansey + Amortiguador.",
+              "variant": [
+                {
+                  "detail": "◉ Lucario ➜ Gengar +2 (No usar otra vez).",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Haxorus ➜ Gengar otra vez +4 +2",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Lucario ➜ Quagsire, Chansey frente Salamence, Amortiguador.",
+              "variant": [
+                {
+                  "detail": "◉ Lucario ➜ Gengar +2 🔔no usar otra vez🔔",
+                  "variant": [
+                    {
+                      "detail": "◉ Haxorus ➜ Gengar Otra Vez +4 +2",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Sin Intimidación ➜ Trampa Rocas",
+      "detail": "◉ Intimidación ➜ Trampa Rocas.",
       "variant": [
         {
-          "detail": "Lucario ➜ Cambiar a Gengar 🔔(Ver movimiento)🔔",
+          "detail": "◉ Gallade ➜ Gengar otra vez +4 (usa otra vez puede tener banda focus)",
           "variant": [
             {
-              "detail": "A Bocajarro ➜ Gengar +4 🔔(Barre con Bola Sombra)🔔",
+              "detail": "◉ Feraligatr ➜  Salamence x1.",
+              "variant": [
+                {
+                  "detail": "◉ Triturar ➜ Scrafty  x3",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Otros movimientos ➜ Continuar barriendo.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Eelektross ➜ Gengar otra vez +2 y ataca hasta Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜  Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1 (si Salamence rival no ha muerto, saldrá primero Salamence; usar Protección y luego Bostezo).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Feraligatr ➜ Quagsire Bostezo Frente Sceptile ➜ Volcarona x1 + Especial X (mantener PS de Volcarona > 75%).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Regirock ➜ Gengar otra vez +2 y evaluar la situación:",
+          "variant": [
+            {
+              "detail": "◉ Si no se va  ➜ Atacar hasta Metagross ➜ Salamence x1 🔔hacerlo mas rapido gengar otra vez +4 +2🔔",
               "variant": []
             },
             {
-              "detail": "Patada Salto Alta ➜ ⬇️Opciónes para Resolver⬇️",
-              "variant": [
-                {
-                  "detail": "🚨Arriesgar🚨 ➜ Maquinación y barrer directamente 🔔(Aleatorio contra Lapras)🔔",
-                  "variant": []
-                },
-                {
-                  "detail": "✅ Ruta Segura✅ ➜ Cambiar a Slowbro, luego a Chansey y volver a Gengar",
-                  "variant": [
-                    {
-                      "detail": "Haxorus ➜ Gengar otra vez +2 y ataca hasta tener en frente a Lucario ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Puño drenaje a Ampharos,Lucario Pañuelo elegido)🔔",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Lucario ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Puño drenaje a Ampharos)🔔",
-                      "variant": []
-                    }
-                  ]
-                } 
-              ] 
-            } 
-          ]   
-        },
-        {
-          "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo ➜ frente a Lapras ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Si Metagross se queda, sigue con Bostezo)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Haxorus ➜ Gengar Otra vez +2 Ataca Hasta Tener en frente a Lucario ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Puño drenaje a Ampharos, Lucario Pañuelo elegido)🔔",
-          "variant": []
-        } 
-      ]  
+              "detail": "◉ Salamence ➜ Atacar hasta Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Metagross ➜ Salamence y usar Terremoto Frente Regirock ➜ Volcarona ➜ Quagsire Bostezo Frente Nidoking ➜ Salamence x1 (usar Bostezo a Salamence rival, Protección y volver a lanzar Bostezo).",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Cometa Draco ➜ Amortiguador y esperar a que cambie de Pokémon.",
+      "variant": []
     }
   ]
 }

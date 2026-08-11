@@ -5,56 +5,129 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "◉ Metagross se queda ➜ Ver situación",
+      "detail": "◉ Puño Meteoro [Vidasfera] ➜  Volcarona Lanzallams Frente Flygon ➜ Quagsire Bostezo Frente Seviper ➜ Volcarona x2 ⭐ Si Flygon no cambia, Protección, Bostezo ⭐si a Quagsire le queda poca vida, curar⭐",
       "variant": [
         {
-          "detail": "◉ Si tiene Vidasfera y sube su ataque ➜ Chansey usa Teletransporte y cambia a Volcarona lanzallamas ➜ frente a Flygon ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed; Poliwrath +6",
+          "detail": "◉ [Imprevisto] Si Volcarona muere ➜ Quagsire Bostezo Frente Seviper ➜ Sacrificar a Quagsire para revivir a Volcarona ➜ Volcarona x2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Feraligatr ➜ Quagsire Bostezo Frente Sceptile ➜ Volcarona x1 + Especial X (Mantener PS de Volcarona > 75%).",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lucario ➜ Gengar Otra Vez +2 Frente Altaria ➜ +2 y ataca",
+      "variant": []
+    },
+    {
+      "detail": "◉ Eelektross / Regirock ➜ Gengar otra vez +2  evaluar la situación:",
+      "variant": [
+        {
+          "detail": "◉ Si huye a Salamence / Lapras / Metagross ➜ Barrer hasta Metagross ➜ Cambiar a Salamence y usar Terremoto atacando a Regirock ➜ Cambiar a Volcarona ➜ Cambiar a Quagsire y usar Bostezo hasta Nidoking ➜ Salamence usa Danza Dragón x1 (Si Salamence rival no muere, usar Bostezo con Quagsire hacia Salamence, usar Protección y volver a lanzar Bostezo).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Regirock no se va ➜ ataca hasta Metagross ➜ Salamence x1 ⭐si lo quieres hacer mas rapido Gengar otra vez +4 +2⭐",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Puño Meteoro [Sin Vidasfera] ➜ Quagsire, Bostezo frente Salamence ➜ Chansey  Amortiguador.",
+      "variant": [
+        {
+          "detail": "◉ Regirock ➜ Gengar otra vez +2 y evaluar la situación:",
           "variant": [
             {
-              "detail": "Otras situaciones ➜ Slowbro usa Bostezo",
+              "detail": "◉ Si no se va ➜ Ataca y frente Metagross ➜ Salamence x1.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Salamence ➜ Ataca y frente Metagross ➜ Salamence, Quagsire Frente Regirock Bostezo Frente Nidoking ➜ Salamence x1 y ataca hasta Regirock. Elegir estrategia final:",
               "variant": [
                 {
-                  "detail": "◉ Lapras / Nidoking ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+                  "detail": "◉ Opción riesgo ➜ Atacar de frente hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Salamence ➜ Protección y Bostezo frente a Nidoking ➜ sacrifica a Politoed ➜ Poliwrath +6",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Se queda Metagross ➜ Sacrafica a politoed ➜ Poliwrath +6",
+                  "detail": "◉ Opción seguro ➜ Volcarona Lanzallama y cambia a Scrafty ➜ Gengar otra vez +4 +2",
                   "variant": []
                 }
               ]
+            },
+            {
+              "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜ x1 y continuar barriendo.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Salamence recibiendo el ataque y atacar hasta Eelektross ➜ x1 y continuar barriendo.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Metagross directo ➜ Salamence, Quagsire Bostezo Frente Salamence , Protección ,Bostezo Frente Nidoking ➜ Salamence x1 y ataca hasta Regirock. Elegir estrategia final:",
+          "variant": [
+            {
+              "detail": "◉ Opción riesgo ➜ Continuar atacando hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
+              "variant": []
+            },
+            {
+              "detail": "◉ Opción seguro ➜ Volcarona y luego cambiar a Scrafty ➜ Gengar otra vez +4 +2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Salamence y Metagross).",
+              "variant": []
+            },
+            {
+              "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Cambiar a Salamence recibiendo el ataque y atacar hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Metagross y Salamence).",
+              "variant": []
             }
           ]
         }
       ]
     },
     {
-      "detail": "◉ Eelektross / Regice ➜ Cambiar a Slowbro y usar Bostezo",
+      "detail": "◉ Eelektross ➜ Gengar otra vez x2 y ataca Frente Metagross ➜ Salamence, Quagsire Bostezo Frente Nidoking ➜ Salamence x1 y Frente Regirock. Elegir estrategia final (si Salamence rival no ha muerto, saldrá primero Salamence; en ese caso usar Protección y luego Bostezo):",
       "variant": [
         {
-          "detail": "◉ Nidoking ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+          "detail": "◉ Opción riesgo ➜ Continuar atacando hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
           "variant": []
         },
         {
-          "detail": "◉ Salamence ➜ Protección y Bostezo frente a Nidoking ➜ sacrifica a Politoed ➜ Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si Eelektross se queda y tu Slowbro cae debilitado ➜ Saca a Chansey y entra con Gengar otra vez +4 +2",
+          "detail": "◉ Opción seguro ➜ Cambiar a Volcarona y luego cambiar a Scrafty ➜ Gengar usa Maquinación x4 y Velocidad X x2.",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Lucario ➜ Gengar +4 🔔(No tiene Banda Focus) Bola Sombra a todo🔔 ",
-      "variant": []
+      "detail": "◉ Si huye a Metagross ➜ Verificar si Salamence rival ha muerto:",
+      "variant": [
+        {
+          "detail": "◉ Si ya murió ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜ Usar Danza Dragón x1 y continuar barriendo.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si NO ha muerto ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Comprobar cuál sale primero entre Salamence y Metagross).",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Feraligatr ➜ Cambiar a Slowbro y usar Bostezo frente a Sceptile ➜ Volcarona +3 🔔 (mantener PS por encima del 75%)🔔 ",
-      "variant": []
+      "detail": "◉ Si huye a Lapras ➜ Verificar si Salamence rival ha muerto:",
+      "variant": [
+        {
+          "detail": "◉ Si NO ha muerto ➜ Atacar hasta Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence, x1 y continuar barriendo (Comprobar cuál sale primero entre Metagross y Salamence).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si ya murió ➜ Atacar hasta Metagross ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜  x1 y continuar barriendo.",
+          "variant": []
+        }
+      ]
     }
   ]
 }

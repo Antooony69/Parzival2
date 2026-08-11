@@ -2,18 +2,41 @@
   "id": "gallade",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 AMORTIGUADOR 🥚",
+  "initialMove": "⭐Gengar⭐",
   "tricks": [
     {
-      "detail": "Espada Santa ➜ Gengar, Otra Vez, +4 +2 + Precisión + Otra Vez (🔔Tiene Banda Focus🔔)",
-      "variant": []
+      "detail": "◉ Espada Santa ➜ Gengar otra vez +4 ⭐Gallade Banda Focus⭐",
+      "variant": [
+        {
+          "detail": "◉ Feraligatr ➜ Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Triturar ➜ Scrafty  x3.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Cualquier otro Pokémon ➜ ataca hasta el final.",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Lucario ➜ Gengar usa Maquinación y va entrar Haxorus cambiar a Chansey y luego volver a Gengar, Otra Vez, +4 + Otra Vez 🔔haxorus banda focus🔔",
-      "variant": []
+      "detail": "◉ Lucario ➜ Chansey, Amortiguador Frente Haxorus; Amortiguador ➜ Gengar otra vez +4 +2",
+      "variant": [
+        {
+          "detail": "◉ Si sale Lapras ➜ ataca y frente Lucario ➜ Volcarona x3.",
+          "variant": [
+            {
+              "detail": "◉ [Imprevisto] Si queda atrapado en Roca Afilada ➜ Scrafty x2.",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "detail": "Haxorus ➜ Gengar, Otra Vez, +4 +2 + Otra Vez (🔔haxorus banda focus🔔)",
+      "detail": "◉ Si cambias a Gengar y entra Haxorus ➜ Chansey Amortiguador para recibir A Bocajarro ➜ Gengar otra vez +4 +2",
       "variant": []
     }
   ]

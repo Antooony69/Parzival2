@@ -2,10 +2,14 @@
   "id": "bisharp",
   "name": "Bisharp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Crobat ➜ Quagsire Bostezo Frente Lapras ➜ Volcarona x1 ⭐Superdiente falla usa Bostezo Frente Crobat, Bostezo no usar proteccion ⭐",
   "tricks": [
     {
-      "detail": "Sale Crobat ➜ Cambia a Slowbro ➜ Manten Bostezo hasta que salga Gengar/Lapras ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 (Puño Hielo a Gengar)",
+      "detail": "◉ Rhyperior ➜ Salamence ➜ Quagsire Bostezo Frente Lapras ➜ Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ usar Bostezo y sale Gengar ➜ Protección ➜ Recuperación Frente Lapras ➜ Volcarona x1",
       "variant": []
     }
   ]

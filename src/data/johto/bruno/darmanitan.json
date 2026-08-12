@@ -2,18 +2,10 @@
   "id": "darmanitan",
   "name": "Darmanitan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Varias Opciones Mira Abajo 💡",
+  "initialMove": "💡 Gengar +6 No usar otra vez💡",
   "tricks": [
     {
-      "detail": "Asegurar ➜ Volcarona +3 🦋🔥",
-      "variant": []
-    },
-    {
-      "detail": "Estable ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "⚠️Arriesgar⚠️ ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "detail": "◉ Torterra ➜ Salamence x3",
       "variant": []
     }
   ]

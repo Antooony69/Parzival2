@@ -2,20 +2,11 @@
   "id": "sharpedo",
   "name": "Sharpedo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas, Tangrowth, Salamence x3🪨",
   "tricks": [
     {
-      "detail": "Sale Tangrowth ➜ Teletransporte ➜ Slowbro, Bostezo (Mira la precisión de Tangrowth) ",
-      "variant": [
-        {
-          "detail": "Golpea → Teletransporte ➜ Volcarona x2 Danza aleteo🦋🔥",
-          "variant": []
-        },
-        {
-          "detail": "Falla ➜ Volcarona x2 Danza aleteo🦋🔥",
-          "variant": []
-        }
-      ]
+      "detail": "◉ si entra Rhyperior ➜ Quagsire Bostezo frente Tangrowth ➜ Volcarona x2",
+      "variant": []
     }
   ]
 }

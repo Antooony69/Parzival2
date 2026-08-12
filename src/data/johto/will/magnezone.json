@@ -2,24 +2,14 @@
   "id": "magnezone",
   "name": "Magnezone",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "Pantalla Luz, Trampa Rocas, Amortiguador esperar a que cambie:",
   "tricks": [
     {
-      "detail": "Se Queda Magnezone ➜ usa Teletransporte",
-      "variant": [
-        {
-          "detail": "Si Magnezone no cambia ➜ entra volcarona ataca con psiquico y despues usa lanzallamas Si entra Typhlosion ; sacrifica a Politoed ➜ Poliwrath +6",
-          "variant": [
-            {
-              "detail": "◉ Girafarig ➜ Cambia de Volcarona a Gengar y usa Otra Vez y cambia a Slowbro, frente a Mantine ➜ usa Bostezo y frente a Magnezone , sacrifica a Politoed ➜ Poliwrath +6",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "◉ ⭐Magnezone se queda ➜ Cambiar directamente a Quagsire Bostezo⭐",
+      "variant": []
     },
     {
-      "detail": "◉ Girafarig ➜ Gengar usa Otra Vez y cambia a Slowbro ➜ frente a Mantine usa Bostezo ➜ frente a Magnezone ➜ sacrifica a Politoed ➜ Poliwrath +6",
+      "detail": "◉ Girafarig ➜ Quagsire Bostezo Frente Girafarig ➜ Protección ➜ Bostezo Frente Typhlosion ➜ Salamence x2",
       "variant": []
     }
   ]

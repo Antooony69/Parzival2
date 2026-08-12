@@ -2,18 +2,18 @@
   "id": "nidoqueen",
   "name": "Nidoqueen",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨Amortiguador + Pantalla de Luz🪨",
   "tricks": [
     {
-      "detail": "Tierra Viva / Bomba Lodo ➜ Teletransporte ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 usar Cascada contra Skarmory / Tentacruel",
+      "detail": "◉ Tierra Viva / Onda Tóxica ➜ Quagsire Otra Vez a Tierra viva, Salamence x2 Movimiento de fuego Scarmory",
       "variant": []
     },
     {
-      "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜Teletransporte; enviar a Volcarona x1 danza aleteo y gigadrenado a zoruak ➜ barrer hasta electrode/ Tentacruel y usar otro  Danza Aleteo una vez para barrer",
+      "detail": "◉ Crobat ➜ Encanto, Quagsire Bostezo frente a Nidoqueen, Salamence x1 y dos Movimiento de fuego Scarmory",
       "variant": []
     },
     {
-      "detail": "Si Volcarona retrocede por retroceso ➜ Cambiar a Chansey ➜recuperar vida al máximo y repetir la operación anterior",
+      "detail": "◉ Pulso Umbrío ➜ Pantalla luz, Volcarona x1 Gigadrenado Frente Electrode, Volcarona x2 barre si HP de Volcarona > 50% (de lo contrario Electrode usa Explosión), sale Skarmory y te debilita, sale Electrode / Tentacruel, Volcarona x2 barre",
       "variant": []
     }
   ]

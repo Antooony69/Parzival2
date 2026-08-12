@@ -2,10 +2,14 @@
   "id": "hypno",
   "name": "Hypno",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨Frente Samurot, Gengar otra vez +6 +2",
   "tricks": [
     {
-      "detail": "Sale Samurott ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "detail": "◉ Al Bostear entra Rhyperior ➜ Salamence ➜ Quagsire Otra Vez ➜ Salamence x1 ➜ Terremoto",
+      "variant": []
+    },
+    {
+      "detail": "◉ Forretress ➜ Quagsire ➜ Gengar ➜ Forretress Explota Frente Rhyperior ➜ Salamence ➜ Quagsire Otra Vez a Terremoto ➜ Salamence x1",
       "variant": []
     }
   ]

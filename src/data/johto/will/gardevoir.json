@@ -2,16 +2,11 @@
   "id": "gardevoir",
   "name": "Gardevoir",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "⭐Pantalla Luz, Lucario ➜ Gengar otra vez +2 Frente Altaria ➜ Completar Maquinación hasta +6 ⭐Gengar al 58% de vida , Bola Sombra a Gardevoir⭐",
   "tricks": [
     {
-      "detail": "Sale Lucario ➜ cambiar a Gengar, otra vez +6 + precisión X",
-      "variant": [
-        {
-          "detail": "Si te bloquean Bola sombra, Onda certera derrota a Xatu.",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Zoroark (Ida y Vuelta) ➜ Frente Altaria ➜ Scrafty x2 ⭐PS > 43%⭐",
+      "variant": []
     }
   ]
 }

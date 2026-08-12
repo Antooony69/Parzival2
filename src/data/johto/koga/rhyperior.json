@@ -5,22 +5,28 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Samurott ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊  (Cascada a Hypno)",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto ➜ Encanto ➜ Slowbro, Bostezo ➜ Frente a Gengar/Lapras ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 (Puño hielo Gengar)",
-      "variant": []
-    },
-    {
-      "detail": "Sale Tangrowth ➜ Teletransporte ➜ Slowbro, Bostezo 🔔Mira la precisión de Tangrowth🔔 ",
+      "detail": "◉ Terremoto ➜ Salamence ➜ Quagsire Bostezo Frente Lapras ➜ Volcarona x1 (si Superdiente falla, Bostezo otra vez sin usar Protección y usar Bostezo)",
       "variant": [
         {
-          "detail": "Golpea ➜ Teletransporte ➜ Volcarona x2 Danza aleteo🦋🔥",
+          "detail": "◉ Bostezo le cae a Gengar ➜ Protección ➜ Recuperación frente Lapras ➜ Volcarona x1",
           "variant": []
-        },
+        }
+      ]
+    },
+    {
+      "detail": "◉ Samurott ➜ Gengar otra vez +6 +2",
+      "variant": [
         {
-          "detail": "Falla ➜ Volcarona x2 Danza aleteo🦋🔥",
+          "detail": "◉ al bostear entra Rhyperior ➜ Salamence ➜ Quagsire Otra Vez ➜ Salamence x1 Terremoto",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Tangrowth ➜ Salamence x3",
+      "variant": [
+        {
+          "detail": "◉ Al bostear entra Rhyperior ➜ Quagsire Bostezo frente Tangrowth ➜ Volcarona x2",
           "variant": []
         }
       ]

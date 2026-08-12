@@ -2,63 +2,77 @@
   "id": "roserade",
   "name": "Roserade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": " ⭐Trampa rocas⭐",
   "tricks": [
     {
-      "detail": "Vidasfera + Lluevehojas / Bomba Lodo --> Teletransporte; Slowbro usa Bostezo; Teletransporte; 💊Volcarona +1 + Especial X💊",
-      "variant": []
-    },
-    {
-      "detail": "Sin Vidasfera + Lluevehojas --> Teletransporte",
+      "detail": "◉ Bomba Lodo (sin Vidasfera) ➜ Gengar +4 + Curar ⭐(No usar Otra Vez, Gengar debe tener 50% de PS⭐",
       "variant": [
         {
-          "detail": "Si se queda --> Volcarona +4 🔔(Mantener PS por encima del 70%)🔔",
+          "detail": "◉ [Imprevisto] Atrapado en Bola Sombra Frente Lanturn ➜ Scrafty x2 ⭐A Bocajarro contra Togekiss⭐",
           "variant": []
         },
         {
-          "detail": "Gardevoir --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Milotic --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Sin Vidasfera + Bomba Lodo (Testeo) --> Teletransporte; Volcarona debilita 🔔(Ver quién sale)🔔",
-      "variant": [
-        {
-          "detail": "Milotic --> Cambiar a Chansey para ver movimiento",
+          "detail": "◉ Si huye a Togekiss ➜ sigue Atacando",
           "variant": [
             {
-              "detail": "Hidrobomba / Surf --> Teletransporte; Slowbro usa Bostezo frente a Ludicolo; sacrificar a Politoed; Poliwrath +6",
+              "detail": "◉ Roserade ➜ Scrafty x1.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Si huye a Empoleon ➜ Quagsire y mira que usan:",
+          "variant": [
+            {
+              "detail": "◉ Escaldar ➜ Bostezo Frente Roserade ➜ Salamence x1.",
               "variant": []
             },
             {
-              "detail": "Escaldar --> Cambiar a Slowbro y usar Bostezo frente a Gardevoir; sacrificar a Politoed; Poliwrath +6",
+              "detail": "◉ Terremoto ➜ Quagsire Bostezo Frente Roserade ➜ Volcarona x2.",
               "variant": []
-            }  
-          ]  
+            }
+          ]
         },
         {
-          "detail": "Togekiss --> Sacrificar a Volcarona; Slowbro aguanta + X SpDef y usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Gardevoir --> Sacrificar a Volcarona; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "◉ Si huye a Milotic ➜ Quagsire Bostezo Frente Roserade ➜ Salamence x1.",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Metagross --> Sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Lluevehojas (sin Vidasfera) ➜  Salamence.",
       "variant": [
         {
-          "detail": "☠️Si Poliwrath cae☠️ --> Gengar 4+2 🔔(Bola Sombra a Seaking)🔔",
+          "detail": "◉ No cambia ➜ Salamence x2.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Milotic ➜ Volcarona x2.",
           "variant": []
         }
-      ]  
+      ]
+    },
+    {
+      "detail": "◉ Vidasfera ➜ Pantalla de Luz ➜ Salamence x1 ⭐si entra Empoleon, ignorarlo⭐",
+      "variant": [
+        {
+          "detail": "◉ Si Salamence muere por Golpe Crítico ➜ Quagsire ➜ Volcarona x3.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Metagross ➜ Gengar otra vez +4 +2.",
+      "variant": [
+        {
+          "detail": "◉ Si entra Eelektross ➜ Quagsire Bostezo Frente Roserade ➜ Volcarona x1 + Especial X ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Gardevoir ➜ Scrafty ➜ Gengar Otra vez +4 +2.",
+      "variant": []
     }
   ]
 }

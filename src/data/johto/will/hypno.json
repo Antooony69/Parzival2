@@ -2,10 +2,14 @@
   "id": "hypno",
   "name": "Hypno",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Politoed (sacrificar)",
+  "initialMove": "⭐Gengar⭐",
   "tricks": [
     {
-      "detail": "Poliwrath +6. (Cascada a Hypno)",
+      "detail": "◉ Hypno no cambio ➜ Gengar +2 ⭐No usar Otra Vez⭐ Barre hasta Umbreon ➜ Scrafty x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Golurk ➜ Chansey ➜ Gengar otra vez +2 Barre hasta Umbreon ➜ Scrafty x2",
       "variant": []
     }
   ]

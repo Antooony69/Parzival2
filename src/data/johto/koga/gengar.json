@@ -2,10 +2,14 @@
   "id": "gengar",
   "name": "Gengar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Crobat, Quagsire Bostezo Frente Lapras ➜ Volcarona x1",
   "tricks": [
     {
-      "detail": "Sale Crobat ➜ Slowbro, Mantener con Bostezo hasta que salga Gengar/Lapras ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 (Puño hielo gengar)",
+      "detail": "◉ Superdiente falla y se queda ➜ Bostezo Frente Crobat y repetir Bostezo No usar proteccion",
+      "variant": []
+    },
+    {
+      "detail": "◉ le cae Bostezo a Gengar ➜ Protección + Recuperación Frente Lapras ➜ Volcarona x1",
       "variant": []
     }
   ]

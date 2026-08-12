@@ -2,11 +2,6 @@
   "id": "chansey",
   "name": "Chansey",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
-  "tricks": [
-    {
-      "detail": "Electivire → Gengar, Otra Vez, +2 + precisión X.",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa Rocas🪨 Frente Electivire ➜ Quagsire Bostezo Frente Jynx / Empoleon ➜ Salamence x1 ⭐ Garra Dragón  Chansey y Mamoswine⭐",
+  "tricks": []
 }

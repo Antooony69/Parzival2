@@ -2,14 +2,10 @@
   "id": "espeon",
   "name": "Espeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Slowbro, Bostezo (Presiona al cambio)",
+  "initialMove": "Scrafty x2 + Defensa X",
   "tricks": [
     {
-      "detail": "Cambia a Chansey, trampa rocas, sale Lucario → Gengar, otra vez, +2 +2 + precisión X",
-      "variant": []
-    },
-    {
-      "detail": "Si en trampa rocas no cambia, usa amortiguador hasta que cambie → sigue la guía ↑",
+      "detail": "◉ Si cambia a Lucario ➜ Quagsire, Bostezo + Protección, volver a usar Bostezo Frente Golduck ➜ Salamence x1.",
       "variant": []
     }
   ]

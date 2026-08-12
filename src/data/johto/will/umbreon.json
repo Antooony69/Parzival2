@@ -2,18 +2,18 @@
   "id": "umbreon",
   "name": "Umbreon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "⭐Trampa Rocas⭐",
   "tricks": [
     {
-      "detail": "Golurk ➜ Gengar ➜ Otra Vez ➜ +4  + precisión X.",
+      "detail": "◉ Umbreon Se queda ➜ Scrafty x2",
       "variant": []
     },
     {
-      "detail": "Lucario ➜ Gengar ➜ Otra Vez ➜ +2 +2 + precision X  (Lucario Banda Focus).",
+      "detail": "◉ Lucario ➜ Gengar Otra Vez ➜ Scrafty Frente Umbreon ➜ Scrafty x2",
       "variant": []
     },
     {
-      "detail": "Se queda → Slowbro ➜ Bostezo → Sacrifica a Politoed y entra con  Poliwrath +6🐸🥊",
+      "detail": "◉ Golurk ➜ Gengar otra vez +2 Barre hasta Umbreon ➜ Scrafty x2",
       "variant": []
     }
   ]

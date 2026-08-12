@@ -2,20 +2,15 @@
   "id": "ariados",
   "name": "Ariados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " Usa 🪨Trampa Rocas🪨 si no cambia usa Amortiguador y ver si cambia",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Tangrowth ➜ Salamence x3 Si entra Rhyperior ➜ Quagsire Bostezo Frente Tangrowth ➜ Volcarona x2 ⭐Si se queda en campo, usar Amortiguador⭐",
   "tricks": [
     {
-      "detail": "Sale Tangrowth ➜ Teletransporte → Slowbro, Bostezo  🔔Mira la precisión de Tangrowth🔔 ",
-      "variant": [
-        {
-          "detail": "Golpea ➜ Teletransporte → Poliwrath +6 ➜ Puño Drenaje a Tangrowth  ➜ sale sharpedo ➜ usa Velocidad X y puño drenaje 🔔Sharpedo Banda Focus🔔",
-          "variant": []
-        },
-        {
-          "detail": "Falla ➜ Volcarona x2  danza aleteo 🦋🔥 ",
-          "variant": []
-        }
-      ]
+      "detail": "◉ 【Inesperado】Mega Cuerno Falla ➜ Quagsire Bostezo Frente Tangrowth, Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Trampa Rocas Sale Rhyperior ➜ Quagsire Bostezo Frente Tangrowth ➜ Volcarona x2",
+      "variant": []
     }
   ]
 }

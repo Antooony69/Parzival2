@@ -2,23 +2,10 @@
   "id": "ditto",
   "name": "Ditto",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Crobat, Gengar ➜ Volcarona Frente Ferrothorn ➜ Volcarona x2 Barre hasta Ditto ➜ Chansey para gastar PP",
   "tricks": [
     {
-      "detail": "Se queda → Teletransporte",
-      "variant": [
-        {
-          "detail": "Se queda → Poliwrath, +6 +2 🥊Puño Drenaje a Magmortar🥊",
-          "variant": []
-        },
-        {
-          "detail": "Sale Crobat → Mira abajo ↓",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Crobat ➜ Saca a Slowbro y usa Bostezo hasta que salga Magmortar ➜ sacrifica a Palpitoad ➜ Poliwrath usa Ataque X 🔔Puño drenaje en magmortar ,sale ditoo cambia a gengar y matalo🔔",
+      "detail": "◉ Opción De Menos turnos ➜ Volcarona Frente Ferrothorn ➜ Volcarona x1 Barre hasta, Frente Ditto Ataca ➜ Salamence remata ⭐Riesgo de Golpe Crítico⭐",
       "variant": []
     }
   ]

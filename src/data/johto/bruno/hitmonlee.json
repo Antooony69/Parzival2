@@ -2,31 +2,181 @@
   "id": "hitmonlee",
   "name": "Hitmonlee",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Gengar → Slowbro, Bostezo → Chansey, Trampa rocas💡",
+  "initialMove": "💡Gengar Bola sombra💡",
   "tricks": [
     {
-      "detail": "Hitmonlee → Gengar, derrótalo → sale Machamp, cambia a Chansey → Gengar, otra vez, +2",
+      "detail": "◉ Steelix ➜ Chansey, Trampa Rocas Frente Machamp/Luxray ➜ Gengar otra vez +2 (Si no cambia +6 +2)",
       "variant": [
         {
-          "detail": "Se queda → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
+          "detail": "◉ Steelix (si sigue en campo) ➜ Quagsire, Bostezo Frente Salamence, Protección + Bostezo Frente Slowbro ➜ Volcarona x2 ⭐Si Bostezo le cae a Luxray ➜ Gengar otra vez +6 +2⭐",
           "variant": []
         },
         {
-          "detail": "Salamence → Derrótalo, sale Machamp → Poliwrath → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
-          "variant": []
+          "detail": "◉ Si Steelix no se va ➜ Chansey Amortiguador Frente Machamp/Luxray ➜ Gengar otra vez +6",
+          "variant": [
+            {
+              "detail": "◉ Si entra Steelix ➜ Salamence ➜ Volcarona",
+              "variant": [
+                {
+                  "detail": "◉ Si Steelix no se va ➜ Volcarona Defensa X x2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Slowbro ➜ Volcarona x2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Machamp ➜ Scrafty ➜  Gengar otra vezx2",
+          "variant": [
+            {
+              "detail": "◉ Steelix ➜ Ver ramas anteriores",
+              "variant": []
+            },
+            {
+              "detail": "◉ Salamence ➜ Rematar con ataques hasta que salga Steelix ➜ Cambiar a Salamence ➜ Cambiar a Volcarona",
+              "variant": [
+                {
+                  "detail": "◉ Si no se va ➜ Volcarona Defensa +2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Slowbro ➜ Volcarona x2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Salamence ➜ ataca",
+          "variant": [
+            {
+              "detail": "◉ Machamp ➜ Scrafty ➜ Gengar otra vez +2",
+              "variant": [
+                {
+                  "detail": "◉ Sale Steelix ➜ Salamence ➜ Volcarona",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se va ➜ Volcarona Defensa X x2",
+                      "variant": [
+                        {
+                          "detail": "◉ Slowbro ➜ Volcarona x2",
+                          "variant": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "detail": "◉ Si no se va ➜ Gengar otra vez +6",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Steelix ➜ Salamence ➜ Volcarona",
+              "variant": [
+                {
+                  "detail": "◉ Si no se va ➜ Volcarona Defensa X + x2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Slowbro ➜ Volcarona x2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Machamp/Luxray → Gengar, otra vez, +2",
+      "detail": "◉ Machamp ➜ Scrafty ➜ Gengar otra vez +2",
       "variant": [
         {
-          "detail": "Se queda → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
+          "detail": "◉ Steelix ➜ Chansey, Trampa Rocas Frente Machamp ➜ Gengar otra vez +6 +2",
+          "variant": [
+            {
+              "detail": "◉ Steelix huye ➜ Quagsire, Bostezo Frente Salamence, Protección, Bostezo Frente Slowbro ➜ Volcarona x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si no se va ➜ Chansey, Amortiguador para atraer al tipo Lucha ➜ Gengar otra vez +6",
+              "variant": [
+                {
+                  "detail": "◉ Steelix huye ➜ Salamence ➜ Volcarona",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se va ➜ Volcarona Defensa +2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Slowbro ➜ Volcarona x2",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Salamence ➜ Chansey, Trampa Rocas Frente Machamp ➜ Gengar otra vez +6 +2",
+          "variant": [
+            {
+              "detail": "◉ Steelix huye ➜ Quagsire, Bostezo Frente Salamence, Protección, Bostezo Frente Slowbro ➜ Volcarona x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si no se va ➜ Chansey, Amortiguador para atraer al tipo Lucha ➜ Gengar +6",
+              "variant": [
+                {
+                  "detail": "◉ Steelix huye ➜ Salamence ➜ Volcarona",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se va ➜ Volcarona Defensa X + x2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Slowbro ➜ Volcarona x2",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Salamence ➜ Chansey, Trampa Rocas Frente Machamp ➜ Gengar otra vez +6",
+      "variant": [
+        {
+          "detail": "◉ Sale Steelix ➜ Quagsire, Bostezo Frente Salamence, Protección, Bostezo Frente Slowbro ➜ Volcarona x2",
           "variant": []
         },
         {
-          "detail": "Salamence → Derrótalo, sale Machamp → Poliwrath → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
-          "variant": []
+          "detail": "◉ Si no se va ➜ Chansey, Amortiguador para atraer al tipo Lucha ➜ Gengar otra vez +6",
+          "variant": [
+            {
+              "detail": "◉ Steelix huye ➜ Salamence ➜ Volcarona",
+              "variant": [
+                {
+                  "detail": "◉ Si no se va ➜ Volcarona Defensa X + x2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Slowbro ➜ Volcarona x2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         }
       ]
     }

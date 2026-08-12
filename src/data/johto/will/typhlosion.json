@@ -5,7 +5,20 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Saca a Politoed (Sacrificar), Poliwrath +6.",
+      "detail": "◉ Estallido ➜ Pantalla de Luz ➜ Salamence usa Garra Dragón + curate y x2 ⭐Si hay Golpe Crítico, curar al máximo⭐",
+      "variant": [
+        {
+          "detail": "◉ Golpe Crítico y sale Magnezone ➜ Barrer hasta Claydol ➜ Volcarona ➜ Gengar bola sombra Frente Mantine ➜ Gengar +2 Barre ⭐Sin usar Otra Vez⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Estallido hace más de la mitad ➜ Defensa Especial X + Restaurar PS + Garra Dragón y x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Girafarig ➜ Quagsire Bostezo Frente Girafarig ➜ Protección ➜ Volver a Bostezo Frente Typhlosion ➜ Salamence x2",
       "variant": []
     }
   ]

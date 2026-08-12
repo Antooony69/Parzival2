@@ -5,52 +5,102 @@
   "initialMove": "🥚 Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "◉ Si se queda ➜ Ver movimiento",
+      "detail": "◉ Surf / Hidrobomba / Rayo Hielo ➜ Quagsire Bostezo Frente Roserade ➜ Salamence x1. ⭐Si usa Rayo Hielo, sacrificar a Quagsire ➜ Volcarona x4.⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Empoleon ➜ Quagsire.",
       "variant": [
         {
-          "detail": "◉ Surf / Hidrobomba ➜ Teletransporte ➜ Slowbro y usar Bostezo",
+          "detail": "◉ Cascada ➜ Quagsire Bostezo Frente Roserade ➜ Scrafty x1  ⭐A Bocajarro a Togekiss y Milotic⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Terremoto ➜ Quagsire Bostezo Frente Roserade ➜ Salamence x3.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Gardevoir ➜ Scrafty ➜ Gengar otra vez +4 +2.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Metagross ➜ Gengar otra ves +4 +2  ⭐Bola Sombra Seaking⭐",
+      "variant": [
+        {
+          "detail": "◉ Si huye a Eelektross ➜ Quagsire Bostezo Frente Roserade ➜ Volcarona x1 + Especial X ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Mienshao ➜ Gengar otra vez ➜ Quagsire Bostezo Frente Serperior ➜ Volcarona x2.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Eelektross ➜ Gengar Otra Vez ➜ Chansey Frente Registeel ➜ Trampa Rocas Frente Eelektross ➜ Gengar Otra Vez ➜ Quagsire frente Registeel Bostezo.",
+      "variant": [
+        {
+          "detail": "◉ Gyarados ➜  Protección y Bostezo Frente Eelektross ➜ Salamence + Ataque X y ataca",
+          "variant": []
+        },
+        {
+          "detail": "◉ Serperior ➜  Protección y Bostezo Frente Eelektross / Milotic ➜ Volcarona x3.",
           "variant": [
             {
-              "detail": "◉ Roserade ➜ Volcarona +4 🦋🔥",
-              "variant": []
-            },
-            {
-              "detail": "◉ Ludicolo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+              "detail": "◉ Si Cambia Milotic ➜ Volcarona x1 adicional y atacar.",
               "variant": []
             }
           ]
         },
         {
-          "detail": "◉ Rayo Hielo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "detail": "◉ Eelektross ➜ Salamence Ataque X y ataca",
           "variant": []
-        },
+        }
+      ]
+    },
+    {
+      "detail": "◉ Dragonite ➜ encanto 2 veces ➜ Scrafty x2 ⭐A Bocajarro contra Milotic⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Registeel ➜ Trampa Rocas ➜ Quagsire Bostezo Frente Serperior ➜ Salamence x1.",
+      "variant": []
+    },
+    {
+      "detail": "◉ Escaldar ➜ Trampa Rocas ➜ Quagsire Bostezo.",
+      "variant": [
         {
-          "detail": "◉ Escaldar ➜ Teletransporte ➜ sacar a Slowbro y usar Bostezo (si no cambia usa Bostezo)",
+          "detail": "◉ Roserade ➜Otra Vez y evaluar objeto:",
           "variant": [
             {
-              "detail": "◉ Serperior ➜ Usar Protección y Bostezo hasta que salga Lanturn ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+              "detail": "◉ Vidasfera ➜ Scrafty x1 ⭐A Bocajarro Togekiss y Milotic⭐",
               "variant": []
             },
             {
-              "detail": "◉ Roserade ➜ Usar Teletransporte y revisar el objeto del rival:",
-              "variant": [
-                {
-                  "detail": "◉ Si lleva Vidasfera ➜ Entrar con Volcarona +1 + Especial X 🦋🔥",
-                  "variant": [
-                    {
-                      "detail": "◉ Poder Oculto Roca mató a Volcarona ➜ Gengar Maquinación y debilita ➜ Frente a Milotic, sacrifica a Politoed, Poliwrath a +6 + Velocidad X .",
-                      "variant": []
-                    }
-                  ]
-                },
-                {
-                  "detail": "◉ Sin Vidasfera ➜ Entrar con Volcarona +2 + Especial X 🔔 que tu vida no baje del 70% 🔔",
-                  "variant": []
-                }
-              ]
+              "detail": "◉ Sin Vidasfera (atrapado en un movimiento) ➜ Salamence x2.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Serperior ➜ Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ si pones Trampa Rocas y sale Registeel / Dragonite / Quagsire frente Registeel ➜ Quagsire Bostezo Frente Serperior ➜ Salamence x1.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Quagsire Frente Gardevoir ➜ Bostezo Frente Roserade ➜ Volcarona y ver que objeto tiene",
+          "variant": [
+            {
+              "detail": "◉ Vidasfera ➜ Sacrificar a Volcarona ➜ Scrafty x1 y limpiar.",
+              "variant": []
             },
             {
-              "detail": "◉ Gardevoir ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+              "detail": "◉ Sin Vidasfera ➜ Volcarona x3.",
               "variant": []
             }
           ]
@@ -58,78 +108,24 @@
       ]
     },
     {
-      "detail": "◉ Empoleon ➜ Poner Trampa Rocas para ver su movimiento:",
+      "detail": "◉ si pones Trampa Rocas y sale Empoleon ➜ Quagsire recibe Cascada y Bostezo Frente Roserade ➜ Scrafty x1 ⭐ A Bocajarro Togekiss y Milotic⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Colocar Trampa Rocas y sale Roserade ➜ Quagsire y evaluar objeto:",
       "variant": [
         {
-          "detail": "◉ Cascada ➜ Cambiar a Slowbro y usa Bostezo frente a Roserade ➜ entra con Volcarona x1 Danza aleteo + Especial X ",
+          "detail": "◉ Vidasfera ➜ Scrafty x1.",
           "variant": []
         },
         {
-          "detail": "◉ Si Volcarona Muere Por Poder Oculto  ➜ Sacrifica a Politoed Cura a Volcarona  ➜ Slowbro Bostezo y  entra con Volcarona x1 Danza aleteo + Especial X ",
-          "variant": []
-        },
-        {
-          "detail": "◉ Terremoto ➜ Cambiar a Slowbro y usar Bostezo hasta que salga Roserade ➜ usar Teletransporte y entrar con Volcarona +3 🦋🔥",
+          "detail": "◉ Sin Vidasfera ➜ Salamence x2.",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Eelektross ➜ Poner Trampas ➜ Gengar usa Otra Vez y cambiar a Slowbro frente a Milotic/Swampert ➜ usar Bostezo (si continúa usando Escaldar sigue con Bostezo hasta que cambie)",
-      "variant": [
-        {
-          "detail": "◉ Poder Oculto Eléctrico ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉Serperior ➜ Usar Protección y Bostezo hasta que salga Eelektross ➜ luego sacrifica a Politoed y entrar con Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Altaria ➜ Usar a Chansey para atraer a Eelektross, usar Teletransporte ➜ Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Eelektross ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Gardevoir ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Metagross ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
-      "variant": [
-        {
-          "detail": "◉ Si Poliwrath muere por crítico ➜ Gengar Otra vez +4 +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Mienshao ➜ Cambiar a Slowbro y usar Bostezo frente a Serperior ➜ Teletransporte ➜ Volcarona +2 🦋🔥",
-      "variant": []
-    },
-    {
-      "detail": "◉ Regice / Registeel ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "◉ Dragonite ➜ Encanto ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "◉ Gardevoir ➜ Teletransporte ➜ Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "◉ Whiscash ➜ Encanto ➜ sacrifica a Politoed ➜ Poliwrath +6 + Raíz Grande + Velocidad X",
-      "variant": []
-    },
-    {
-      "detail": "◉ Roserade ➜ Teletransporte ➜ Slowbro usa Bostezo ➜ Teletransporte ➜ Volcarona +1 + Especial X",
+      "detail": "◉ Si pones Trampa Rocas y sale Gardevoir ➜ Scrafty ➜ Gengar otra vez +4 +2",
       "variant": []
     }
   ]

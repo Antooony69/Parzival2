@@ -5,36 +5,32 @@
   "initialMove": "🪨 TRAMPA ROCAS 🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Sacrifica al sapito y luego entra Poliwrath +6 🥊",
+      "detail": "◉ Cuerpo Pesado ➜ Quagsire Bostezo Frente Serperior ➜ Salamence x1 y Garra Dragón a Serperior.",
       "variant": []
     },
     {
-      "detail": "Eelektross ➜ Gengar Otra Vez despues cambia a Slowbro, frente a Milotic/Swampert usa Bostezo 😴 (Si se queda haciendo Escaldar sigue usando Bostezo)",
+      "detail": "◉ Eelektross ➜ Gengar Otra Vez ➜ Quagsire Frente Registeel Bostezo.",
       "variant": [
-         {
-           "detail": "Poder Oculto Electrico ➜ Sacrifica al sapito y luego entra Poliwrath +6 🥊",
-           "variant": []
-         },
-         {    
-            "detail": "Altaria ➜ Cambia a Chansey para atraer a Eelektross, usa Teletransporte y entra Slowbro usa Bostezo luego sacrifica al sapito y entra Poliwrath +6 🥊",
-            "variant": []
-         },
-         {  
-            "detail": "Serperior ➜ Usa Proteccion y Bostezo, despues sacrifica al sapito y entra Poliwrath +6 🥊",
-            "variant": []
-         },
-         {  
-            "detail": "Eelektross ➜ Sacrifica al sapito y entra Poliwrath +6 🥊",
-            "variant": []
-         },
-         {       
-            "detail": "Gardevoir ➜ Sacrifica al sapito y entra Poliwrath +6 🥊",
-            "variant": []
-         } 
-      ]  
+        {
+          "detail": "◉ Serperior ➜ Protección + Bostezo Frente Eelektross ➜ Volcarona x1 + Especial X.",
+          "variant": []
+        },
+        {
+          "detail": "◉ No cambia ➜ Sacrificar a Quagsire ➜ Scrafty x2.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gyarados ➜ Protección + Bostezo Frente Eelektross ➜ Salamence Ataque X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Eelektross ➜ Salamence Ataque X",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Mienshao ➜ Cambia a Slowbro y usa Bostezo contra Serperior, despues usa Teletransporte y entra Volcarona +1 🔥",
+      "detail": "◉ Mienshao ➜ Gengar Otra Vez ➜ Quagsire Bostezo Frente Serperior / Registeel / Eelektross ➜ Volcarona x2.",
       "variant": []
     }
   ]

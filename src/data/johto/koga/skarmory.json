@@ -5,17 +5,21 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Pico Taladro ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Palpitoad ➜ Poliwrath +6 🐸🥊🔔Cascada a skarmory o Tentacruel🔔",
+      "detail": "◉ Pico Taladro ➜ Quagsire, Bostezo a Nidoqueen y verificar el daño de la Trampa Rocas para confirmar el rival:",
       "variant": [
         {
-          "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜ Teletransporte ➜ Volcarona x1 danza aleteo y gigadrenado a zoruak ➜ barrer hasta electrode/ Tentacruel y usar otro Danza Aleteo una vez para barrer",
+          "detail": "◉ Mucho daño por Trampa Rocas (Zoroark) ➜ Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Poco daño por Trampa Rocas (Nidoqueen) ➜ Salamence x1 ⭐Ataca de fuego Skarmory⭐",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Si Volcarona recibe retrocesos, cambia a Chansey → Max pocion a Volcarona y repite el proceso.",
+      "detail": "◉ Pulso Umbrío / Lanzallamas ➜ Pantalla de Luz ➜ Volcarona x1 Gigadrenado Frente Electrode ➜ Volcarona x2 ⭐Que Volcarona tenga mas del 50% de vida(de lo contrario Electrode usa Explosión⭐",
       "variant": []
     }
   ]
- }
+}

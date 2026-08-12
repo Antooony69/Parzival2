@@ -2,24 +2,16 @@
   "id": "parasect",
   "name": "Parasect",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Lucario , Gengar Otra Vez ➜ Quagsire Frente a Skuntank ➜ Volcarona x3 (Lucario Velocidad Extrema Cuidado)",
   "tricks": [
     {
-      "detail": "Se queda ➜ Teletransporte",
+      "detail": "◉ Parasect No Cambia ➜ Volcarona x3",
       "variant": [
         {
-          "detail": "Aun se queda ➜ Volcarona +1 + Especial X",
-          "variant": []
-        },
-        {
-          "detail": "Lucario ➜ Poliwrath ➜ Gengar Otra Vez +4 +2 (Bola sombra a todos)",
+          "detail": "◉ Lucario No Cambia ➜ Gengar Otra Vez ➜ Quagsire Frente Skuntank ➜ Volcarona x2",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "Lucario ➜ Gengar Otra Vez +4 +2 (Bola sombra a todos) ",
-      "variant": []
     }
   ]
 }

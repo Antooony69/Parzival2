@@ -1,22 +1,12 @@
 {
-  "id": "floatzel",
-  "name": "Floatzel",
+  "id": "ferrothorn",
+  "name": "Ferrothorn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨Frente Crobat, Gengar ➜ Volcarona Frente Ferrothorn ➜ Volcarona x2 ataca y frente Ditto ➜ Chansey para gastar PP",
   "tricks": [
     {
-      "detail": "Sale Crobat ➜ Cambiar a Slowbro ➜ usar Bostezo hasta que salga Magmortar ➜ sacrifica a Palpitoad ➜ Poliwrath Ataque X y ataca 🔔 puño drenaje a magmortar frente a ditto cambia a gengar y matalo 🔔",
-      "variant": [
-        {
-          "detail": "Sale Scizor ➜ Volcarona x1 danza aleteo + Especial X",
-          "variant": [
-            {
-              "detail": "Crítico derrota a Volcarona → Poliwrath → Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "◉ Para ir más rápido: Volcarona Frente Ferrothorn ➜ Volcarona x1 ataca y Frente Ditto ataca ➜ Salamence remata ⭐Riesgo de Golpe Crítico⭐",
+      "variant": []
     }
   ]
 }

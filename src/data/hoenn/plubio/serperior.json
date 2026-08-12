@@ -2,27 +2,23 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "⭐Quagsire⭐",
   "tricks": [
     {
-      "detail": "Lluevehojas --> Teletransporte 🔔(Ver cuánto aumenta su Ataque)🔔",
+      "detail": "◉ Lluevehojas ➜ Volcarona Frente Wailord ➜ Salamence x2.",
       "variant": [
         {
-          "detail": "+4 --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "◉ Sale Dragonite ➜ atacar hasta que muera Volcarona ➜ Chansey Encanto 2  veces ➜ Scrafty x2.",
           "variant": []
-        },
-        {
-          "detail": "+2 --> 💊Volcarona +1 + Especial X💊",
-          "variant": []
-        }  
-      ]  
+        }
+      ]
     },
     {
-      "detail": "Mienshao --> Cambiar a Slowbro y usar Bostezo frente a Serperior; Teletransporte; Volcarona +2",
+      "detail": "◉ Mienshao ➜ Bostezo Frente Serperior ➜ Volcarona x2. ⭐Si no cambia usar Protección + Bostezo (un Golpe Crítico inflige 83% de daño a Volcarona⭐",
       "variant": []
     },
     {
-      "detail": "Eelektross --> Gengar usa Otra Vez; cambiar a Slowbro frente a Milotic; usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Eelektross ➜ Chansey Trampa Rocas ➜ Gengar Otra Vez ➜ Quagsire Frente Registeel Bostezo Frente Serperior ➜ Protección + Bostezo Frente Eelektross ➜ Volcarona x1 + Especial X.",
       "variant": []
     }
   ]

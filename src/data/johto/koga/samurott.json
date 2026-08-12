@@ -2,11 +2,16 @@
   "id": "samurott",
   "name": "Samurott",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas, Gengar Otra Vez +6 +2🪨",
   "tricks": [
     {
-      "detail": "Cambia a Slowbro, bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
+      "detail": "◉ Al Bostear Cambia a Rhyperior ➜ Salamence ➜ Quagsire Otra Vez a Terremoto ➜ Salamence x1 Terremoto",
+      "variant": [
+        {
+          "detail": "◉ Al Bostear Cambia a Forretress ➜ Quagsire ➜ Gengar ➜ Forretres Explota Frente Rhyperior ➜ Salamence ➜ Quagsire Otra Vez a Terremoto ➜ Salamence x1",
+          "variant": []
+        }
+      ]
     }
   ]
 }

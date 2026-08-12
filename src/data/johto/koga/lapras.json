@@ -2,10 +2,14 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨 Frente Crobat, Quagsire ➜ Bostezo Frente Lapras ➜ Volcarona x1",
   "tricks": [
     {
-      "detail": "Sale Crobat ➜ Slowbro, mantener con Bostezo hasta que salga Gengar/Lapras ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "detail": "◉ Superdiente falla ➜ Bostezo Frente Crobat ➜ Sin usar Protección ➜ Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "◉ Bostezo Frente Gengar ➜ Protección ➜ Recuperación Frente Lapras ➜ Volcarona x1",
       "variant": []
     }
   ]

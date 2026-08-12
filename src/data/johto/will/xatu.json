@@ -2,70 +2,69 @@
   "id": "xatu",
   "name": "Xatu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "⭐Pantalla de Luz⭐",
   "tricks": [
     {
-      "detail": "◉ Se queda ➜ Mira el Item",
-      "variant": [
-        {
-          "detail": "◉ Llamaesfera ➜ Amortiguador hasta que salga Golurk ➜ Gengar, Otra Vez, +4 + precisión X.",
-          "variant": []
-        },
-        {
-          "detail": "◉ Sin Llamaesfera ➜ Cambia a Slowbro, Bostezo. sale Magnezone ➜ Protección, cambia a Chansey. sale Girafarig ➜ Trampa rocas ➜ Gengar, Otra Vez ➜ Slowbro, sale Mantine ➜ Bostezo, sale Girafarig ➜ Sacrifica a Politoed , Poliwrath +6.",
-          "variant": [
-            {
-              "detail": "◉ Mantine ➜ Slowbro  Frente a Girafarig , sacrifica Politoed ➜ Poliwrath +6 🐸🥊",
-              "variant": []
-            },
-            {
-              "detail": "◉ Typhlosion ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "detail": "◉ Flareon ➜ Gengar, Otra Vez, +2.",
-      "variant": [
-        {
-          "detail": "◉ Se queda ➜ Derrótalo, sale Absol ➜ Sacrifica a Politoed, Poliwrath +6.",
-          "variant": []
-        },
-        {
-          "detail": "◉ Sale Bronzong ➜ Sacrifica a Politoed , Poliwrath +6.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Absol ➜ Gengar, +4 + precisión X. (No es necesario Otra Vez).",
+      "detail": "◉ Onda Ígnea (Llama Esfera) ➜ Quagsire Bostezo Frente Empoleon ➜ Scrafty x1",
       "variant": []
     },
     {
-      "detail": "◉ Golurk ➜ Gengar, Otra Vez, +4 +2 + precisión X. (Otra Vez cada que puedas)",
-      "variant": []
-    },
-    {
-      "detail": "◉ Lucario ➜ Teletransporte ➜ Mira el item",
+      "detail": "◉ Psicocarga ➜ Scrafty x1 Triturar Frente Mantine ➜ Chansey Trampa Rocas ⭐ Triturar si sale Typhlosion ➜ Chansey Trampa Rocas + Pantalla de Luz ➜ Salamence x2⭐",
       "variant": [
         {
-          "detail": "◉ Vidaesfera ➜ Gengar, Otra Vez, +4 + precisión X. (Otra Vez cada que puedas)",
+          "detail": "◉ No se cambia ➜ Pantalla de Luz ➜ Quagsire Bostezo Frente Typhlosion ➜ Salamence x2 ⭐Si se queda en campo, usar Protección y mantener Bostezo⭐",
           "variant": []
         },
         {
-          "detail": "◉ Sin Vidaesfera ➜ Gengar, Otra Vez, +2 +2 + precisión X. (Otra Vez cada que puedas)",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si usan un ataque tipo fuego es ( Zoroark) ➜ Gengar, Otra Vez ➜ Poliwrath +6 +2.",
+          "detail": "◉ Girafarig ➜ Quagsire Bostezo Frente Girafarig ➜ Protección ➜ Volver a Bostezo Frente Typhlosion ➜ Salamence x2 ⭐Si se queda en campo, usar Protección y mantener Bostezo⭐",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Electivire ➜ Gengar, Otra Vez, +2 + Precisión X. ",
+      "detail": "◉ Absol ➜ Amortiguador para aguantar A Bocajarro ➜ Gengar +4 ⭐Sin usar Otra Vez⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Flareon ➜ Quagsire Recuperación Frente Exeggutor ➜ Chansey Amortiguador Frente Absol ➜ Amortiguador para aguantar A Bocajarro ➜ Gengar +4 ⭐Sin usar Otra Vez⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lucario ➜ Gengar otra vez +2",
+      "variant": [
+        {
+          "detail": "◉ Umbreon ➜ Chansey Trampa Rocas Frente Lucario ➜ Gengar Otra Vez ➜ Scrafty Frente Umbreon x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Altaria ➜ Completar Maquinación hasta +6 ⭐Gengar debe tener 58% de vida⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Zoroark (Ida y Vuelta) ➜ sale Altaria ➜ Scrafty x2 ⭐Scrafty 43% de vida⭐",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Electivire ➜ Trampa Rocas ➜ Quagsire Bostezo Frente Jynx / Empoleon ➜ Salamence x1 ⭐Garra Dragón contra Chansey y Mamoswine⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ Golurk ➜ Trampa Rocas y ver el daño:",
+      "variant": [
+        {
+          "detail": "◉ Si hace 50% De Daño➜ Gengar Otra Vez +4 +2 ⭐Si hay Golpe Crítico, curar al máximo⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si hace 30% De Daño ➜ Gengar otra vez +2 Barre hasta Umbreon ➜ Scrafty x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Girafarig ➜ Trampa Rocas ➜ Quagsire Bostezo Frente Girafarig ➜ Protección ➜ Bostezo Frente Typhlosion ➜ Salamence x1",
       "variant": []
     }
   ]

@@ -2,11 +2,6 @@
   "id": "jolteon",
   "name": "Jolteon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
-  "tricks": [
-    {
-      "detail": "Sale Golurk ➜ Gengar Otra Vez +4 +2. (Bola Sombra a todos)",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa Rocas🪨Frente Golurk ➜ Gengar Otra vez +2",
+  "tricks": []
 }

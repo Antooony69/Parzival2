@@ -2,11 +2,6 @@
   "id": "grumpig",
   "name": "Grumpig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa rocas🪨",
-  "tricks": [
-    {
-      "detail": "Sale Electivire ➜ Gengar, Otra Vez, +2 + precisión X.",
-      "variant": []
-    }
-  ]
+  "initialMove": "🪨Trampa rocas🪨 Frente Electivire ➜ Quagsire Bostezo Frente Jynx / Empoleon ➜ Salamence x1 ⭐Garra Dragón contra Chansey y Mamoswine⭐",
+  "tricks": []
 }

@@ -2,10 +2,14 @@
   "id": "forretress",
   "name": "Forretress",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨Frente Samurott ➜ Gengar otra vez +6 +2",
   "tricks": [
     {
-      "detail": "Sale Samurott ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "detail": "◉ Si cambia a Rhyperior ➜ Salamence ➜ Quagsire Otra Vez a Terremoto ➜ Salamence x1 Terremoto remata",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si Cambia a Forretress ➜ Quagsire ➜ Gengar ➜ Forretress explota Frente Rhyperior ➜ Salamence ➜ Quagsire Otra Vez a Terremoto ➜ Salamence x1",
       "variant": []
     }
   ]

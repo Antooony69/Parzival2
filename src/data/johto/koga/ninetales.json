@@ -2,20 +2,11 @@
   "id": "ninetales",
   "name": "Ninetales",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨",
+  "initialMove": "🪨Trampa Rocas🪨Frente Tangrowth, Salamence x3",
   "tricks": [
     {
-      "detail": "Sale Tangrowth ➜ Teletransporte ➜ Slowbro usa Bostezo 🔔Observar si Latigazo acierta 🔔 ",
-      "variant": [
-        {
-          "detail": "Golpea ➜ Teletransporte ➜ Volcarona x2 danza aleteo 🦋🔥",
-          "variant": []
-        },
-        {
-          "detail": "Falla ➜ Volcarona x2 danza aleteo 🦋🔥",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Si Cambian a Rhyperior ➜ Quagsire, Bostezo frente Tangrowth ➜ Volcarona x2",
+      "variant": []
     }
   ]
 }

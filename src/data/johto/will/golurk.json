@@ -2,14 +2,14 @@
   "id": "golurk",
   "name": "Golurk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas🪨 → Ver % Daño",
+  "initialMove": "🪨Trampa Rocas🪨 revisar el daño recibido",
   "tricks": [
     {
-      "detail": "50% (75% Crítico, toma Max Poción) → Gengar, Otra Vez, +4 +2.",
+      "detail": "◉ 35% de vida ➜ Gengar otra vez +2,Barre hasta Umbreon ➜ Scrafty x2",
       "variant": []
     },
     {
-      "detail": "35% → Gengar, Otra Vez, +4 + precisión X.",
+      "detail": "◉ 50% de vida ➜ Gengar otra vez +4 +2 ⭐Si Puño Drenaje hace Golpe Crítico, cura a Chansey al máximo⭐",
       "variant": []
     }
   ]

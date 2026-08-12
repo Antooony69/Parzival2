@@ -2,11 +2,10 @@
   "id": "magmortar",
   "name": "Magmortar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": " 🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨 Frente Crobat, Gengar ➜ Volcarona | Frente Ferrothorn ➜ Volcarona x2 (Barre hasta Ditto) ➜ Chansey para gastar PP",
   "tricks": [
     {
-      "detail": "Sale Crobat → Slowbro, Manten Bostezo hasta que salga Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath Ataque X  (Puño Drenaje a Magmortar Si Sale ditto Cambia a Gengar y matalo con bola sombra)",
-      "variant": []
+      "fastRoute": "Para ir más rápido: Volcarona Frente Ferrothorn ➜ Volcarona x1 (Ataca frente a Ditto) ➜ Seguir atacando ➜ Salamence remata ⭐Riesgo de Golpe Crítico⭐"
     }
   ]
 }

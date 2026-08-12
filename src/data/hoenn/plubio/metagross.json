@@ -2,6 +2,11 @@
   "id": "metagross",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔 sacrificar a Politoed; Poliwrath +6 🔔 Si Poliwrath muere, Gengar +4 +2 🔔",
-  "tricks": []
+  "initialMove": "🔔 Gengar otra vez +4 +2 Bola sombra a Seaking🔔",
+  "tricks": [
+    {
+      "detail": "◉ Si huye a Eelektross ➜ Quagsire Bostezo Frente Roserade ➜ Volcarona x1 + Especial X ",
+      "variant": []
+    }
+  ]
 }

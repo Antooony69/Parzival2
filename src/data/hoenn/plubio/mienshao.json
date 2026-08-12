@@ -2,6 +2,19 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔🐸Cambiar a Slowbro y usar Bostezo frente a Serperior; Teletransporte; Volcarona x2 Danza aleteo🐸🔔",
-  "tricks": []
+  "initialMove": "🔔🐸Gengar otra vez Frente Registeel ➜ Quagsire Bostezo.🐸🔔",
+  "tricks": [
+    {
+      "detail": "◉ Serperior ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Registeel ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Eelektross ➜ Volcarona x2",
+      "variant": []
+    }
+  ]
 }

@@ -5,39 +5,27 @@
   "initialMove": "🥚Amortiguador🥚",
   "tricks": [
     {
-      "detail": "◉ Blaziken ➜ cambia a Gengar +4 +2 (Blaziken Pañuelo elegido)",
+      "detail": "◉ Hitmonchan ➜ Salamence ➜ Quagsire ➜ Gengar otra vez x4",
       "variant": []
     },
     {
-      "detail": "◉ Frente a Darmanitan ➜ Varias opciones",
+      "detail": "◉ Blaziken ➜ Gengar +4 +2 (No usar otra vez)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Machamp ➜ Gengar otra vez +4 +2",
       "variant": [
         {
-          "detail": "◉ Ruta De Ahorro ➜ Volcarona x3 Danza aleteo🦋🔥",
-          "variant": []
-        },
-        {
-          "detail": "◉ Ruta Segura ➜ Slowbro Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Ruta Arriesgada ➜ Sacrifica a Politoed Poliwrath +6 🐸🥊",
+          "detail": "◉ Si entra Metagross al bostear ➜ Quagsire, Bostezo frente Salamence, Protección, y Bostezo Frente Blastoise ➜ Volcarona x2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Hitmonchan ➜ Cambiar a Slowbro Bostezo, sale Metagross ➜ Sacrifica a Politoed Poliwrath +6 🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "◉ Machamp ➜ cambiar a  👻 Gengar Otra Vez +4 +2 👻",
+      "detail": "◉ Darmanitan ➜ Gengar +6 (No usar Otra Vez)",
       "variant": [
         {
-          "detail": "◉ Si el rival cambia a Metagross ➜ Cambia a Slowbro bostezo , Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si el rival cambia a Eelektross ➜ Cambia a Chanse Amortiguador hasta que Cambie a otro pokemon y sigue una de las rutas de arriba",
+          "detail": "◉ Torterra ➜ Salamence x3",
           "variant": []
         }
       ]

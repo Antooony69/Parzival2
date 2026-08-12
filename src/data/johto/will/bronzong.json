@@ -2,22 +2,14 @@
   "id": "bronzong",
   "name": "Bronzong",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚 Amortiguador 🥚",
+  "initialMove": "⭐Trampa Rocas⭐",
   "tricks": [
     {
-      "detail": "Absol ➜ Gengar +4 + Precisión (absol pañuelo elegido)",
+      "detail": "◉ Absol ➜ Amortiguador ➜ Gengar +4 ⭐no usar otra vez⭐",
       "variant": []
     },
     {
-      "detail": "Flareon ➜ 👻 Gengar Otra Vez +2 👻",
-      "variant": []
-    },
-    {
-      "detail": "Si se queda ➜ Usar bola sombra frente a Absol ➜ sacrifica a Politoed ➜ Poliwrath +6 (absol pañuelo elegido)",
-      "variant": []
-    },
-    {
-      "detail": "Cambia a Bronzong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊  🔔 Cascada contra Bronzong🔔 ",
+      "detail": "◉ Flareon ➜ Quagsire Recuperación Frente Exeggutor ➜ Chansey Amortiguador Frente Absol, Amortiguador ➜ Gengar +4 ⭐no usar otra vez⭐",
       "variant": []
     }
   ]

@@ -2,10 +2,14 @@
   "id": "golem",
   "name": "Golem",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "❤️ Encanto y Trampa rocas 🪨",
+  "initialMove": "❤️ Trampa Rocas + Amortiguador Mira Abajo Como Seguir🪨",
   "tricks": [
     {
-      "detail": "Metagros → Slowbro Bostezo → Sacrifica Politoed ➜ Poliwrath +6",
+      "detail": "◉ Explosión ➜ Sale Metagross ➜ Quagsire, Bostezo Frente Electivire ➜ Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Terremoto ➜ Encanto, Amortiguador Frente Metagross ➜ Quagsire, Bostezo Frente Electivire ➜ Salamence x1",
       "variant": []
     }
   ]

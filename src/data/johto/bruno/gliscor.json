@@ -2,10 +2,10 @@
   "id": "gliscor",
   "name": "Gliscor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚Amortiguador🥚",
+  "initialMove": "🥚Amortiguador + Trampa Rocas🥚",
   "tricks": [
     {
-      "detail": "Cambiar a Slowbro Bostezo contra Metagros ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "detail": "◉ Hitmonchan ➜ Salamence ➜ Quagsire ➜ Gengar otra vez x4",
       "variant": []
     }
   ]

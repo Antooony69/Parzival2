@@ -2,28 +2,11 @@
   "id": "sableye",
   "name": "Sableye",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 🥚 Si Sableye se queda usa Amortiguador 🥚",
+  "initialMove": "Encanto Frente Rhyperior ➜ Trampa Rocas Frente Leafeon ➜ Volcarona x3",
   "tricks": [
     {
-      "detail": "Leafeon ➜ Volcarona +1 + Especial X",
+      "detail": "◉ Si Rhyperior no Cambia ➜ Quagsire, Bostezo Frente Leafeon ➜ Volcarona x3",
       "variant": []
-    },
-    {
-      "detail": "Rhyperior ➜ Encanto; cambiar a Slowbro",
-      "variant": [
-        {
-          "detail": "Se Queda Rhyperior ➜ Bostezo y frente a Leafeon ➜ Volcarona +1 + Especial X",
-          "variant": []
-        },
-        {
-          "detail": "Leafeon ➜ Volcarona +1 + Especial X",
-          "variant": []
-        },
-        {
-          "detail": "Gyarados ➜ Bostezo y Protección , otro Bostezo mas ➜ frente a Leafeon ➜ Volcarona +1 + Especial X",
-          "variant": []
-        }
-      ]
     }
   ]
 }

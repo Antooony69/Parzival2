@@ -5,21 +5,31 @@
   "initialMove": "👻 Gengar usa Otra Vez; cambia a Chansey y Frente a Dragonite; 🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "◉ Arcanine ➜ Cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "◉ Scizor ➜ Teletransporte; Volcarona x1 Danza aleteo + Especial X ⚠️mantener la vida por encima del 51%⚠️",
+      "detail": "◉ Vidasfera ➜ Gengar ➜ Quagsire, Recuperación Frente Scizor ➜ Sacrificar a Scrafty ➜ Salamence x3",
       "variant": [
         {
-          "detail": "◉ Si Volcarona cae por Crítico ➜ Slowbro usa Bostezo; sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+          "detail": "◉ Kingdra ➜ Chansey ➜ Quagsire, Bostezo Frente Kingdra, Recuperación Frente Scizor ➜ Sacrificar a Scrafty ➜ Salamence x3",
           "variant": []
+        },
+        {
+          "detail": "◉ Steelix ➜ Bostezo, Protección, Bostezo Frente Scizor ➜ Sacrificar a Scrafty ➜ Salamence x3 (si no se va, seguir usando Bostezo)",
+          "variant": [
+            {
+              "detail": "◉ (Accidente) Si usas Bostezo y entra Kingdra ➜ Protección, Bostezo Frente Scizor ➜ Sacrificar a Scrafty ➜ Salamence x3",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "◉ Feraligatr ➜ Encanto , Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
+      "detail": "◉ Sin Vidasfera ➜ Sacrificar a Chansey ➜ Salamence x1",
+      "variant": [
+        {
+          "detail": "◉ Fallaste poner Trampa Rocas ➜ Salamence x2",
+          "variant": []
+        }
+      ]
     }
   ]
 }

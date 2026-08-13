@@ -2,6 +2,15 @@
   "id": "primeape",
   "name": "Primeape",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Gengar otra vez +2 +2 + Precisión X 👻 (Primeape Banda Focus)",
-  "tricks": []
+  "initialMove": "👻 Gengar otra vez +2 y mira quien sale (Primeape Banda Focus)",
+  "tricks": [
+    {
+      "detail": "◉ Hydreigon ➜ Chansey, Trampa Rocas hasta tipo Lucha ➜ Gengar otra vez +2 Frente Hydreigon ➜ Scrafty x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Primeape no cambio ➜ Bola sombra Frente Hydreigon ➜ Scrafty x2 A Bocajarro Luxray",
+      "variant": []
+    }
+  ]
 }

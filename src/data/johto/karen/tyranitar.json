@@ -2,28 +2,20 @@
   "id": "tyranitar",
   "name": "Tyranitar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨; cambiar a Poliwrath para matar a tyranitar",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+      "detail": "◉ Tyranitar no cambia ➜ Scrafty Velocidad X Frente Gyarados x1 danza dragon",
       "variant": []
     },
     {
-          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
-          "variant": [
-            {
-              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
-              "variant": []
-            },
-            {
-              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
-              "variant": []
-            }
-          ]
-    },
-    {
-      "detail": "Excadrill --> Gigadrenado hasta matarlo ",
-      "variant": []
+      "detail": "◉ Excadrill ➜ Salamence ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x3, Bostezo le cae a Victreebel, Protección y Bostezo otra vez (si Slowbro entra sigue bosteandote)r)",
+      "variant": [
+        {
+          "detail": "◉ Si se cambia a Quagsire Frente Gyarados ➜ Salamence x3 (si Slowbro entra sigue bosteandote)",
+          "variant": []
+        }
+      ]
     }
   ]
 }

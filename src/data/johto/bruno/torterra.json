@@ -2,14 +2,10 @@
   "id": "torterra",
   "name": "Torterra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Varias Opciones💡",
+  "initialMove": "💡Trampa Rocas Frente Darmanitan ➜ Gengar +6 No usar otra vez💡",
   "tricks": [
     {
-      "detail": "Ahorro → Amortiguador, sale Darmanitan → Volcarona +3.",
-      "variant": []
-    },
-    {
-      "detail": "Estable → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "detail": "◉ Si entra Torterra ➜ Salamence x3",
       "variant": []
     }
   ]

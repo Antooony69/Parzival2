@@ -2,16 +2,15 @@
   "id": "umbreon",
   "name": "Umbreon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 si usa Juego Sucio y se queda, usa 🥚Amortiguador🥚",
+  "initialMove": "🐸Mira Que Ruta Seguir🐸",
   "tricks": [
     {
-      "detail": "Feraligatr ➜ Slowbro usa Bostezo y sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": [
-        {
-          "detail": "si entra Houndoom ➜ Sacrifica a Politoed y entra con Poliwrath usa Ataque X y barre",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Ruta Rápida ➜ Trampa Rocas Frente Feraligatr ➜ Quagsire Bostezo Frente Houndoom ➜ Salamence x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Ruta Segura ➜ Quagsire Frente Feraligatr ➜ Bostezo Frente Houndoom ➜ Gengar ➜ Scrafty frente Umbreon ➜ Scrafty x3 + A Bocajarro Garchomp",
+      "variant": []
     }
   ]
 }

@@ -5,49 +5,59 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "◉Se queda ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "◉ Darmanitan ➜ Varias Opciones ↓",
+      "detail": "◉ Machada ➜ Gengar otra vez +2 (barrer hasta Muk), usa otra vez maquinacion (total +4)",
       "variant": [
         {
-          "detail": "◉ Ahorra Dinero ➜ Volcarona x3 danza aleteo🦋🔥",
+          "detail": "◉ Si muere por Golpe Crítico de Puño Hielo ➜ Volcarona x2",
           "variant": []
         },
         {
-          "detail": "◉ Jugada Segura ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Jugada Arriesgada ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+          "detail": "◉ Si muere por Golpe Crítico de Puño Fuego ➜ Salamence x2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Hitmonchan ➜ Slowbro, Bostezo. Sale Metagross ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+      "detail": "◉ Staraptor / Krookodile ➜ Volcarona x2 (Gigadranado contra cualquiera de los dos)",
       "variant": []
     },
     {
-      "detail": "◉ Machamp ➜ Gengar, ver ataque.",
+      "detail": "◉ Hitmonchan ➜ Salamence ➜ Quagsire ➜ Gengar otra vez +4",
+      "variant": []
+    },
+    {
+      "detail": "◉ Blaziken ➜ Gengar +4 +2 (No usar Otra Vez)",
       "variant": [
         {
-          "detail": "◉ Puño Dinamico ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "◉ Puño Drenaje ➜ Gengar, Otra Vez ➜ Chansey, sale Staraptor ➜ Volcarona x2 danza aleteo🦋🔥",
+          "detail": "◉ si entra Machamp cuando te bosteas ➜ Scrafty ➜ Gengar otra vez +4 +2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Blaziken ➜ Chansey Usa Amortiguador o Teletransporte y entra con Gengar +4 +2 (No uses Otra Vez).",
-      "variant": []
+      "detail": "◉ Darmanitan ➜ Gengar +6 (no usar Otra Vez)",
+      "variant": [
+        {
+          "detail": "◉ Si entra Torterra Cuando te bosteas ➜ Salamence x3 (si huye Seismitoad, ignorar sigue bosteandote)",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Krokodile/Staraptor ➜ Volcarona x2 danza aleteo 🦋🔥",
+      "detail": "◉ Machamp (Llama Esfera) ➜ Gengar otra vez +2 Frente Krookodile ➜ Salamence",
+      "variant": [
+        {
+          "detail": "◉ Terremoto ➜ Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Triturar ➜ Scrafty x3",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Machamp (Sin Llama Esfera / Puño Dinámico) ➜ Gengar otra vez +2 Frente Blaziken ➜ Salamence x1",
       "variant": []
     }
   ]

@@ -2,6 +2,24 @@
   "id": "kangaskhan",
   "name": "Kangaskhan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
-  "tricks": []
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Puño Drenaje ➜ Sacrificar a Chansey ➜ Salamence +2 (Si tienes la vida baja curate)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Retroceso ➜ Encanto + Trampa Rocas, sacrificar ➜ Quagsire, Bostezo ➜ Salamence +2 ataca,  Volcarona lanzallamas a Scizor",
+      "variant": [
+        {
+          "detail": "◉ Si no entra Bostezo ➜ Salamence x2 Defensa X",
+          "variant": []
+        },
+        {
+          "detail": "◉ si entra Dragonite ➜  Quagsire, Bostezo Frente Haxorus / Kangaskhan ➜ Sacrificar a Gengar ➜ Salamence x1",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }

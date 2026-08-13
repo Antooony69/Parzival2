@@ -2,18 +2,10 @@
   "id": "hydreigon",
   "name": "Hydreigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨Frente Arcanine ➜ Sacrifica a Scrafty ➜ Salamence x1 si no Cambia ➜ pantalla luz + amortiguador  ",
   "tricks": [
     {
-      "detail": "Feraligatr ➜ Encanto ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "Arcanine ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
-    },
-    {
-      "detail": "Primeape ➜ Gengar +2 +2 + Precisión X",
+      "detail": "◉ Feraligatr ➜ Quagsire, Bostezo Frente Ampharos ➜ Salamence x1",
       "variant": []
     }
   ]

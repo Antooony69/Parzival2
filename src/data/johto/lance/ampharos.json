@@ -5,15 +5,24 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Arcanine --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Arcanine ➜ Sacrifica a Scrafty ➜ Salamence x1",
       "variant": []
     },
     {
-      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🔔Puño Drenaje contra Ampharos 🔔",
-      "variant": []
+      "detail": "◉ Tyranitar ➜ Sacrifica a Volcarona",
+      "variant": [
+        {
+          "detail": "◉ Triturar ➜ Scrafty x3",
+          "variant": []
+        },
+        {
+          "detail": "◉ Roca Afilada ➜ Quagsire, Bostezo Frente Metagross ➜ Salamence x1 (Probar si es estable si Charizard huye)",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Feraligatr --> Encanto; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Feraligatr ➜ Quagsire, Bostezo Frente Ampharos ➜ Salamence x1",
       "variant": []
     }
   ]

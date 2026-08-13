@@ -2,10 +2,14 @@
   "id": "charizard",
   "name": "Charizard",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 frente a Tyranitar ➜ cambia a Poliwrath para matar a tyranitar",
+  "initialMove": "🪨 Trampa Rocas 🪨 Frente Tyranitar ➜ Sacrificar a Volcarona",
   "tricks": [
     {
-      "detail": "Despues entra con Chansey y usa Amortiguador y Espera que entre Metagross Para usar Teletransporte y con Slowbro usa Bostezo, sacrifica a Politoed ➜ Poliwrath +6",
+      "detail": "◉ Si se queda atrapado / usa Triturar ➜ Scrafty x3",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si usa Roca Afilada ➜ Quagsire, Bostezo Frente Metagross ➜ Salamence x1",
       "variant": []
     }
   ]

@@ -5,31 +5,14 @@
   "initialMove": "🪨 Trampa Rocas 🪨 🥚 Si se queda usar Amortiguador 🥚",
   "tricks": [
     {
-      "detail": "Excadrill --> Usar Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar Tyranitar",
+      "detail": "◉ Tyranitar ➜ Scrafty x1 Puño Drenaje Frente gyarados➜ Danza Dragón otra vez y ataca",
       "variant": []
     },
     {
-      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a Tyranitar",
+      "detail": "◉ Excadrill ➜ Salamence ➜  Quagsire, Bostezo Frente Gyarados ➜ Salamence x3,  si Bostezo le cae a Victreebel, Protección y Bostezo otra vez (si Slowbro entra ignoralo)",
       "variant": [
         {
-          "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
-          "variant": []
-        },
-        {
-          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
-          "variant": [
-            {
-              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
-              "variant": []
-            },
-            {
-              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Excadrill --> Gigadrenado hasta matarlo",
+          "detail": "◉ si cambias a Quagsire y entra Gyarados ➜ Salamence x3 (si Slowbro entra ignoralo)",
           "variant": []
         }
       ]

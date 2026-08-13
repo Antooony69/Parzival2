@@ -2,6 +2,15 @@
   "id": "honchkrow",
   "name": "Honchkrow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🔔 Cambiar a Slowbro; usar Bostezo frente a Houndoom; sacrificar a Politoed; Poliwrath +6; Curar Quemadura 🔔",
-  "tricks": []
+  "initialMove": "🔔Gengar (Otra Vez + Bola Sombra) 🔔",
+  "tricks": [
+    {
+      "detail": "◉ Si no se va ➜ ataca y frente Rhyperior ➜ Chansey, Trampa Rocas Frente Gallade ➜ Gengar (Otra Vez + Bola Sombra) frente Rhyperior ➜ Quagsire, Bostezo Frente Vileplume ➜ Gengar +4 (No usar Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Chansey, Trampa Rocas Frente Gallade / Honchkrow ➜ Gengar (Otra Vez + Bola Sombra) y Frente Rhyperior ➜ Quagsire, Bostezo Frente Vileplume ➜ Gengar +4 (No usar Otra Vez)",
+      "variant": []
+    }
+  ]
 }

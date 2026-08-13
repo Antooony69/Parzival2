@@ -2,32 +2,18 @@
   "id": "staraptor",
   "name": "Staraptor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Slowbro y Mira que Objeto tiene",
+  "initialMove": "⭐Gengar otra vez⭐",
   "tricks": [
     {
-      "detail": "Tiene Vidaesfera → Bostezo.",
-      "variant": [
-        {
-          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 + precisión X(heracross Banda focus)",
-          "variant": []
-        },
-        {
-          "detail": "Heracross ➜ Protección,bosteso  sale Steelix cambia a Chansey, trampa rocas y usa Amortiguador hasta que cambie.",
-          "variant": [
-            {
-              "detail": "Heracross ➜ Continua usando amortiguador",
-              "variant": []
-            },
-            {
-              "detail": "Staraptor/Machamp ➜ Gengar, Otra Vez, +4 + precisión X.",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "◉ Staraptor es mas rapido que gengar ➜ Quagsire, Bostezo Frente Lucario ➜ Volcarona x2",
+      "variant": []
     },
     {
-      "detail": "No tiene Vidasfera ➜ Slowbro Bostezo ➜ sale Lucario ➜ Teletransporte ➜ Volcarona x2 danza aleteo (HP por encima 17%).",
+      "detail": "◉ Gengar es mas rapidop que Staraptor ➜ Gengar otra vez +2 y ataca Frente Kangaskhan ➜ Chansey, Trampa Rocas Frente Heracross ➜ Gengar Otra Vez ➜ Scrafty frente Steelix ➜ Scrafty Defensa x + x2 (A Bocajarro Steelix y Heracross)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Kangaskhan ➜ Chansey, Trampa Rocas Frente Heracross ➜ Gengar Otra Vez ➜ Scrafty frente Kangaskhan ➜ Scrafty Defensa x + x2 (A Bocajarro Heracross y Steelix)",
       "variant": []
     }
   ]

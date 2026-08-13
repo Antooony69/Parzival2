@@ -5,25 +5,80 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Terremoto → Encanto → Amortiguador hasta que salga Heracross → Amortiguador → Teletransporte (recibes A Bocajarro) → Gengar: Otra Vez +2 + Precisión X",
+      "detail": "◉ Terremoto ➜ Salamence x1 Frente Staraptor ➜ Garra Dragon Frente Slowbro ➜ Gengar Bola sombra",
       "variant": []
     },
     {
-      "detail": "Heracross → Amortiguador → Teletransporte (recibes A Bocajarro) → Gengar: Otra Vez +2 + Precisión X",
+      "detail": "◉ Kangaskhan ➜ Chansey, Trampa Rocas Frente Heracross ➜ Gengar, Otra Vez ➜ Scrafty frente Kangaskhan ➜ Scrafty Defensa x + x2 (A Bocajarro Heracross y Steelix)",
       "variant": []
     },
     {
-      "detail": "Hitmonlee → Gengar: Bola Sombra",
-      "variant": [
-        {
-          "detail": "Derrótalo → sale Machamp → continuar Bola Sombra → Slowbro: Bostezo → sale Salamence → Teletransporte → Volcarona +1",
-          "variant": []
-        },
-        {
-          "detail": "Sale Machamp → Slowbro: Bostezo → sale Salamence → Teletransporte → Volcarona +1",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Steelix ➜ Salamence x1 (si Slowbro no ha caído, Salamence x3)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Hitmonlee ➜ Gengar Bola sombra (Mira Abajo)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Steelix ➜ Quagsire, Bostezo Frente Salamence, Protección, Bostezo Frente Slowbro ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si Steelix no se va ➜ Chansey, Amortiguador hasta que salga el tipo Lucha ➜ Gengar otra vez +6",
+      "variant": []
+    },
+    {
+      "detail": "◉ Steelix huye ➜ Salamence ➜ Volcarona",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si no se va ➜ Volcarona Defensa x + x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Slowbro ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Machamp ➜ Scrafty ➜ Gengar otra vez x2 y mira quien sale",
+      "variant": []
+    },
+    {
+      "detail": "◉ Steelix ➜ Ver las rutas anterior de Steelix",
+      "variant": []
+    },
+    {
+      "detail": "◉ Salamence ➜ ataca Frente Steelix ➜ Salamence ➜ Volcarona",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si no se va ➜ Volcarona Defensa x + x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Slowbro ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Salamence ➜ Chansey, Amortiguador Frente Machamp ➜ Gengar otra vez +6",
+      "variant": []
+    },
+    {
+      "detail": "◉ Steelix ➜ Salamence ➜ Volcarona",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si no se va ➜ Volcarona Defensa x + x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Slowbro ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Ruta De Prueba ➜ Gengar ➜ Quagsire ➜ Gengar, Otra Vez + Bola Sombra hasta que salga Steelix ➜ Quagsire, Bostezo Frente Hitmonlee ➜ Gengar otra vez +4",
+      "variant": []
     }
   ]
 }

@@ -5,46 +5,59 @@
   "initialMove": "💡Revisa la Habilidad💡",
   "tricks": [
     {
-      "detail": "Intimidación → Amortiguador",
+      "detail": "◉ Intimidación ➜ Amortiguador",
       "variant": [
         {
-          "detail": "Machamp → Gengar, Otra Vez, +4 +2. Utiliza Otra Vez cada que puedas.",
-          "variant": [
-            {
-              "detail": "Sale Metagross → Chansey, amortiguador. sale Blaziken → Gengar +4 +2. (Otra Vez no es necesario).",
-              "variant": []
-            }
-          ]
+          "detail": "◉ Blaziken ➜ Gengar +4 +2 (No usar Otra Vez)",
+          "variant": []
         },
         {
-          "detail": "Blaziken → Gengar +4 +2 (Otra Vez no es necesario).",
+          "detail": "◉ Machamp ➜ Gengar otra vez +4 +2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Sin Intimidación → Trampa Rocas.",
+      "detail": "◉ Sin Intimidación ➜ Trampa Rocas, mantenerse en campo con Encanto y Amortiguador",
       "variant": [
         {
-          "detail": "Metagross → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "detail": "◉ Metagross ➜ Quagsire, Bostezo hasta Electivire ➜ Salamence x1",
           "variant": []
         },
         {
-          "detail": "Hitmonlee → Gengar, Bola Sombra.",
+          "detail": "◉ Hitmonlee ➜ Gengar y rematar con ataques",
           "variant": [
             {
-              "detail": "Lo derrotas, sale Machamp → Continua bola sombra → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
+              "detail": "◉ Salamence ➜ Chansey, Amortiguador para atraer a Machamp ➜ Gengar ➜ Quagsire frente Steelix, Bostezo, Protección, Bostezo Frente Slowbro ➜ Volcarona x2",
               "variant": []
             },
             {
-              "detail": "Cambia a Machamp → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
+              "detail": "◉ Steelix ➜ Quagsire, Bostezo Frente Salamence, Protección y Bostezo Frente Slowbro ➜ Volcarona x2",
               "variant": []
+            },
+            {
+              "detail": "◉ Machamp ➜ Scrafty ➜ Gengar otra vez +2",
+              "variant": [
+                {
+                  "detail": "◉ Steelix ➜ Ver las otras rutas de steelix",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Salamence ➜ atacar hasta Steelix ➜ Salamence ➜ Volcarona",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se va ➜ Volcarona Defensa x + x2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Slowbro ➜ Volcarona x2",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
-        },
-        {
-          "detail": "Golem → Encanto, Amortiguador hasta que salga Metagross → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
-          "variant": []
         }
       ]
     }

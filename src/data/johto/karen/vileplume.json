@@ -5,24 +5,24 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Honchkrow --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Excadrill (Rompemoldes) ➜ Encanto, cambiar a Salamence frente a Slowbro ➜ Volcarona x2",
       "variant": []
     },
     {
-      "detail": "Excadrill --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "detail": "◉ Honchkrow ➜ Gengar (Otra Vez + Bola Sombra)",
       "variant": [
         {
-          "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "detail": "◉ Honchkrow  no cambio ➜ Gengar otra vez +6",
           "variant": []
         },
         {
-          "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "detail": "◉ Rhyperior ➜ Quagsire, Bostezo Frente Vileplume ➜ Gengar +4 (no usar Otra Vez) (Vida de gengar al 56%)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Gallade --> Gengar usa Otra Vez; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Gallade ➜ Gengar (Otra Vez + Bola Sombra) bola sombra  Frente  Rhyperior ➜ Quagsire, Bostezo Frente Vileplume ➜ Gengar +4 (no usar otra vez Otra Vez) (Vida de gengar a 56%)",
       "variant": []
     }
   ]

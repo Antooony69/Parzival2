@@ -2,6 +2,11 @@
   "id": "gallade",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Gengar usa Otra Vez; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🐸 🔔 Curar Quemadura 🔔",
-  "tricks": []
+  "initialMove": "👻Gengar Otra Vez ➜ Chansey, Trampa Rocas Frente Honchkrow ➜ Gengar, Otra Vez + Bola Sombra ⭐ Si no se va ➜ Gengar otra vez +6⭐ ",
+  "tricks": [
+    {
+      "detail": "◉ Rhyperior ➜ Quagsire, Bostezo Frente Vileplume ➜ Gengar +4 ⭐(No usar otra vez) (tener mas de 56% de vida)⭐",
+      "variant": []
+    }
+  ]
 }

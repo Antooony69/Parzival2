@@ -2,62 +2,27 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨",
+  "initialMove": "🪨 Trampa Rocas 🪨Si no cambia usar Amortiguador y esperar a que cambie",
   "tricks": [
     {
-      "detail": "◉ Si se queda ➜ Usar Amortiguador y esperar el cambio",
+      "detail": "◉ Tyranitar ➜ Scrafty x2 danza dragon si requiere curate o danza dragon puño drenaje + danza dragon",
+      "variant": []
+    },
+    {
+      "detail": "◉ Excadrill ➜ Salamence ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x3, ⭐si Bostezo le cae a Victreebel, Protección y Bostezo otra vez (si Slowbro huye, ignorar)⭐",
       "variant": [
         {
-          "detail": "◉ Leafeon ➜ Volcarona +1 + Especial X",
+          "detail": "◉ Si se cambia a Quagsire Frente Gyarados ➜ Salamence x3 (si Slowbro huye, ignorar)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Rhyperior ➜ Usar Encanto; cambiar a Slowbro",
-      "variant": [
-        {
-          "detail": "◉ Si se queda ➜ Usar Bostezo frente a Leafeon; Volcarona +1 + Especial X",
-          "variant": []
-        },
-        {
-          "detail": "◉ Leafeon ➜ Volcarona +1 + Especial X",
-          "variant": []
-        },
-        {
-          "detail": "◉ Gyarados ➜ Usar Bostezo; Protección; Bostezo frente a Leafeon; Volcarona +1 + Especial X",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Rhyperior ➜ Salamence ➜ Quagsire, Bostezo Frente Leafeon ➜ Volcarona x1 + Especial x",
+      "variant": []
     },
     {
-      "detail": "◉ Tyranitar ➜ Cambiar a Poliwrath para matarlo ",
-      "variant": [
-        {
-          "detail": "◉ Gyarados ➜ Volcarona x1 danza aleteo + Especial X; Psíquico a Gyarados; corre hasta Houndoom; ignorar amenaza",
-          "variant": []
-        },
-        {
-          "detail": "◉ Victreebel ➜ Cambia a Gengar, luego a Slowbro",
-          "variant": [
-            {
-              "detail": "◉ Si se queda ➜ Bostezo; cambia a Volcarona, x1 danza aleteo + Especial X",
-              "variant": []
-            },
-            {
-              "detail": "◉ Gyarados ➜ Volcarona,x1 danza aleteo + Especial X",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "◉ Excadrill ➜ Usar Gigadrenado hasta que muera",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Excadrill ➜ Usar Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath matar a  Tyranitar",
+      "detail": "◉ Leafeon ➜ Salamence x1",
       "variant": []
     }
   ]

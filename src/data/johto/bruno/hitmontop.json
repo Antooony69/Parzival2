@@ -2,10 +2,10 @@
   "id": "hitmontop",
   "name": "Hitmontop",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🥚Amortiguador🥚",
+  "initialMove": "⭐Amortiguador, Frente Machamp, Gengar Otra vez +4⭐",
   "tricks": [
     {
-      "detail": "Machamp → Gengar, Otra Vez, +4",
+      "detail": "⭐Usar Amortiguador y sale Aggron, Quagsire Bostezo + Protección y Bostezo Frente Machamp ➜ Gengar otra vez x4⭐",
       "variant": []
     }
   ]

@@ -5,39 +5,57 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Si se queda ➜ Ver movimiento",
+      "detail": "◉ Cascada ➜ Quagsire, Bostezo",
       "variant": [
         {
-          "detail": "Cascada ➜ Cambiar a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-          "variant": []
-        },
-        {
-          "detail": "Fuerza Bruta ➜ Teletransporte para ver movimiento",
+          "detail": "◉ Dragonite ➜ Protección, Bostezo otra vez",
           "variant": [
             {
-              "detail": "Fuerza Bruta ➜ Slowbro usa Bostezo frente a Ampharos ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+              "detail": "◉ Lapras ➜ Volcarona x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Lucario ➜ Salamence x1",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Otro movimiento ➜ Cambiar a Poliwrath ➜ luego a Slowbro y usar Bostezo ➜ frente a Ampharos ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+          "detail": "◉ Lucario ➜ Salamence x1",
+          "variant": [
+            {
+              "detail": "◉ Lapras ➜ Volcarona x2",
+              "variant": [
+                {
+                  "detail": "◉ Si entra Dragonite ➜ Sacrificar a Scrafty ➜ Salamence ataca y frente Lapras ➜ Volcarona x1",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ si al cambiar a Quagsire entra Infernape ➜ Bostezo Frente Dragonite, Protección, Bostezo otra vez Frente Lucario ➜ Salamence x1 (si se queda en campo, usar Protección y Bostezo otra vez)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Scizor ➜ Teletransporte; evaluar daño",
+      "detail": "◉ Fuerza Bruta ➜ Gengar (Otra Vez) ➜ Chansey, Amortiguador Frente Arcanine ➜ Sacrificar a Chansey ➜ Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Dragonite ➜ Chansey (Trampa Rocas), evaluar el daño recibido:",
       "variant": [
         {
-          "detail": "Si el daño es ~60% ➜ Enviar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+          "detail": "◉ 83.1%  de vida ➜ Sacrificar a Chansey ➜ Salamence x3",
           "variant": []
         },
         {
-          "detail": "Si el daño es ~90% ➜ Volcarona +1 + Especial X 🔔mantener PS por encima del 51%🔔",
+          "detail": "◉ 65.6% de vida ➜ Encanto, sacrificar a Chansey ➜ Quagsire, Bostezo Frente Kangaskhan ➜ Sacrificar a Gengar ➜ Salamence x1",
           "variant": [
             {
-              "detail": "Si Volcarona cae por Crítico ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+              "detail": "◉ Si usas Bostezo y entra Dragonite ➜ Protección, Bostezo otra vez Frente Kangaskhan ➜ Sacrificar a Gengar ➜ Salamence x1",
               "variant": []
             }
           ]
@@ -45,29 +63,47 @@
       ]
     },
     {
-      "detail": "Haxorus ➜ Cambiar a Slowbro y usar Bostezo ➜ frente a Scizor ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "detail": "◉ Haxorus ➜ Sacrificar a Chansey ➜ Quagsire, Bostezo Frente Kangaskhan ➜ Sacrificar a Gengar ➜ Salamence x1",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Cambiar a Slowbro y usar Bostezo",
+      "detail": "◉ Lucario ➜ Gengar (Otra Vez) ➜ Chansey Frente Dragonite ➜ Sacrifica a Chansey ➜ Salamence x4 (si sale Aerodactyl, Amortiguador para esperar a Dragonite)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scizor ➜ Trampa Rocas, evaluar el daño recibido:",
       "variant": [
         {
-          "detail": "Scizor ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
-          "variant": []
+          "detail": "◉ 60% de vida ➜ Sacrificar a Scrafty:",
+          "variant": [
+            {
+              "detail": "◉ Gema Voladora ➜ Salamence +3 + Defensa X",
+              "variant": []
+            },
+            {
+              "detail": "◉ Sin Gema Voladora ➜ Salamence x1",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Flygon ➜ Protección , Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔Puño Drenaje Steelix🔔",
+          "detail": "◉ 82% de vida ➜ Sacrificar a Chansey ➜ Salamence x3 (Terremoto a Scizor)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Lucario ➜ Gengar +2 +2 + Precisión X 🔔ahorrar +6 +2 lucario no tiene objeto elegido🔔",
-      "variant": []
+      "detail": "◉ Infernape ➜ Gengar (Otra Vez) Frente Krookodile ➜ Quagsire, Bostezo Frente Lucario ➜ Salamence x1,  si Bostezo le cae a Dragonite, Protección y Bostezo otra vez",
+      "variant": [
+        {
+          "detail": "◉ Si entra gengar y entra Dragonite  ➜ bola sombra Al caer Gengar, sacar a Salamence y atacar Frente Feraligatr ➜  Quagsire, Bostezo Frente Lucario ➜ Salamence x1",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Infernape ➜ Cambiar a Slowbro y usar Bostezo ➜ frente a Electivire ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "detail": "◉ Arcanine ➜ Sacrificar a Scrafty ➜ Salamence x1",
       "variant": []
     }
   ]
-}  
+}

@@ -2,10 +2,10 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Gengar usa Otra Vez; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🐸",
+  "initialMove": "👻 Gengar Otra Vez +2 Frente Hydreigon ➜ Chansey, Trampa Rocas Frente Primeape ➜ Gengar otra vez +2 Frente Hydreigon ➜ Scrafty x2🐸",
   "tricks": [
     {
-      "detail": "Si el Crítico de Typhlosion debilita a Poliwrath --> Gengar +6 +2",
+      "detail": "◉ Si Flareon no cambia ➜ bola sombra",
       "variant": []
     }
   ]

@@ -2,6 +2,11 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡 Cambiar a Slowbro y usar Bostezo frente a Eelektross; sacrificar a Politoed; Poliwrath +6 💡",
-  "tricks": []
+  "initialMove": "💡Trampa Rocas ➜ Quagsire, Bostezo Frente Gyarados / Eelektross ➜ Gengar +2 (No usar Otra Vez)💡",
+  "tricks": [
+    {
+      "detail": "◉ Si se queda ➜ Protección y Bostezo otra vez",
+      "variant": []
+    }
+  ]
 }

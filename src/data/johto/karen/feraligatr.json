@@ -2,15 +2,37 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "❤️ Encanto ❤️",
+  "initialMove": "❤️ Trampa Rocas y ver cuanto daño resive chansey ❤️",
   "tricks": [
     {
-      "detail": "Menos de 36% (Crítico 54%) --> Trampa Rocas; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "◉ Daño 40%+ ➜ Quagsire ➜ Chansey frente Vileplume, Amortiguador Frente Honchkrow / Gallade ➜ Gengar, Otra Vez + Bola Sombra",
+      "variant": [
+        {
+          "detail": "◉ Rhyperior ➜ Quagsire, Bostezo Frente Vileplume ➜ Gengar +4 (No usar Otra Vez) (Vida de Gengar +56%)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Vileplume no se va ➜ Gengar +6",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Más de 39% (Crítico 59%) --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6 🔔curar quemadura🔔 ",
-      "variant": []
+      "detail": "◉ Daño 30%+ ➜ Elegir que ruta seguir:",
+      "variant": [
+        {
+          "detail": "◉ Ruta Rápida: Quagsire, Bostezo Frente Houndoom ➜ Salamence x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Segura: Quagsire, Bostezo Frente Houndoom ➜ Gengar ➜ Scrafty frente Umbreon ➜ Scrafty x3 + A Bocajarro Garchomp",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si no se va ➜ Gengar con Otra Vez + Velocidad X y ataca",
+          "variant": []
+        }
+      ]
     }
   ]
 }

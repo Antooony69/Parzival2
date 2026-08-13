@@ -5,31 +5,28 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Esfera Aural ➜ Cambiar a Gengar, Usar Otra Vez",
+      "detail": "◉ Esfera Aural ➜ Amortiguador 2 veces frente Salamence",
       "variant": [
         {
-          "detail": "Se Queda Lucario ➜ Gengar otra vez +6 🔔(Tiene banda focus y Barre con Bola Sombra)🔔",
+          "detail": "◉ Si no se va ➜ Volcarona x2",
           "variant": []
         },
         {
-          "detail": "Salamence ➜ Cambiar a Slowbro, mantenerte usando Bostezo (Ver abajo guía del Salamence)",
-          "variant": []
-        },
-        {
-          "detail": "Rapidash ➜ Cambiar a Slowbro y usa Bostezo, sacrificar a Politoed ➜ Poliwrath +6",
-          "variant": []
+          "detail": "◉ Salamence ➜ Encanto Frente Salamence, Quagsire Frente Rapidash, Bostezo Frente Lucario ➜ Volcarona x2 (si se queda en campo, Protección y Bostezo otra vez)",
+          "variant": [
+            {
+              "detail": "◉ Si sale Spiritomb de la nada  ➜ Salamence x1",
+              "variant": []
+            }
+          ]
         }
       ]
     },
     {
-      "detail": "Salamence ➜ Slowbro y usa bostezo, luego protección y vuelve a usar bostezo, Frente a Spiritomb , sacrifica a Politoed ➜ Poliwrath +6 🔔 Spiritomb despierto no es amenaza 🔔",
+      "detail": "◉ Salamence ➜ Encanto, Quagsire frente Rapidash, Bostezo Frente Lucario ➜ Volcarona x2 / Salamence x1 (si sufres Retroceso usar Encanto de nuevo; si se queda en campo, Protección y Bostezo otra vez)",
       "variant": [
         {
-          "detail": "Spiritomb ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Si Spiritomb despierta, no es amenaza)🔔",
-          "variant": []
-        },
-        {
-          "detail": "Lucario → Sacrifica a Politoed ➜ Poliwrath +6",
+          "detail": "◉ Si sale Spiritomb de la nada ➜ Volcarona x2",
           "variant": []
         }
       ]

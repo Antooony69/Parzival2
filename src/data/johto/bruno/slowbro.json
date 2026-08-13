@@ -5,38 +5,65 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Hitmonlee ➜ Gengar, bola sombra",
+      "detail": "◉ Hitmonlee ➜ Cambiar a Gengar y rematar con ataques",
       "variant": [
         {
-          "detail": "Derrótalo, sale Machamp → Continua Bola Sombra → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
-          "variant": []
-        },
-        {
-          "detail": "Sale Machamp → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Machamp → Gengar, Otra Vez, +2",
-      "variant": [
-        {
-          "detail": "Se queda → Gengar +4, bola sombra para todos.",
-          "variant": []
-        },
-        {
-          "detail": "Sale Salamence → Bola Sombra hasta que salga Aggron.",
+          "detail": "◉ Steelix ➜ Cambiar a Quagsire, Bostezo hasta Salamence, Protección, Bostezo hasta Slowbro ➜ Volcarona x2",
           "variant": [
             {
-              "detail": "Gengar derrota con critico a Aggron → Derrótalos a todos.",
+              "detail": "◉ Si Steelix no se va ➜ Cambiar a Chansey, Amortiguador para atraer al tipo Lucha ➜ Gengar +6",
+              "variant": [
+                {
+                  "detail": "◉ Steelix huye ➜ Salamence ➜ Volcarona",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Si Steelix no se va ➜ Volcarona Defensa +2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Slowbro ➜ Volcarona x2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Machamp ➜ Scrafty ➜ Gengar otra vez x2 para ver quién sale:",
+          "variant": [
+            {
+              "detail": "◉ Steelix ➜ Ver las rutas anterior de Steelix",
               "variant": []
             },
             {
-              "detail": "Aggron derrota a Gengar (no activa Cuerpo Maldito) → Volcarona, derrótalo. sale Slowbro, +1.",
+              "detail": "◉ Salamence ➜ Bola sombra Frente Steelix ➜ Salamence ➜ Volcarona",
+              "variant": [
+                {
+                  "detail": "◉ Si Steelix no se va ➜ Volcarona Defensa x + x2 (si está con quemadura, no necesita Defensa +2)",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Slowbro ➜ Volcarona x2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Salamence ➜ Chansey, Amortiguador Frente Machamp ➜ Gengar otra vez +6",
+          "variant": [
+            {
+              "detail": "◉ Steelix huye ➜ Salamence ➜ Volcarona",
               "variant": []
             },
             {
-              "detail": "Aggron derrota a Gengar (Se activa Cuerpo Maldito) → Volcarona +1.",
+              "detail": "◉ Si Steelix no se va ➜ Volcarona Defensa X + x2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Slowbro ➜ Volcarona x2",
               "variant": []
             }
           ]
@@ -44,7 +71,11 @@
       ]
     },
     {
-      "detail": "Heracross → Amortiguador, Teletransporte → Gengar, Otra Vez, +2 + Precisión X. (Otra Vez de nuevo, tiene Banda Focus)",
+      "detail": "◉ Heracross ➜ Gengar Otra Vez ➜ Scrafty frente Kangaskhan ➜ Scrafty Defensa x + x2 (A Bocajarro Heracross Steelix)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Machamp ➜ Gengar otra vez +2",
       "variant": []
     }
   ]

@@ -2,7 +2,15 @@
   "id": "scrafty",
   "name": "Scrafty",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 frente a Primeape; Slowbro usa Bostezo frente a Electivire; sacrificar a Politoed; Poliwrath +6",
-  "tricks": []
+  "initialMove": "🪨 Trampa Rocas 🪨 frente Infernape ➜ Gengar Otra Vez Frente Krookodile ➜ Quagsire, Bostezo Frente Lucario ➜ Salamence x1",
+  "tricks": [
+    {
+      "detail": "◉ Si Bostezo le cae a Dragonite ➜ Protección y Bostezo otra vez",
+      "variant": []
+    },
+    {
+      "detail": "◉ 【Imprevisto】 Si entra Gengar y entra Dragonite ➜ bola sombra; si Gengar cae, Frente Salamence y atacar hasta que salga Feraligatr ➜ Quagsire, Bostezo hasta Lucario ➜ Salamence x1",
+      "variant": []
+    }
+  ]
 }
-  

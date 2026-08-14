@@ -5,12 +5,53 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a tyranitar; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "◉ Tyranitar ➜ Sacrificar a Volcarona",
+      "variant": [
+        {
+          "detail": "◉ Triturar ➜ Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "◉ Roca Afilada ➜ Quagsire, Bostezo Frente Metagross ➜ Salamence x1",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Scizor --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "◉ Scizor ➜ Chansey (Trampa Rocas) y recibir Fuerza Bruta ➜ Scrafty",
+      "variant": [
+        {
+          "detail": "◉ Entras con Scrafty y entra Feraligatr ➜ Quagsire, Bostezo Frente Dragonite, Protección, Bostezo Frente Lapras ➜ Volcarona x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Entras con Scrafty y Steelix ➜ Salamence Frente Dragonite ➜ Garra Dragon Frente Lapras ➜ Volcarona x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Acrobata con Gema Voladora ➜ Salamence +3 + Defensa x  si usa Fuerza Bruta ➜ Danza Dragón, sacrificar a Scrafty ➜ Salamence x3",
+          "variant": [
+            {
+              "detail": "◉ Dragonite ➜ Garra Dragon Frente Lapras ➜ Volcarona x1",
+              "variant": [
+                {
+                  "detail": "◉ Lapras ➜ Volcarona ➜ Salamence Frente Dragonite, Garra Dragon; si no sale Dragonite y cae por Rayo Hielo ➜ Volcarona x2",
+                  "variant": [
+                    {
+                      "detail": "◉ Lapras ➜ Volcarona x1",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Otros ➜ Quagsire, Bostezo Frente Lapras ➜ Volcarona x1",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

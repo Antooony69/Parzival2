@@ -5,30 +5,48 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Terremoto --> Encanto; Amortiguador; esperar a Scizor; Teletransporte para 🔔evaluar daño🔔",
+      "detail": "◉ Terremoto ➜ Encanto + Amortiguador para forzar el cambio:",
       "variant": [
         {
-          "detail": "Si el daño es ~60% --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "◉ Dragonite ➜ Sacrificar a Scrafty ➜ Salamence x4",
           "variant": []
         },
         {
-          "detail": "Si el daño es ~90% --> Volcarona +1 + Especial X; mantener 🔔PS por encima del 51%🔔",
+          "detail": "◉ Lucario ➜ Gengar (Otra Vez) ➜ Chansey, Amortiguador Frente Dragonite ➜ Sacrificar a Chansey ➜ Salamence x4 (si sale Aerodactyl, Amortiguador hasta que salga Dragonite)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Scizor ➜ Chansey Trampa Rocas y observar daño:",
           "variant": [
             {
-              "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+              "detail": "◉ 90% de daño➜ Sacrifica a Chansey ➜ Salamence +3 (Terremoto para rematar)",
               "variant": []
+            },
+            {
+              "detail": "◉ 60%  de daño ➜ Sacrifica a Scrafty",
+              "variant": [
+                {
+                  "detail": "◉ Scrafty frente Feraligatr ➜ Quagsire ➜ Salamence Frente Dragonite ➜ Rematar hasta que salga Lapras ➜ Sacrificar a Salamence ➜ Volcarona x1",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Scrafty frente Steelix ➜ Salamence:",
+                  "variant": [
+                    {
+                      "detail": "◉ Dragonite ➜ Garra Dragon hasta que salga Lapras ➜ Volcarona x1",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "◉ Acrobata con Gema Voladora ➜  Quagsire ➜ Salamence frente  Dragonite ➜ Rematar hasta que salga Lapras ➜ Sacrificar a Salamence ➜ Volcarona x1",
+                  "variant": []
+                }
+              ]
             }
           ]
         }
       ]
-    },
-    {
-      "detail": "Lucario --> Gengar +2 +2 + Precisión X; 🔔ahorrar +6 +2 lucario no tiene objeto elegido 🔔",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite --> Cambiar a Slowbro y usar Bostezo frente a Flygon; usar Protección y Bostezo; sacrificar a Politoed; Poliwrath +6 ",
-      "variant": []
     }
   ]
 }

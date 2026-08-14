@@ -5,36 +5,63 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "Puño Meteoro --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "detail": "◉ Puño Meteoro [Gema Acero] ➜ Evaluar si sube el Ataque:",
       "variant": [
         {
-          "detail": "Enviar a Slowbro frente a Tyranitar --> Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "◉ Sí sube ➜ Sacrificar a Gengar ➜ Volcarona Frente Kangaskhan, sacrificar a Volcarona ➜ Salamence x1",
           "variant": []
         },
         {
-          "detail": "Hierba Lazo / Ampharos --> Sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Scizor --> Sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Dragonite / Lapras --> Sacrificar a Politoed; Poliwrath +6",
-          "variant": []
-        },
-        {
-          "detail": "Eelektross --> Teletransporte; Gengar usa Maquinación y barre",
+          "detail": "◉ No sube ➜  Quagsire frente Haxorus / Dragonite, Bostezo Frente Kangaskhan ➜ Sacrificar a Gengar ➜ Salamence x1 (si se queda en campo, seguir usando Bostezo hasta Kangaskhan)",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Scizor --> Cambiar a Slowbro y usar Bostezo ; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
+      "detail": "◉ Puño Meteoro [Vidasfera] ➜ Cambiar a Volcarona hasta Charizard ➜ Sacrificar a Volcarona (para curar a Chansey), sacar a Chansey ➜ Amortiguador hasta Tyranitar, Trampa Rocas y observar movimiento:",
+      "variant": [
+        {
+          "detail": "◉ si entras con Volcarona y entra Tyranitar ➜ Sacrificar a Volcarona ➜ Scrafty +3 Defensa X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Triturar ➜ Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "◉ Roca Afilada ➜ Sacrificar a Chansey ➜ Scrafty +3 Defensa X",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "Tyranitar --> Cambiar a Poliwrath puño drenaje en  tyranitar ; cambiar a Chansey y usar Amortiguador; esperar a Metagross; Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "detail": "◉ Puño Meteoro [Sin Vidasfera ni Gema Acero] ➜ Quagsire, Bostezo:",
+      "variant": [
+        {
+          "detail": "◉ Gyarados ➜ Gengar +2 (no usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Eelektross ➜ Gengar +2 (No usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Dragonite ➜ Protección, Bostezo otra vez",
+          "variant": [
+            {
+              "detail": "◉ Gyarados / Eelektross ➜ Gengar +2 (No usar Otra Vez)",
+              "variant": []
+            },
+            {
+              "detail": "◉ Lapras ➜ Volcarona x2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Scizor ➜ Chansey recibe Fuerza Bruta y sacrificar ➜  Scrafty, Danza Dragón y sacrificar ➜ Salamence +3  Defensa X (Terremoto a Scizor)",
       "variant": []
     }
   ]

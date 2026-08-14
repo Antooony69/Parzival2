@@ -5,21 +5,66 @@
   "initialMove": "🪨 Trampa Rocas 🪨 🔔 Evaluar daño 🔔",
   "tricks": [
     {
-      "detail": "Si el daño es ~90% --> Teletransporte; Volcarona +1 + Especial X; 🔔mantener PS por encima del 51%🔔",
+      "detail": "◉ 90% de daño ➜ Sacrificar a Chansey ➜ Salamence +3 (Terremoto a Scizor)",
+      "variant": []
+    },
+    {
+      "detail": "◉ 60% de daño ➜ Sacrificar a Scrafty, observar objeto y movimiento:",
       "variant": [
         {
-          "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "detail": "◉ Sin Acrobacia con Gema Voladora ➜ Salamence x1",
           "variant": []
+        },
+        {
+          "detail": "◉ Con Acrobacia con Gema Voladora ➜ Quagsire ➜ Salamence:",
+          "variant": [
+            {
+              "detail": "◉ Lapras ➜ Cambiar a Volcarona ➜ Cambiar a Salamence",
+              "variant": [
+                {
+                  "detail": "◉ Si no se retira ➜ Volcarona +3",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Dragonite ➜ atacar hasta Lapras, sacrificar a Salamence ➜ Volcarona x1",
+                  "variant": [
+                    {
+                      "detail": "◉ Dragonite ➜ atacar hasta Lapras, sacrificar a Salamence ➜ Volcarona x1",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "◉ Si huye a otro Pokémon ➜ Observar cuál sale:",
+              "variant": [
+                {
+                  "detail": "◉ Feraligatr ➜ Quagsire, Bostezo",
+                  "variant": [
+                    {
+                      "detail": "◉ Dragonite ➜ Protección, Bostezo otra vez Frente Lapras ➜ Volcarona x1",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Lapras ➜ Volcarona ➜ Salamence frente Dragonite, Frente Lapras ➜  x1 y barrido",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "◉ Dragonite ➜ Gengar (Otra Vez) +  Defensa X Frente Kangaskhan ➜ Salamence x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Haxorus ➜ Gengar (Otra Vez) + Defensa X Kangaskhan ➜ Salamence x1",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "Si el daño es ~60% --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
-    },
-    {
-      "detail": "Si cae por Crítico y no puso Trampa Rocas --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
-      "variant": []
     }
   ]
 }

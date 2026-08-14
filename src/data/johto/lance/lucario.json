@@ -2,22 +2,37 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "👻 Cambiar a Gengar 👻 ⚠️Atento Si en el combate de Arcanine no cambia sigue usando bostezo hasta que cambie⚠️ ",
+  "initialMove": "👻Scrafty 👻 ",
   "tricks": [
     {
-      "detail": "◉ A Bocajarro ➜ Gengar usa Otra Vez ➜ cambia a Slowbro y usa Bostezo frente a Flygon ➜ cambiar a Chansey  🪨 Trampa Rocas 🪨➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
-      "variant": []
+      "detail": "◉ A bocajarro ➜ Gengar (Otra Vez) ➜ Chansey Trampa Rocas Frente Dragonite ➜ Sacrificar a Chansey ➜ Salamence x4 (si sale Aerodactyl, usar Amortiguador hasta que salga Dragonite)",
+      "variant": [
+        {
+          "detail": "◉ Si Chansey muere por golpe crítico de Dragonite ➜ Revivir a Chansey y colocar Trampa Rocas",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Infernape ➜ Cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 ⚠️Trata de No tener la vida baja lucario tiene banda focus y un ataque de prioridad⚠️",
-      "variant": []
+      "detail": "◉ Arcanine ➜ Danza Dragón y observar movimiento:",
+      "variant": [
+        {
+          "detail": "◉ Envite Ígneo / A bocajarro ➜ Sacrificar a Scrafty ➜ Chansey (Trampa Rocas) frente Feraligatr ➜ Quagsire, Bostezo Frente Ampharos ➜ Salamence x1 (si Arcanine no se retira, Quagsire, Bostezo Frente Ampharos ➜ Salamence x1)",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Arcanine ➜ Cambia a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔puño drenaje a Lucario y Ampharos🔔",
-      "variant": []
+      "detail": "◉ Infernape ➜ Gengar +2 hasta Krookodile ➜ Cambiar a Chansey (Trampa Rocas) hasta Infernape ➜ Cambiar a Quagsire, Bostezo hasta Lucario ➜ Salamence x1, Bostezo hasta Dragonite, Protección y Bostezo otra vez",
+      "variant": [
+        {
+          "detail": "◉ si entras con Gengar y entra Dragonite ➜ bola sombra sacrificar a Gengar ➜ Salamence Frente Feraligatr ➜ Quagsire, Bostezo Frente Lucario ➜ Salamence x1",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "◉ Feraligatr ➜ Sacrifica a Gengar con Bola Sombra ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔usar Puño Drenaje  para mantener salud🔔",
+      "detail": "◉ Feraligatr ➜ Quagsire, Bostezo hasta Ampharos ➜ Chansey (Trampa Rocas) Frente Arcanine ➜ Salamence x1",
       "variant": []
     }
   ]

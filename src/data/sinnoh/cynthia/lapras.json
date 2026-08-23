@@ -14,30 +14,30 @@
               "detail": "◉ Con Vidasfera ➜ Gengar otra vez x2",
               "variant": [
                 {
-                  "detail": "◉ Lapras ➜ Quagsire Bostezo Frente Lucario, Salamence x2 ⭐Revisa tu vida⭐",
+                  "detail": "◉ Lapras ➜ Quagsire Bostezo Frente Lucario, Salamence x2 ⭐Más 44.4% de vida⭐",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Eelektross ➜ Quagsire Bostezo Frente Lapras, Protección y Bostezo Frente Lucario, Salamence x2 ⭐Revisa tu vida⭐",
+                  "detail": "◉ Eelektross ➜ Quagsire Bostezo Frente Lapras, Protección y Bostezo Frente Lucario, Salamence x2 ⭐Más 44.4% de vida⭐ ",
                   "variant": []
                 }
               ]
             },
             {
-              "detail": "◉ Sin Vidasfera ➜ Gengar x2 (No usar Otra Vez), sale Arcanine Usar Maquinacion otra vez y atacar",
+              "detail": "◉ Sin Vidasfera ➜ Gengar +2 (No usar Otra Vez), sale Arcanine Usar Maquinacion otra vez y atacar",
               "variant": [
                 {
-                  "detail": "◉ Si Lucario no se retira ➜ Verificar si Roca Afilada está atrapada por objeto elegido",
+                  "detail": "◉ Si Lucario no se retira ➜ Verificar si esta encerrado con Roca Afilada  por objeto elegido",
                   "variant": [
                     {
-                      "detail": "◉ Sí está atrapado ➜ usar Maquinación una vez más y barrer a todo el equipo.",
+                      "detail": "◉ Sí está Encerrado ➜ usar Maquinación una vez más y barrer a todo el equipo.",
                       "variant": []
                     },
                     {
-                      "detail": "◉ No está atrapado ➜ Usar Otra Vez sobre Roca Afilada, cambiar a Quagsire y usar Bostezo:",
+                      "detail": "◉ No está Encerrado ➜ Usar Otra Vez sobre Roca Afilada, cambiar a Quagsire y usar Bostezo:",
                       "variant": [
                         {
-                          "detail": "◉ Lapras ➜ Volcarona +1 en Ataque Especial.",
+                          "detail": "◉ Lapras ➜ Volcarona +1 + Especial X ",
                           "variant": []
                         },
                         {

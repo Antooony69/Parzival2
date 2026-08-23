@@ -12,11 +12,11 @@
       "detail": "◉ Espada Santa ➜ Gengar usa Otra Vez",
       "variant": [
         {
-          "detail": "◉ Espada Santa Golpea Segundo a Gengar ➜ Maquinación Frente Kecleon, Scrafty x2; Si gallade no cambia, Gengar otra vez +4 +2 ⭐Si Kecleon hace Critico a Gengar Muere ⭐ si Quieres evitar el crítico, Mata a Gallade y entra Kecleon, luego Scrafty x2⭐",
+          "detail": "◉ Gallade Mas Rapido que Gengar ➜ Maquinación Frente Kecleon, Scrafty x2; Si gallade no cambia, Gengar otra vez +4 +2 ⭐Si Kecleon hace Critico a Gengar Muere ⭐ si Quieres evitar el crítico, Mata a Gallade y entra Kecleon, luego Scrafty x2⭐",
           "variant": []
         },
         {
-          "detail": "◉ Espada Santa Es Mas Rapido que Gengar ➜ Bola Sombra",
+          "detail": "◉ Gallade Mas Lento que Gengar ➜ Bola Sombra",
           "variant": [
             {
               "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
@@ -67,91 +67,91 @@
                   ]
                 }
               ]
+            },
+            {
+              "detail": "◉ Si no Cambia ➜ Ataca y eliminalo",
+              "variant": [
+                {
+                  "detail": "◉ Espeon ➜ Scrafty x2",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Raichu ➜ Chansey, Trampa Rocas Frente Absol (Banda Focus), Gengar Otra vez +4 +2 ⭐ si sale Lucario, Chansey  Amortiguador Frente Absol otra vez +4 +2⭐",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
+              "variant": [
+                {
+                  "detail": "◉ Sin Vidasfera ➜ Pantalla Luz + Trampa Rocas, revisar movimiento",
+                  "variant": [
+                    {
+                      "detail": "◉ Cometa Draco ➜ Scrafty x2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Llamarada ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Gardevoir o Gallade ➜ Gengar otra vez +6 +2",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "◉ Vidasfera ➜ Gengar Otra Vez +2 y evaluar situación",
+                  "variant": [
+                    {
+                      "detail": "◉ Si no se va ➜ Gengar +6 / +2",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Empoleon ➜ Salamence x1",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "◉ Bronzong ➜ Chansey, Trampa Rocas",
+              "variant": [
+                {
+                  "detail": "◉ Hydreigon ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Lucario ➜ Chansey, Trampa Rocas hasta que salga tipo Lucha, Gengar Otra vez +4 +2",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+              "variant": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "detail": "◉ Si no Cambia ➜ Ataca y eliminalo",
-      "variant": [
-        {
-          "detail": "◉ Espeon ➜ Scrafty x2",
-          "variant": []
         },
         {
-          "detail": "◉ Raichu ➜ Chansey, Trampa Rocas Frente Absol (Banda Focus), Gengar Otra vez +4 +2 ⭐ si sale Lucario, Chansey  Amortiguador Frente Absol otra vez +4 +2⭐",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
-      "variant": [
-        {
-          "detail": "◉ Sin Vidasfera ➜ Pantalla Luz + Trampa Rocas, revisar movimiento",
+          "detail": "◉ Protección ➜ Gengar +2 y atacar, cambiar a Chansey, Trampa Rocas Frente Absol, Gengar +4 +2 ( si Gallade te quema Curate En Este Gallade no hace Falta Otra vez)",
           "variant": [
             {
-              "detail": "◉ Cometa Draco ➜ Scrafty x2",
-              "variant": []
-            },
-            {
-              "detail": "◉ Llamarada ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-              "variant": []
-            },
-            {
-              "detail": "◉ Gardevoir o Gallade ➜ Gengar otra vez +6 +2",
+              "detail": "◉ Si sale Lucario ➜ Chansey Amortiguador Frente Absol, Gengar Otra vez +4 +2",
               "variant": []
             }
           ]
         },
         {
-          "detail": "◉ Vidasfera ➜ Gengar Otra Vez +2 y evaluar situación",
+          "detail": "◉ Dragonite ➜ Chansey, cambiar a Volcarona frente Medicham, Scrafty x2",
           "variant": [
             {
-              "detail": "◉ Si no se va ➜ Gengar +6 / +2",
-              "variant": []
-            },
-            {
-              "detail": "◉ Empoleon ➜ Salamence x1",
+              "detail": "◉ Si Dragonite Mientras Te Bosteas usa Triturar, cambiar a Quagsire Bostezo frente Empoleon, Salamence x1",
               "variant": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "detail": "◉ Bronzong ➜ Chansey, Trampa Rocas",
-      "variant": [
-        {
-          "detail": "◉ Hydreigon ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-          "variant": []
-        },
-        {
-          "detail": "◉ Lucario ➜ Chansey, Trampa Rocas hasta que salga tipo Lucha, Gengar Otra vez +4 +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-      "variant": []
-    },
-    {
-      "detail": "◉ Protección ➜ Gengar +2 y atacar, cambiar a Chansey, Trampa Rocas Frente Absol, Gengar +4 +2 ( si Gallade te quema Curate En Este Gallade no hace Falta Otra vez)",
-      "variant": [
-        {
-          "detail": "◉ Si sale Lucario ➜ Chansey Amortiguador Frente Absol, Gengar Otra vez +4 +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Dragonite ➜ Chansey, cambiar a Volcarona frente Medicham, Scrafty x2",
-      "variant": [
-        {
-          "detail": "◉ Si Dragonite Mientras Te Bosteas usa Triturar, cambiar a Quagsire Bostezo frente Empoleon, Salamence x1",
-          "variant": []
         }
       ]
     }

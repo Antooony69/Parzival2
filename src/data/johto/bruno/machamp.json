@@ -109,29 +109,29 @@
         {
           "detail": "◉ Metagross ➜ Trampa Rocas ➜ Quagsire, Bostezo frente Electivire ➜ Salamence x1",
           "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Steelix ➜ Trampa Rocas ➜ Salamence x1 Frente Staraptor, atacar hasta que salga Slowbro ➜ Gengar Bola sombra y mira quien sale",
-      "variant": [
+        },
         {
-          "detail": "◉ Steelix ➜ Salamence x1",
+          "detail": "◉ Steelix ➜ Trampa Rocas ➜ Salamence x1 Frente Staraptor, atacar hasta que salga Slowbro ➜ Gengar Bola sombra y mira quien sale",
+          "variant": [
+            {
+              "detail": "◉ Steelix ➜ Salamence x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Kangaskhan ➜ Chansey Amortiguador Frente Heracross ➜ Gengar Otra Vez ➜ Volcarona frente Kangaskhan ➜ Volcarona x1",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Torterra ➜ Salamence x3",
           "variant": []
         },
         {
-          "detail": "◉ Kangaskhan ➜ Chansey Amortiguador Frente Heracross ➜ Gengar Otra Vez ➜ Volcarona frente Kangaskhan ➜ Volcarona x1",
+          "detail": "◉ Kangaskhan ➜ Trampa Rocas Frente Heracross ➜ Gengar Otra Vez ➜ Scrafty frente Kangaskhan ➜ Scrafty Defensa x + x2 (A Bocajarro Steelix y Heracross)",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "◉ Torterra ➜ Salamence x3",
-      "variant": []
-    },
-    {
-      "detail": "◉ Kangaskhan ➜ Trampa Rocas Frente Heracross ➜ Gengar Otra Vez ➜ Scrafty frente Kangaskhan ➜ Scrafty Defensa x + x2 (A Bocajarro Steelix y Heracross)",
-      "variant": []
     }
   ]
 }

@@ -18,7 +18,7 @@
                   "variant": []
                 },
                 {
-                  "detail": "◉ Opción de velocidad ➜ Salamence x1 + Defensa X Cuidado con el Critico",
+                  "detail": "◉ Opción de velocidad ➜ Salamence x1 + ⭐Cuidado con el Critico⭐",
                   "variant": []
                 }
               ]
@@ -35,13 +35,17 @@
           "variant": []
         },
         {
-          "detail": "◉ Opción de velocidad ➜ Salamence x1 + Defensa X Cuidado con el Critico",
+          "detail": "◉ Opción de velocidad ➜ Salamence x1 ⭐Cuidado con el Critico⭐",
           "variant": []
         }
       ]
     },
     {
       "detail": "◉ Empoleon ➜ Salamence x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Gallade ➜ Salamence x1",
       "variant": []
     }
   ]

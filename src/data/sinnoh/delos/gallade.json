@@ -78,54 +78,54 @@
                 {
                   "detail": "◉ Raichu ➜ Chansey, Trampa Rocas Frente Absol (Banda Focus), Gengar Otra vez +4 +2 ⭐ si sale Lucario, Chansey  Amortiguador Frente Absol otra vez +4 +2⭐",
                   "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
-              "variant": [
+                },
                 {
-                  "detail": "◉ Sin Vidasfera ➜ Pantalla Luz + Trampa Rocas, revisar movimiento",
+                  "detail": "◉ Hydreigon ➜ Chansey y revisar objeto",
                   "variant": [
                     {
-                      "detail": "◉ Cometa Draco ➜ Scrafty x2",
-                      "variant": []
+                      "detail": "◉ Sin Vidasfera ➜ Pantalla Luz + Trampa Rocas, revisar movimiento",
+                      "variant": [
+                        {
+                          "detail": "◉ Cometa Draco ➜ Scrafty x2",
+                          "variant": []
+                        },
+                        {
+                          "detail": "◉ Llamarada ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+                          "variant": []
+                        },
+                        {
+                          "detail": "◉ Gardevoir o Gallade ➜ Gengar otra vez +6 +2",
+                          "variant": []
+                        }
+                      ]
                     },
                     {
-                      "detail": "◉ Llamarada ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-                      "variant": []
-                    },
-                    {
-                      "detail": "◉ Gardevoir o Gallade ➜ Gengar otra vez +6 +2",
-                      "variant": []
+                      "detail": "◉ Vidasfera ➜ Gengar Otra Vez +2 y evaluar situación",
+                      "variant": [
+                        {
+                          "detail": "◉ Si no se va ➜ Gengar +6 / +2",
+                          "variant": []
+                        },
+                        {
+                          "detail": "◉ Empoleon ➜ Salamence x1",
+                          "variant": []
+                        }
+                      ]
                     }
                   ]
                 },
                 {
-                  "detail": "◉ Vidasfera ➜ Gengar Otra Vez +2 y evaluar situación",
+                  "detail": "◉ Bronzong ➜ Chansey, Trampa Rocas",
                   "variant": [
                     {
-                      "detail": "◉ Si no se va ➜ Gengar +6 / +2",
+                      "detail": "◉ Hydreigon ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
                       "variant": []
                     },
                     {
-                      "detail": "◉ Empoleon ➜ Salamence x1",
+                      "detail": "◉ Lucario ➜ Chansey, Trampa Rocas hasta que salga tipo Lucha, Gengar Otra vez +4 +2",
                       "variant": []
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "detail": "◉ Bronzong ➜ Chansey, Trampa Rocas",
-              "variant": [
-                {
-                  "detail": "◉ Hydreigon ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Lucario ➜ Chansey, Trampa Rocas hasta que salga tipo Lucha, Gengar Otra vez +4 +2",
-                  "variant": []
                 }
               ]
             },

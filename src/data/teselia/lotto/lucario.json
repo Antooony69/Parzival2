@@ -2,10 +2,10 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa rocas 🪨hasta que salga el tipo Lucha, Gengar otra vez+4",
+  "initialMove": "🪨 Trampa rocas 🪨 Frente a un tipo Lucha, Gengar otra vez +4",
   "tricks": [
     {
-      "detail": "Si huye Conkeldurr, Scrafty y Gengar ➜ Gengar otra vez +4",
+      "detail": "Si Entra Conkeldurr, Entra con Scrafty y Entra Con Gengar ➜ Gengar otra vez +4",
       "variant": []
     }
   ]

@@ -2,6 +2,11 @@
   "id": "ninetales",
   "name": "Ninetales",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Trampa Rocas Frente Lucario ➜ Gengar otra vez x2 ⭐Frente Lucario Zoroark⭐ ➜ Scrafty ➜ Gengar otra vez x2 💡",
-  "tricks": []
+  "initialMove": "💡Trampa Rocas Frente Lucario ➜ Gengar otra vez x2 ⭐Si Vuelve a Entrar otro Lucario es Zoroark⭐ ➜ Scrafty ➜ Gengar otra vez x2 💡",
+  "tricks": [
+    {
+      "detail": "◉ Opción rápida ➜ Gengar otra vez +2 y ataca",
+      "variant": []
+    }
+  ]
 }

@@ -28,7 +28,7 @@
                           "variant": []
                         },
                         {
-                          "detail": "◉ Si no se va ➜ Volcarona Defensa x + x2 danza aleteo",
+                          "detail": "◉ ⭐ Si no se va ➜ Volcarona Defensa x + x2 danza aleteo⭐",
                           "variant": []
                         }
                       ]
@@ -65,33 +65,33 @@
                 {
                   "detail": "◉ Blaziken ➜ Salamence x1 / Gengar +4 +2 (No usar otra vez)",
                   "variant": []
-                },
+                }
+              ]
+            },
+            {
+              "detail": "◉ Si no se va ➜ Ver según objeto:",
+              "variant": [
                 {
-                  "detail": "◉ Si no se va ➜ Ver según objeto:",
+                  "detail": "◉ Restos ➜ Gengar otra vez +4 +2",
                   "variant": [
                     {
-                      "detail": "◉ Restos ➜ Gengar otra vez +4 +2",
+                      "detail": "◉ al bostear entra Metagross ➜ elige la ruta",
                       "variant": [
                         {
-                          "detail": "◉ al bostear entra Metagross ➜ elige la ruta",
-                          "variant": [
-                            {
-                              "detail": "◉ Ruta rapida ➜ Volcarona x3",
-                              "variant": []
-                            },
-                            {
-                              "detail": "◉ Ruta Segura ➜ Chansey Amortiguador para atraer a Machamp/Blaziken ➜ Gengar +4 +2 (No usar otra vez)",
-                              "variant": []
-                            }
-                          ]
+                          "detail": "◉ Ruta rapida ➜ Volcarona x3",
+                          "variant": []
+                        },
+                        {
+                          "detail": "◉ Ruta Segura ➜ Chansey Amortiguador para atraer a Machamp/Blaziken ➜ Gengar +4 +2 (No usar otra vez)",
+                          "variant": []
                         }
                       ]
-                    },
-                    {
-                      "detail": "◉ Sin Restos ➜ Gengar x4",
-                      "variant": []
                     }
                   ]
+                },
+                {
+                  "detail": "◉ Sin Restos ➜ Gengar x4",
+                  "variant": []
                 }
               ]
             }
@@ -101,15 +101,16 @@
     },
     {
       "detail": "◉ Puño Drenaje ➜ Gengar Otra Vez ➜ Chansey",
-      "variant": []
-    },
-    {
-      "detail": "◉ Staraptor / Krookodile ➜ Volcarona x2 Gigadrenado a Staraptor o krookodile",
-      "variant": []
-    },
-    {
-      "detail": "◉ Metagross ➜ Trampa Rocas ➜ Quagsire, Bostezo frente Electivire ➜ Salamence x1",
-      "variant": []
+      "variant": [
+        {
+          "detail": "◉ Staraptor / Krookodile ➜ Volcarona x2 Gigadrenado a Staraptor o krookodile",
+          "variant": []
+        },
+        {
+          "detail": "◉ Metagross ➜ Trampa Rocas ➜ Quagsire, Bostezo frente Electivire ➜ Salamence x1",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "◉ Steelix ➜ Trampa Rocas ➜ Salamence x1 Frente Staraptor, atacar hasta que salga Slowbro ➜ Gengar Bola sombra y mira quien sale",

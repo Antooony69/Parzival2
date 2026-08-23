@@ -5,14 +5,14 @@
   "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "◉ Si no cambia ➜ Pantalla de Luz, cambia a Quagsire, usa Bostezo y Frente Leafeon, Salamence x4, si usas Danza Dragón x1 cambia a Entei frente Metagross, cambia a Quagsire y usa Bostezo",
+      "detail": "◉ Si no cambia ➜ Pantalla de Luz, cambia a Quagsire, usa Bostezo ⭐si al entar con Quagsire entra Leafeon, Salamence x4, si usas Danza Dragón y entra Entei ataca frente Metagross, cambia a Quagsire y usa Bostezo⭐",
       "variant": [
         {
-          "detail": "◉ Alakazam ➜ Gengar Velocidad x + usa Otra Vez + Maquinación, y barre",
+          "detail": "◉ Alakazam ➜ Gengar Velocidad X + Otra Vez + Maquinación, y ataca",
           "variant": []
         },
         {
-          "detail": "◉ Leafeon ➜ Usa Protección y Bostezo Frente Empoleon,Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "detail": "◉ Leafeon ➜ Protección y Bostezo Frente Empoleon ➜ Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
           "variant": []
         }
       ]
@@ -29,15 +29,15 @@
       "detail": "◉ Metagross ➜ Quagsire Bostezo",
       "variant": [
         {
-          "detail": "◉ Alakazam ➜ Usa Protección, usa Bostezo Frente Empoleon, Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "detail": "◉ Alakazam ➜ Protección ➜ Bostezo Frente Empoleon ➜ Salamence x4 🔔Nitro Carga a Metagross🔔",
           "variant": []
         },
         {
-          "detail": "◉ Leafeon ➜ Usa Protección, usa Bostezo Frente Empoleon, Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "detail": "◉ Leafeon ➜ Protección ➜ Bostezo Frente Empoleon, Salamence x4 🔔Nitro Carga a Metagross🔔",
           "variant": []
         },
         {
-          "detail": "◉ Empoleon ➜ Salamence x4 🔔Movimiento tipo fuego a Metagross🔔",
+          "detail": "◉ Empoleon ➜ Salamence x4 🔔Nitro Carga a Metagross🔔",
           "variant": []
         }
       ]

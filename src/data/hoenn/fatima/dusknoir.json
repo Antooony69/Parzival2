@@ -16,11 +16,12 @@
             },
             {
               "detail": "◉ A Bocajarro ➜ Gengar otra vez +2",
-              "variant": []
-            },
-            {
-              "detail": "◉ Si es el falso Dusknoir ➜ Scrafty + Velocidad X y Ataca ⭐A Bocajarro Alomomola⭐",
-              "variant": []
+              "variant": [
+                {
+                  "detail": "◉ Si es el falso Dusknoir ➜ Scrafty + Velocidad X y Ataca ⭐A Bocajarro contra Alomomola⭐",
+                  "variant": []
+                }
+              ]
             }
           ]
         },

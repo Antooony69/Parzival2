@@ -31,12 +31,12 @@
         {
           "detail": "Gliscor ➜ Ataca para debilitar",
           "variant": []
-        },
-        {
-          "detail": "Medicham ➜ Scrafty x2 usa A Bocajarro contra Conkeldurr",
-          "variant": []
         }
       ]
+    },
+    {
+      "detail": "Medicham ➜ Scrafty x2 usa A Bocajarro contra Conkeldurr",
+      "variant": []
     }
   ]
 }

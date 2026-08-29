@@ -19,7 +19,7 @@
               "variant": []
             },
             {
-              "detail": "◉ Si es el falso Dusknoir ➜ Scrafty + Velocidad X y Ataca ⭐A Bocajarro contra Alomomola⭐",
+              "detail": "◉ Si es el falso Dusknoir ➜ Scrafty + Velocidad X y Ataca ⭐A Bocajarro Alomomola⭐",
               "variant": []
             }
           ]
@@ -48,11 +48,11 @@
               "detail": "◉ Patada Salto Alta ➜ Gengar otra vez +2",
               "variant": [
                 {
-                  "detail": "◉ Si cambia a Meganium ➜ Volcarona lanzallmas Frente  Houndoom ➜  Quagsire.",
+                  "detail": "◉ Si cambia a Meganium ➜ Volcarona lanzallmas Frente Houndoom ➜ Quagsire.",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Si usas Otra Vez y entra Houndoom ➜  Scrafty Velocidad X y ataca ➜ Eliminar a Meganium con Puño Drenaje",
+                  "detail": "◉ Si usas Otra Vez y entra Houndoom ➜ Scrafty Velocidad X y ataca ➜ Eliminar a Meganium con Puño Drenaje",
                   "variant": []
                 }
               ]
@@ -63,7 +63,7 @@
           "detail": "◉ Mawile ➜ Volcarona Lanzallamas",
           "variant": [
             {
-              "detail": "◉ Rotom Lavadora ➜ Quagsire ➜ Chansey Frente Hydreigon ➜ Gengar Otra Vez ➜  Scrafty frente  Umbreon ➜ Scrafty Defensa Especial X + x2",
+              "detail": "◉ Rotom Lavadora ➜ Quagsire ➜ Chansey Frente Hydreigon ➜ Gengar Otra Vez ➜ Scrafty frente Umbreon ➜ Scrafty Defensa Especial X + x2",
               "variant": []
             },
             {
@@ -75,20 +75,20 @@
               "variant": []
             }
           ]
+        },
+        {
+          "detail": "◉ Arcanine ➜ Amortiguador Si aguantas otro golpe usa amortiguador ➜ Gengar otra vez +4 +2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Honchkrow ➜ Quagsire Bostezo frente Hydreigon ➜ Scrafty Velociad X y ataca",
+          "variant": []
+        },
+        {
+          "detail": "◉ Hydreigon ➜ Amortiguador hasta que entre Mawile.",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "◉ Arcanine ➜ Amortiguador Si aguantas otro golpe usa amortiguador ➜ Gengar otra vez +4 +2",
-      "variant": []
-    },
-    {
-      "detail": "◉ Honchkrow ➜ Quagsire Bostezo frente Hydreigon ➜ Scrafty Velociad X y ataca",
-      "variant": []
-    },
-    {
-      "detail": "◉ Hydreigon ➜ Amortiguador hasta que entre Mawile.",
-      "variant": []
     }
   ]
 }

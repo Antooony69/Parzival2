@@ -5,7 +5,7 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/NewE4/',
+  base: '/Scrafty/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),

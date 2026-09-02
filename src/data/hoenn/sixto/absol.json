@@ -26,37 +26,37 @@
                   "variant": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "detail": "◉ Magnezone [Globo Helio] ➜ Chansey Trampa Rocas Frente Darmanitan ➜ Salamence x2 / Volcarona x3 / Gengar +6 (sin usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si no cae (Banda Focus) ➜ Ataca",
-          "variant": [
+            },
             {
-              "detail": "◉ Darmanitan ➜ Quagsire, Bostezo Frente Cacturne ➜ Salamence x3 ataque de Fuego Magnezone.",
+              "detail": "◉ Magnezone [Globo Helio] ➜ Chansey Trampa Rocas Frente Darmanitan ➜ Salamence x2 / Volcarona x3 / Gengar +6 (sin usar Otra Vez)",
               "variant": []
             },
             {
-              "detail": "◉ Magnezone ➜ Chansey Amortiguador Frente Darmanitan ➜ Gengar +6 (No usar Otra Vez).",
+              "detail": "◉ Si no cae (Banda Focus) ➜ Ataca",
+              "variant": [
+                {
+                  "detail": "◉ Darmanitan ➜ Quagsire, Bostezo Frente Cacturne ➜ Salamence x3 ataque de Fuego Magnezone.",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Magnezone ➜ Chansey Amortiguador Frente Darmanitan ➜ Gengar +6 (No usar Otra Vez).",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Toxicroak ➜ Scrafty ➜ Cambiar a Gengar otra vez +4 Otra Vez Tiene Banda Focus",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gorebyss ➜ Chansey, Trampa Rocas hasta Pokémon tipo Lucha ➜ Gengar Otra Vez +2.",
+              "variant": []
+            },
+            {
+              "detail": "◉ Sudowoodo o otro poke ➜ Chasney, Trampa Rocas ➜ Gengar otra vez +2.",
               "variant": []
             }
           ]
-        },
-        {
-          "detail": "◉ Toxicroak ➜ Scrafty ➜ Cambiar a Gengar otra vez +4 Otra Vez Tiene Banda Focus",
-          "variant": []
-        },
-        {
-          "detail": "◉ Gorebyss ➜ Chansey, Trampa Rocas hasta Pokémon tipo Lucha ➜ Gengar Otra Vez +2.",
-          "variant": []
-        },
-        {
-          "detail": "◉ Sudowoodo o otro poke ➜ Chasney, Trampa Rocas ➜ Gengar otra vez +2.",
-          "variant": []
         },
         {
           "detail": "◉ Garchomp ➜ Atacar hasta eliminarlo.",
@@ -99,31 +99,32 @@
         },
         {
           "detail": "◉ Excadrill [Globo Helio] ➜ Chansey Trampa Rocas, Si no cambia usa amortiguador",
-          "variant": []
-        },
-        {
-          "detail": "◉ Absol ➜ Elegir variante estratégica:",
           "variant": [
             {
-              "detail": "◉ Ruta Segura ➜ Gengar otra Vez x2 Frente Excadrill ➜ Salamence ➜ Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón, Frente Mandibuzz ➜ Volcarona x2⭐vsi Excadrill no se retira, ataca⭐",
-              "variant": []
+              "detail": "◉ Absol ➜ Elegir variante estratégica:",
+              "variant": [
+                {
+                  "detail": "◉ Ruta Segura ➜ Gengar otra Vez x2 Frente Excadrill ➜ Salamence ➜ Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón, Frente Mandibuzz ➜ Volcarona x2⭐vsi Excadrill no se retira, ataca⭐",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Ruta Rápida ➜ Volcarona x2.",
+                  "variant": []
+                }
+              ]
             },
             {
-              "detail": "◉ Ruta Rápida ➜ Volcarona x2.",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "◉ Mienshao ➜ Gengar y atacar Frente Excadrill ➜ Elegir variante:",
-          "variant": [
-            {
-              "detail": "◉ Segura ➜ Salamence ➜ Cambiar a Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón Frente Mandibuzz ➜ Volcarona x2 ⭐vsi Excadrill no se retira, ataca⭐",
-              "variant": []
-            },
-            {
-              "detail": "◉ Rápida ➜ Chansey max pocion Frente Absol , Volcarona x2",
-              "variant": []
+              "detail": "◉ Mienshao ➜ Gengar y atacar Frente Excadrill ➜ Elegir variante:",
+              "variant": [
+                {
+                  "detail": "◉ Segura ➜ Salamence ➜ Cambiar a Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón Frente Mandibuzz ➜ Volcarona x2 ⭐vsi Excadrill no se retira, ataca⭐",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Rápida ➜ Chansey max pocion Frente Absol , Volcarona x2",
+                  "variant": []
+                }
+              ]
             }
           ]
         },

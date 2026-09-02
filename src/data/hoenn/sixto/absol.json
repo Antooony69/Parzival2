@@ -154,7 +154,7 @@
           "variant": []
         },
         {
-          "detail": "◉ Magnezone [Globo Helio] ➜ Chansey Trampa Rocas Frente Darmanitan ➜ Gengar x6 (sin usar Otra Vez) / Salamence x2 / Volcarona x3.",
+          "detail": "◉ Magnezone [Globo Helio] ➜ Chansey Trampa Rocas Frente Darmanitan ➜ Gengar +6 (sin usar Otra Vez) / Salamence x2 / Volcarona x3.",
           "variant": []
         },
         {
@@ -171,7 +171,7 @@
       "detail": "◉ Scrafty ➜ Chansey ➜ Volcarona.",
       "variant": [
         {
-          "detail": "◉ Absol ➜ Scrafty x3 ⭐AbocajarroScizor, Luxray⭐",
+          "detail": "◉ Absol ➜ Scrafty x3 ⭐Abocajarro Scizor, Luxray⭐",
           "variant": []
         },
         {
@@ -182,31 +182,19 @@
           "detail": "◉ Si no se retira ➜ Chansey Amortiguador y volver a atrapar.",
           "variant": [
             {
-              "detail": "◉ Scizor ➜ Volcarona y atacar.",
+              "detail": "◉ Scizor ➜ Volcarona x2 + Especial X ⭐Gigadrenado Luxray⭐",
               "variant": [
                 {
-                  "detail": "◉ Salamence ➜ Chansey ➜ Volcarona Frente Absol ➜ Scrafty x3 ⭐Abocajarro Luxray⭐",
+                  "detail": "◉ Absol ➜ Gengar +6 ⭐No usar otra vez ⭐",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Si no se retira ➜ Chansey Amortiguador hasta Absol ➜ Salamence x2.",
+                  "detail": "◉ Salamence ➜ Chansey amortiguador y mira que movimiento usa",
                   "variant": []
                 }
               ]
             }
           ]
-        },
-        {
-          "detail": "◉ Absol ➜ Scrafty x3.",
-          "variant": []
-        },
-        {
-          "detail": "◉ Absol ➜ Gengar x6 (sin usar Otra Vez)",
-          "variant": []
-        },
-        {
-          "detail": "◉ Salamence ➜ chansey Amortiguador",
-          "variant": []
         }
       ]
     }

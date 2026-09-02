@@ -12,59 +12,58 @@
       "detail": "◉ Patada Salto Alta【Salud Verde】➜ Gengar Otra Vez",
       "variant": [
         {
-          "detail": "◉ Latias ➜ Chansey Trampa Rocas frente Lucario, Gengar y espera a que se debilite solo hasta que salga Excadrill , sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+          "detail": "◉ Latias ➜ Chansey Trampa Rocas frente Lucario, Gengar y espera a que se debilite solo hasta que salga Excadrill , sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1 + Ataque X",
           "variant": [
             {
-              "detail": "◉ Si usas Otra Vez y sale Volcarona",
+              "detail": "◉ Si usas Otra Vez y sale Volcarona ➜ Sacrifica a Gengar y entra con Salamence x3",
               "variant": []
             }
           ]
         },
         {
-          "detail": "◉ Volcarona ➜ Chansey Trampa Rocas hasta Frente Lucario, Gengar y espera a que se debilite solo hasta que salga Excadrill, sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+          "detail": "◉ Volcarona ➜ Chansey Trampa Rocas hasta Frente Lucario, Gengar y espera a que se debilite solo hasta que salga Excadrill, sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1 + Ataque X",
           "variant": []
         },
         {
           "detail": "◉ Excadrill ➜ ChanseyTrampa Rocas frente Lucario, cambia a Gengar y espera a que se debilite solo hasta que salga Excadrill , sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X,Salamence x1",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si no se retira ➜ Espera a que se debilite solo",
           "variant": [
             {
-              "detail": "◉ Si no se retira ➜ Espera a que se debilite solo",
+              "detail": "◉ Latias ➜ Chansey Trampa Rocas",
               "variant": [
                 {
-                  "detail": "◉ Latias ➜ Chansey Trampa Rocas",
+                  "detail": "◉ Si no se retira ➜ Sacrifica a Gengar, Quagsire usa Otra Vez + Bostezo, Scrafty x2",
                   "variant": [
                     {
-                      "detail": "◉ Si no se retira ➜ Sacrifica a Gengar, Quagsire usa Otra Vez + Bostezo, Scrafty x2",
-                      "variant": [
-                        {
-                          "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
-                          "variant": []
-                        }
-                      ]
+                      "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+                      "variant": []
                     }
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "detail": "◉ Volcarona ➜ Chansey Trampa Rocas",
-          "variant": [
+            },
             {
-              "detail": "◉ Si no se retira ➜ Usa Pantalla de Luz, Salamence + Ataque x x1",
+              "detail": "◉ Volcarona ➜ Chansey Trampa Rocas",
               "variant": [
                 {
-                  "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
-                  "variant": []
+                  "detail": "◉ Si no se retira ➜ Usa Pantalla de Luz, Salamence + Ataque x x1",
+                  "variant": [
+                    {
+                      "detail": "◉ Excadrill ➜ Sacrifica a Scrafty, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
+            },
+            {
+              "detail": "◉ Excadrill ➜ Cambia a Salamence, cambia a Scrafty y sacrifícalo, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
+              "variant": []
             }
           ]
-        },
-        {
-          "detail": "◉ Excadrill ➜ Cambia a Salamence, cambia a Scrafty y sacrifícalo, Gengar otra vez en Terremoto o Tijera X, Salamence x1",
-          "variant": []
         }
       ]
     },

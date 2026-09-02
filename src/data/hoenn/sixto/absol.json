@@ -12,19 +12,20 @@
           "variant": [
             {
               "detail": "◉ Garchomp ➜ Atacar hasta eliminarlo.",
-              "variant": []
-            },
-            {
-              "detail": "◉ Magnezone ➜ chansey, Trampa Rocas Frente Absol ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
-              "variant": []
-            },
-            {
-              "detail": "◉ Metagross ➜ Chansey, Trampa Rocas hasta Pokémon tipo Lucha ➜ Gengar otra vez +2.",
-              "variant": []
-            },
-            {
-              "detail": "◉ Sharpedo ➜ Chansey, Trampa Rocas ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
-              "variant": []
+              "variant": [
+                {
+                  "detail": "◉ Magnezone ➜ chansey, Trampa Rocas Frente Absol ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Metagross ➜ Chansey, Trampa Rocas hasta Pokémon tipo Lucha ➜ Gengar otra vez +2.",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Sharpedo ➜ Chansey, Trampa Rocas ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+                  "variant": []
+                }
+              ]
             }
           ]
         },
@@ -72,63 +73,63 @@
                   "variant": []
                 }
               ]
-            }
-          ]
-        },
-        {
-          "detail": "◉ Metagross ➜ Chansey Trampa Rocas Frente Pokémon tipo Lucha ➜ Gengar otra Vez +2.",
-          "variant": []
-        },
-        {
-          "detail": "◉ Sharpedo ➜ Cambiar a Blissey, colocar Trampa Rocas ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
-          "variant": [
+            },
             {
-              "detail": "◉ Magnezone ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+              "detail": "◉ Metagross ➜ Chansey Trampa Rocas Frente Pokémon tipo Lucha ➜ Gengar otra Vez +2.",
               "variant": []
             },
             {
-              "detail": "◉ Si no cambia de Pokémon ➜ Gengar Otra vez +6 +2 ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+              "detail": "◉ Sharpedo ➜ Cambiar a Blissey, colocar Trampa Rocas ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+              "variant": [
+                {
+                  "detail": "◉ Magnezone ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Si no cambia de Pokémon ➜ Gengar Otra vez +6 +2 ➜ Cambiar a Quagsire, usar Bostezo hasta Gyarados ➜ Salamence x1.",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Gorebyss ➜ Chansey Trampa Rocas Frente Luxray/Absol ➜ Gengar otra vez x2; si no cambia, Quagsire, Bostezo Frente Gyarados, chansey Amortiguador Frente Luxray/Absol.",
               "variant": []
             }
           ]
-        },
-        {
-          "detail": "◉ Gorebyss ➜ Chansey Trampa Rocas Frente Luxray/Absol ➜ Gengar otra vez x2; si no cambia, Quagsire, Bostezo Frente Gyarados, chansey Amortiguador Frente Luxray/Absol.",
-          "variant": []
         },
         {
           "detail": "◉ Excadrill [Globo Helio] ➜ Chansey Trampa Rocas, Si no cambia usa amortiguador",
+          "variant": []
+        },
+        {
+          "detail": "◉ Absol ➜ Elegir variante estratégica:",
           "variant": [
             {
-              "detail": "◉ Absol ➜ Elegir variante estratégica:",
-              "variant": [
-                {
-                  "detail": "◉ Ruta Segura ➜ Gengar otra Vez x2 Frente Excadrill ➜ Salamence ➜ Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón, Frente Mandibuzz ➜ Volcarona x2⭐vsi Excadrill no se retira, ataca⭐",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Ruta Rápida ➜ Volcarona x2.",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "◉ Mienshao ➜ Gengar y atacar Frente Excadrill ➜ Elegir variante:",
-              "variant": [
-                {
-                  "detail": "◉ Segura ➜ Salamence ➜ Cambiar a Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón Frente Mandibuzz ➜ Volcarona x2 ⭐vsi Excadrill no se retira, ataca⭐",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Rápida ➜ Chansey max pocion Frente Absol , Volcarona x2",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "◉ Excadrill [Sin Globo Helio] ➜ Chansey, Trampa Rocas.",
+              "detail": "◉ Ruta Segura ➜ Gengar otra Vez x2 Frente Excadrill ➜ Salamence ➜ Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón, Frente Mandibuzz ➜ Volcarona x2⭐vsi Excadrill no se retira, ataca⭐",
               "variant": []
             },
+            {
+              "detail": "◉ Ruta Rápida ➜ Volcarona x2.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Mienshao ➜ Gengar y atacar Frente Excadrill ➜ Elegir variante:",
+          "variant": [
+            {
+              "detail": "◉ Segura ➜ Salamence ➜ Cambiar a Quagsire Otra Vez sobre Terremoto ➜ Salamence, usar Danza Dragón Frente Mandibuzz ➜ Volcarona x2 ⭐vsi Excadrill no se retira, ataca⭐",
+              "variant": []
+            },
+            {
+              "detail": "◉ Rápida ➜ Chansey max pocion Frente Absol , Volcarona x2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Excadrill [Sin Globo Helio] ➜ Chansey, Trampa Rocas.",
+          "variant": [
             {
               "detail": "◉ Scolipede ➜ Salamence x1.",
               "variant": []

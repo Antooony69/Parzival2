@@ -19,7 +19,11 @@
           "detail": "◉ Si usa Fuerza Bruta ➜ Amortiguador ➜ Gengar Otra Vez ➜ Quagsire frente Excadrill, Bostezo Frente Gyarados ➜ Salamence x1.",
           "variant": [
             {
-              "detail": "◉ Si entra Crawdaunt Cinta elegida ➜ Scrafty puede barrer directamente si recibe un golpe crítico, Gengar x2 (sin usar Otra Vez).",
+              "detail": "◉ Si entras con Gengar y entra Absol ➜ Scrafty entra con Gengar Otra vez ➜ Quagsire ,Frente Excadrill Usar bostezo y Frente Gyarados ➜ Salamence x1 ",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si entras con Gengar y entra Crawdaunt Cinta elegida ➜ Scrafty x2 ",
               "variant": []
             }
           ]
@@ -31,4 +35,4 @@
       "variant": []
     }
   ]
-} 
+}

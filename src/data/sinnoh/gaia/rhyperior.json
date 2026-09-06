@@ -98,76 +98,77 @@
     },
     {
       "detail": "◉ Durant ➜ Gengar Otra Vez, Chansey",
-      "variant": []
-    },
-    {
-      "detail": "◉ Hippowdon / Walrein ➜ Encanto frente a Durant, Volcarona x1 + Especial X",
-      "variant": []
-    },
-    {
-      "detail": "◉ Druddigon ➜ Amortiguador hasta que salga Emboar, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
       "variant": [
         {
-          "detail": "◉ Rhyperior ➜ Scrafty usar Defensa X + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
+          "detail": "◉ Hippowdon / Walrein ➜ Encanto frente a Durant, Volcarona x1 + Especial X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Druddigon ➜ Amortiguador hasta que salga Emboar, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
           "variant": [
             {
-              "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+              "detail": "◉ Rhyperior ➜ Scrafty usar Defensa X + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
               "variant": [
                 {
-                  "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
-                  "variant": []
+                  "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+                  "variant": [
+                    {
+                      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón)",
+                      "variant": []
+                    }
+                  ]
                 },
                 {
-                  "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón)",
+                  "detail": "◉ Druddigon ➜ cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
                   "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Rhyperior ➜ Encanto",
+          "variant": [
+            {
+              "detail": "◉ Emboar ➜ Gengar Otra Vez, Salamence",
+              "variant": [
+                {
+                  "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
+                  "variant": [
+                    {
+                      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Rhyperior ➜ Scrafty con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para sweepear",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
             },
             {
-              "detail": "◉ Druddigon ➜ cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+              "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
+              "variant": []
+            },
+            {
+              "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire con Bostezo frente a Durant, Volcarona x1",
               "variant": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "detail": "◉ Rhyperior ➜ Encanto",
-      "variant": [
+        },
         {
-          "detail": "◉ Emboar ➜ Gengar Otra Vez, Salamence",
+          "detail": "◉ Durant ➜ Volcarona x1 + Ataque Especial",
           "variant": [
             {
-              "detail": "◉ Si no se va ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, Gengar +2 (No Usar Otra Vez), cambiar a Salamence",
-              "variant": [
-                {
-                  "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
-                  "variant": []
-                },
-                {
-                  "detail": "◉ Rhyperior ➜ Scrafty con Defensa +2 para superar en velocidad a Gliscor con Scrafty +3 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para sweepear",
-                  "variant": []
-                }
-              ]
+              "detail": "◉ Si no se va ➜ Gengar +4 (Mo usar otra Vez)",
+              "variant": []
             }
           ]
-        },
-        {
-          "detail": "◉ Rhyperior ➜ Scrafty aguantando con Defensa + Danza Dragón x2 (si la salud está baja, usar Danza Dragón + Drenado + Danza Dragón) para superar en velocidad a Gliscor con Danza Dragón x3",
-          "variant": []
-        },
-        {
-          "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, Quagsire con Bostezo frente a Durant, Volcarona x1",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Durant ➜ Volcarona x1 + Ataque Especial",
-      "variant": [
-        {
-          "detail": "◉ Si no se va ➜ Gengar +4 (Mo usar otra Vez)",
-          "variant": []
         }
       ]
     },

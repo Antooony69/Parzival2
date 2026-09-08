@@ -6,7 +6,12 @@
   "tricks": [
     {
       "detail": "◉ Garchomp ➜ Trampa Rocas, cambia a Salamence,y entra con Quagsire Otra Vez frente a Terremoto, Salamence x1",
-      "variant": []
+      "variant": [
+        {
+          "detail": "◉ Si Usas Otra Vez y entra Gyarados ➜ Salamence ➜ Quagsire y Salamence y usa garra dragon ➜ Frente Liepard ➜ Scrafty x2   ",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "◉ Scrafty ➜ Cambia a Gengar, pasa a Scrafty frente a Bisharp, Puño Drenaje",

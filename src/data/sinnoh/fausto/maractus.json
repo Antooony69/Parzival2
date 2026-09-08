@@ -22,15 +22,20 @@
       ]
     },
     {
-      "detail": "◉ Esfuerzo ➜ Amortiguador hasta que salga Lopunny / Medicham / Magmortar",
+      "detail": "◉ Esfuerzo ➜ Amortiguador ➜ Lopunny / Medicham / Magmortar",
       "variant": [
         {
           "detail": "◉ Lopunny ➜ Quagsire Bostezo frente Maractus, Volcarona x2 ⭐Lopunny GigaDrenado⭐",
           "variant": []
         },
         {
-          "detail": "◉ Medicham ➜ Gengar bola sombra Frente Steelix / Typhlosion, cambiar a Chansey Amortiguador hasta que salga Maractus, Volcarona x2",
-          "variant": []
+          "detail": "◉ Medicham ➜ Gengar bola sombra Frente Steelix / Typhlosion, ➜ Chansey, Amortiguador Frente Maractus, Volcarona x2",
+          "variant": [
+            {
+              "detail": "◉ Si Steelix no cambia ➜ Quasire, Bostezo ➜ Frente Maractus ➜ volcarona x2",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "◉ Magmortar ➜ Gengar Otra Vez, cambiar a Quagsire Bostezo frente Maractus, Volcarona x2",
@@ -65,7 +70,7 @@
       "variant": []
     },
     {
-      "detail": "◉ Camerupt ➜ Amortiguador hasta que salga Bouffalant, ⭐ver Ruta Vs Bouffalant (prohibido poner pantallas), al salir Cacturne ver la rama de Puño Drenaje de Cacturne⭐",
+      "detail": "◉ Camerupt ➜ Amortiguador ➜ Bouffalant, ⭐ver Ruta Vs Bouffalant (prohibido poner pantallas), al salir Cacturne ver la rama de Puño Drenaje de Cacturne⭐",
       "variant": []
     }
   ]

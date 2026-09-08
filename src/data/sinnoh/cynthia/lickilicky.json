@@ -2,6 +2,15 @@
   "id": "lickilicky",
   "name": "Lickilicky",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 Frente Garchomp , Salamance x5 ",
-  "tricks": []
+  "initialMove": "🪨 Trampa Rocas 🪨 Frente Garchomp , Salamence x5 ",
+  "tricks": [
+    {
+      "detail": "◉ Si lickilicky no cambia ➜ Gengar otra vez +2 Hasta que Salga Garchomp",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si Al entra con Gengar ➜ Entra Garchomp ➜ Salamence x5",
+      "variant": []
+    }
+  ]
 }

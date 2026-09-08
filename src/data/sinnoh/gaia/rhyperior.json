@@ -52,13 +52,13 @@
         },
         {
           "detail": "◉ Gengar ➜ Probar si sale Gengar",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Rhyperior no cambia ➜ Quagsire, Bostezo frente a Gengar, Volcarona x1",
           "variant": [
             {
-              "detail": "◉ Si aún no se va ➜ cambiar a Quagsire con Bostezo frente a Gengar, Volcarona x1",
-              "variant": []
-            },
-            {
-              "detail": "◉ 【Caso inesperado】 Cambiar a Quagsire frente a Parasect ➜ Volcarona x1",
+              "detail": "◉ 【Caso inesperado】 al entrar con Quagsire entra Parasect ➜ Volcarona x1",
               "variant": []
             }
           ]

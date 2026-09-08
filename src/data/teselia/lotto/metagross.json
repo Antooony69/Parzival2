@@ -12,20 +12,20 @@
       "detail": "Conkeldurr 【 Con Llamasfera】➜ Gengar otra vez +2 y mira abajo:",
       "variant": [
         {
-          "detail": "Si no se retira ➜ Gengar otra vez +4 y ataca para debilitar Frente Luxray, Scrafty x3",
+          "detail": "Si Conkeldurr no Cambio ➜ Gengar otra vez +4 y ataca hasta Luxray, entra con Scrafty x3",
           "variant": []
         },
         {
-          "detail": "Krookodile / Feraligatr ➜ chansey, Gengar otra vez +2 ataca y frente Luxray, Scrafty x3 🔔A Bocajarro Metagross🔔",
+          "detail": "Krookodile ➜ Chansey,➜ Gengar otra vez +2 ataca y frente Luxray, Scrafty x3 🔔A Bocajarro Metagross🔔",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ Metagross【Vidasfera】se queda usando Puño meteoro ➜ Quagsire y Otra Vez para probar",
+      "detail": "◉ Metagross【Vidasfera】se queda usando Puño meteoro ➜ Entra con Volcarona y Lanzallamas Frente Salamence ,entra con Quagsire para ver que movimiento usar ⬇️ ",
       "variant": [
         {
-          "detail": "Puño Hielo ➜ Volcarona x2",
+          "detail": "Garra Dragón ➜ Quagsire Bostezo ➜ Chansey, Amortiguador ➜ Frente Conkeldurr/Machamp/crawdaunt ➜ Gengar Otra vez +4 +2 ",
           "variant": []
         },
         {
@@ -33,13 +33,8 @@
           "variant": []
         },
         {
-          "detail": "Si usa Otra Vez y sale Conkeldurr ➜ Protección para ver el movimiento",
-          "variant": [
-            {
-              "detail": "Puño Drenaje ➜ Gengar otra vez +4 +2",
-              "variant": []
-            }
-          ]
+          "detail": "Hidrobomba ➜ Chansey, Amortiguador ➜ Frente Conkeldurr/Machamp/crawdaunt ➜ Gengar Otra vez +4 +2 ",
+          "variant": []
         }
       ]
     }

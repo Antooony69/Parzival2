@@ -2,10 +2,22 @@
   "id": "luxray",
   "name": "Luxray",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "⭐Trampa Rocas → Gengar Otra Vez + Bola Sombra Frente Steelix ➜ Quagsire, Bostezo Frente Hitmonlee ➜ Gengar Otra vez +4⭐",
+  "initialMove": "⭐Trampa Rocas ➜ Gengar Otra Vez + Bola Sombra Frente Steelix ➜ Quagsire, Bostezo Frente Hitmonlee ➜ Gengar Otra vez +4⭐",
   "tricks": [
     {
-      "detail": "◉ 【Imprevisto】Si entra Machamp ➜ Scrafty ➜ Gengar Otra vez +4⭐",
+      "detail": "◉ 【Imprevisto】⭐ Si usas bostezo y entra Salamence ➜ Protección + Bostezo ⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ 【Imprevisto】⭐ Si Al Bostear entra Machamp ➜ Scrafty ➜ Gengar Otra Vez +4  ⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ 【Imprevisto】⭐ Si usas bostezo y entra Slowbro ➜ Volcarona x2 ⭐",
+      "variant": []
+    },
+    {
+      "detail": "◉ 【Imprevisto】⭐ Si al usar Bola sombra entra Salamence Ataca hasta Tener En Frente a Steelix ➜ Quagsire, Bostezo Frente Hitmonlee ➜ Gengar otra vez +4⭐",
       "variant": []
     }
   ]

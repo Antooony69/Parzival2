@@ -12,7 +12,12 @@
           "variant": [
             {
               "detail": "Terremoto ➜ Salamence x2",
-              "variant": []
+              "variant": [
+                {
+                  "detail": " Si Entra Conkeldurr ➜ Quagsire ➜ Gengar otra vez +4 +2",
+                  "variant": []
+                }
+              ]
             },
             {
               "detail": "Garra Dragón ➜ Usa Bostezo, chansey y Amortiguador para atraer al tipo Lucha, Gengar otra vez +4 +2",

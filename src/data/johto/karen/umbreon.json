@@ -9,8 +9,17 @@
       "variant": []
     },
     {
-      "detail": "◉ Ruta Segura ➜ Quagsire Frente Feraligatr ➜ Bostezo Frente Houndoom ➜ Gengar ➜ Scrafty frente Umbreon ➜ Scrafty x3 + A Bocajarro Garchomp",
-      "variant": []
+      "detail": "◉ Ruta Segura ➜ Trampa Rocas ➜ Frente Feraligatr ➜ Quagsire Bostezo Frente Houndoom ➜ Gengar Bola sombra Y mira Abajo",
+      "variant": [
+        {
+          "detail": "◉ Feraligatr ➜ Gengar, Rayo ➜ Frente Umbreon ➜ Scrafty x3 🐸 A BocaJarro a Garchomp 🐸 ",
+          "variant": []
+        },
+        {
+          "detail": "◉ Umbreon ➜ Scrafty x3",
+          "variant": []
+        }
+      ]
     }
   ]
 }

@@ -10,24 +10,24 @@
         {
           "detail": "◉ Rhyperior No Cambia ➜ Usar Proteccion + bostezo",
           "variant": []
-        },
-        {
-          "detail": "◉ Tangrowth ➜ Volcarona x2",
-          "variant": []
-        },
-        {
-          "detail": "◉ Amoonguss ➜ Volcarona x1",
-          "variant": []
-        },
-        {
-          "detail": "◉ Gengar ➜ Volcarona x1",
-          "variant": []
-        },
-        {
-          "detail": "◉ 【Caso inesperado】 Usar Protección y sale directamente Gengar ➜ Chansey Trampa Rocas Frente Rhyperior, Quagsire Bostezo frente a Gengar, Volcarona x1",
-          "variant": []
         }
       ]
+    },
+    {
+      "detail": "◉ Tangrowth ➜ Volcarona x2",
+      "variant": []
+    },
+    {
+      "detail": "◉ Amoonguss ➜ Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ Gengar ➜ Volcarona x1",
+      "variant": []
+    },
+    {
+      "detail": "◉ 【Caso inesperado】 Usar Protección y sale directamente Gengar ➜ Chansey Trampa Rocas Frente Rhyperior, Quagsire Bostezo frente a Gengar, Volcarona x1",
+      "variant": []
     }
   ]
 }

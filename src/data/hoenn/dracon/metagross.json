@@ -85,48 +85,48 @@
                 {
                   "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Cambiar a Salamence recibiendo el ataque y atacar hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Metagross y Salamence).",
                   "variant": []
-                },
-                {
-                  "detail": "◉ Eelektross ➜ Gengar otra vez x2 y ataca Frente Metagross ➜ Salamence, Quagsire Bostezo Frente Nidoking ➜ Salamence x1 y Frente Regirock. Elegir estrategia final (si Salamence rival no ha muerto, saldrá primero Salamence; en ese caso usar Protección y luego Bostezo):",
-                  "variant": [
-                    {
-                      "detail": "◉ Opción riesgo ➜ Continuar atacando hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
-                      "variant": []
-                    },
-                    {
-                      "detail": "◉ Opción seguro ➜ Cambiar a Volcarona y luego cambiar a Scrafty ➜ Gengar usa Maquinación x4 y Velocidad X x2.",
-                      "variant": [
-                        {
-                          "detail": "◉ Si huye a Metagross ➜ Verificar si Salamence rival ha muerto:",
-                          "variant": [
-                            {
-                              "detail": "◉ Si ya murió ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜ Usar Danza Dragón x1 y continuar barriendo.",
-                              "variant": []
-                            },
-                            {
-                              "detail": "◉ Si NO ha muerto ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Comprobar cuál sale primero entre Salamence y Metagross).",
-                              "variant": []
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "detail": "◉ Si huye a Lapras ➜ Verificar si Salamence rival ha muerto:",
-                      "variant": [
-                        {
-                          "detail": "◉ Si NO ha muerto ➜ Atacar hasta Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence, x1 y continuar barriendo (Comprobar cuál sale primero entre Metagross y Salamence).",
-                          "variant": []
-                        },
-                        {
-                          "detail": "◉ Si ya murió ➜ Atacar hasta Metagross ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜  x1 y continuar barriendo.",
-                          "variant": []
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Eelektross ➜ Gengar otra vez x2 y ataca Frente Metagross ➜ Salamence, Quagsire Bostezo Frente Nidoking ➜ Salamence x1 y Frente Regirock. Elegir estrategia final (si Salamence rival no ha muerto, saldrá primero Salamence; en ese caso usar Protección y luego Bostezo):",
+      "variant": [
+        {
+          "detail": "◉ Opción riesgo ➜ Continuar atacando hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
+          "variant": []
+        },
+        {
+          "detail": "◉ Opción seguro ➜ Cambiar a Volcarona y luego cambiar a Scrafty ➜ Gengar usa Maquinación x4 y Velocidad X x2.",
+          "variant": [
+            {
+              "detail": "◉ Si huye a Metagross ➜ Verificar si Salamence rival ha muerto:",
+              "variant": [
+                {
+                  "detail": "◉ Si ya murió ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜ Usar Danza Dragón x1 y continuar barriendo.",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Si NO ha muerto ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Comprobar cuál sale primero entre Salamence y Metagross).",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Si huye a Lapras ➜ Verificar si Salamence rival ha muerto:",
+          "variant": [
+            {
+              "detail": "◉ Si NO ha muerto ➜ Atacar hasta Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence, x1 y continuar barriendo (Comprobar cuál sale primero entre Metagross y Salamence).",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si ya murió ➜ Atacar hasta Metagross ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜  x1 y continuar barriendo.",
+              "variant": []
             }
           ]
         }

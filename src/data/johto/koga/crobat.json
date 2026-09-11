@@ -9,27 +9,28 @@
       "variant": [
         {
           "detail": "◉ Rhyperior ➜ Salamence ➜ Quagsire Bostezo Frente Lapras ➜ Volcarona x1 ⭐Si Superdiente falla,Bostezo no usar Protección y seguir con Bostezo⭐",
-          "variant": []
+          "variant": [
+            {
+              "detail": "◉ Cambias Quagsire y entra Gengar ➜ Bostezo Frente Lapras ➜ Volcarona x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ usas Bostezo y entra Gengar ➜ Protección ➜ Recuperación Frente Lapras ➜ Volcarona x1",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "◉ Cambias Quagsire y entra Gengar ➜ Bostezo Frente Lapras ➜ Volcarona x1",
-          "variant": []
-        },
-        {
-          "detail": "◉ usas Bostezo y entra Gengar ➜ Protección ➜ Recuperación Frente Lapras ➜ Volcarona x1",
+          "detail": "◉ No se cambia ➜ Gengar ➜ Volcarona Frente Ferrothorn ➜ Volcarona x2 Barre hasta Ditto ➜ Chansey para gastar PP ⭐Cuidado con el Golpe Crítico⭐",
           "variant": []
         }
       ]
     },
     {
-      "detail": "◉ No se cambia ➜ Gengar ➜ Volcarona Frente Ferrothorn ➜ Volcarona x2 Barre hasta Ditto ➜ Chansey para gastar PP ⭐Cuidado con el Golpe Crítico⭐",
-      "variant": []
-    },
-    {
       "detail": "◉ Pájaro Osado / Puya Nociva ➜ Quagsire Bostezo y revisar el daño de Trampa Rocas en Nidoqueen:",
       "variant": [
         {
-          "detail": "◉ Si recibe mucho daño (Zoroark) ➜ Scrafty x2 ⭐A Bocajarro contra Skarmory⭐",
+          "detail": "◉ Si recibe mucho daño (Zoroark) ➜ Scrafty x1 + Velocidad X y Curate ⭐A Bocajarro contra Skarmory⭐",
           "variant": []
         },
         {

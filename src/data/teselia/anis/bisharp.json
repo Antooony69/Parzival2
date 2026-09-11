@@ -5,14 +5,14 @@
   "initialMove": "🪨Trampa Rocas🪨 Si no Cambia usa Amortiguador",
   "tricks": [
     {
-      "detail": "◉ Patada Baja / Cabeza de Hierro 【Vida Esfera】 ➜ Amortiguador hasta tener la salud alta",
+      "detail": "◉ Bisharp Patada Baja / Cabeza de Hierro 【Vida Esfera】 ➜ Amortiguador x3 hasta tener la salud alta",
       "variant": [
         {
-          "detail": "◉ Solo Patada Baja ➜ Quagsire con Bostezo Frente Chandelure; Volcarona a x1 🔔con Amortiguador 3 veces para curar al máximo; no importa si Jellicent huye; Zoroark se puede curar Gigadrenaje🔔",
+          "detail": "◉ Solo Patada Baja ➜ Quagsire con Bostezo Frente Chandelure; Volcarona a x1 ",
           "variant": []
         },
         {
-          "detail": "◉ Dragonite ➜ Quagsire Bostezo Frente Eelektross, Salamence x1 🔔Lanzallamas Froslass🔔",
+          "detail": "◉ Dragonite ➜ Quagsire Bostezo Frente Eelektross, Salamence x1 🔔Nitro carga Froslass🔔",
           "variant": []
         },
         {
@@ -20,7 +20,7 @@
           "variant": []
         },
         {
-          "detail": "◉ Cabeza de Hierro se queda y no se va ➜ Volcarona lanzallamas Frente Dragonite, Quagsire Bostezo Frente Eelektross, Salamence x1 o Volcarona x2 🔔Lanzallamas Froslass🔔",
+          "detail": "◉ Bisharp Cabeza de Hierro No Cambia ➜ Quagsire, Bostezo ➜ frente Eelektross ➜ Salamence x1🔔Nitro carga Froslass🔔 ",
           "variant": []
         }
       ]

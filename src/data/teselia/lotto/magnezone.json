@@ -22,7 +22,12 @@
       "variant": [
         {
           "detail": "Si huye Conkeldurr ➜ Scrafty, Gengar otra vez +4",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Si huye Magnezone ➜ Quagsire, Bostezo ➜ Frente Gyarados, Salamence x1 ",
+              "variant": []
+            }
+          ]
         }
       ]
     },
@@ -31,7 +36,12 @@
       "variant": [
         {
           "detail": "Si huye Conkeldurr ➜ Scrafty, Gengar otra vez +6",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Si huye Magnezone ➜ Quagsire, Bostezo ➜ Frente Gyarados, Salamence x1 ",
+              "variant": []
+            }
+          ]
         }
       ]
     },

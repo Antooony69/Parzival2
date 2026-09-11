@@ -5,17 +5,8 @@
   "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "◉ Machada ➜ Gengar otra vez +2 (barrer hasta Muk), usa otra vez maquinacion (total +4)",
-      "variant": [
-        {
-          "detail": "◉ Si muere por Golpe Crítico de Puño Hielo ➜ Volcarona x2",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si muere por Golpe Crítico de Puño Fuego ➜ Salamence x2",
-          "variant": []
-        }
-      ]
+      "detail": "◉ Metagross Machada ➜ Gengar otra vez +2 y ataca Frente a Muk ➜ Quagsire, Bostezo ➜ Frente Electivire ➜ Salamence x1 ",
+      "variant": []
     },
     {
       "detail": "◉ Staraptor / Krookodile ➜ Volcarona x2 (Gigadranado contra cualquiera de los dos)",

@@ -53,17 +53,18 @@
                 },
                 {
                   "detail": "◉ Opción seguro ➜ Volcarona Lanzallama y cambia a Scrafty ➜ Gengar otra vez +4 +2",
-                  "variant": []
+                  "variant": [
+                    {
+                      "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜ x1 y continuar barriendo.",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Salamence recibiendo el ataque y atacar hasta Eelektross ➜ x1 y continuar barriendo.",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
-            },
-            {
-              "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Eelektross ➜ x1 y continuar barriendo.",
-              "variant": []
-            },
-            {
-              "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Salamence recibiendo el ataque y atacar hasta Eelektross ➜ x1 y continuar barriendo.",
-              "variant": []
             }
           ]
         },
@@ -76,15 +77,16 @@
             },
             {
               "detail": "◉ Opción seguro ➜ Volcarona y luego cambiar a Scrafty ➜ Gengar otra vez +4 +2",
-              "variant": []
-            },
-            {
-              "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Salamence y Metagross).",
-              "variant": []
-            },
-            {
-              "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Cambiar a Salamence recibiendo el ataque y atacar hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Metagross y Salamence).",
-              "variant": []
+              "variant": [
+                {
+                  "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Salamence y Metagross).",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Cambiar a Salamence recibiendo el ataque y atacar hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Metagross y Salamence).",
+                  "variant": []
+                }
+              ]
             }
           ]
         },

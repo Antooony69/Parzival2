@@ -51,40 +51,40 @@
           "variant": []
         },
         {
-          "detail": "◉ Machada (Vidasfera) ➜ Gengar otra vez , Scrafty Frente Umbreon / Milotic, Scrafty x3  🔔A Bocajarro Bronzong & Metagross 🔔",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Machada (Sin Vidasfera) ➜ Gengar y cambia a Scrafty Frente Snorlax, Scrafty x2",
-      "variant": []
-    },
-    {
-      "detail": "◉ Gallade ➜ Gengar Otra Vez +4 (si fallas / mala suerte, Gengar a +4 +2)",
-      "variant": [
-        {
-          "detail": "◉ Si huye Houndoom ➜ chansey Amortiguador para volver a atraerlo",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ Mienshao ➜ Gengar y ataca",
-      "variant": [
-        {
-          "detail": "◉ Jolteon ➜ Chansey , Amortiguador hasta que salga Staraptor, Gengar otra vez +2 +2",
+          "detail": "◉ Machada (Vidasfera) ➜ Gengar otra vez , Scrafty Frente Umbreon / Milotic, Scrafty x3  🔔A Bocajarro Bronzong & Metagross & umbreon 🔔",
           "variant": []
         },
         {
-          "detail": "◉ Umbreon ➜ Scrafty x3 🔔Puño Drenaje en Metagross🔔",
+          "detail": "◉ Machada (Sin Vidasfera) ➜ Gengar y cambia a Scrafty Frente Snorlax, Scrafty x2",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gallade ➜ Gengar Otra Vez +4 +2 ",
+          "variant": [
+            {
+              "detail": "◉ Si huye Houndoom ➜ chansey Amortiguador para volver a atraerlo",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Mienshao ➜ Gengar y ataca",
+          "variant": [
+            {
+              "detail": "◉ Jolteon ➜ Chansey , Amortiguador hasta que salga Staraptor, Gengar otra vez +2 +2",
+              "variant": []
+            },
+            {
+              "detail": "◉ Umbreon ➜ Scrafty x3 🔔Puño Drenaje en Metagross🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Absol ➜ Gengar Otra vez , Scrafty frente Blissey, Scrafty x2 🔔A Bocajarro contra Togekiss🔔",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "◉ Absol ➜ Gengar Otra vez , Scrafty frente Blissey, Scrafty x2 🔔A Bocajarro contra Togekiss🔔",
-      "variant": []
     }
   ]
 }

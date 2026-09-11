@@ -10,27 +10,27 @@
         {
           "detail": "◉ [Imprevisto] Si Volcarona muere ➜ Quagsire Bostezo Frente Seviper ➜ Sacrificar a Quagsire para revivir a Volcarona ➜ Volcarona x2.",
           "variant": []
-        },
+        }
+      ]
+    },
+    {
+      "detail": "◉ Feraligatr ➜ Quagsire Bostezo Frente Sceptile ➜ Volcarona x1 + Especial X (Mantener PS de Volcarona > 75%).",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lucario ➜ Gengar Otra Vez +2 Frente Altaria ➜ +2 y ataca",
+      "variant": []
+    },
+    {
+      "detail": "◉ Eelektross / Regirock ➜ Gengar otra vez +2  evaluar la situación:",
+      "variant": [
         {
-          "detail": "◉ Feraligatr ➜ Quagsire Bostezo Frente Sceptile ➜ Volcarona x1 + Especial X (Mantener PS de Volcarona > 75%).",
+          "detail": "◉ Si huye a Salamence / Lapras / Metagross ➜ Barrer hasta Metagross ➜ Cambiar a Salamence y usar Terremoto atacando a Regirock ➜ Cambiar a Volcarona ➜ Cambiar a Quagsire y usar Bostezo hasta Nidoking ➜ Salamence usa Danza Dragón x1 (Si Salamence rival no muere, usar Bostezo con Quagsire hacia Salamence, usar Protección y volver a lanzar Bostezo).",
           "variant": []
         },
         {
-          "detail": "◉ Lucario ➜ Gengar Otra Vez +2 Frente Altaria ➜ +2 y ataca",
+          "detail": "◉ Si Regirock no se va ➜ ataca hasta Metagross ➜ Salamence x1 ⭐si lo quieres hacer mas rapido Gengar otra vez +4 +2⭐",
           "variant": []
-        },
-        {
-          "detail": "◉ Eelektross / Regirock ➜ Gengar otra vez +2  evaluar la situación:",
-          "variant": [
-            {
-              "detail": "◉ Si huye a Salamence / Lapras / Metagross ➜ Barrer hasta Metagross ➜ Cambiar a Salamence y usar Terremoto atacando a Regirock ➜ Cambiar a Volcarona ➜ Cambiar a Quagsire y usar Bostezo hasta Nidoking ➜ Salamence usa Danza Dragón x1 (Si Salamence rival no muere, usar Bostezo con Quagsire hacia Salamence, usar Protección y volver a lanzar Bostezo).",
-              "variant": []
-            },
-            {
-              "detail": "◉ Si Regirock no se va ➜ ataca hasta Metagross ➜ Salamence x1 ⭐si lo quieres hacer mas rapido Gengar otra vez +4 +2⭐",
-              "variant": []
-            }
-          ]
         }
       ]
     },

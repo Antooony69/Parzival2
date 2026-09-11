@@ -65,26 +65,26 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "detail": "◉ Metagross ➜ Salamence, Quagsire Bostezo Frente Salamence , Protección ,Bostezo Frente Nidoking ➜ Salamence x1 y ataca hasta Regirock. Elegir estrategia final:",
-          "variant": [
-            {
-              "detail": "◉ Opción riesgo ➜ Continuar atacando hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
-              "variant": []
             },
             {
-              "detail": "◉ Opción seguro ➜ Volcarona y luego cambiar a Scrafty ➜ Gengar otra vez +4 +2",
+              "detail": "◉ Metagross ➜ Salamence, Quagsire Bostezo Frente Salamence , Protección ,Bostezo Frente Nidoking ➜ Salamence x1 y ataca hasta Regirock. Elegir estrategia final:",
               "variant": [
                 {
-                  "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Salamence y Metagross).",
+                  "detail": "◉ Opción riesgo ➜ Continuar atacando hasta el final (existe una probabilidad muy baja de no debilitar a Regirock de un solo golpe por cálculo de daño).",
                   "variant": []
                 },
                 {
-                  "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Cambiar a Salamence recibiendo el ataque y atacar hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (⭐Probar cuál sale primero entre Metagross y Salamence⭐).",
-                  "variant": []
+                  "detail": "◉ Opción seguro ➜ Volcarona y luego cambiar a Scrafty ➜ Gengar otra vez +4 +2",
+                  "variant": [
+                    {
+                      "detail": "◉ Metagross ➜ Salamence recibe el ataque y ataca hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (Probar cuál sale primero entre Salamence y Metagross).",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Lapras ➜ Atacar hasta Metagross ➜ Cambiar a Salamence recibiendo el ataque y atacar hasta Salamence ➜ Usar Danza Dragón x1 y continuar barriendo (⭐Probar cuál sale primero entre Metagross y Salamence⭐).",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
             }

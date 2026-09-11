@@ -5,7 +5,11 @@
   "initialMove": "⭐Encanto + Trampa Rocas⭐",
   "tricks": [
     {
-      "detail": "◉ Escavalier / Accelgor ➜ Scrafty, Salamence x1",
+      "detail": "◉ Si Usas Trampa Rocas Y no cambia ➜ Quagsire Bostezo ➜ Frente Volcarona ➜ Salamence",
+      "variant": []
+    },
+    {
+      "detail": "◉ Escavalier ➜ Sacrifica a Scrafty y saca a Salamence x1  ",
       "variant": []
     },
     {

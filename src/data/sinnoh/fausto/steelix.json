@@ -104,6 +104,15 @@
     {
       "detail": "◉ Medicham ➜ Gengar Bola Sombra Frente Steelix / Typhlosion, Chansey Amortiguador Frente Maractus, Volcarona x2 (si Steelix no se va, Quagsire Bostezo hasta que salga Maractus, Volcarona x2",
       "variant": []
+    },
+    {
+      "detail": "◉  Magmortar ➜ Gengar Bola sombra ➜ Quagsire, Bostezo ➜ Frente Maractus ➜ Volcarona x2 ",
+      "variant": [
+        {
+          "detail": "◉ Si Cambia a Charizard ➜ Gengar Bola sombra ➜ Frente Entei ➜ Quagsire, Bostezo ➜ frente Maractus ➜ Volcarona x2  ",
+          "variant": []
+        }
+      ]
     }
   ]
 }

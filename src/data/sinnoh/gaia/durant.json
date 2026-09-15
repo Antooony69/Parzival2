@@ -72,17 +72,30 @@
             },
             {
               "detail": "◉ No Cambia ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, cambiar a Gengar, cambiar a Salamence",
+              "variant": [
+                {
+                  "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Durant ➜ Gengar otra vez ➜ Chansey, Encanto Frente Durant ➜ Volcarona x1 + Especial X",
               "variant": []
             },
             {
-              "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
-              "variant": []
-            },
-            {
-              "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+              "detail": "◉ Si permanece en el campo ➜ Usar Encanto + Amortiguador con Chansey frente a Durant ➜ Volcarona x1 ⭐ Psíquico  Gengar⭐",
               "variant": []
             }
           ]
+        },
+        {
+          "detail": "◉ Si permanece en el campo ➜ Dejar debilitar a Chansey ➜ Entrar con Quagsire Bostezo Frente Gengar ➜ Revivir a Chansey ➜ Curar o colocar Trampa Rocas frente a Durant ➜ Volcarona +1",
+          "variant": []
         }
       ]
     },

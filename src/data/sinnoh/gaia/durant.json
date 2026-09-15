@@ -60,26 +60,27 @@
           "variant": [
             {
               "detail": "◉ Emboar / Durant ➜ Gengar Otra Vez, Salamence",
-              "variant": []
-            },
-            {
-              "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
-              "variant": []
-            },
-            {
-              "detail": "◉ Rhyperior ➜ Scrafty Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
-              "variant": []
-            },
-            {
-              "detail": "◉ No Cambia ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, cambiar a Gengar, cambiar a Salamence",
               "variant": [
-                {
-                  "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
-                  "variant": []
-                },
                 {
                   "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
                   "variant": []
+                },
+                {
+                  "detail": "◉ Rhyperior ➜ Scrafty Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ No Cambia ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire usando Recuperación hasta que salga Durant, cambiar a Gengar, cambiar a Salamence",
+                  "variant": [
+                    {
+                      "detail": "◉ Rhyperior ➜ Scrafty Defensa X Danza Dragon x3 frente a Gliscor  (si la salud está baja, curate)",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ Druddigon ➜ Atacar hasta eliminar; si sale Rhyperior, cambiar a Quagsire con Bostezo frente a Durant, Volcarona x1",
+                      "variant": []
+                    }
+                  ]
                 }
               ]
             },

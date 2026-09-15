@@ -126,12 +126,25 @@
                       "variant": []
                     }
                   ]
+                },
+                {
+                  "detail": "◉ Dragonite ➜ Chansey y evaluar daño de Garra Dragón",
+                  "variant": [
+                    {
+                      "detail": "◉ 33% - 39% De Vida ➜ Quagsire Bostezo frente Ninetales, Salamence x1",
+                      "variant": []
+                    },
+                    {
+                      "detail": "◉ 21% - 24.7% De Vida ➜ Volcarona frente Medicham, Scrafty x2 (medicham pañuelo)si entra Dragonite Ignoralo",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+                  "variant": []
                 }
               ]
-            },
-            {
-              "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-              "variant": []
             }
           ]
         },

@@ -14,19 +14,19 @@
         {
           "detail": "◉ Mienshao ➜ Quagsire Bostezos Frente Nidoqueen ➜ Dragonite x1 ⭐Si Walrein entra usar bostezo y Protección , Bostezo Frente Nidoqueen ➜ Dragonite x1 ⭐",
           "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "◉ 【Imprevisto】 Volcarona es debilitado por Puño Cometa ➜ Quagsire Bostezo.",
-      "variant": [
-        {
-          "detail": "◉ Nidoqueen ➜ Dragonite Danza Dragón x1",
-          "variant": []
         },
         {
-          "detail": "◉ Quagsire es debilitado por Hierba Lazo ➜ Sacrificar Salamence para revivir a Volcarona ➜ Volcarona ataca Lanturn / Froslass ➜  Chansey Amortiguador Frente Hariyama ➜ Gengar Otra Vez +4 +2",
-          "variant": []
+          "detail": "◉ 【Imprevisto】 Volcarona es debilitado por Puño Cometa ➜ Quagsire Bostezo.",
+          "variant": [
+            {
+              "detail": "◉ Nidoqueen ➜ Dragonite Danza Dragón x1",
+              "variant": []
+            },
+            {
+              "detail": "◉ Quagsire es debilitado por Hierba Lazo ➜ Sacrificar Salamence para revivir a Volcarona ➜ Volcarona ataca Lanturn / Froslass ➜  Chansey Amortiguador Frente Hariyama ➜ Gengar Otra Vez +4 +2",
+              "variant": []
+            }
+          ]
         }
       ]
     },

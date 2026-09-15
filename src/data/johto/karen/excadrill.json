@@ -10,23 +10,24 @@
     },
     {
       "detail": "◉ Globo Helio ➜ Trampa Rocas, Salamence, Quagsire y Bostezo",
-      "variant": []
-    },
-    {
-      "detail": "◉ pones Trampa Rocas y entra Tyranitar ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x3, ⭐si Bostezo saca a Victreebel, Protección y Bostezo otra vez (si Slowbro entra, ignorar)⭐",
-      "variant": []
-    },
-    {
-      "detail": "◉ Victreebel ➜ Protección, Bostezo Frente Gyarados ➜ Salamence x3 (si Slowbro entra, ignorar)",
-      "variant": []
-    },
-    {
-      "detail": "◉ Gyarados ➜ Salamence x3 (si Slowbro entra, ignorar)",
-      "variant": []
-    },
-    {
-      "detail": "◉ si entras con Quagsire y entra Gyarados ➜ Salamence x3 (si Slowbro entra, ignorar)",
-      "variant": []
+      "variant": [
+        {
+          "detail": "◉ pones Trampa Rocas y entra Tyranitar ➜ Quagsire, Bostezo Frente Gyarados ➜ Salamence x3, ⭐si Bostezo saca a Victreebel, Protección y Bostezo otra vez (si Slowbro entra, ignorar)⭐",
+          "variant": []
+        },
+        {
+          "detail": "◉ Victreebel ➜ Protección, Bostezo Frente Gyarados ➜ Salamence x3 (si Slowbro entra, ignorar)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gyarados ➜ Salamence x3 (si Slowbro entra, ignorar)",
+          "variant": []
+        },
+        {
+          "detail": "◉ si entras con Quagsire y entra Gyarados ➜ Salamence x3 (si Slowbro entra, ignorar)",
+          "variant": []
+        }
+      ]
     }
   ]
 }

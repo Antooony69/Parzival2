@@ -13,21 +13,26 @@
         },
         {
           "detail": "◉ Quagsire frente Gardevoir ➜ Scrafty ➜ Gengar usa Otra Vez + Maquinación x4 + Velocidad X x2.",
+          "variant": [
+            {
+              "detail": "◉ Cambias a Scrafty y sale Roserade ➜ Salamence x2.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Cambias a Quagsire y sale Roserade ➜ Sacrificar a Quagsire ➜ Salamence  x2.",
           "variant": []
         },
         {
-          "detail": "◉ Cambias a Scrafty y sale Roserade ➜ Salamence x2.",
+          "detail": "◉ Cambias a Quagsire y saleMilotic ➜ Sacrificar a Quagsire ➜ Volcarona x4.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Serperior ➜ Salamence x1",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "◉ Cambias a Quagsire y sale Roserade ➜ Sacrificar a Quagsire ➜ Salamence  x2.",
-      "variant": []
-    },
-    {
-      "detail": "◉ Cambias a Quagsire y saleMilotic ➜ Sacrificar a Quagsire ➜ Volcarona x4.",
-      "variant": []
     },
     {
       "detail": "◉ Dragonite ➜ Quagsire Bostezo Frente Serperior ➜ Volcarona x3.",

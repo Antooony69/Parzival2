@@ -23,10 +23,10 @@
               "variant": []
             },
             {
-              "detail": "◉ Movimiento Dragón ➜ Pantalla Luz y evaluar situación",
+              "detail": "◉ Cometa Draco - Pulso Dragón ➜ Pantalla Luz y evaluar situación ⭐Hydreigon Pañuelo elegido⭐",
               "variant": [
                 {
-                  "detail": "◉ Si no se va ➜ Scrafty x2",
+                  "detail": "◉ Hydreigon no Cambia ➜ Scrafty x2",
                   "variant": []
                 },
                 {
@@ -40,12 +40,12 @@
               ]
             }
           ]
+        },
+        {
+          "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
+          "variant": []
         }
       ]
-    },
-    {
-      "detail": "◉ Bronzong ➜ Quagsire Bostezo frente Ninetales, Volcarona x3",
-      "variant": []
     }
   ]
 }

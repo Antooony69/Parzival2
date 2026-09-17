@@ -2,6 +2,6 @@
   "id": "arcanine",
   "name": "Arcanine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "💡Amortiguador Si vez que aguanta otro golpe usa amortiguador ➜ Gengar Otra Vez +4💡",
+  "initialMove": "💡Amortiguador Si vez que aguanta otro golpe usa amortiguador ➜ Gengar Otra Vez +4 +2💡",
   "tricks": []
 }

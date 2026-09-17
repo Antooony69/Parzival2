@@ -41,15 +41,16 @@
         },
         {
           "detail": "◉ Tyranitar ➜ Scrafty Puño Drenaje hasta que salga Gyarados, chansey Trampa Rocas hasta atrapar al tipo Lucha, Gengar otra vez +6",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si se confunde y no pones Trampa Rocas ➜ Gengar, otra vez +2 y ataca hasta que salga Magnezone, chansey Trampa Rocas hasta atrapar a Conkeldurr, Gengar otra vez +6. Si cambia aleatoriamente, usa Amortiguador hasta que regrese Conkeldurr; si usa Recurrente cambia achansey para atrapar de nuevo al tipo Lucha",
-          "variant": []
-        },
-        {
-          "detail": "◉ Si al boostear a Gengar entra Magnezone ➜ chansey Amortiguador para atrapar al tipo Lucha, Gengar otra vez +6",
-          "variant": []
+          "variant": [
+            {
+              "detail": "◉ Si se confunde y no pones Trampa Rocas ➜ Gengar, otra vez +2 y ataca hasta que salga Magnezone, chansey Trampa Rocas hasta atrapar a Conkeldurr, Gengar otra vez +6. Si cambia aleatoriamente, usa Amortiguador hasta que regrese Conkeldurr; si usa Recurrente cambia achansey para atrapar de nuevo al tipo Lucha",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si al boostear a Gengar entra Magnezone ➜ chansey Amortiguador para atrapar al tipo Lucha, Gengar otra vez +6",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "◉ Metagross ➜ Salamence, Volcarona lanzallamas",

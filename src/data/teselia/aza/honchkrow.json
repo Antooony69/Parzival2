@@ -2,10 +2,10 @@
   "id": "honchkrow",
   "name": "Honchkrow",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "◉ Quagsire Recuperación Frente Chandelure, Chansey Trampa rocas, Frente Honchkrow, Gengar otra vez +2 usa rayo, Frente Krookodile, Salamence x1",
+  "initialMove": "◉ Quagsire Recuperación Frente Chandelure, Chansey Trampa rocas, Frente Honchkrow, Gengar otra vez +2 usa rayo, Frente Krookodile, Salamence x1 Si Krookodile Usa Triturar Entra Con scrafty x2 Danza Dragon",
   "tricks": [
     {
-      "detail": "◉ Si Krookodile Usa Triturar Entra Con scrafty x2 Danza Dragon",
+      "detail": "◉ Si al usar trampa Rocas entra Krookodile ➜ Salamence x1 y ataca ",
       "variant": []
     }
   ]

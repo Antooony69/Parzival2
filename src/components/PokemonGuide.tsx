@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react" // Se añadió useRef
-import { ChevronDown, ChevronUp } from "lucide-react"
+import { ChevronDown, ChevronUp, ArrowRight } from "lucide-react"
 
 // Import interfaces
 import type { Pokemon } from "../interfaces/Pokemon"
@@ -23,6 +23,9 @@ export default function PokemonGuide() {
   const [regions, setRegions] = useState<Region[]>([])
   const [regionsLoaded, setRegionsLoaded] = useState(false)
   const [loading, setLoading] = useState(true)
+
+  // Estado para controlar el índice del líder actual en la barra de navegación rápida
+  const [currentLeaderIndex, setCurrentLeaderIndex] = useState(0)
 
   // Referencia para el scroll automático
   const detailsRef = useRef<HTMLDivElement>(null)
@@ -120,6 +123,7 @@ export default function PokemonGuide() {
       setExpandedRegion(regionId)
       setExpandedLeader(null)
       setSelectedPokemon(null)
+      setCurrentLeaderIndex(0) // Reiniciamos índice al cambiar de región
     }
   }
 
@@ -130,7 +134,26 @@ export default function PokemonGuide() {
     } else {
       setExpandedLeader(leaderId)
       setSelectedPokemon(null)
+      
+      // Sincronizar el índice si hacen clic directo en la tarjeta del líder
+      if (currentRegion) {
+        const index = currentRegion.leaders.findIndex((l) => l.id === leaderId)
+        if (index !== -1) setCurrentLeaderIndex(index)
+      }
     }
+  }
+
+  // Función para avanzar al siguiente líder con el botón
+  const handleNextLeaderToggle = () => {
+    if (!currentRegion || currentRegion.leaders.length === 0) return
+
+    const nextIndex = (currentLeaderIndex + 1) % currentRegion.leaders.length
+    setCurrentLeaderIndex(nextIndex)
+    
+    // Opcional: sincronizar también la selección de la tarjeta de líder
+    const nextLeaderObj = currentRegion.leaders[nextIndex]
+    setExpandedLeader(nextLeaderObj.id)
+    setSelectedPokemon(null)
   }
 
   const handlePokemonClick = (pokemon: Pokemon) => {
@@ -149,9 +172,13 @@ export default function PokemonGuide() {
 
   const currentLeader = currentRegion?.leaders.find(
     (l) => l.id === expandedLeader
-  )
+  ) || currentRegion?.leaders[currentLeaderIndex]
 
   const currentLeaderPokemons = currentLeader?.pokemons || []
+
+  // Calcular el siguiente líder para mostrarlo de referencia en el botón
+  const nextLeaderIndex = currentRegion ? (currentLeaderIndex + 1) % currentRegion.leaders.length : 0
+  const nextLeaderObj = currentRegion?.leaders[nextLeaderIndex]
 
   return (
     <div
@@ -166,7 +193,7 @@ export default function PokemonGuide() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold mb-2">
-            FARM LIGA PokeMMO
+            FARMEO De Ligas PokeMMO
           </h1>
 
           <p className="text-blue-400 font-bold mb-4">
@@ -261,6 +288,7 @@ export default function PokemonGuide() {
             <span className="text-yellow-400 font-medium pb-2">
               RECOMENDACIONES ANTES DE EMPEZAR <b>(EQUIPO - TIPS)</b>
             </span>
+
           </button>
 
           {showTips && (
@@ -302,7 +330,7 @@ export default function PokemonGuide() {
 
         {/* Leaders */}
         {expandedRegion && currentRegion && (
-          <div className="grid grid-cols-5 gap-3 mb-6">
+          <div className="grid grid-cols-5 gap-3 mb-4">
             {currentRegion.leaders.map((leader) => (
               <LeaderCard
                 key={leader.id}
@@ -311,6 +339,28 @@ export default function PokemonGuide() {
                 onClick={handleLeaderClick}
               />
             ))}
+          </div>
+        )}
+
+        {/* BOTÓN PARA CAMBIAR ENTRE LÍDER ACTUAL Y SIGUIENTE (Diseño limpio que no estorba) */}
+        {expandedRegion && currentRegion && nextLeaderObj && (
+          <div className="flex justify-center mb-6">
+            <button
+              onClick={handleNextLeaderToggle}
+              className="group flex items-center gap-3 px-5 py-2.5 bg-gray-800/90 hover:bg-gray-700 border border-blue-500/40 rounded-xl shadow-lg text-sm transition-all duration-200 active:scale-95"
+            >
+              <div className="text-left">
+                <span className="block text-[10px] uppercase tracking-wider text-gray-400 font-semibold">
+                  Líder Actual: <span className="text-blue-400">{currentLeader?.name}</span>
+                </span>
+                <span className="block text-xs font-bold text-white">
+                  Siguiente: {nextLeaderObj.name}
+                </span>
+              </div>
+              <div className="bg-blue-600 group-hover:bg-blue-500 p-1.5 rounded-lg text-white transition-colors">
+                <ArrowRight className="w-4 h-4" />
+              </div>
+            </button>
           </div>
         )}
 

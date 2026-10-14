@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react" // Se añadió useRef
+import { useState, useEffect, useRef } from "react"
 import { ChevronDown, ChevronUp, ArrowRight } from "lucide-react"
 
 // Import interfaces
@@ -24,9 +24,6 @@ export default function PokemonGuide() {
   const [regionsLoaded, setRegionsLoaded] = useState(false)
   const [loading, setLoading] = useState(true)
 
-  // Estado para controlar el índice del líder actual en la barra de navegación rápida
-  const [currentLeaderIndex, setCurrentLeaderIndex] = useState(0)
-
   // Referencia para el scroll automático
   const detailsRef = useRef<HTMLDivElement>(null)
 
@@ -46,7 +43,7 @@ export default function PokemonGuide() {
     loadRegionConfig()
   }, [])
 
-  // Load pokemon data (FIXED)
+  // Load pokemon data
   useEffect(() => {
     const loadPokemonData = async () => {
       if (regions.length === 0 || regionsLoaded) return
@@ -121,9 +118,14 @@ export default function PokemonGuide() {
       setSelectedPokemon(null)
     } else {
       setExpandedRegion(regionId)
-      setExpandedLeader(null)
+      // Al cambiar de región, abrimos por defecto el primer líder de esa nueva región
+      const targetRegion = regions.find(r => r.id === regionId)
+      if (targetRegion && targetRegion.leaders.length > 0) {
+        setExpandedLeader(targetRegion.leaders[0].id)
+      } else {
+        setExpandedLeader(null)
+      }
       setSelectedPokemon(null)
-      setCurrentLeaderIndex(0) // Reiniciamos índice al cambiar de región
     }
   }
 
@@ -134,33 +136,53 @@ export default function PokemonGuide() {
     } else {
       setExpandedLeader(leaderId)
       setSelectedPokemon(null)
-      
-      // Sincronizar el índice si hacen clic directo en la tarjeta del líder
-      if (currentRegion) {
-        const index = currentRegion.leaders.findIndex((l) => l.id === leaderId)
-        if (index !== -1) setCurrentLeaderIndex(index)
-      }
     }
   }
 
-  // Función para avanzar al siguiente líder con el botón
-  const handleNextLeaderToggle = () => {
-    if (!currentRegion || currentRegion.leaders.length === 0) return
+  // Función global para avanzar al siguiente líder de manera fluida entre todos los líderes
+  const handleNextLeaderGlobal = () => {
+    if (regions.length === 0) return
 
-    const nextIndex = (currentLeaderIndex + 1) % currentRegion.leaders.length
-    setCurrentLeaderIndex(nextIndex)
-    
-    // Opcional: sincronizar también la selección de la tarjeta de líder
-    const nextLeaderObj = currentRegion.leaders[nextIndex]
-    setExpandedLeader(nextLeaderObj.id)
-    setSelectedPokemon(null)
+    // Si no hay ninguna región o líder abierto, abrimos la primera región y su primer líder
+    if (!expandedRegion || !expandedLeader) {
+      const firstRegion = regions[0]
+      if (firstRegion && firstRegion.leaders.length > 0) {
+        setExpandedRegion(firstRegion.id)
+        setExpandedLeader(firstRegion.leaders[0].id)
+        setSelectedPokemon(null)
+      }
+      return
+    }
+
+    const currentRegObj = regions.find(r => r.id === expandedRegion)
+    if (!currentRegObj) return
+
+    const leaderIndex = currentRegObj.leaders.findIndex(l => l.id === expandedLeader)
+
+    if (leaderIndex !== -1 && leaderIndex < currentRegObj.leaders.length - 1) {
+      // Aún hay más líderes en la misma región, pasamos al siguiente
+      setExpandedLeader(currentRegObj.leaders[leaderIndex + 1].id)
+      setSelectedPokemon(null)
+    } else {
+      // Si ya es el último líder de la región actual, saltamos a la siguiente región
+      const regIndex = regions.findIndex(r => r.id === expandedRegion)
+      const nextRegIndex = (regIndex + 1) % regions.length
+      const nextRegObj = regions[nextRegIndex]
+
+      setExpandedRegion(nextRegObj.id)
+      if (nextRegObj.leaders.length > 0) {
+        setExpandedLeader(nextRegObj.leaders[0].id)
+      } else {
+        setExpandedLeader(null)
+      }
+      setSelectedPokemon(null)
+    }
   }
 
   const handlePokemonClick = (pokemon: Pokemon) => {
     const isSame = selectedPokemon?.name === pokemon.name;
     setSelectedPokemon(isSame ? null : pokemon);
 
-    // Si se está seleccionando uno nuevo, hacemos scroll
     if (!isSame) {
       setTimeout(() => {
         detailsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -172,13 +194,29 @@ export default function PokemonGuide() {
 
   const currentLeader = currentRegion?.leaders.find(
     (l) => l.id === expandedLeader
-  ) || currentRegion?.leaders[currentLeaderIndex]
+  )
 
   const currentLeaderPokemons = currentLeader?.pokemons || []
 
-  // Calcular el siguiente líder para mostrarlo de referencia en el botón
-  const nextLeaderIndex = currentRegion ? (currentLeaderIndex + 1) % currentRegion.leaders.length : 0
-  const nextLeaderObj = currentRegion?.leaders[nextLeaderIndex]
+  // Calcular cuál sería el siguiente líder a nivel global para mostrarlo en el botón inferior
+  let nextLeaderName = ""
+  if (regions.length > 0) {
+    if (!expandedRegion || !expandedLeader) {
+      nextLeaderName = regions[0]?.leaders[0]?.name || ""
+    } else {
+      const currentRegObj = regions.find(r => r.id === expandedRegion)
+      if (currentRegObj) {
+        const leaderIndex = currentRegObj.leaders.findIndex(l => l.id === expandedLeader)
+        if (leaderIndex !== -1 && leaderIndex < currentRegObj.leaders.length - 1) {
+          nextLeaderName = currentRegObj.leaders[leaderIndex + 1].name
+        } else {
+          const regIndex = regions.findIndex(r => r.id === expandedRegion)
+          const nextRegIndex = (regIndex + 1) % regions.length
+          nextLeaderName = regions[nextRegIndex]?.leaders[0]?.name || ""
+        }
+      }
+    }
+  }
 
   return (
     <div
@@ -193,7 +231,7 @@ export default function PokemonGuide() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold mb-2">
-            FARMEO De Ligas PokeMMO
+            FARMEO DE LIGAS PokeMMO
           </h1>
 
           <p className="text-blue-400 font-bold mb-4">
@@ -330,7 +368,7 @@ export default function PokemonGuide() {
 
         {/* Leaders */}
         {expandedRegion && currentRegion && (
-          <div className="grid grid-cols-5 gap-3 mb-4">
+          <div className="grid grid-cols-5 gap-3 mb-6">
             {currentRegion.leaders.map((leader) => (
               <LeaderCard
                 key={leader.id}
@@ -339,28 +377,6 @@ export default function PokemonGuide() {
                 onClick={handleLeaderClick}
               />
             ))}
-          </div>
-        )}
-
-        {/* BOTÓN PARA CAMBIAR ENTRE LÍDER ACTUAL Y SIGUIENTE (Diseño limpio que no estorba) */}
-        {expandedRegion && currentRegion && nextLeaderObj && (
-          <div className="flex justify-center mb-6">
-            <button
-              onClick={handleNextLeaderToggle}
-              className="group flex items-center gap-3 px-5 py-2.5 bg-gray-800/90 hover:bg-gray-700 border border-blue-500/40 rounded-xl shadow-lg text-sm transition-all duration-200 active:scale-95"
-            >
-              <div className="text-left">
-                <span className="block text-[10px] uppercase tracking-wider text-gray-400 font-semibold">
-                  Líder Actual: <span className="text-blue-400">{currentLeader?.name}</span>
-                </span>
-                <span className="block text-xs font-bold text-white">
-                  Siguiente: {nextLeaderObj.name}
-                </span>
-              </div>
-              <div className="bg-blue-600 group-hover:bg-blue-500 p-1.5 rounded-lg text-white transition-colors">
-                <ArrowRight className="w-4 h-4" />
-              </div>
-            </button>
           </div>
         )}
 
@@ -380,48 +396,65 @@ export default function PokemonGuide() {
           </div>
         )}
 
-        {/* Details - Se añadió el ref y scroll-margin para mejor visualización */}
+        {/* Details */}
         {selectedPokemon && (
           <div ref={detailsRef} className="scroll-mt-10">
             <PokemonDetails pokemon={selectedPokemon} />
           </div>
         )}
 
-        {/* Footer */}
-        <div className="flex justify-between mt-8 pt-4 border-t border-gray-700">
-          <div className="flex items-center gap-3">
-            <span className="text-gray-400">Creditos</span>
+        {/* Footer con el nuevo botón en la esquina inferior izquierda (en lugar de Light Mode) */}
+        <div className="flex justify-between items-center mt-8 pt-4 border-t border-gray-700">
+          
+          <div className="flex items-center gap-4">
+            {/* NUEVO BOTÓN DE SIGUIENTE LÍDER GLOBAL */}
+            <button
+              onClick={handleNextLeaderGlobal}
+              className="group flex items-center gap-2 px-4 py-2 bg-gray-800 hover:bg-gray-700 border border-blue-500/50 rounded-lg shadow-md text-xs transition-all active:scale-95 text-left"
+            >
+              <div>
+                <span className="block text-[9px] uppercase tracking-wider text-gray-400 font-semibold">
+                  Actual: <span className="text-blue-400">{currentLeader ? currentLeader.name : "Ninguno"}</span>
+                </span>
+                <span className="block font-bold text-white">
+                  Siguiente: {nextLeaderName || "Empezar"}
+                </span>
+              </div>
+              <div className="bg-blue-600 group-hover:bg-blue-500 p-1 rounded text-white transition-colors ml-1">
+                <ArrowRight className="w-3.5 h-3.5" />
+              </div>
+            </button>
 
-            <img
-              src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
-              className="w-12 h-12"
-              alt="Lehosif"
-            />
+            <div className="flex items-center gap-3">
+              <span className="text-gray-400 text-sm">Creditos</span>
 
-            <div className="flex items-center gap-2">
-              <a href="https://imgur.com/IgDjlXj" target="_blank" rel="noreferrer">
-                <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/IrviingHC.png`} alt="Irviing" />
-              </a>
+              <img
+                src={`${import.meta.env.BASE_URL}images/LehosifJS.png`}
+                className="w-10 h-10"
+                alt="Lehosif"
+              />
 
-              <a href="https://imgur.com/Hxui6yL" target="_blank" rel="noreferrer">
-                <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/zParzival.png`} alt="Parzival" />
-              </a>
+              <div className="flex items-center gap-2">
+                <a href="https://imgur.com/IgDjlXj" target="_blank" rel="noreferrer">
+                  <img className="w-9 h-9 hover:scale-110 transition-transform"
+                    src={`${import.meta.env.BASE_URL}images/IrviingHC.png`} alt="Irviing" />
+                </a>
 
-              <a href="https://imgur.com/JRVJmKe" target="_blank" rel="noreferrer">
-                <img className="w-10 h-10 hover:scale-110 transition-transform"
-                  src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`} alt="Itachii" />
-              </a>
+                <a href="https://imgur.com/Hxui6yL" target="_blank" rel="noreferrer">
+                  <img className="w-9 h-9 hover:scale-110 transition-transform"
+                    src={`${import.meta.env.BASE_URL}images/zParzival.png`} alt="Parzival" />
+                </a>
+
+                <a href="https://imgur.com/JRVJmKe" target="_blank" rel="noreferrer">
+                  <img className="w-9 h-9 hover:scale-110 transition-transform"
+                    src={`${import.meta.env.BASE_URL}images/ItachiiSuka.png`} alt="Itachii" />
+                </a>
+              </div>
             </div>
           </div>
 
-          <button
-            onClick={() => setLightMode(!lightMode)}
-            className="text-gray-400 hover:text-white"
-          >
-            {lightMode ? "Dark Mode" : "Light Mode"}
-          </button>
+          {/* Botón de Light Mode eliminado de aquí */}
+
         </div>
 
       </div>

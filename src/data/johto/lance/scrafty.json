@@ -2,7 +2,7 @@
   "id": "scrafty",
   "name": "Scrafty",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨 Trampa Rocas 🪨 frente Infernape ➜ Gengar Otra Vez Frente Krookodile ➜ Quagsire, Bostezo Frente Lucario ➜ Salamence x1",
+  "initialMove": "🪨 Trampa Rocas 🪨 frente Infernape ➜ Gengar Otra Vez Frente Scrafty ➜ Quagsire, Bostezo Frente Lucario ➜ Salamence x1",
   "tricks": [
     {
       "detail": "◉ Si Bostezo le cae a Dragonite ➜ Protección y Bostezo otra vez",
